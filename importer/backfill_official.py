@@ -31,12 +31,55 @@ from bs4 import BeautifulSoup
 
 from import_revalida import pdf_text, parse_key, parse_questions
 
-UA = {"User-Agent": "RevalidaOS-official-backfill/1.1 (+personal study app)"}
+UA = {"User-Agent": "RevalidaOS-official-backfill/1.2 (+personal study app)"}
 DOWNLOAD_BASE = "https://download.inep.gov.br/revalida/provas_e_gabaritos/"
+MAIN_PAGE = "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos"
 SOURCE_PAGES = [
-    "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos",
+    MAIN_PAGE,
     "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/revalida",
+    "https://www.gov.br/inep/pt-br/acesso-a-informacao/perguntas-frequentes/exame-nacional-de-revalidacao-de-diplomas-medicos-expedidos-por-instituicoes-de-educacao-superior-estrangeira-revalida",
 ]
+
+# Fontes oficiais confirmadas ou padrões oficiais observados. O resolver continua
+# validando o conteúdo HTTP antes de aceitar qualquer URL.
+KNOWN_SOURCES: dict[tuple[int, int], dict[str, list[str]]] = {
+    (2025, 1): {
+        "exam": [
+            DOWNLOAD_BASE + "2025_1_PV_objetiva_regular.pdf",
+        ],
+        "key": [
+            DOWNLOAD_BASE + "2025_1_GB_objetiva_definitivo.pdf",
+        ],
+    },
+    (2025, 2): {
+        "exam": [
+            DOWNLOAD_BASE + "2025_2_caderno_1.pdf",
+            DOWNLOAD_BASE + "2025_2_caderno_01.pdf",
+            DOWNLOAD_BASE + "2025_2_caderno_1_regular.pdf",
+            DOWNLOAD_BASE + "2025_2_caderno_1_ampliada.pdf",
+        ],
+        "key": [
+            DOWNLOAD_BASE + "2025_2_gabarito_caderno_1.pdf",
+            DOWNLOAD_BASE + "2025_2_gabarito_caderno_1_definitivo.pdf",
+            DOWNLOAD_BASE + "2025_2_gabarito_definitivo_caderno_1.pdf",
+            DOWNLOAD_BASE + "2025_2_gabarito_caderno_1_preliminar.pdf",
+        ],
+    },
+    (2026, 1): {
+        "exam": [
+            DOWNLOAD_BASE + "2026_1_caderno_1.pdf",
+            DOWNLOAD_BASE + "2026_1_caderno_01.pdf",
+            DOWNLOAD_BASE + "2026_1_caderno_1_regular.pdf",
+            DOWNLOAD_BASE + "2026_1_caderno_1_ampliada.pdf",
+        ],
+        "key": [
+            DOWNLOAD_BASE + "2026_1_gabarito_caderno_1.pdf",
+            DOWNLOAD_BASE + "2026_1_gabarito_caderno_1_definitivo.pdf",
+            DOWNLOAD_BASE + "2026_1_gabarito_definitivo_caderno_1.pdf",
+            DOWNLOAD_BASE + "2026_1_gabarito_caderno_1_preliminar.pdf",
+        ],
+    },
+}
 
 @dataclass(frozen=True)
 class Edition:
@@ -79,29 +122,71 @@ def is_pdf_response(r: requests.Response) -> bool:
     return "pdf" in ctype or r.content[:4] == b"%PDF"
 
 
-def discover_links(session: requests.Session) -> list[dict]:
-    found: dict[str, dict] = {}
-    pages = list(SOURCE_PAGES)
-    visited: set[str] = set()
+def _is_inep_pdf(url: str) -> bool:
+    low = url.lower()
+    return low.startswith("https://download.inep.gov.br/") and "/revalida/" in low
 
-    for page in pages:
+
+def _is_revalida_gov_page(url: str) -> bool:
+    low = url.lower()
+    return low.startswith("https://www.gov.br/inep/") and "revalida" in low
+
+
+def discover_links(session: requests.Session, editions: list[Edition]) -> list[dict]:
+    """Descobre PDFs oficiais seguindo páginas do próprio Inep.
+
+    O portal de Provas e Gabaritos usa componentes dinâmicos, por isso a busca
+    não depende só da página principal. Também percorre páginas oficiais do
+    Revalida e orientações da edição, com profundidade limitada.
+    """
+    seeds = list(SOURCE_PAGES)
+    for ed in editions:
+        seeds += [
+            f"https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/orientacoes/revalida-{ed.year}-{ed.half}",
+            f"https://www.gov.br/inep/pt-br/centrais-de-conteudo/legislacao/revalida/{ed.year}",
+        ]
+
+    found: dict[str, dict] = {}
+    queue: list[tuple[str, int]] = [(u, 0) for u in seeds]
+    visited: set[str] = set()
+    max_pages = 80
+
+    while queue and len(visited) < max_pages:
+        page, depth = queue.pop(0)
         if page in visited:
             continue
         visited.add(page)
         try:
-            r = get(session, page)
+            r = get(session, page, timeout=35)
         except Exception as exc:
             print(f"WARN página indisponível: {page}: {exc}", file=sys.stderr)
             continue
+
+        ctype = (r.headers.get("content-type") or "").lower()
+        if is_pdf_response(r):
+            if _is_inep_pdf(r.url):
+                found[r.url] = {"url": r.url, "label": Path(r.url).name, "source_page": page}
+            continue
+        if "html" not in ctype and "text" not in ctype:
+            continue
+
         soup = BeautifulSoup(r.text, "html.parser")
         for a in soup.find_all("a", href=True):
-            href = urljoin(page, a["href"])
+            href = urljoin(page, a["href"]).split("#", 1)[0]
             text = " ".join(a.stripped_strings).strip()
             low = f"{href} {text}".lower()
-            if "revalida" not in low:
+
+            if _is_inep_pdf(href) or ("download.inep.gov.br" in href.lower() and ".pdf" in href.lower()):
+                found[href] = {"url": href, "label": text or Path(href).name, "source_page": page}
                 continue
-            if ".pdf" in low or "download.inep" in low:
-                found[href] = {"url": href, "label": text, "source_page": page}
+
+            if depth < 2 and _is_revalida_gov_page(href):
+                # Segue apenas páginas plausivelmente relacionadas a prova, gabarito,
+                # orientação, notícia ou ano das edições solicitadas.
+                years = {str(e.year) for e in editions}
+                if any(y in low for y in years) or any(k in low for k in ("prova", "gabarito", "orienta", "noticia", "resultado")):
+                    queue.append((href, depth + 1))
+
     return list(found.values())
 
 
@@ -119,7 +204,7 @@ def item_kind(item: dict) -> str | None:
     if "gabarito" in s or "_gb_" in s:
         return "key"
     if ("prova" in s or "caderno" in s or "_pv_" in s) and "gabarito" not in s:
-        if any(x in s for x in ("discurs", "pep", "habilidades", "libras", "ampliad")):
+        if any(x in s for x in ("discurs", "pep", "habilidades", "libras")):
             return None
         return "exam"
     return None
@@ -136,92 +221,128 @@ def score(item: dict, *, kind: str, preferred_caderno: int | None = None) -> tup
     cad = caderno_no(item)
     if kind == "key":
         return (
-            100 if "definit" in s or "final" in s else 0,
-            40 if preferred_caderno and cad == preferred_caderno else 0,
+            200 if "definit" in s or "final" in s else 0,
+            50 if preferred_caderno and cad == preferred_caderno else 0,
             20 if cad == 1 else 0,
             10 if "objetiva" in s else 0,
             -len(s),
         )
     return (
-        50 if preferred_caderno and cad == preferred_caderno else 0,
-        30 if cad == 1 else 0,
-        20 if "regular" in s else 0,
-        10 if "objetiva" in s or "_pv_" in s else 0,
+        80 if preferred_caderno and cad == preferred_caderno else 0,
+        40 if cad == 1 else 0,
+        30 if "regular" in s else 0,
+        20 if "objetiva" in s or "_pv_" in s else 0,
+        -20 if "ampliada" in s else 0,
         -len(s),
     )
 
 
 def candidate_urls(ed: Edition) -> tuple[list[str], list[str]]:
     t = ed.token
+    exams = list(KNOWN_SOURCES.get((ed.year, ed.half), {}).get("exam", []))
+    keys = list(KNOWN_SOURCES.get((ed.year, ed.half), {}).get("key", []))
+
     exam_names = [
         f"{t}_PV_objetiva_regular.pdf",
+        f"{t}_PV_objetiva.pdf",
         f"{t}_PV_objetiva_caderno_1.pdf",
         f"{t}_PV_objetiva_caderno_01.pdf",
         f"{t}_prova_objetiva_regular.pdf",
         f"{t}_prova_objetiva.pdf",
         f"{t}_prova_caderno_1.pdf",
         f"{t}_prova_caderno_01.pdf",
+        f"{t}_caderno_1_regular.pdf",
+        f"{t}_caderno_01_regular.pdf",
         f"{t}_caderno_1.pdf",
         f"{t}_caderno_01.pdf",
+        f"{t}_caderno_1_ampliada.pdf",
+        f"{t}_caderno_01_ampliada.pdf",
         f"revalida_{t}_caderno_1.pdf",
+        f"revalida_{t}_caderno_01.pdf",
     ]
     key_names = [
         f"{t}_GB_objetiva_definitivo.pdf",
+        f"{t}_GB_objetiva_final.pdf",
         f"{t}_gabarito_objetiva_definitivo.pdf",
+        f"{t}_gabarito_objetiva_final.pdf",
+        f"{t}_gabarito_caderno_1.pdf",
+        f"{t}_gabarito_caderno_01.pdf",
         f"{t}_gabarito_caderno_1_definitivo.pdf",
         f"{t}_gabarito_caderno_01_definitivo.pdf",
-        f"{t}_GB_objetiva_final.pdf",
+        f"{t}_gabarito_definitivo_caderno_1.pdf",
+        f"{t}_gabarito_definitivo_caderno_01.pdf",
         f"{t}_gabarito_caderno_1_final.pdf",
-        # fallback preliminar: só usado se definitivo não existir
+        f"{t}_gabarito_caderno_01_final.pdf",
         f"{t}_gabarito_caderno_1_preliminar.pdf",
         f"{t}_gabarito_caderno_01_preliminar.pdf",
     ]
-    return ([DOWNLOAD_BASE + n for n in exam_names], [DOWNLOAD_BASE + n for n in key_names])
+
+    def dedupe(seq: list[str]) -> list[str]:
+        return list(dict.fromkeys(seq))
+
+    return dedupe(exams + [DOWNLOAD_BASE + n for n in exam_names]), dedupe(keys + [DOWNLOAD_BASE + n for n in key_names])
 
 
-def probe_pdf(session: requests.Session, urls: list[str]) -> str | None:
-    for url in urls:
+def probe_pdf(session: requests.Session, urls: list[str], *, label: str) -> str | None:
+    for idx, url in enumerate(urls, 1):
         try:
-            r = session.get(url, timeout=35, allow_redirects=True)
-            if r.status_code == 200 and is_pdf_response(r):
-                print(f"  fonte encontrada: {url}")
+            print(f"  testando {label} {idx}/{len(urls)}: {Path(url).name}")
+            r = session.get(url, timeout=12, allow_redirects=True)
+            if r.status_code == 200 and is_pdf_response(r) and _is_inep_pdf(r.url):
+                print(f"  fonte oficial encontrada: {r.url}")
                 return r.url
-        except Exception:
-            pass
+        except Exception as exc:
+            print(f"  WARN probe {Path(url).name}: {type(exc).__name__}", file=sys.stderr)
     return None
 
 
 def resolve_sources(session: requests.Session, links: list[dict], ed: Edition) -> tuple[str | None, str | None]:
+    # 1) Primeiro testa fontes oficiais conhecidas/padrões de filename. Isso evita
+    # depender do HTML dinâmico do portal do Inep.
+    guessed_exams, guessed_keys = candidate_urls(ed)
+    exam_url = probe_pdf(session, guessed_exams, label="caderno")
+    key_url = probe_pdf(session, guessed_keys, label="gabarito")
+
+    # 2) Se algum lado ainda faltar, usa links descobertos por crawling oficial.
     same = [i for i in links if edition_in_text(i, ed)]
     exams = [i for i in same if item_kind(i) == "exam"]
     keys = [i for i in same if item_kind(i) == "key"]
 
-    exam_item = max(exams, key=lambda i: score(i, kind="exam"), default=None)
-    preferred_cad = caderno_no(exam_item) if exam_item else 1
-    key_item = max(keys, key=lambda i: score(i, kind="key", preferred_caderno=preferred_cad), default=None)
-
-    exam_url = exam_item["url"] if exam_item else None
-    key_url = key_item["url"] if key_item else None
-
-    # Valida os links descobertos; se portal apontar para HTML ou arquivo morto, usa fallback.
     def valid(url: str | None) -> str | None:
         if not url:
             return None
         try:
-            r = session.get(url, timeout=35, allow_redirects=True)
-            return r.url if r.status_code == 200 and is_pdf_response(r) else None
+            r = session.get(url, timeout=30, allow_redirects=True)
+            return r.url if r.status_code == 200 and is_pdf_response(r) and _is_inep_pdf(r.url) else None
         except Exception:
             return None
 
-    exam_url = valid(exam_url)
-    key_url = valid(key_url)
-    guessed_exams, guessed_keys = candidate_urls(ed)
-    if not exam_url:
-        exam_url = probe_pdf(session, guessed_exams)
-    if not key_url:
-        key_url = probe_pdf(session, guessed_keys)
-    return exam_url, key_url
+    if not exam_url and exams:
+        exam_item = max(exams, key=lambda i: score(i, kind="exam"), default=None)
+        exam_url = valid(exam_item["url"] if exam_item else None)
+    preferred_cad = 1
+    if exam_url:
+        preferred_cad = caderno_no({"url": exam_url, "label": ""}) or 1
+    if not key_url and keys:
+        key_item = max(keys, key=lambda i: score(i, kind="key", preferred_caderno=preferred_cad), default=None)
+        key_url = valid(key_item["url"] if key_item else None)
 
+    # 3) Último recurso: crawling oficial específico desta edição. Fazemos isso
+    # apenas quando os nomes conhecidos não resolveram, para o workflow não
+    # gastar minutos varrendo o portal antes de testar URLs diretas.
+    if not exam_url or not key_url:
+        discovered = discover_links(session, [ed])
+        same2 = [i for i in discovered if edition_in_text(i, ed)]
+        exams2 = [i for i in same2 if item_kind(i) == "exam"]
+        keys2 = [i for i in same2 if item_kind(i) == "key"]
+        if not exam_url and exams2:
+            item = max(exams2, key=lambda i: score(i, kind="exam"), default=None)
+            exam_url = valid(item["url"] if item else None)
+        if not key_url and keys2:
+            item = max(keys2, key=lambda i: score(i, kind="key", preferred_caderno=preferred_cad), default=None)
+            key_url = valid(item["url"] if item else None)
+
+    return exam_url, key_url
 
 def download_pdf(session: requests.Session, url: str, path: Path) -> None:
     r = get(session, url, timeout=90)
@@ -262,8 +383,10 @@ def import_one(session: requests.Session, pack: dict, links: list[dict], ed: Edi
         kp = Path(td) / "key.pdf"
         download_pdf(session, exam_url, ep)
         download_pdf(session, key_url, kp)
-        parsed = parse_questions(pdf_text(ep))
-        key = parse_key(pdf_text(kp))
+        exam_text = pdf_text(ep)
+        key_text = pdf_text(kp)
+        parsed = parse_questions(exam_text)
+        key = parse_key(key_text)
 
     report["parsed_total"] = len(parsed)
     report["high_confidence"] = sum(1 for _, _, opts, conf in parsed if conf == "high" and len(opts) == 4)
@@ -281,7 +404,12 @@ def import_one(session: requests.Session, pack: dict, links: list[dict], ed: Edi
         print(f"FALHOU: {report['error']} | parsed={len(parsed)} high={report['high_confidence']} key={len(key)}")
         return pack, False
 
-    key_is_final = any(x in key_url.lower() for x in ("definit", "final"))
+    key_header = key_text[:5000].lower()
+    key_is_final = (
+        any(x in key_url.lower() for x in ("definit", "final"))
+        or "gabarito definitivo" in key_header
+        or "gabarito final" in key_header
+    )
     questions = []
     for n, stem, opts, _ in parsed:
         ans = key.get(n)
@@ -365,8 +493,8 @@ def main() -> None:
 
     session = requests.Session()
     session.headers.update(UA)
-    links = discover_links(session)
-    print(f"{len(links)} links oficiais PDF detectados no portal")
+    links: list[dict] = []
+    print("Resolver v1.2: URLs oficiais conhecidas/padrões primeiro; crawling só em fallback")
 
     successful = 0
     for ed in editions:
