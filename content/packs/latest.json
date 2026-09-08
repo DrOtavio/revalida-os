@@ -1,0 +1,1210 @@
+{
+  "version": 1,
+  "generatedAt": "2026-09-08T20:00:00-03:00",
+  "exams": [
+    {
+      "id": "revalida-2026-1",
+      "name": "Revalida 2026/1",
+      "year": 2026,
+      "edition": "2026/1",
+      "board": "INEP",
+      "formatVersion": "objective100",
+      "objectiveQuestions": 100,
+      "discursiveQuestions": 0,
+      "durationMinutes": 300,
+      "officialCutoff": 59,
+      "examDate": null,
+      "sourceURL": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos"
+    },
+    {
+      "id": "revalida-2026-2",
+      "name": "Revalida 2026/2",
+      "year": 2026,
+      "edition": "2026/2",
+      "board": "INEP",
+      "formatVersion": "objective100",
+      "objectiveQuestions": 100,
+      "discursiveQuestions": 0,
+      "durationMinutes": 300,
+      "officialCutoff": null,
+      "examDate": "2026-09-13",
+      "sourceURL": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/legislacao/revalida/2026"
+    }
+  ],
+  "questions": [
+    {
+      "id": "demo-001",
+      "examId": null,
+      "number": 1,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Clínica Médica",
+      "specialty": "Cardiologia",
+      "topic": "Síndrome coronariana aguda",
+      "stem": "Paciente de 58 anos com dor torácica opressiva há 40 minutos e supradesnivelamento de ST em parede anterior. Qual é a prioridade inicial mais adequada?",
+      "options": [
+        {
+          "id": "demo-001-A",
+          "label": "A",
+          "text": "Aguardar marcadores de necrose antes de qualquer decisão"
+        },
+        {
+          "id": "demo-001-B",
+          "label": "B",
+          "text": "Estratificar para reperfusão imediata conforme disponibilidade"
+        },
+        {
+          "id": "demo-001-C",
+          "label": "C",
+          "text": "Solicitar teste ergométrico"
+        },
+        {
+          "id": "demo-001-D",
+          "label": "D",
+          "text": "Liberar após analgesia"
+        }
+      ],
+      "correctOption": "B",
+      "explanation": "O quadro é compatível com síndrome coronariana aguda com supra de ST; a decisão de reperfusão não deve aguardar marcadores.",
+      "optionExplanations": {
+        "A": "Marcadores podem apoiar o diagnóstico, mas não devem atrasar reperfusão em quadro típico com supra.",
+        "B": "Correta: a prioridade é reperfusão em tempo adequado, além das medidas iniciais indicadas.",
+        "C": "Teste ergométrico é contraindicado no cenário agudo.",
+        "D": "Analgesia não substitui tratamento definitivo."
+      },
+      "keyPoint": "Reconhecer IAM com supra e priorizar reperfusão.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-002",
+      "examId": null,
+      "number": 2,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Clínica Médica",
+      "specialty": "Pneumologia",
+      "topic": "Asma",
+      "stem": "Paciente com episódios recorrentes de dispneia, sibilância e piora noturna, com melhora espontânea. Qual achado favorece asma?",
+      "options": [
+        {
+          "id": "demo-002-A",
+          "label": "A",
+          "text": "Obstrução fixa sem variabilidade"
+        },
+        {
+          "id": "demo-002-B",
+          "label": "B",
+          "text": "Variabilidade dos sintomas e do fluxo aéreo"
+        },
+        {
+          "id": "demo-002-C",
+          "label": "C",
+          "text": "Hemoptise persistente"
+        },
+        {
+          "id": "demo-002-D",
+          "label": "D",
+          "text": "Derrame pleural"
+        }
+      ],
+      "correctOption": "B",
+      "explanation": "A variabilidade clínica e funcional é característica central da asma.",
+      "optionExplanations": {
+        "A": "Obstrução fixa sugere outras condições, como DPOC avançada.",
+        "B": "Correta: variabilidade é um elemento-chave.",
+        "C": "Hemoptise persistente exige investigação de outras causas.",
+        "D": "Derrame pleural não caracteriza asma."
+      },
+      "keyPoint": "Associar asma à variabilidade dos sintomas e da limitação ao fluxo aéreo.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-003",
+      "examId": null,
+      "number": 3,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Clínica Médica",
+      "specialty": "Endocrinologia",
+      "topic": "Diabetes mellitus",
+      "stem": "Adulto com poliúria, polidipsia e glicemia de jejum repetidamente elevada. Qual é a conduta diagnóstica mais apropriada?",
+      "options": [
+        {
+          "id": "demo-003-A",
+          "label": "A",
+          "text": "Ignorar o resultado por ausência de cetose"
+        },
+        {
+          "id": "demo-003-B",
+          "label": "B",
+          "text": "Confirmar critérios diagnósticos e avaliar gravidade/comorbidades"
+        },
+        {
+          "id": "demo-003-C",
+          "label": "C",
+          "text": "Solicitar apenas ultrassom abdominal"
+        },
+        {
+          "id": "demo-003-D",
+          "label": "D",
+          "text": "Iniciar antibiótico empiricamente"
+        }
+      ],
+      "correctOption": "B",
+      "explanation": "O diagnóstico deve seguir critérios glicêmicos estabelecidos e ser acompanhado de avaliação clínica global.",
+      "optionExplanations": {
+        "A": "Cetose não é requisito para diagnóstico de diabetes.",
+        "B": "Correta: integra confirmação diagnóstica e estratificação.",
+        "C": "Ultrassom não confirma diabetes.",
+        "D": "Antibiótico não tem indicação sem infecção."
+      },
+      "keyPoint": "Aplicar critérios diagnósticos e estratificar o paciente.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-004",
+      "examId": null,
+      "number": 4,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Cirurgia",
+      "specialty": "Trauma",
+      "topic": "ATLS",
+      "stem": "Vítima de trauma chega instável, com suspeita de hemorragia. Qual princípio orienta a avaliação inicial?",
+      "options": [
+        {
+          "id": "demo-004-A",
+          "label": "A",
+          "text": "Exame neurológico detalhado antes de via aérea"
+        },
+        {
+          "id": "demo-004-B",
+          "label": "B",
+          "text": "Abordagem sistemática ABCDE com tratamento simultâneo das ameaças à vida"
+        },
+        {
+          "id": "demo-004-C",
+          "label": "C",
+          "text": "Tomografia de corpo inteiro antes da estabilização"
+        },
+        {
+          "id": "demo-004-D",
+          "label": "D",
+          "text": "Alta se não houver fratura aparente"
+        }
+      ],
+      "correctOption": "B",
+      "explanation": "No trauma, a avaliação primária segue ABCDE e corrige ameaças à vida à medida que são identificadas.",
+      "optionExplanations": {
+        "A": "Via aérea e respiração precedem exame neurológico detalhado.",
+        "B": "Correta.",
+        "C": "Imagem não deve preceder estabilização do paciente instável.",
+        "D": "Ausência de fratura aparente não exclui trauma grave."
+      },
+      "keyPoint": "Priorizar ABCDE e tratamento simultâneo.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-005",
+      "examId": null,
+      "number": 5,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Cirurgia",
+      "specialty": "Abdome agudo",
+      "topic": "Apendicite",
+      "stem": "Paciente com dor migratória para fossa ilíaca direita, anorexia e náuseas. Qual hipótese é mais provável?",
+      "options": [
+        {
+          "id": "demo-005-A",
+          "label": "A",
+          "text": "Apendicite aguda"
+        },
+        {
+          "id": "demo-005-B",
+          "label": "B",
+          "text": "Sinusite"
+        },
+        {
+          "id": "demo-005-C",
+          "label": "C",
+          "text": "Otite externa"
+        },
+        {
+          "id": "demo-005-D",
+          "label": "D",
+          "text": "Conjuntivite"
+        }
+      ],
+      "correctOption": "A",
+      "explanation": "O padrão clássico é compatível com apendicite aguda.",
+      "optionExplanations": {
+        "A": "Correta: o quadro clínico é típico.",
+        "B": "Não explica dor abdominal localizada.",
+        "C": "Não explica dor abdominal localizada.",
+        "D": "Não explica dor abdominal localizada."
+      },
+      "keyPoint": "Reconhecer a apresentação clínica de apendicite.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-006",
+      "examId": null,
+      "number": 6,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Pediatria",
+      "specialty": "Neonatologia",
+      "topic": "Icterícia neonatal",
+      "stem": "Recém-nascido apresenta icterícia. Qual elemento é essencial para decidir se o quadro pode ser fisiológico ou patológico?",
+      "options": [
+        {
+          "id": "demo-006-A",
+          "label": "A",
+          "text": "Apenas a cor dos olhos da mãe"
+        },
+        {
+          "id": "demo-006-B",
+          "label": "B",
+          "text": "Idade em horas de vida e nível de bilirrubina"
+        },
+        {
+          "id": "demo-006-C",
+          "label": "C",
+          "text": "Comprimento do berço"
+        },
+        {
+          "id": "demo-006-D",
+          "label": "D",
+          "text": "Número de visitas recebidas"
+        }
+      ],
+      "correctOption": "B",
+      "explanation": "A interpretação depende fortemente da idade pós-natal e do nível de bilirrubina, além de fatores de risco.",
+      "optionExplanations": {
+        "A": "Não define gravidade da icterícia.",
+        "B": "Correta.",
+        "C": "Irrelevante.",
+        "D": "Irrelevante."
+      },
+      "keyPoint": "Relacionar bilirrubina à idade em horas e fatores de risco.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-007",
+      "examId": null,
+      "number": 7,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Pediatria",
+      "specialty": "Infectologia",
+      "topic": "Bronquiolite",
+      "stem": "Lactente com coriza, tosse, sibilância e dificuldade respiratória em primeiro episódio, durante sazonalidade viral. Qual diagnóstico é provável?",
+      "options": [
+        {
+          "id": "demo-007-A",
+          "label": "A",
+          "text": "Bronquiolite viral aguda"
+        },
+        {
+          "id": "demo-007-B",
+          "label": "B",
+          "text": "Apendicite"
+        },
+        {
+          "id": "demo-007-C",
+          "label": "C",
+          "text": "Glomerulonefrite"
+        },
+        {
+          "id": "demo-007-D",
+          "label": "D",
+          "text": "Meningite bacteriana sem sinais meníngeos"
+        }
+      ],
+      "correctOption": "A",
+      "explanation": "O quadro é típico de bronquiolite em lactentes, geralmente de etiologia viral.",
+      "optionExplanations": {
+        "A": "Correta.",
+        "B": "Não corresponde ao sistema acometido.",
+        "C": "Não explica o quadro respiratório.",
+        "D": "Não é a apresentação descrita."
+      },
+      "keyPoint": "Reconhecer bronquiolite como síndrome respiratória viral do lactente.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-008",
+      "examId": null,
+      "number": 8,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Pré-eclâmpsia",
+      "stem": "Gestante após 20 semanas com hipertensão e sinais de disfunção orgânica. Qual condição deve ser considerada?",
+      "options": [
+        {
+          "id": "demo-008-A",
+          "label": "A",
+          "text": "Pré-eclâmpsia"
+        },
+        {
+          "id": "demo-008-B",
+          "label": "B",
+          "text": "Otite média"
+        },
+        {
+          "id": "demo-008-C",
+          "label": "C",
+          "text": "Doença celíaca isolada"
+        },
+        {
+          "id": "demo-008-D",
+          "label": "D",
+          "text": "Miopia"
+        }
+      ],
+      "correctOption": "A",
+      "explanation": "Hipertensão após 20 semanas associada a proteinúria ou disfunção orgânica sugere pré-eclâmpsia.",
+      "optionExplanations": {
+        "A": "Correta.",
+        "B": "Não explica hipertensão gestacional.",
+        "C": "Não caracteriza a síndrome.",
+        "D": "Sem relação."
+      },
+      "keyPoint": "Reconhecer critérios clínicos de pré-eclâmpsia.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-009",
+      "examId": null,
+      "number": 9,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Sangramento uterino anormal",
+      "stem": "Mulher com sangramento uterino anormal persistente. Qual abordagem inicial é mais adequada?",
+      "options": [
+        {
+          "id": "demo-009-A",
+          "label": "A",
+          "text": "Classificar padrão, excluir gestação e investigar causas estruturais e não estruturais"
+        },
+        {
+          "id": "demo-009-B",
+          "label": "B",
+          "text": "Presumir sempre câncer"
+        },
+        {
+          "id": "demo-009-C",
+          "label": "C",
+          "text": "Não realizar anamnese"
+        },
+        {
+          "id": "demo-009-D",
+          "label": "D",
+          "text": "Tratar sem avaliar estabilidade hemodinâmica"
+        }
+      ],
+      "correctOption": "A",
+      "explanation": "A investigação deve ser sistemática e começar por estabilidade, possibilidade de gestação e classificação etiológica.",
+      "optionExplanations": {
+        "A": "Correta.",
+        "B": "Neoplasia é diferencial, não diagnóstico automático.",
+        "C": "Anamnese é essencial.",
+        "D": "Instabilidade tem prioridade."
+      },
+      "keyPoint": "Usar abordagem estruturada no sangramento uterino anormal.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-010",
+      "examId": null,
+      "number": 10,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Medicina de Família e Comunidade",
+      "specialty": "Atenção Primária",
+      "topic": "Rastreamento",
+      "stem": "Em consulta de atenção primária, qual princípio melhora a decisão sobre rastreamento?",
+      "options": [
+        {
+          "id": "demo-010-A",
+          "label": "A",
+          "text": "Aplicar qualquer exame a toda pessoa sem considerar benefício e dano"
+        },
+        {
+          "id": "demo-010-B",
+          "label": "B",
+          "text": "Usar recomendações baseadas em risco, faixa etária, benefício e dano"
+        },
+        {
+          "id": "demo-010-C",
+          "label": "C",
+          "text": "Solicitar apenas exames caros"
+        },
+        {
+          "id": "demo-010-D",
+          "label": "D",
+          "text": "Ignorar preferências do paciente"
+        }
+      ],
+      "correctOption": "B",
+      "explanation": "Rastreamento deve ser orientado por evidência, risco, benefício e potenciais danos.",
+      "optionExplanations": {
+        "A": "Pode gerar sobrediagnóstico e dano.",
+        "B": "Correta.",
+        "C": "Custo não define qualidade do rastreamento.",
+        "D": "Decisão compartilhada é relevante."
+      },
+      "keyPoint": "Entender rastreamento como intervenção baseada em evidência e risco.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-011",
+      "examId": null,
+      "number": 11,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Saúde Coletiva",
+      "specialty": "Epidemiologia",
+      "topic": "Medidas de associação",
+      "stem": "Em um estudo de coorte, qual medida compara incidência entre expostos e não expostos?",
+      "options": [
+        {
+          "id": "demo-011-A",
+          "label": "A",
+          "text": "Risco relativo"
+        },
+        {
+          "id": "demo-011-B",
+          "label": "B",
+          "text": "Mediana de altura"
+        },
+        {
+          "id": "demo-011-C",
+          "label": "C",
+          "text": "Moda da idade"
+        },
+        {
+          "id": "demo-011-D",
+          "label": "D",
+          "text": "Coeficiente de variação isolado"
+        }
+      ],
+      "correctOption": "A",
+      "explanation": "O risco relativo compara o risco/incidência entre grupos expostos e não expostos.",
+      "optionExplanations": {
+        "A": "Correta.",
+        "B": "Não mede associação entre exposição e desfecho.",
+        "C": "Não mede associação.",
+        "D": "É medida de dispersão relativa."
+      },
+      "keyPoint": "Reconhecer o risco relativo em estudos de coorte.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-012",
+      "examId": null,
+      "number": 12,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Saúde Mental",
+      "specialty": "Psiquiatria",
+      "topic": "Depressão",
+      "stem": "Paciente com humor deprimido persistente, anedonia e prejuízo funcional. Qual passo é essencial na avaliação?",
+      "options": [
+        {
+          "id": "demo-012-A",
+          "label": "A",
+          "text": "Investigar risco de suicídio e diagnósticos diferenciais"
+        },
+        {
+          "id": "demo-012-B",
+          "label": "B",
+          "text": "Evitar perguntar sobre suicídio"
+        },
+        {
+          "id": "demo-012-C",
+          "label": "C",
+          "text": "Prescrever sem anamnese"
+        },
+        {
+          "id": "demo-012-D",
+          "label": "D",
+          "text": "Desconsiderar uso de substâncias"
+        }
+      ],
+      "correctOption": "A",
+      "explanation": "A avaliação de depressão deve incluir segurança, risco de suicídio, sintomas associados e diagnósticos diferenciais.",
+      "optionExplanations": {
+        "A": "Correta.",
+        "B": "Perguntar sobre suicídio é parte essencial da avaliação de segurança.",
+        "C": "Anamnese é necessária.",
+        "D": "Substâncias podem causar ou agravar sintomas."
+      },
+      "keyPoint": "Priorizar avaliação de segurança em quadros depressivos.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-013",
+      "examId": null,
+      "number": 13,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Clínica Médica",
+      "specialty": "Cardiologia",
+      "topic": "Síndrome coronariana aguda",
+      "stem": "Paciente de 58 anos com dor torácica opressiva há 40 minutos e supradesnivelamento de ST em parede anterior. Qual é a prioridade inicial mais adequada?",
+      "options": [
+        {
+          "id": "demo-013-A",
+          "label": "A",
+          "text": "Aguardar marcadores de necrose antes de qualquer decisão"
+        },
+        {
+          "id": "demo-013-B",
+          "label": "B",
+          "text": "Estratificar para reperfusão imediata conforme disponibilidade"
+        },
+        {
+          "id": "demo-013-C",
+          "label": "C",
+          "text": "Solicitar teste ergométrico"
+        },
+        {
+          "id": "demo-013-D",
+          "label": "D",
+          "text": "Liberar após analgesia"
+        }
+      ],
+      "correctOption": "B",
+      "explanation": "O quadro é compatível com síndrome coronariana aguda com supra de ST; a decisão de reperfusão não deve aguardar marcadores.",
+      "optionExplanations": {
+        "A": "Marcadores podem apoiar o diagnóstico, mas não devem atrasar reperfusão em quadro típico com supra.",
+        "B": "Correta: a prioridade é reperfusão em tempo adequado, além das medidas iniciais indicadas.",
+        "C": "Teste ergométrico é contraindicado no cenário agudo.",
+        "D": "Analgesia não substitui tratamento definitivo."
+      },
+      "keyPoint": "Reconhecer IAM com supra e priorizar reperfusão.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-014",
+      "examId": null,
+      "number": 14,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Clínica Médica",
+      "specialty": "Pneumologia",
+      "topic": "Asma",
+      "stem": "Paciente com episódios recorrentes de dispneia, sibilância e piora noturna, com melhora espontânea. Qual achado favorece asma?",
+      "options": [
+        {
+          "id": "demo-014-A",
+          "label": "A",
+          "text": "Obstrução fixa sem variabilidade"
+        },
+        {
+          "id": "demo-014-B",
+          "label": "B",
+          "text": "Variabilidade dos sintomas e do fluxo aéreo"
+        },
+        {
+          "id": "demo-014-C",
+          "label": "C",
+          "text": "Hemoptise persistente"
+        },
+        {
+          "id": "demo-014-D",
+          "label": "D",
+          "text": "Derrame pleural"
+        }
+      ],
+      "correctOption": "B",
+      "explanation": "A variabilidade clínica e funcional é característica central da asma.",
+      "optionExplanations": {
+        "A": "Obstrução fixa sugere outras condições, como DPOC avançada.",
+        "B": "Correta: variabilidade é um elemento-chave.",
+        "C": "Hemoptise persistente exige investigação de outras causas.",
+        "D": "Derrame pleural não caracteriza asma."
+      },
+      "keyPoint": "Associar asma à variabilidade dos sintomas e da limitação ao fluxo aéreo.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-015",
+      "examId": null,
+      "number": 15,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Clínica Médica",
+      "specialty": "Endocrinologia",
+      "topic": "Diabetes mellitus",
+      "stem": "Adulto com poliúria, polidipsia e glicemia de jejum repetidamente elevada. Qual é a conduta diagnóstica mais apropriada?",
+      "options": [
+        {
+          "id": "demo-015-A",
+          "label": "A",
+          "text": "Ignorar o resultado por ausência de cetose"
+        },
+        {
+          "id": "demo-015-B",
+          "label": "B",
+          "text": "Confirmar critérios diagnósticos e avaliar gravidade/comorbidades"
+        },
+        {
+          "id": "demo-015-C",
+          "label": "C",
+          "text": "Solicitar apenas ultrassom abdominal"
+        },
+        {
+          "id": "demo-015-D",
+          "label": "D",
+          "text": "Iniciar antibiótico empiricamente"
+        }
+      ],
+      "correctOption": "B",
+      "explanation": "O diagnóstico deve seguir critérios glicêmicos estabelecidos e ser acompanhado de avaliação clínica global.",
+      "optionExplanations": {
+        "A": "Cetose não é requisito para diagnóstico de diabetes.",
+        "B": "Correta: integra confirmação diagnóstica e estratificação.",
+        "C": "Ultrassom não confirma diabetes.",
+        "D": "Antibiótico não tem indicação sem infecção."
+      },
+      "keyPoint": "Aplicar critérios diagnósticos e estratificar o paciente.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-016",
+      "examId": null,
+      "number": 16,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Cirurgia",
+      "specialty": "Trauma",
+      "topic": "ATLS",
+      "stem": "Vítima de trauma chega instável, com suspeita de hemorragia. Qual princípio orienta a avaliação inicial?",
+      "options": [
+        {
+          "id": "demo-016-A",
+          "label": "A",
+          "text": "Exame neurológico detalhado antes de via aérea"
+        },
+        {
+          "id": "demo-016-B",
+          "label": "B",
+          "text": "Abordagem sistemática ABCDE com tratamento simultâneo das ameaças à vida"
+        },
+        {
+          "id": "demo-016-C",
+          "label": "C",
+          "text": "Tomografia de corpo inteiro antes da estabilização"
+        },
+        {
+          "id": "demo-016-D",
+          "label": "D",
+          "text": "Alta se não houver fratura aparente"
+        }
+      ],
+      "correctOption": "B",
+      "explanation": "No trauma, a avaliação primária segue ABCDE e corrige ameaças à vida à medida que são identificadas.",
+      "optionExplanations": {
+        "A": "Via aérea e respiração precedem exame neurológico detalhado.",
+        "B": "Correta.",
+        "C": "Imagem não deve preceder estabilização do paciente instável.",
+        "D": "Ausência de fratura aparente não exclui trauma grave."
+      },
+      "keyPoint": "Priorizar ABCDE e tratamento simultâneo.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-017",
+      "examId": null,
+      "number": 17,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Cirurgia",
+      "specialty": "Abdome agudo",
+      "topic": "Apendicite",
+      "stem": "Paciente com dor migratória para fossa ilíaca direita, anorexia e náuseas. Qual hipótese é mais provável?",
+      "options": [
+        {
+          "id": "demo-017-A",
+          "label": "A",
+          "text": "Apendicite aguda"
+        },
+        {
+          "id": "demo-017-B",
+          "label": "B",
+          "text": "Sinusite"
+        },
+        {
+          "id": "demo-017-C",
+          "label": "C",
+          "text": "Otite externa"
+        },
+        {
+          "id": "demo-017-D",
+          "label": "D",
+          "text": "Conjuntivite"
+        }
+      ],
+      "correctOption": "A",
+      "explanation": "O padrão clássico é compatível com apendicite aguda.",
+      "optionExplanations": {
+        "A": "Correta: o quadro clínico é típico.",
+        "B": "Não explica dor abdominal localizada.",
+        "C": "Não explica dor abdominal localizada.",
+        "D": "Não explica dor abdominal localizada."
+      },
+      "keyPoint": "Reconhecer a apresentação clínica de apendicite.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-018",
+      "examId": null,
+      "number": 18,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Pediatria",
+      "specialty": "Neonatologia",
+      "topic": "Icterícia neonatal",
+      "stem": "Recém-nascido apresenta icterícia. Qual elemento é essencial para decidir se o quadro pode ser fisiológico ou patológico?",
+      "options": [
+        {
+          "id": "demo-018-A",
+          "label": "A",
+          "text": "Apenas a cor dos olhos da mãe"
+        },
+        {
+          "id": "demo-018-B",
+          "label": "B",
+          "text": "Idade em horas de vida e nível de bilirrubina"
+        },
+        {
+          "id": "demo-018-C",
+          "label": "C",
+          "text": "Comprimento do berço"
+        },
+        {
+          "id": "demo-018-D",
+          "label": "D",
+          "text": "Número de visitas recebidas"
+        }
+      ],
+      "correctOption": "B",
+      "explanation": "A interpretação depende fortemente da idade pós-natal e do nível de bilirrubina, além de fatores de risco.",
+      "optionExplanations": {
+        "A": "Não define gravidade da icterícia.",
+        "B": "Correta.",
+        "C": "Irrelevante.",
+        "D": "Irrelevante."
+      },
+      "keyPoint": "Relacionar bilirrubina à idade em horas e fatores de risco.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-019",
+      "examId": null,
+      "number": 19,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Pediatria",
+      "specialty": "Infectologia",
+      "topic": "Bronquiolite",
+      "stem": "Lactente com coriza, tosse, sibilância e dificuldade respiratória em primeiro episódio, durante sazonalidade viral. Qual diagnóstico é provável?",
+      "options": [
+        {
+          "id": "demo-019-A",
+          "label": "A",
+          "text": "Bronquiolite viral aguda"
+        },
+        {
+          "id": "demo-019-B",
+          "label": "B",
+          "text": "Apendicite"
+        },
+        {
+          "id": "demo-019-C",
+          "label": "C",
+          "text": "Glomerulonefrite"
+        },
+        {
+          "id": "demo-019-D",
+          "label": "D",
+          "text": "Meningite bacteriana sem sinais meníngeos"
+        }
+      ],
+      "correctOption": "A",
+      "explanation": "O quadro é típico de bronquiolite em lactentes, geralmente de etiologia viral.",
+      "optionExplanations": {
+        "A": "Correta.",
+        "B": "Não corresponde ao sistema acometido.",
+        "C": "Não explica o quadro respiratório.",
+        "D": "Não é a apresentação descrita."
+      },
+      "keyPoint": "Reconhecer bronquiolite como síndrome respiratória viral do lactente.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-020",
+      "examId": null,
+      "number": 20,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Pré-eclâmpsia",
+      "stem": "Gestante após 20 semanas com hipertensão e sinais de disfunção orgânica. Qual condição deve ser considerada?",
+      "options": [
+        {
+          "id": "demo-020-A",
+          "label": "A",
+          "text": "Pré-eclâmpsia"
+        },
+        {
+          "id": "demo-020-B",
+          "label": "B",
+          "text": "Otite média"
+        },
+        {
+          "id": "demo-020-C",
+          "label": "C",
+          "text": "Doença celíaca isolada"
+        },
+        {
+          "id": "demo-020-D",
+          "label": "D",
+          "text": "Miopia"
+        }
+      ],
+      "correctOption": "A",
+      "explanation": "Hipertensão após 20 semanas associada a proteinúria ou disfunção orgânica sugere pré-eclâmpsia.",
+      "optionExplanations": {
+        "A": "Correta.",
+        "B": "Não explica hipertensão gestacional.",
+        "C": "Não caracteriza a síndrome.",
+        "D": "Sem relação."
+      },
+      "keyPoint": "Reconhecer critérios clínicos de pré-eclâmpsia.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-021",
+      "examId": null,
+      "number": 21,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Sangramento uterino anormal",
+      "stem": "Mulher com sangramento uterino anormal persistente. Qual abordagem inicial é mais adequada?",
+      "options": [
+        {
+          "id": "demo-021-A",
+          "label": "A",
+          "text": "Classificar padrão, excluir gestação e investigar causas estruturais e não estruturais"
+        },
+        {
+          "id": "demo-021-B",
+          "label": "B",
+          "text": "Presumir sempre câncer"
+        },
+        {
+          "id": "demo-021-C",
+          "label": "C",
+          "text": "Não realizar anamnese"
+        },
+        {
+          "id": "demo-021-D",
+          "label": "D",
+          "text": "Tratar sem avaliar estabilidade hemodinâmica"
+        }
+      ],
+      "correctOption": "A",
+      "explanation": "A investigação deve ser sistemática e começar por estabilidade, possibilidade de gestação e classificação etiológica.",
+      "optionExplanations": {
+        "A": "Correta.",
+        "B": "Neoplasia é diferencial, não diagnóstico automático.",
+        "C": "Anamnese é essencial.",
+        "D": "Instabilidade tem prioridade."
+      },
+      "keyPoint": "Usar abordagem estruturada no sangramento uterino anormal.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-022",
+      "examId": null,
+      "number": 22,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Medicina de Família e Comunidade",
+      "specialty": "Atenção Primária",
+      "topic": "Rastreamento",
+      "stem": "Em consulta de atenção primária, qual princípio melhora a decisão sobre rastreamento?",
+      "options": [
+        {
+          "id": "demo-022-A",
+          "label": "A",
+          "text": "Aplicar qualquer exame a toda pessoa sem considerar benefício e dano"
+        },
+        {
+          "id": "demo-022-B",
+          "label": "B",
+          "text": "Usar recomendações baseadas em risco, faixa etária, benefício e dano"
+        },
+        {
+          "id": "demo-022-C",
+          "label": "C",
+          "text": "Solicitar apenas exames caros"
+        },
+        {
+          "id": "demo-022-D",
+          "label": "D",
+          "text": "Ignorar preferências do paciente"
+        }
+      ],
+      "correctOption": "B",
+      "explanation": "Rastreamento deve ser orientado por evidência, risco, benefício e potenciais danos.",
+      "optionExplanations": {
+        "A": "Pode gerar sobrediagnóstico e dano.",
+        "B": "Correta.",
+        "C": "Custo não define qualidade do rastreamento.",
+        "D": "Decisão compartilhada é relevante."
+      },
+      "keyPoint": "Entender rastreamento como intervenção baseada em evidência e risco.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-023",
+      "examId": null,
+      "number": 23,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Saúde Coletiva",
+      "specialty": "Epidemiologia",
+      "topic": "Medidas de associação",
+      "stem": "Em um estudo de coorte, qual medida compara incidência entre expostos e não expostos?",
+      "options": [
+        {
+          "id": "demo-023-A",
+          "label": "A",
+          "text": "Risco relativo"
+        },
+        {
+          "id": "demo-023-B",
+          "label": "B",
+          "text": "Mediana de altura"
+        },
+        {
+          "id": "demo-023-C",
+          "label": "C",
+          "text": "Moda da idade"
+        },
+        {
+          "id": "demo-023-D",
+          "label": "D",
+          "text": "Coeficiente de variação isolado"
+        }
+      ],
+      "correctOption": "A",
+      "explanation": "O risco relativo compara o risco/incidência entre grupos expostos e não expostos.",
+      "optionExplanations": {
+        "A": "Correta.",
+        "B": "Não mede associação entre exposição e desfecho.",
+        "C": "Não mede associação.",
+        "D": "É medida de dispersão relativa."
+      },
+      "keyPoint": "Reconhecer o risco relativo em estudos de coorte.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-024",
+      "examId": null,
+      "number": 24,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "objective",
+      "area": "Saúde Mental",
+      "specialty": "Psiquiatria",
+      "topic": "Depressão",
+      "stem": "Paciente com humor deprimido persistente, anedonia e prejuízo funcional. Qual passo é essencial na avaliação?",
+      "options": [
+        {
+          "id": "demo-024-A",
+          "label": "A",
+          "text": "Investigar risco de suicídio e diagnósticos diferenciais"
+        },
+        {
+          "id": "demo-024-B",
+          "label": "B",
+          "text": "Evitar perguntar sobre suicídio"
+        },
+        {
+          "id": "demo-024-C",
+          "label": "C",
+          "text": "Prescrever sem anamnese"
+        },
+        {
+          "id": "demo-024-D",
+          "label": "D",
+          "text": "Desconsiderar uso de substâncias"
+        }
+      ],
+      "correctOption": "A",
+      "explanation": "A avaliação de depressão deve incluir segurança, risco de suicídio, sintomas associados e diagnósticos diferenciais.",
+      "optionExplanations": {
+        "A": "Correta.",
+        "B": "Perguntar sobre suicídio é parte essencial da avaliação de segurança.",
+        "C": "Anamnese é necessária.",
+        "D": "Substâncias podem causar ou agravar sintomas."
+      },
+      "keyPoint": "Priorizar avaliação de segurança em quadros depressivos.",
+      "status": "demo",
+      "officialSourceURL": null
+    },
+    {
+      "id": "demo-discursive-001",
+      "examId": null,
+      "number": 1,
+      "source": "DEMO",
+      "year": null,
+      "edition": null,
+      "type": "discursive",
+      "area": "Clínica Médica",
+      "specialty": "Infectologia",
+      "topic": "Síndrome febril",
+      "stem": "Paciente adulto apresenta febre persistente, prostração e sinais de desidratação. Descreva, de forma estruturada, os elementos essenciais da avaliação inicial e os principais sinais de alarme que mudariam a urgência da conduta.",
+      "options": [],
+      "correctOption": null,
+      "explanation": "Resposta demonstrativa: avaliar estabilidade hemodinâmica e respiratória, estado mental, hidratação, duração e padrão da febre, sintomas localizatórios, comorbidades, medicamentos, exposições e exame físico dirigido. Sinais de alarme incluem instabilidade hemodinâmica, alteração do nível de consciência, dificuldade respiratória, hipoxemia, sinais de choque, rigidez de nuca ou outros achados de infecção grave. A resposta definitiva em questões oficiais deve reproduzir o padrão publicado pelo INEP.",
+      "optionExplanations": null,
+      "keyPoint": "Estruturar a resposta por estabilidade, anamnese dirigida, exame físico, hipóteses e sinais de gravidade.",
+      "status": "demo",
+      "officialSourceURL": null
+    }
+  ],
+  "news": [
+    {
+      "id": "2026-2-local-prova",
+      "title": "Local de prova do Revalida 2026/2 disponível",
+      "body": "O Cartão de Confirmação informa o local de prova e demais dados da aplicação.",
+      "category": "Revalida 2026/2",
+      "priority": "high",
+      "publishedAt": "2026-09-04",
+      "eventDate": "2026-09-04",
+      "endDate": null,
+      "sourceURL": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/revalida",
+      "isRead": false
+    },
+    {
+      "id": "2026-2-prova",
+      "title": "Prova Revalida 2026/2",
+      "body": "Aplicação da 1ª etapa. Horário oficial: 13h30 às 18h30, horário de Brasília.",
+      "category": "Prova",
+      "priority": "urgent",
+      "publishedAt": "2026-08-17",
+      "eventDate": "2026-09-13",
+      "endDate": null,
+      "sourceURL": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/revalida/confira-novas-orientacoes-para-a-1a-etapa-do-revalida-2026-2",
+      "isRead": false
+    },
+    {
+      "id": "2026-2-recursos-gabarito",
+      "title": "Recursos do gabarito preliminar",
+      "body": "Janela prevista para recursos contra as versões preliminares do gabarito da prova teórica.",
+      "category": "Prazo",
+      "priority": "high",
+      "publishedAt": "2026-08-17",
+      "eventDate": "2026-09-15",
+      "endDate": "2026-09-17",
+      "sourceURL": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/revalida/confira-novas-orientacoes-para-a-1a-etapa-do-revalida-2026-2",
+      "isRead": false
+    },
+    {
+      "id": "2026-2-resultado",
+      "title": "Resultado definitivo previsto",
+      "body": "Data prevista para divulgação do resultado definitivo da 1ª etapa.",
+      "category": "Resultado",
+      "priority": "normal",
+      "publishedAt": "2026-08-17",
+      "eventDate": "2026-12-04",
+      "endDate": null,
+      "sourceURL": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/noticias/revalida/confira-novas-orientacoes-para-a-1a-etapa-do-revalida-2026-2",
+      "isRead": false
+    }
+  ]
+}
