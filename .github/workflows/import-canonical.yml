@@ -1,0 +1,54 @@
+name: Import normalized Revalida TXT
+
+on:
+  workflow_dispatch:
+    inputs:
+      source_folder:
+        description: 'Pasta em sources/revalida (ex.: 2025-1)'
+        required: true
+        default: '2025-1'
+
+permissions:
+  contents: write
+
+jobs:
+  import:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate canonical source
+        run: |
+          set -euo pipefail
+          SRC="sources/revalida/${{ inputs.source_folder }}"
+          python importer/validate_canonical.py \
+            --questions "$SRC/questions.txt" \
+            --key "$SRC/answer_key.txt" \
+            --media-root "$SRC" \
+            --json-report "$SRC/validation_report.json"
+      - name: Import and publish pack
+        run: |
+          set -euo pipefail
+          SRC="sources/revalida/${{ inputs.source_folder }}"
+          python importer/import_canonical.py \
+            --questions "$SRC/questions.txt" \
+            --key "$SRC/answer_key.txt" \
+            --pack content/packs/latest.json \
+            --remove-demo
+          python importer/validate_pack.py content/packs/latest.json
+          python importer/make_manifest.py \
+            --pack content/packs/latest.json \
+            --manifest content/manifest.json \
+            --relative-pack packs/latest.json
+          cp content/packs/latest.json RevalidaOS/Resources/seed_pack.json
+      - name: Commit updated bank
+        run: |
+          set -euo pipefail
+          git config user.name 'RevalidaOS Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add content RevalidaOS/Resources/seed_pack.json "sources/revalida/${{ inputs.source_folder }}/validation_report.json"
+          if git diff --cached --quiet; then echo 'Nada para publicar'; exit 0; fi
+          git commit -m "Import canonical Revalida ${{ inputs.source_folder }}"
+          git push
