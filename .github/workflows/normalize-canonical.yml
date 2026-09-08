@@ -1,0 +1,64 @@
+name: Normalize Revalida PDF to canonical TXT
+
+on:
+  workflow_dispatch:
+    inputs:
+      edition:
+        description: 'Edição (ex.: 2025/1)'
+        required: true
+        default: '2025/1'
+      source_folder:
+        description: 'Pasta em sources/revalida (ex.: 2025-1)'
+        required: true
+        default: '2025-1'
+
+permissions:
+  contents: read
+
+jobs:
+  normalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install extractors
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+          pip install -r importer/requirements.txt
+          pip install fonttools
+      - name: Normalize exam to questions.txt
+        run: |
+          set -euo pipefail
+          SRC="sources/revalida/${{ inputs.source_folder }}"
+          test -f "$SRC/exam.pdf"
+          python -u importer/normalize_revalida_canonical.py \
+            --exam "$SRC/exam.pdf" \
+            --edition "${{ inputs.edition }}" \
+            --output "$SRC/questions.txt" \
+            --report "$SRC/normalization_report.json"
+          echo '--- REPORT ---'
+          cat "$SRC/normalization_report.json"
+      - name: Validate if answer key already exists
+        continue-on-error: true
+        run: |
+          SRC="sources/revalida/${{ inputs.source_folder }}"
+          if test -f "$SRC/answer_key.txt"; then
+            python importer/validate_canonical.py \
+              --questions "$SRC/questions.txt" \
+              --key "$SRC/answer_key.txt" \
+              --media-root "$SRC" \
+              --json-report "$SRC/validation_report.json"
+          fi
+      - name: Upload normalized TXT
+        uses: actions/upload-artifact@v4
+        with:
+          name: canonical-${{ inputs.source_folder }}
+          path: |
+            sources/revalida/${{ inputs.source_folder }}/questions.txt
+            sources/revalida/${{ inputs.source_folder }}/answer_key.txt
+            sources/revalida/${{ inputs.source_folder }}/normalization_report.json
+            sources/revalida/${{ inputs.source_folder }}/validation_report.json
+          if-no-files-found: warn
