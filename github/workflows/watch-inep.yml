@@ -1,0 +1,42 @@
+name: Watch INEP publications
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '17 */6 * * *'
+
+permissions:
+  contents: write
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install PDF extraction tools
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y poppler-utils
+          pip install -r importer/requirements.txt
+      - name: Discover official files
+        run: python importer/discover_inep.py --output content/discovered_inep.json
+      - name: Auto-ingest new objective exam when structurally safe
+        run: python importer/auto_ingest_inep.py --discovered content/discovered_inep.json --pack content/packs/latest.json
+      - name: Sync official Revalida news
+        run: python importer/sync_official_news.py --pack content/packs/latest.json --max-items 12
+      - name: Validate current pack
+        run: python importer/validate_pack.py content/packs/latest.json
+      - name: Build current manifest
+        run: python importer/make_manifest.py --pack content/packs/latest.json --manifest content/manifest.json --relative-pack packs/latest.json
+      - name: Commit discovery changes
+        run: |
+          if ! git diff --quiet -- content; then
+            git config user.name 'revalida-os-bot'
+            git config user.email 'actions@users.noreply.github.com'
+            git add content
+            git commit -m 'content: atualização automática das fontes do INEP'
+            git push
+          fi
