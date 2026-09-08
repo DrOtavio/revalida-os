@@ -15,7 +15,7 @@ final class SQLiteStore {
             throw SQLiteError.message(lastError())
         }
         try execute("PRAGMA foreign_keys = ON;")
-        try execute("PRAGMA journal_mode = WAL;")
+        _ = try query("PRAGMA journal_mode = WAL;")
     }
 
     deinit { sqlite3_close(db) }
