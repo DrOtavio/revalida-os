@@ -4,10 +4,23 @@ enum AppConfig {
     static let defaultDailyGoal = 80
     static let defaultSafetyTarget = 70
 
-    // Endpoint fixo do serviço de conteúdo. Não é editável pela interface.
-    static let remoteManifestURL = "https://drotavio.github.io/revalida-os/manifest.json"
-    static let allowedContentHost = "drotavio.github.io"
-    static let allowedContentPathPrefix = "/revalida-os/"
+    static let remoteManifestURL =
+        "https://drotavio.github.io/revalida-os/manifest.json"
+
+    static var remoteContentBaseURL: URL? {
+        guard let url = URL(string: remoteManifestURL) else { return nil }
+        return url.deletingLastPathComponent()
+    }
+
+    static func resolveContentURL(_ raw: String?) -> URL? {
+        guard let raw, !raw.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty else { return nil }
+        if let absolute = URL(string: raw), absolute.scheme?.hasPrefix("http") == true {
+            return absolute
+        }
+        guard let base = remoteContentBaseURL else { return nil }
+        let clean = raw.hasPrefix("/") ? String(raw.dropFirst()) : raw
+        return URL(string: clean, relativeTo: base)?.absoluteURL
+    }
 
     static var dailyGoal: Int {
         get {
