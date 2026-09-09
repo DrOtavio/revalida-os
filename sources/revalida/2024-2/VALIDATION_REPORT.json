@@ -1,0 +1,19 @@
+{
+  "edition": "2024/2",
+  "questions": 100,
+  "answers": 100,
+  "annulled": [
+    3,
+    22,
+    30,
+    37,
+    46,
+    60
+  ],
+  "metadata": 100,
+  "explanations": 100,
+  "mediaQuestions": 8,
+  "mediaItems": 12,
+  "mediaFiles": 12,
+  "stemOverrides": 6
+}

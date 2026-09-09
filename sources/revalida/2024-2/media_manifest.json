@@ -1,0 +1,407 @@
+{
+  "schemaVersion": 1,
+  "edition": "2024/2",
+  "source": "INEP",
+  "questions": {
+    "Q010": [
+      {
+        "kind": "image",
+        "title": "Cobertura de indicadores materno-infantis por quintis de riqueza",
+        "caption": "Gráfico oficial apresentado no caderno do INEP.",
+        "file": "q010_grafico_cobertura.jpg",
+        "altText": "Gráfico de cobertura de indicadores materno-infantis por quintis de riqueza ao longo dos anos."
+      }
+    ],
+    "Q011": [
+      {
+        "kind": "image",
+        "title": "Monitorização cardíaca",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q011_monitor_arrhythmia.png",
+        "altText": "Monitor cardíaco com taquiarritmia irregular e hipotensão apresentado na questão 11."
+      }
+    ],
+    "Q023": [
+      {
+        "kind": "table",
+        "title": "Exames laboratoriais",
+        "caption": "Resultados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame laboratorial",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hemoglobina",
+            "12 g/dL",
+            "12,5 a 20,5 g/dL"
+          ],
+          [
+            "Hematócrito",
+            "36%",
+            "39 a 63%"
+          ],
+          [
+            "VCM",
+            "80 fL",
+            "86 a 124 fL"
+          ],
+          [
+            "HCM",
+            "26 pg",
+            "28 a 40 pg"
+          ],
+          [
+            "CHCM",
+            "25 g/dL",
+            "28 a 38 g/dL"
+          ],
+          [
+            "Plaquetas",
+            "450.000/mm³",
+            "250.000 a 500.000/mm³"
+          ],
+          [
+            "Reticulócitos",
+            "6,4%",
+            "2,0 a 6,0%"
+          ],
+          [
+            "Bilirrubinas totais",
+            "12,8 mg/dL",
+            "RN 3–5 dias: 10,30 mg/dL"
+          ],
+          [
+            "Bilirrubinas diretas",
+            "0,8 mg/dL",
+            "RN 3–5 dias: até 0,4 mg/dL"
+          ],
+          [
+            "Bilirrubinas indiretas",
+            "12,0 mg/dL",
+            "—"
+          ],
+          [
+            "TSH",
+            "5 μU/mL",
+            "< 10 μU/mL"
+          ]
+        ],
+        "fallbackImage": "q023_table_01.png",
+        "altText": "Tabela oficial de exames laboratoriais da questão 23."
+      }
+    ],
+    "Q046": [
+      {
+        "kind": "image",
+        "title": "ECG na admissão",
+        "caption": "Primeiro ECG oficial da questão.",
+        "file": "q046_ecg_admissao.png",
+        "altText": "ECG de admissão da questão 46."
+      },
+      {
+        "kind": "image",
+        "title": "ECG após 30 minutos",
+        "caption": "Segundo ECG oficial da questão.",
+        "file": "q046_ecg_30min.png",
+        "altText": "ECG realizado 30 minutos após a admissão na questão 46."
+      }
+    ],
+    "Q060": [
+      {
+        "kind": "table",
+        "title": "Exames complementares",
+        "caption": "Resultados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado"
+        ],
+        "rows": [
+          [
+            "Hemoglobina",
+            "11 mg/dL"
+          ],
+          [
+            "Hematócrito",
+            "40%"
+          ],
+          [
+            "Leucócitos",
+            "9.000/mm³"
+          ],
+          [
+            "Ureia",
+            "15 mg/dL"
+          ],
+          [
+            "Creatinina",
+            "1 mg/dL"
+          ],
+          [
+            "Hemoglobina glicada (HbA1c)",
+            "6%"
+          ],
+          [
+            "Glicemia em jejum",
+            "95 mg/dL"
+          ],
+          [
+            "TGO",
+            "35 U/L"
+          ],
+          [
+            "TGP",
+            "41 U/L"
+          ],
+          [
+            "ECG de 12 derivações",
+            "Sem alterações"
+          ]
+        ],
+        "fallbackImage": "q060_table_01.png",
+        "altText": "Tabela oficial de exames complementares da questão 60."
+      },
+      {
+        "kind": "image",
+        "title": "Radiografia de tórax",
+        "caption": "Radiografia oficial apresentada no caderno do INEP.",
+        "file": "q060_rx_torax.png",
+        "altText": "Radiografia de tórax apresentada na questão 60."
+      }
+    ],
+    "Q066": [
+      {
+        "kind": "table",
+        "title": "Exames laboratoriais de controle",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Ureia",
+            "28 mg/dL",
+            "13 a 43 mg/dL"
+          ],
+          [
+            "Creatinina",
+            "1,04 mg/dL",
+            "0,60 a 1,30 mg/dL"
+          ],
+          [
+            "TFG (CKD-EPI)",
+            "74,99 mL/min/1,73 m²",
+            "> 90 mL/min/1,73 m²"
+          ],
+          [
+            "Glicemia de jejum",
+            "144 mg/dL",
+            "< 100 mg/dL"
+          ],
+          [
+            "Hemoglobina glicada",
+            "7,2%",
+            "4,5 a 5,6%"
+          ],
+          [
+            "Albuminúria em amostra isolada",
+            "234 mg/L",
+            "< 30 mg/L"
+          ]
+        ],
+        "fallbackImage": "q066_table_01.png",
+        "altText": "Tabela oficial de exames laboratoriais da questão 66."
+      }
+    ],
+    "Q073": [
+      {
+        "kind": "table",
+        "title": "Exames com 32 horas de vida",
+        "caption": "Resultados apresentados antes da fototerapia.",
+        "columns": [
+          "Exame",
+          "Valor"
+        ],
+        "rows": [
+          [
+            "Bilirrubinas totais",
+            "13 mg/dL"
+          ],
+          [
+            "Bilirrubinas diretas",
+            "1,5 mg/dL"
+          ],
+          [
+            "Bilirrubinas indiretas",
+            "11,5 mg/dL"
+          ],
+          [
+            "Coombs direto",
+            "Positivo"
+          ],
+          [
+            "Antígeno-D",
+            "Positivo"
+          ],
+          [
+            "Hemoglobina",
+            "13,0 g/dL"
+          ],
+          [
+            "Reticulócitos",
+            "2,0%"
+          ]
+        ],
+        "fallbackImage": "q073_table_01.png",
+        "altText": "Exames do recém-nascido com 32 horas de vida."
+      },
+      {
+        "kind": "table",
+        "title": "Exames após 4 horas de fototerapia",
+        "caption": "Resultados obtidos com 36 horas de vida.",
+        "columns": [
+          "Exame",
+          "Valor"
+        ],
+        "rows": [
+          [
+            "Bilirrubinas totais",
+            "15 mg/dL"
+          ],
+          [
+            "Bilirrubinas diretas",
+            "1,5 mg/dL"
+          ],
+          [
+            "Bilirrubinas indiretas",
+            "13,5 mg/dL"
+          ]
+        ],
+        "fallbackImage": "q073_table_02.png",
+        "altText": "Bilirrubinas após quatro horas de fototerapia."
+      },
+      {
+        "kind": "table",
+        "title": "Limiares de fototerapia e exsanguineotransfusão",
+        "caption": "Tabela de referência apresentada na prova para RN com idade gestacional ≥ 35 semanas.",
+        "columns": [
+          "Idade",
+          "Fototerapia 35–37 6/7 sem",
+          "Fototerapia ≥38 sem",
+          "EST 35–37 6/7 sem",
+          "EST ≥38 sem"
+        ],
+        "rows": [
+          [
+            "24 horas",
+            "8",
+            "10",
+            "15",
+            "18"
+          ],
+          [
+            "36 horas",
+            "9,5",
+            "11,5",
+            "16",
+            "20"
+          ],
+          [
+            "48 horas",
+            "11",
+            "13",
+            "17",
+            "21"
+          ],
+          [
+            "72 horas",
+            "13",
+            "15",
+            "18",
+            "22"
+          ],
+          [
+            "96 horas",
+            "14",
+            "16",
+            "20",
+            "23"
+          ],
+          [
+            "5 a 7 dias",
+            "15",
+            "17",
+            "21",
+            "24"
+          ]
+        ],
+        "fallbackImage": "q073_table_03.png",
+        "altText": "Limiares de bilirrubina para fototerapia e exsanguineotransfusão na questão 73."
+      }
+    ],
+    "Q076": [
+      {
+        "kind": "table",
+        "title": "Investigação de hipertensão secundária",
+        "caption": "Exames apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Amostra",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Ácido 5-hidroxiindolacético (5-HIAA)",
+            "Urina",
+            "5 mg/24h",
+            "2 a 7 mg/24h"
+          ],
+          [
+            "Normetanefrina",
+            "Urina",
+            "> 2,2 nmol/L",
+            "< 0,9 nmol/L"
+          ],
+          [
+            "Metanefrina",
+            "Urina",
+            "> 1,1 nmol/L",
+            "< 0,5 nmol/L"
+          ],
+          [
+            "TSH",
+            "Sangue",
+            "5 mUI/L",
+            "0,25 a 5 mUI/L"
+          ],
+          [
+            "T3",
+            "Sangue",
+            "132 ng/dL",
+            "60 a 182 ng/dL"
+          ],
+          [
+            "T4 livre",
+            "Sangue",
+            "1,0 ng/dL",
+            "0,9 a 1,8 ng/dL"
+          ]
+        ],
+        "fallbackImage": "q076_table_01.png",
+        "altText": "Tabela oficial de investigação de hipertensão secundária da questão 76."
+      }
+    ]
+  },
+  "stemOverrides": {
+    "Q023": "Um recém-nascido (RN) a termo, afrodescendente, do sexo masculino, com 26 dias, apresenta icterícia neonatal zona III de Kramer desde o 3.º dia de vida. Os pais são consanguíneos, o RN usa fórmula e apresenta ganho ponderal adequado, sem intercorrências gestacionais ou no parto. A tipagem sanguínea materna é O+ e a do RN é A-, com Coombs direto negativo. Considerando o caso clínico e os exames complementares apresentados na tabela abaixo, qual é a hipótese diagnóstica mais provável?",
+    "Q046": "Um homem de 68 anos procura uma unidade de pronto-atendimento com episódios recorrentes de dor precordial em aperto irradiada para região cervical. É hipertenso e diabético e possui história familiar de infarto. O exame físico está sem alterações e duas dosagens seriadas de troponina foram normais. Foram realizados dois ECGs, na admissão e 30 minutos depois, apresentados abaixo. Nesse caso, qual é a conduta terapêutica correta?",
+    "Q060": "Um médico de família realiza visita domiciliar a um homem de 64 anos, acamado, com doença de Parkinson e hipertensão. Há 4 dias apresenta prostração, lentificação e episódios de agitação noturna. Ao exame, há estertores crepitantes no terço médio direito; sinais vitais sem instabilidade importante. No retorno, após três dias, o quadro permanece. Os exames complementares e a radiografia de tórax estão apresentados abaixo. Qual é a conduta terapêutica a ser adotada?",
+    "Q066": "Um homem de 67 anos, com diabetes mellitus tipo 2 diagnosticado há cerca de 12 meses, usa metformina 500 mg de 12 em 12 horas e tem antecedente de infarto agudo do miocárdio há 5 anos. Em consulta de acompanhamento, apresenta exames laboratoriais persistentes semelhantes aos de 3 e 6 meses atrás, apresentados na tabela abaixo. Qual é a conduta recomendada?",
+    "Q073": "Na maternidade, um recém-nascido de 30 horas de vida, com 36 semanas de idade gestacional, evolui com icterícia zona 3 de Kramer. A mãe é O- e o RN é B+, com equimoses do parto. Os exames com 32 horas de vida estão apresentados abaixo. Foi iniciada fototerapia de alta intensidade e, após 4 horas, nova dosagem foi realizada. Considerando os resultados e a tabela de referência para fototerapia e exsanguineotransfusão, qual é a conduta médica adequada?",
+    "Q076": "Uma mulher de 24 anos apresenta cefaleia episódica, sudorese, taquicardia e hipertensão paroxística há 3 meses. Diante da hipótese de hipertensão arterial secundária, foram realizados os exames apresentados na tabela abaixo. Qual é a principal hipótese diagnóstica?"
+  }
+}
