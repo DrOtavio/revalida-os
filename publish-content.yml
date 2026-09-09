@@ -1,0 +1,59 @@
+name: Publish content to GitHub Pages
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [ main ]
+    paths:
+      - 'content/**'
+      - '.github/workflows/publish-content.yml'
+  workflow_run:
+    workflows:
+      - "Import normalized Revalida TXT"
+    types:
+      - completed
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Prepare site
+        run: |
+          set -euo pipefail
+          test -f content/manifest.json
+          test -f content/packs/latest.json
+          mkdir -p site
+          cp -R content/. site/
+          echo "Files to publish:"
+          find site -maxdepth 3 -type f -print
+
+      - name: Configure Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
