@@ -1,0 +1,25 @@
+{
+  "status": "PASS",
+  "questions": 100,
+  "answers": 100,
+  "errors": [],
+  "warnings": [],
+  "metadata": {
+    "EXAM_ID": "revalida-2025-1",
+    "EXAM": "REVALIDA",
+    "BOARD": "INEP",
+    "YEAR": "2025",
+    "EDITION": "2025/1",
+    "TYPE": "OBJECTIVE",
+    "QUESTION_COUNT": "100",
+    "TIME_MINUTES": "300"
+  },
+  "keyMetadata": {
+    "EXAM_ID": "revalida-2025-1",
+    "EXAM": "REVALIDA",
+    "BOARD": "INEP",
+    "YEAR": "2025",
+    "EDITION": "2025/1",
+    "STATUS": "FINAL"
+  }
+}
