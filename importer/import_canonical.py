@@ -10,9 +10,7 @@ def cutoff_for(y,h):
 
 def normalize_display_text(value: str) -> str:
     value = value.replace("\u00ad", "").replace("\u00a0", " ").strip()
-    # Une palavra hifenizada que foi quebrada pelo PDF.
     value = re.sub(r"(?<=\w)-\s*\n\s*(?=\w)", "-", value)
-    # Preserva apenas parágrafos intencionais; elimina quebra dura no meio de frase.
     paragraphs = re.split(r"\n\s*\n+", value)
     cleaned = []
     for paragraph in paragraphs:
@@ -24,16 +22,44 @@ def normalize_display_text(value: str) -> str:
             cleaned.append(paragraph)
     return "\n\n".join(cleaned)
 
+def load_metadata(path: Path | None, questions) -> dict[int, dict[str,str]]:
+    if path is None or not path.exists():
+        return {}
+    raw = json.loads(path.read_text(encoding='utf-8'))
+    items = raw.get('questions', {})
+    result: dict[int, dict[str,str]] = {}
+    for q in questions:
+        key=f'Q{q.number:03d}'
+        item=items.get(key)
+        if not isinstance(item, dict):
+            raise SystemExit(f'ERRO metadata: {key} ausente')
+        for field in ('area','specialty','topic'):
+            if not str(item.get(field,'')).strip():
+                raise SystemExit(f'ERRO metadata: {key}.{field} vazio')
+        result[q.number]={
+            'area':str(item['area']).strip(),
+            'specialty':str(item['specialty']).strip(),
+            'topic':str(item['topic']).strip(),
+        }
+    if len(result) != len(questions):
+        raise SystemExit(f'ERRO metadata: {len(result)}/{len(questions)} classificações')
+    print(f'METADATA: {len(result)}/{len(questions)} questões classificadas')
+    return result
+
 def main():
     ap=argparse.ArgumentParser()
     ap.add_argument('--questions',type=Path,required=True)
     ap.add_argument('--key',type=Path,required=True)
+    ap.add_argument('--metadata',type=Path)
     ap.add_argument('--pack',type=Path,default=Path('content/packs/latest.json'))
     ap.add_argument('--remove-demo',action='store_true')
     args=ap.parse_args()
 
     meta,qs=read_questions(args.questions)
     kmeta,key=read_answer_key(args.key)
+    metadata_path=args.metadata or args.questions.with_name('metadata.json')
+    classifications=load_metadata(metadata_path if metadata_path.exists() else None, qs)
+
     y=int(meta['YEAR']); label=meta['EDITION']; h=int(label.split('/')[1]); exam_id=meta['EXAM_ID']
     status=kmeta.get('STATUS','FINAL').upper(); key_final=status=='FINAL'
 
@@ -54,9 +80,10 @@ def main():
         qid=f'{exam_id}-q{q.number:03d}'
         stem=normalize_display_text(q.text)
         options={a:normalize_display_text(q.options[a]) for a in 'ABCD'}
+        cls=classifications.get(q.number, {})
         qmap[qid]={
             'id':qid,'examId':exam_id,'number':q.number,'source':'INEP','year':y,'edition':label,'type':'objective',
-            'area':'Não classificada','specialty':None,'topic':None,'stem':stem,
+            'area':cls.get('area','Não classificada'),'specialty':cls.get('specialty'),'topic':cls.get('topic'),'stem':stem,
             'options':[{'id':f'{qid}-{a}','label':a,'text':options[a]} for a in 'ABCD'],
             'correctOption':None if ans=='ANNULLED' else ans,'explanation':None,'optionExplanations':None,'keyPoint':None,
             'status':'annulled' if ans=='ANNULLED' else ('final' if key_final else 'preliminary'),
