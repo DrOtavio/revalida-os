@@ -3,6 +3,7 @@ options:
   bundleIdPrefix: com.revalidaos
   deploymentTarget:
     iOS: '17.0'
+
 settings:
   base:
     SWIFT_VERSION: '5.0'
@@ -12,16 +13,22 @@ settings:
     PRODUCT_BUNDLE_IDENTIFIER: com.revalidaos.app
     MARKETING_VERSION: 1.1.0
     CURRENT_PROJECT_VERSION: 2
+
 targets:
   RevalidaOS:
     type: application
     platform: iOS
+
     sources:
       - path: RevalidaOS
         excludes:
           - Resources
-    resources:
+
+      # XcodeGen trata recursos dentro de `sources` com buildPhase=resources.
+      # O antigo bloco `resources:` não estava entrando no projeto gerado.
       - path: RevalidaOS/Resources
+        buildPhase: resources
+
     settings:
       base:
         INFOPLIST_FILE: RevalidaOS/Resources/Info.plist
@@ -32,5 +39,6 @@ targets:
         CODE_SIGNING_ALLOWED: NO
         CODE_SIGNING_REQUIRED: NO
         CODE_SIGN_IDENTITY: ''
+
     scheme:
       testTargets: []
