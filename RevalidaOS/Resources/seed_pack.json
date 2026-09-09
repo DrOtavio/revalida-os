@@ -1,6 +1,6 @@
 {
-  "version": 6,
-  "generatedAt": "2026-09-09T14:31:01.553249+00:00",
+  "version": 7,
+  "generatedAt": "2026-09-09T16:21:41.996902+00:00",
   "exams": [
     {
       "id": "revalida-2026-1",
@@ -91,8 +91,18 @@
       "keyPoint": "Bradicardia sintomática de maior risco exige monitorização e preparo para estimulação; drogas vasoativas ou atropina são reservadas conforme o tipo de bloqueio e a repercussão clínica.",
       "status": "final",
       "officialSourceURL": null,
-      "mediaStatus": "none",
-      "media": []
+      "mediaStatus": "ready",
+      "media": [
+        {
+          "id": "q001-media-1",
+          "kind": "image",
+          "title": "Eletrocardiograma de 12 derivações",
+          "caption": "Imagem oficial apresentada no enunciado.",
+          "url": "media/revalida/2025-1/q001_ecg.png",
+          "table": null,
+          "altText": "Eletrocardiograma de 12 derivações da questão 1."
+        }
+      ]
     },
     {
       "id": "revalida-2025-1-q002",
@@ -139,8 +149,41 @@
       "keyPoint": "Pneumoperitônio + sinais de peritonite em usuário crônico de AINE deve fazer pensar imediatamente em úlcera péptica perfurada.",
       "status": "final",
       "officialSourceURL": null,
-      "mediaStatus": "none",
-      "media": []
+      "mediaStatus": "ready",
+      "media": [
+        {
+          "id": "q002-media-1",
+          "kind": "table",
+          "title": "Sinais vitais",
+          "caption": "Dados apresentados no enunciado.",
+          "url": "media/revalida/2025-1/q002_table_01.png",
+          "table": {
+            "columns": [
+              "Exame",
+              "Resultado"
+            ],
+            "rows": [
+              [
+                "Frequência cardíaca",
+                "110 bpm"
+              ],
+              [
+                "Pressão arterial",
+                "90 x 50 mmHg"
+              ],
+              [
+                "Frequência respiratória",
+                "22 irpm"
+              ],
+              [
+                "Temperatura axilar",
+                "36,5 °C"
+              ]
+            ]
+          },
+          "altText": "Tabela de sinais vitais da questão 2."
+        }
+      ]
     },
     {
       "id": "revalida-2025-1-q003",
@@ -1051,8 +1094,45 @@
       "keyPoint": "Na DPOC, a gravidade espirométrica usa o VEF1 pós-broncodilatador em percentual do previsto: 47% = GOLD 3.",
       "status": "final",
       "officialSourceURL": null,
-      "mediaStatus": "none",
-      "media": []
+      "mediaStatus": "ready",
+      "media": [
+        {
+          "id": "q021-media-1",
+          "kind": "table",
+          "title": "Espirometria",
+          "caption": "Resultados pré e pós-broncodilatador.",
+          "url": "media/revalida/2025-1/q021_table_01.png",
+          "table": {
+            "columns": [
+              "Parâmetro",
+              "Valor encontrado (pré-broncodilatador)",
+              "Valor encontrado (pós-broncodilatador)",
+              "Valor previsto"
+            ],
+            "rows": [
+              [
+                "Volume expiratório forçado no 1º segundo (VEF1)",
+                "1,72",
+                "1,73",
+                "3,65"
+              ],
+              [
+                "Capacidade vital forçada (CVF)",
+                "3,13",
+                "3,14",
+                "4,66"
+              ],
+              [
+                "Relação VEF1/CVF",
+                "0,55",
+                "0,55",
+                "0,79"
+              ]
+            ]
+          },
+          "altText": "Tabela de espirometria da questão 21."
+        }
+      ]
     },
     {
       "id": "revalida-2025-1-q022",
@@ -1195,8 +1275,37 @@
       "keyPoint": "DPP grave: estabilização materna vem primeiro; sofrimento fetal importante com parto vaginal não iminente indica cesárea urgente.",
       "status": "final",
       "officialSourceURL": null,
-      "mediaStatus": "none",
-      "media": []
+      "mediaStatus": "ready",
+      "media": [
+        {
+          "id": "q024-media-1",
+          "kind": "table",
+          "title": "Dados vitais maternos",
+          "caption": "Dados apresentados no enunciado.",
+          "url": "media/revalida/2025-1/q024_table_01.png",
+          "table": {
+            "columns": [
+              "Exame",
+              "Resultado"
+            ],
+            "rows": [
+              [
+                "Frequência cardíaca materna",
+                "60 bpm"
+              ],
+              [
+                "Pressão arterial",
+                "80 x 60 mmHg"
+              ],
+              [
+                "Saturação de oxigênio",
+                "94%"
+              ]
+            ]
+          },
+          "altText": "Tabela de dados vitais maternos da questão 24."
+        }
+      ]
     },
     {
       "id": "revalida-2025-1-q025",
@@ -1435,8 +1544,86 @@
       "keyPoint": "Gestante com dengue e trombocitopenia acentuada não deve receber alta simples; exige vigilância e hidratação conforme classificação de risco.",
       "status": "final",
       "officialSourceURL": null,
-      "mediaStatus": "none",
-      "media": []
+      "mediaStatus": "ready",
+      "media": [
+        {
+          "id": "q029-media-1",
+          "kind": "table",
+          "title": "Avaliação clínica",
+          "caption": "Sinais vitais e dados obstétricos.",
+          "url": "media/revalida/2025-1/q029_table_01.png",
+          "table": {
+            "columns": [
+              "Exame",
+              "Resultado"
+            ],
+            "rows": [
+              [
+                "Pressão arterial",
+                "90 x 70 mmHg"
+              ],
+              [
+                "Frequência cardíaca",
+                "82 bpm"
+              ],
+              [
+                "Saturação de O2",
+                "98% em ar ambiente"
+              ],
+              [
+                "Temperatura axilar",
+                "38,6 °C"
+              ],
+              [
+                "Altura uterina",
+                "20 cm"
+              ],
+              [
+                "Batimentos cardiofetais",
+                "142 bpm (regular)"
+              ]
+            ]
+          },
+          "altText": "Tabela de sinais vitais e dados obstétricos da questão 29."
+        },
+        {
+          "id": "q029-media-2",
+          "kind": "table",
+          "title": "Hemograma",
+          "caption": "Resultados laboratoriais apresentados no enunciado.",
+          "url": "media/revalida/2025-1/q029_table_02.png",
+          "table": {
+            "columns": [
+              "Exame",
+              "Resultado",
+              "Valor de referência"
+            ],
+            "rows": [
+              [
+                "Hematócrito",
+                "38%",
+                "35 - 45%"
+              ],
+              [
+                "Hemoglobina",
+                "11,2 g/dL",
+                "12,0 - 16,0 g/dL"
+              ],
+              [
+                "Leucócitos totais",
+                "9.500/mm³",
+                "4.500 - 11.000/mm³"
+              ],
+              [
+                "Plaquetas",
+                "28.000/mm³",
+                "150.000 - 450.000/mm³"
+              ]
+            ]
+          },
+          "altText": "Tabela de hemograma da questão 29."
+        }
+      ]
     },
     {
       "id": "revalida-2025-1-q030",
@@ -2299,8 +2486,37 @@
       "keyPoint": "No XABCDE, primeiro controle a hemorragia externa catastrófica; depois siga A, B, C, D e E.",
       "status": "final",
       "officialSourceURL": null,
-      "mediaStatus": "none",
-      "media": []
+      "mediaStatus": "ready",
+      "media": [
+        {
+          "id": "q047-media-1",
+          "kind": "table",
+          "title": "Sinais vitais",
+          "caption": "Dados apresentados no atendimento pré-hospitalar.",
+          "url": "media/revalida/2025-1/q047_table_01.png",
+          "table": {
+            "columns": [
+              "Exame",
+              "Resultado"
+            ],
+            "rows": [
+              [
+                "Pressão arterial",
+                "80 x 50 mmHg"
+              ],
+              [
+                "Frequência cardíaca",
+                "130 bpm"
+              ],
+              [
+                "Frequência respiratória",
+                "30 irpm"
+              ]
+            ]
+          },
+          "altText": "Tabela de sinais vitais da questão 47."
+        }
+      ]
     },
     {
       "id": "revalida-2025-1-q048",
@@ -2491,8 +2707,46 @@
       "keyPoint": "Dengue com sinais de alarme exige manejo hospitalar e hidratação venosa; UTI fica reservada a dengue grave com choque, sangramento grave ou disfunção orgânica importante.",
       "status": "final",
       "officialSourceURL": null,
-      "mediaStatus": "none",
-      "media": []
+      "mediaStatus": "ready",
+      "media": [
+        {
+          "id": "q051-media-1",
+          "kind": "table",
+          "title": "Exames laboratoriais",
+          "caption": "Resultados iniciais do paciente.",
+          "url": "media/revalida/2025-1/q051_table_01.png",
+          "table": {
+            "columns": [
+              "Exame",
+              "Resultado",
+              "Valor de referência (VR)"
+            ],
+            "rows": [
+              [
+                "Leucócitos totais",
+                "3.500 células/mm³",
+                "4.000 a 10.000/mm³"
+              ],
+              [
+                "Hematócrito",
+                "46%",
+                "39,9 a 52,1%"
+              ],
+              [
+                "Plaquetas",
+                "130.000/mm³",
+                "150.000 a 450.000/mm³"
+              ],
+              [
+                "Teste rápido de antígeno NS1",
+                "Positivo",
+                "-"
+              ]
+            ]
+          },
+          "altText": "Tabela de exames laboratoriais da questão 51."
+        }
+      ]
     },
     {
       "id": "revalida-2025-1-q052",
@@ -2587,8 +2841,51 @@
       "keyPoint": "Deficiência de B12 em lactente pode causar anemia macrocítica e dano neurológico; tratar cedo é essencial para evitar sequelas.",
       "status": "final",
       "officialSourceURL": null,
-      "mediaStatus": "none",
-      "media": []
+      "mediaStatus": "ready",
+      "media": [
+        {
+          "id": "q053-media-1",
+          "kind": "table",
+          "title": "Hemograma",
+          "caption": "Achados hematológicos apresentados no enunciado.",
+          "url": "media/revalida/2025-1/q053_table_01.png",
+          "table": {
+            "columns": [
+              "Exame",
+              "Resultado",
+              "Valor de referência"
+            ],
+            "rows": [
+              [
+                "Hemoglobina (Hb)",
+                "9,5 g/dL",
+                "10,5 a 13,5 g/dL"
+              ],
+              [
+                "Hematócrito (Ht)",
+                "34%",
+                "33 a 39%"
+              ],
+              [
+                "Volume corpuscular médio (VCM)",
+                "101 fL",
+                "70 a 86 fL"
+              ],
+              [
+                "Hemoglobina corpuscular média (HCM)",
+                "23 pg",
+                "23 a 31 pg"
+              ],
+              [
+                "Plaquetas",
+                "120.000/mm³",
+                "200.000 a 500.000/mm³"
+              ]
+            ]
+          },
+          "altText": "Tabela de hemograma da questão 53."
+        }
+      ]
     },
     {
       "id": "revalida-2025-1-q054",
@@ -2635,8 +2932,46 @@
       "keyPoint": "Todo sangramento pós-menopausa merece investigação; ultrassom transvaginal é uma porta de entrada importante em paciente estável.",
       "status": "final",
       "officialSourceURL": null,
-      "mediaStatus": "none",
-      "media": []
+      "mediaStatus": "ready",
+      "media": [
+        {
+          "id": "q054-media-1",
+          "kind": "table",
+          "title": "Hemograma",
+          "caption": "Resultados apresentados na UPA.",
+          "url": "media/revalida/2025-1/q054_table_01.png",
+          "table": {
+            "columns": [
+              "Exame",
+              "Resultado",
+              "Valor de referência"
+            ],
+            "rows": [
+              [
+                "Hemoglobina",
+                "12,7 g/dL",
+                "11,5 a 14,8 g/dL"
+              ],
+              [
+                "Hematócrito",
+                "38%",
+                "35,4 a 45,9%"
+              ],
+              [
+                "Leucócitos",
+                "7.800/mm³",
+                "3.143 a 10.074/mm³"
+              ],
+              [
+                "Plaquetas",
+                "324.000/mm³",
+                "135.606 a 343.044/mm³"
+              ]
+            ]
+          },
+          "altText": "Tabela de hemograma da questão 54."
+        }
+      ]
     },
     {
       "id": "revalida-2025-1-q055",
@@ -3403,8 +3738,41 @@
       "keyPoint": "No AVC suspeito, “tempo é cérebro”: acione transporte de urgência e não reduza PA rotineiramente antes de definir o tipo de AVC e estratégia de reperfusão.",
       "status": "final",
       "officialSourceURL": null,
-      "mediaStatus": "none",
-      "media": []
+      "mediaStatus": "ready",
+      "media": [
+        {
+          "id": "q070-media-1",
+          "kind": "table",
+          "title": "Sinais vitais",
+          "caption": "Dados apresentados durante a avaliação na UBS.",
+          "url": "media/revalida/2025-1/q070_table_01.png",
+          "table": {
+            "columns": [
+              "Exame",
+              "Resultado"
+            ],
+            "rows": [
+              [
+                "Pressão arterial (PA)",
+                "150 x 95 mmHg"
+              ],
+              [
+                "Frequência cardíaca (FC)",
+                "90 bpm"
+              ],
+              [
+                "Frequência respiratória (FR)",
+                "20 irpm"
+              ],
+              [
+                "Saturação de oxigênio",
+                "95%"
+              ]
+            ]
+          },
+          "altText": "Tabela de sinais vitais da questão 70."
+        }
+      ]
     },
     {
       "id": "revalida-2025-1-q071",
@@ -3691,8 +4059,18 @@
       "keyPoint": "ABCDE do melanoma: Assimetria, Bordas irregulares, Cor variada, Diâmetro e Evolução; evolução é especialmente importante.",
       "status": "final",
       "officialSourceURL": null,
-      "mediaStatus": "none",
-      "media": []
+      "mediaStatus": "ready",
+      "media": [
+        {
+          "id": "q076-media-1",
+          "kind": "image",
+          "title": "Lesão cutânea",
+          "caption": "Imagem clínica oficial apresentada no enunciado.",
+          "url": "media/revalida/2025-1/q076_lesao_cutanea.jpg",
+          "table": null,
+          "altText": "Lesão cutânea pigmentada, assimétrica e de bordas irregulares, apresentada na questão 76."
+        }
+      ]
     },
     {
       "id": "revalida-2025-1-q077",
@@ -4027,8 +4405,93 @@
       "keyPoint": "Falha ao ferro oral exige primeiro verificar dose, adesão e persistência da causa; aqui há subdose e dieta fortemente predisponente.",
       "status": "final",
       "officialSourceURL": null,
-      "mediaStatus": "none",
-      "media": []
+      "mediaStatus": "ready",
+      "media": [
+        {
+          "id": "q083-media-1",
+          "kind": "table",
+          "title": "Exames iniciais",
+          "caption": "Resultados antes do tratamento.",
+          "url": "media/revalida/2025-1/q083_table_01.png",
+          "table": {
+            "columns": [
+              "Exame",
+              "Resultado",
+              "Valor de referência"
+            ],
+            "rows": [
+              [
+                "Hemoglobina (Hb)",
+                "9,0 g/dL",
+                "10,5 a 13,5 g/dL"
+              ],
+              [
+                "Hematócrito (Ht)",
+                "27,5%",
+                "33 a 39%"
+              ],
+              [
+                "Volume corpuscular médio (VCM)",
+                "64 fL",
+                "70 a 86 fL"
+              ],
+              [
+                "Ferritina",
+                "12 ng/mL",
+                "20 - 100 ng/mL"
+              ],
+              [
+                "Observação",
+                "Anisocitose +",
+                ""
+              ]
+            ]
+          },
+          "altText": "Tabela de exames iniciais da questão 83."
+        },
+        {
+          "id": "q083-media-2",
+          "kind": "table",
+          "title": "Exames após 3 meses de tratamento",
+          "caption": "Resultados após tratamento com ferro elementar.",
+          "url": "media/revalida/2025-1/q083_table_02.png",
+          "table": {
+            "columns": [
+              "Exame pós tratamento",
+              "Resultado",
+              "Valor de referência"
+            ],
+            "rows": [
+              [
+                "Hemoglobina (Hb)",
+                "9,2 g/dL",
+                "10,5 a 13,5 g/dL"
+              ],
+              [
+                "Hematócrito (Ht)",
+                "27,9%",
+                "33 a 39%"
+              ],
+              [
+                "Volume corpuscular médio (VCM)",
+                "68 fL",
+                "70 a 86 fL"
+              ],
+              [
+                "Ferritina",
+                "15 ng/mL",
+                "20 - 100 ng/mL"
+              ],
+              [
+                "Observação",
+                "Anisocitose +",
+                ""
+              ]
+            ]
+          },
+          "altText": "Tabela de exames após tratamento da questão 83."
+        }
+      ]
     },
     {
       "id": "revalida-2025-1-q084",

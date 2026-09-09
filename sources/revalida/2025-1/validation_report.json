@@ -4,6 +4,9 @@
   "answers": 100,
   "errors": [],
   "warnings": [],
+  "optionSets": [
+    "ABCD"
+  ],
   "metadata": {
     "EXAM_ID": "revalida-2025-1",
     "EXAM": "REVALIDA",
