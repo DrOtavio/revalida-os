@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "generatedAt": "2026-09-09T01:26:31.648603+00:00",
+  "version": 6,
+  "generatedAt": "2026-09-09T14:31:01.553249+00:00",
   "exams": [
     {
       "id": "revalida-2026-1",
@@ -81,9 +81,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Paciente com bradicardia sintomática, porém sem sinais de choque ou insuficiência respiratória. Pelo gabarito e pelo contexto do ECG, a conduta é monitorização contínua, disponibilidade imediata de marca-passo transcutâneo e avaliação especializada. Como a imagem do ECG ainda não está incorporada ao banco, o comentário evita nomear um bloqueio específico além do que o enunciado permite.",
+      "optionExplanations": {
+        "A": "A alta é inadequada porque há sintomas associados à bradicardia e o ECG motivou conduta hospitalar.",
+        "B": "Correta pelo gabarito: monitoriza o paciente, deixa o marca-passo transcutâneo prontamente disponível e aguarda avaliação cardiológica.",
+        "C": "Atropina e estimulação imediata seriam tratamento ativo mais agressivo; no quadro descrito não há instabilidade hemodinâmica que imponha ambas de saída.",
+        "D": "Dopamina é opção em bradicardia com repercussão hemodinâmica quando atropina falha ou não é apropriada; não é necessária no paciente estável descrito."
+      },
+      "keyPoint": "Bradicardia sintomática de maior risco exige monitorização e preparo para estimulação; drogas vasoativas ou atropina são reservadas conforme o tipo de bloqueio e a repercussão clínica.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -124,9 +129,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O uso crônico de AINE aumenta o risco de úlcera péptica. Dor epigástrica súbita intensa, abdome em tábua, descompressão dolorosa difusa, hipotensão e ar livre no recesso hepatofrênico configuram perfuração de víscera oca, sendo a úlcera péptica perfurada a hipótese mais provável.",
+      "optionExplanations": {
+        "A": "Correta: reúne fator de risco, dor epigástrica, peritonite e pneumoperitônio.",
+        "B": "Pancreatite causa dor epigástrica irradiada e elevação de lipase/amilase, mas não costuma produzir pneumoperitônio e peritonite por perfuração.",
+        "C": "Colecistite dá dor em hipocôndrio direito, Murphy positivo e inflamação vesicular, não ar livre intraperitoneal.",
+        "D": "Diverticulite costuma causar dor em fossa ilíaca esquerda e achados colônicos na TC; não explica o padrão epigástrico associado ao uso de AINE."
+      },
+      "keyPoint": "Pneumoperitônio + sinais de peritonite em usuário crônico de AINE deve fazer pensar imediatamente em úlcera péptica perfurada.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -167,9 +177,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Telarca antes dos 8 anos associada a aceleração do crescimento e avanço significativo da idade óssea sugere ativação verdadeira do eixo hipotálamo-hipófise-gonadal, compatível com puberdade precoce central. A ausência de pelos pubianos não exclui esse diagnóstico.",
+      "optionExplanations": {
+        "A": "Correta: o desenvolvimento mamário precoce associado a idade óssea cerca de 2 anos avançada é sinal de progressão puberal.",
+        "B": "A diferença entre idade óssea de 9 anos e 6 meses e cronológica de 7 anos e 6 meses é relevante.",
+        "C": "Telarca isolada tende a não cursar com avanço importante de idade óssea nem aceleração de crescimento.",
+        "D": "M2P1 significa desenvolvimento mamário sem pubarca; portanto a justificativa da alternativa é falsa."
+      },
+      "keyPoint": "Na menina, puberdade antes dos 8 anos com progressão mamária, estirão e idade óssea avançada favorece puberdade precoce central, não telarca isolada.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -210,9 +225,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Sangramento vaginal pequeno no início da gestação com colo fechado e elevação expressiva do beta-hCG, sem descrição de eliminação de produtos ou instabilidade, é compatível com ameaça de abortamento. A conduta proposta pelo item é conservadora.",
+      "optionExplanations": {
+        "A": "Não há elementos suficientes para diagnosticar ectópica nem indicação de laparotomia em paciente estável.",
+        "B": "Correta pelo gabarito: colo fechado e sangramento discreto favorecem ameaça de abortamento, com manejo conservador.",
+        "C": "Aborto incompleto pressupõe eliminação parcial de produtos e frequentemente colo aberto; isso não foi descrito.",
+        "D": "Aborto em evolução costuma apresentar colo dilatado e progressão do processo abortivo, ausentes no caso."
+      },
+      "keyPoint": "Ameaça de abortamento: sangramento em gestação inicial com colo uterino fechado e sem evidência de expulsão do concepto.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -253,9 +273,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O quadro é típico de escabiose: prurido noturno e pápulas em dobras, em ambiente de superlotação. O controle exige tratar simultaneamente contatos próximos, higienizar roupas e ambiente e usar escabicida em dose adequada ao peso. A ivermectina oral é calculada por peso e repetida para atingir novos parasitas eclodidos.",
+      "optionExplanations": {
+        "A": "A ivermectina de apenas 6 mg é subdose para 98 kg e isolamento rígido em cela não é a medida central de controle.",
+        "B": "Inseticidas e fumigantes não são tratamento recomendado da escabiose; a estratégia deve focar pessoas, roupas e contatos.",
+        "C": "Fluconazol trata fungos, não Sarcoptes scabiei.",
+        "D": "Correta: combina higienização, tratamento dos contactantes e ivermectina em dose baseada no peso, com repetição do esquema."
+      },
+      "keyPoint": "Escabiose em ambiente coletivo exige tratamento simultâneo dos contatos e medidas ambientais; dose fixa baixa de ivermectina é inadequada para adulto de 98 kg.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -296,9 +321,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Houve falha de esquema com claritromicina e exposição prévia repetida a macrolídeos e fluoroquinolonas, o que aumenta resistência. O resgate preferencial, entre as alternativas, é terapia quádrupla com bismuto por 14 dias: inibidor de bomba de prótons, bismuto, tetraciclina/doxiciclina e metronidazol.",
+      "optionExplanations": {
+        "A": "Reutiliza levofloxacino após exposição recorrente a fluoroquinolonas e ainda por duração curta.",
+        "B": "Repete simultaneamente claritromicina e levofloxacino, justamente classes associadas à resistência do caso.",
+        "C": "Correta: esquema quádruplo com bismuto por 14 dias, sem macrolídeo ou fluoroquinolona.",
+        "D": "Inclui levofloxacino, classe que deve ser evitada nesse contexto de exposição e provável resistência."
+      },
+      "keyPoint": "Após falha de claritromicina e exposição a quinolonas, evite repetir essas classes; prefira esquema quádruplo com bismuto.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -339,9 +369,14 @@
         }
       ],
       "correctOption": null,
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "QUESTÃO ANULADA pelo gabarito definitivo do INEP. O paciente tem obstrução de via aérea rapidamente progressiva após trauma facial e hipoxemia extrema, portanto a prioridade é estabelecer uma via aérea definitiva imediatamente. A questão é controversa porque o enunciado não esclarece de forma suficiente se a intubação orotraqueal ainda é tecnicamente possível ou se já se trata de cenário “não intuba, não oxigena”, no qual uma via aérea cirúrgica seria necessária.",
+      "optionExplanations": {
+        "A": "Traqueostomia é uma via aérea cirúrgica definitiva, porém é mais lenta e não costuma ser a primeira opção em emergência extrema.",
+        "B": "Cricotireoidotomia é a via aérea cirúrgica de emergência clássica quando não se consegue intubar nem oxigenar; a ausência dessa informação explícita contribui para a controvérsia.",
+        "C": "Intubação orotraqueal pode ser tentada se ainda houver possibilidade técnica de visualizar/proteger a via aérea, mas o trauma facial grave pode dificultá-la.",
+        "D": "Intubação nasotraqueal é inadequada em muitos traumas faciais e não é a via de escolha em deterioração aguda."
+      },
+      "keyPoint": "Em trauma de face com deterioração rápida, a decisão entre intubação e via aérea cirúrgica depende da possibilidade real de ventilação/intubação; como o INEP anulou o item, não atribua uma alternativa como correta.",
       "status": "annulled",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -382,9 +417,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "A migração da dor para fossa ilíaca direita sugere apendicite, mas o achado que indica irritação peritoneal e necessidade de avaliação cirúrgica é a descompressão brusca dolorosa. Defesa e peritonismo elevam a preocupação com inflamação transmural/perfuração.",
+      "optionExplanations": {
+        "A": "Dor difusa é inespecífica e, isoladamente, não define necessidade de cirurgia.",
+        "B": "Correta: descompressão brusca dolorosa é sinal de peritonite.",
+        "C": "Dor com vômitos é frequente em várias doenças clínicas e cirúrgicas, mas é menos específica que peritonismo.",
+        "D": "Massa em fossa ilíaca direita pode ocorrer em plastrão, mas não está presente no caso e não é o achado-chave solicitado."
+      },
+      "keyPoint": "Sinal de irritação peritoneal é um marcador de abdome cirúrgico e deve motivar avaliação rápida pela cirurgia.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -425,9 +465,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Losartana, como bloqueador do receptor de angiotensina, é contraindicada na gestação por fetotoxicidade. A gestante tem hipertensão crônica e alto risco de pré-eclâmpsia, devendo migrar para anti-hipertensivo compatível com gestação, receber AAS profilático no período apropriado e ser avaliada quanto a lesão de órgãos-alvo.",
+      "optionExplanations": {
+        "A": "Correta: suspende losartana, inicia opção segura como metildopa, associa AAS e pesquisa lesão de órgãos-alvo.",
+        "B": "Losartana não deve ser mantida durante a gestação.",
+        "C": "Suspender a losartana é correto, mas apenas encaminhar para cardiologia não contempla o manejo inicial nem a profilaxia de pré-eclâmpsia.",
+        "D": "Além de manter medicamento contraindicado, investigação de hipertensão secundária não é a prioridade neste caso de hipertensão crônica conhecida."
+      },
+      "keyPoint": "Hipertensão crônica na gestação: suspender IECA/BRA, usar droga segura e estratificar dano de órgão-alvo e risco de pré-eclâmpsia.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -468,9 +513,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Na gravidez não planejada, o profissional deve acolher sem julgamento, manter confidencialidade, fornecer informações clínicas e legais e reduzir riscos. Não cabe coagir a paciente, ocultar opções, impor denúncia policial ou ameaçar abandono do cuidado.",
+      "optionExplanations": {
+        "A": "Iniciar pré-natal e falar em adoção sem antes explorar de forma centrada na paciente suas dúvidas e opções restringe a autonomia.",
+        "B": "A alternativa é coercitiva e ainda parte de uma premissa jurídica inadequada para o caso; o papel do médico não é amedrontar a paciente.",
+        "C": "Correta: garante informação, sigilo e orientação de sinais de alarme, mantendo vínculo assistencial.",
+        "D": "Não existe obrigação ética geral de o médico registrar boletim de ocorrência porque a paciente realizou aborto; isso também comprometeria sigilo e vínculo."
+      },
+      "keyPoint": "Cuidado reprodutivo ético combina informação, sigilo, não julgamento e redução de danos dentro dos limites legais.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -511,9 +561,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "A paciente apresenta dependência de nicotina, tentativas prévias frustradas e sintomas de abstinência. A combinação de intervenção comportamental com farmacoterapia para cessação aumenta a chance de sucesso em comparação a qualquer uma isoladamente.",
+      "optionExplanations": {
+        "A": "Reposição de nicotina isolada pode ajudar, mas perde eficácia por não abordar gatilhos, hábitos e prevenção de recaída.",
+        "B": "Correta: terapia comportamental associada à reposição de nicotina é abordagem de primeira linha.",
+        "C": "Cessar sem suporte farmacológico é possível, mas é menos adequado neste caso com abstinência e repetidas tentativas fracassadas.",
+        "D": "Benzodiazepínicos não tratam dependência de nicotina e trazem risco de sedação, dependência e prejuízo funcional."
+      },
+      "keyPoint": "Tabagismo com dependência e abstinência: combine aconselhamento estruturado com terapia farmacológica quando não houver contraindicação.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -554,9 +609,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Salivação excessiva, tosse, cianose e regurgitação durante a primeira alimentação, associados a polidrâmnio pré-natal, são achados clássicos de atresia de esôfago, frequentemente associada a fístula traqueoesofágica. A impossibilidade de progressão de sonda orogástrica ajudaria a confirmar a suspeita.",
+      "optionExplanations": {
+        "A": "Correta: explica sialorreia, regurgitação, tosse e desconforto respiratório logo ao alimentar.",
+        "B": "Atresia gástrica causa obstrução digestiva e vômitos, mas não o padrão típico de sialorreia e engasgos desde a deglutição.",
+        "C": "Atresia intestinal costuma manifestar-se com distensão e vômitos biliosos, não com salivação e tosse durante mamada.",
+        "D": "“Atresia pancreática” não explica o quadro clínico e não é diagnóstico compatível com os sinais descritos."
+      },
+      "keyPoint": "Recém-nascido que engasga e fica cianótico ao mamar, com sialorreia e história de polidrâmnio, deve ser investigado para atresia esofágica.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -597,9 +657,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "A perda foi de 175 g em um recém-nascido de 3.500 g: 175/3.500 = 0,05, ou 5%. Perda ponderal nos primeiros dias é fisiológica por diurese, eliminação de mecônio e adaptação da ingesta, desde que o bebê esteja hidratado, ativo e com eliminações adequadas.",
+      "optionExplanations": {
+        "A": "Correta: o cálculo é 5% e não há sinal clínico de desidratação ou falha alimentar.",
+        "B": "O cálculo de 15% está errado e complemento não é indicado apenas pelo dado apresentado.",
+        "C": "Além do cálculo incorreto, 15% seria perda excessiva e exigiria avaliação de amamentação e hidratação.",
+        "D": "Perda fisiológica pode começar já nas primeiras 24 horas; portanto 5% nesse momento pode ocorrer."
+      },
+      "keyPoint": "Perda de 5% nas primeiras 24 horas, em recém-nascido bem hidratado e em aleitamento, está dentro do esperado.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -640,9 +705,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "A retirada bilateral dos ovários provocou menopausa cirúrgica sintomática. Apesar da histerectomia, a presença prévia de endometriose muda a escolha: associar progestagênio ao estrogênio reduz o estímulo de possíveis focos residuais de endometriose.",
+      "optionExplanations": {
+        "A": "Fitoterápicos podem ter efeito limitado e não são a melhor opção para sintomas vasomotores intensos e síndrome geniturinária.",
+        "B": "Endometriose não contraindica de forma absoluta terapia hormonal; tricíclicos não tratam a deficiência estrogênica de base.",
+        "C": "Em histerectomizada sem endometriose, estrogênio isolado seria usual; aqui pode estimular focos endometrióticos residuais.",
+        "D": "Correta: combina alívio dos sintomas com proteção contra estímulo estrogênico de eventuais focos de endometriose."
+      },
+      "keyPoint": "Após ooforectomia bilateral com endometriose residual possível, terapia estro-progestativa é preferível a estrogênio isolado.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -683,9 +753,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Há suspeita consistente de violência sexual infantil. A notificação é obrigatória diante de suspeita, não apenas após confirmação. O prontuário deve registrar fatos e achados de forma objetiva, e a equipe deve articular a rede de proteção, incluindo Conselho Tutelar e serviços sociais, evitando revitimização.",
+      "optionExplanations": {
+        "A": "Correta: preserva evidências clínicas, cumpre notificação e organiza seguimento multiprofissional e protetivo.",
+        "B": "A notificação não deve ser condicionada à confirmação pericial; esperar confirmação pode atrasar proteção.",
+        "C": "Confrontar diretamente familiares, sobretudo possível agressor, pode aumentar risco e prejudicar a investigação e a proteção da criança.",
+        "D": "Denúncia policial isolada não substitui a notificação em saúde e a articulação da rede; o manejo deve ser coordenado e protetivo."
+      },
+      "keyPoint": "Em suspeita de violência contra criança: documente objetivamente, notifique e acione a rede de proteção; não espere prova definitiva.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -726,9 +801,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Interrupção abrupta do álcool há 48 horas seguida de agitação, confusão, tremor, sudorese, taquicardia e hipertensão autonômica caracteriza síndrome de abstinência grave com delirium tremens. Benzodiazepínicos são o tratamento de primeira linha, titulados à resposta clínica.",
+      "optionExplanations": {
+        "A": "Haloperidol pode ser adjuvante em situações selecionadas, mas não substitui benzodiazepínico e pode reduzir limiar convulsivo.",
+        "B": "Correta: diazepam intravenoso trata hiperatividade autonômica, agitação e previne convulsões.",
+        "C": "O quadro temporal e autonômico é muito mais compatível com abstinência do que encefalopatia hipertensiva.",
+        "D": "A PA elevada faz parte da descarga adrenérgica; nitroprussiato não trata a causa e pode provocar redução pressórica perigosa."
+      },
+      "keyPoint": "Delirium tremens é emergência da abstinência alcoólica; benzodiazepínico é a base do tratamento.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -769,9 +849,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Para cirurgia eletiva em adulto saudável, recomenda-se jejum de refeição sólida usual por cerca de 6 a 8 horas e líquidos claros até 2 horas antes da anestesia. Jejum excessivamente prolongado aumenta desconforto e não traz benefício em paciente de baixo risco.",
+      "optionExplanations": {
+        "A": "Jejuns de 12 e 8 horas são mais longos do que o necessário em paciente eletivo saudável.",
+        "B": "Correta: 6–8 horas para sólidos e 2 horas para líquidos claros.",
+        "C": "Uma hora para bebida proteica não é o intervalo padrão seguro proposto para este cenário.",
+        "D": "Dez horas para sólidos e quatro para água também prolongam desnecessariamente o jejum."
+      },
+      "keyPoint": "Jejum pré-operatório moderno: sólidos em geral 6–8 h; líquidos claros até 2 h antes da anestesia, salvo situações especiais.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -812,9 +897,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O teste do pezinho tem janela ideal precoce, mas a ausência de coleta não deve ser interpretada como perda definitiva da oportunidade. Em situação excepcional de acesso difícil ou negligência, a coleta tardia deve ser realizada e o resultado interpretado considerando a idade.",
+      "optionExplanations": {
+        "A": "É incorreto afirmar que após o 28º dia o teste não pode mais ser colhido em nenhuma circunstância.",
+        "B": "O período entre 3º e 5º dia é o ideal para vários testes, não um limite absoluto que impeça coleta tardia excepcional.",
+        "C": "A coleta muito precoce ainda na maternidade pode ser inadequada para alguns analitos; o ponto central é garantir a triagem na janela recomendada.",
+        "D": "Correta: após 28 dias pode haver coleta excepcional quando houve dificuldade de acesso ou negligência."
+      },
+      "keyPoint": "Atraso na triagem neonatal não é motivo para desistir da coleta; faça-a o quanto antes e organize seguimento.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -855,9 +945,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Linha de base fetal em torno de 102 bpm mantida por 10 minutos caracteriza bradicardia basal. Sem outras alterações da cardiotocografia ou instabilidade materna, o primeiro passo cobrado pela prova é adotar medidas intrauterinas simples, como mudança de posição materna, e reavaliar antes de indicar parto operatório. O item inclui oxigênio como parte dessas medidas no referencial da prova.",
+      "optionExplanations": {
+        "A": "Uma bradicardia basal isolada, com demais parâmetros normais, não justifica cesárea imediata sem medidas iniciais e reavaliação.",
+        "B": "Ocitocina pode aumentar a atividade uterina e piorar oxigenação fetal, portanto não é medida de ressuscitação.",
+        "C": "Tocolítico é reservado para taquissistolia/hiperestimulação; isso não foi descrito.",
+        "D": "Correta segundo o gabarito: reposicionar a gestante, ofertar suporte e reavaliar a frequência cardíaca fetal."
+      },
+      "keyPoint": "Alteração isolada da frequência fetal deve ser reavaliada após medidas de suporte antes de se concluir por sofrimento fetal e indicar cesárea.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -898,9 +993,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O paciente reconhece que o comportamento está causando prejuízo familiar e financeiro e admite dificuldade de controle, mas ainda não descreve plano concreto ou início de mudança. Isso corresponde ao estágio de contemplação do modelo transteórico.",
+      "optionExplanations": {
+        "A": "Ação pressupõe mudança já em curso, o que não aparece no relato.",
+        "B": "Correta: há consciência do problema e ambivalência, sem plano concreto de execução.",
+        "C": "Pré-contemplação é o estágio em que a pessoa não reconhece problema ou não considera mudança.",
+        "D": "Preparação envolve intenção definida e planejamento próximo; a justificativa da alternativa descreve o oposto."
+      },
+      "keyPoint": "Contemplação = reconhece o problema e considera mudar, mas ainda existe ambivalência e não há ação estruturada.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -941,9 +1041,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "A obstrução é persistente após broncodilatador e o VEF1 pós-broncodilatador é 1,73 L para previsto de 3,65 L, aproximadamente 47% do previsto. Pela classificação funcional GOLD, VEF1 entre 30% e 49% corresponde a GOLD 3.",
+      "optionExplanations": {
+        "A": "GOLD 1 exige VEF1 ≥ 80% do previsto.",
+        "B": "GOLD 2 corresponde a VEF1 entre 50% e 79%; 47% fica abaixo dessa faixa.",
+        "C": "Correta: VEF1 ≈47% do previsto enquadra-se em GOLD 3.",
+        "D": "GOLD 4 corresponde a VEF1 < 30% do previsto."
+      },
+      "keyPoint": "Na DPOC, a gravidade espirométrica usa o VEF1 pós-broncodilatador em percentual do previsto: 47% = GOLD 3.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -984,9 +1089,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Extravasamento de conteúdo gelatinoso após trauma penetrante sugere ruptura de globo ocular. Deve-se evitar pressão, irrigação e manipulação; proteger o olho com escudo rígido sem compressão, iniciar antibiótico sistêmico de amplo espectro, revisar tétano e encaminhar urgentemente à oftalmologia.",
+      "optionExplanations": {
+        "A": "Irrigação pode aumentar extrusão do conteúdo ocular em globo aberto; penicilina isolada não é cobertura adequada.",
+        "B": "Correta: escudo rígido sem compressão, fluoroquinolona sistêmica e checagem antitetânica.",
+        "C": "Corticoide tópico não deve ser iniciado antes de avaliação especializada e radiografia simples é menos útil que TC quando há suspeita de corpo estranho intraocular.",
+        "D": "Curativo oclusivo exerce pressão sobre o globo e colírio isolado não substitui antibiótico sistêmico em ferimento penetrante."
+      },
+      "keyPoint": "Suspeita de globo aberto: não pressione nem irrigue; proteja com escudo rígido e providencie antibiótico sistêmico, tétano e avaliação cirúrgica.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1027,9 +1137,14 @@
         }
       ],
       "correctOption": null,
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "QUESTÃO ANULADA pelo gabarito definitivo do INEP. As alternativas misturam achados de diferentes infecções congênitas. Toxoplasmose associa-se classicamente a hidrocefalia, calcificações intracranianas e coriorretinite; rubéola a catarata, cardiopatia e surdez; sífilis a rinite serossanguinolenta e pseudoparalisia de Parrot; citomegalovírus a microcefalia, calcificações periventriculares, perda auditiva e petéquias. Como nenhuma alternativa apresenta associação integralmente correta, não se deve atribuir resposta oficial.",
+      "optionExplanations": {
+        "A": "Hidrocefalia combina com toxoplasmose, mas plaquetose não é achado clássico; trombocitopenia é que pode ocorrer em infecções congênitas.",
+        "B": "Rubéola congênita é lembrada por catarata, surdez e cardiopatia; a descrição apresentada não é a associação típica.",
+        "C": "Rinite serossanguinolenta e pseudoparalisia de Parrot apontam para sífilis congênita, não herpes simples.",
+        "D": "Catarata e persistência do canal arterial/estenose pulmonar são clássicos de rubéola, não de citomegalovírus."
+      },
+      "keyPoint": "Em TORCH, memorize constelações típicas e desconfie de alternativas que misturam sinais de duas ou mais infecções.",
       "status": "annulled",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1070,9 +1185,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Dor abdominal súbita, sangramento vaginal escuro, hipertonia uterina, choque materno e bradicardia fetal intensa em gestante hipertensa formam quadro clássico de descolamento prematuro de placenta grave. A prioridade é reanimar a mãe e, com feto vivo em sofrimento e colo fechado, realizar cesariana de emergência.",
+      "optionExplanations": {
+        "A": "Correta: reconhece DPP, inicia reanimação, posiciona adequadamente e ultima rapidamente por cesárea.",
+        "B": "Indução vaginal é inadequada diante de bradicardia fetal grave e colo fechado, pois atrasaria a resolução.",
+        "C": "Placenta prévia costuma causar sangramento vermelho vivo, indolor e útero sem hipertonia; uterolítico não resolve DPP.",
+        "D": "Além do diagnóstico errado de placenta prévia, indução vaginal não é apropriada nesse cenário de choque e sofrimento fetal."
+      },
+      "keyPoint": "DPP grave: estabilização materna vem primeiro; sofrimento fetal importante com parto vaginal não iminente indica cesárea urgente.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1113,9 +1233,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O cuidado à população cigana/Romani deve evitar estereótipos e considerar determinantes como racismo, violência, exclusão social e desigualdades de gênero. A alternativa correta reconhece problemas de saúde mental e sua relação com essas vulnerabilidades sem generalizar um único modo de vida para todas as comunidades.",
+      "optionExplanations": {
+        "A": "Generaliza papéis de gênero e cria barreira de acesso com uma regra cultural apresentada como universal.",
+        "B": "Correta: relaciona sofrimento mental, especialmente entre mulheres, a racismo e outras formas de violência.",
+        "C": "Também generaliza liderança feminina para todas as comunidades, o que não respeita diversidade cultural.",
+        "D": "É incorreto afirmar que a grande maioria permanece nômade; há grande heterogeneidade de modos de moradia e circulação."
+      },
+      "keyPoint": "Planejamento em saúde para povos Romani deve partir da diversidade interna e dos efeitos do racismo e da exclusão, não de estereótipos culturais fixos.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1156,9 +1281,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O paciente tem exacerbação grave de DPOC: piora de dispneia, aumento e purulência do escarro, hipoxemia clínica, cianose e alteração do nível de consciência. Esse conjunto exige internação e corticoterapia sistêmica, além das demais medidas de suporte e tratamento da exacerbação.",
+      "optionExplanations": {
+        "A": "Acompanhamento ambulatorial é insuficiente diante de torpor e cianose.",
+        "B": "Corticoide inalatório não substitui o corticoide sistêmico no tratamento agudo da exacerbação grave.",
+        "C": "A internação é correta, mas a via inalatória isolada não corresponde à corticoterapia obrigatória da exacerbação grave.",
+        "D": "Correta: corticoterapia sistêmica e internação hospitalar são obrigatórias nesse quadro de alta gravidade."
+      },
+      "keyPoint": "Exacerbação grave de DPOC com alteração de consciência ou hipoxemia deve ser tratada em ambiente hospitalar; corticoide sistêmico reduz tempo de recuperação e risco de falha.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1199,9 +1329,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O quadro é altamente sugestivo de apendicite aguda: dor migratória, hiporexia, náusea, neutrofilia e dor em fossa ilíaca direita. O achado complementar clássico é dor à descompressão no ponto de McBurney, localizado entre o umbigo e a espinha ilíaca ântero-superior direita.",
+      "optionExplanations": {
+        "A": "Dor à punho-percussão lombar aponta para pielonefrite ou litíase urinária, não apendicite.",
+        "B": "Crepitação de parede com gás sugere infecção necrosante ou enfisema subcutâneo, não o quadro descrito.",
+        "C": "Sinal de Murphy é associado à colecistite aguda.",
+        "D": "Correta: descreve o ponto de McBurney e irritação peritoneal em fossa ilíaca direita."
+      },
+      "keyPoint": "Na apendicite, dor no ponto de McBurney e sinais de irritação peritoneal reforçam o diagnóstico.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1242,9 +1377,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Prematuridade extrema é importante fator de risco para doença grave por vírus sincicial respiratório. No referencial cobrado pela prova, o lactente de 5 meses nascido com 28 semanas preenche critério para imunoprofilaxia sazonal com palivizumabe, associada às medidas gerais de prevenção de infecções respiratórias.",
+      "optionExplanations": {
+        "A": "A vacina influenza só é indicada a partir da faixa etária prevista no calendário; aos 5 meses ela não substitui a profilaxia do VSR.",
+        "B": "Correta no protocolo cobrado pela prova: palivizumabe associado a higiene de mãos, evitar exposição a sintomáticos e tabaco.",
+        "C": "Encaminhamento à infectologia não substitui profilaxia específica quando há critério.",
+        "D": "Omalizumabe é biológico para asma alérgica grave, não profilaxia de infecção por VSR."
+      },
+      "keyPoint": "Prematuro muito jovem entrando na sazonalidade do VSR pode ter indicação de imunoprofilaxia específica conforme protocolo vigente.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1285,9 +1425,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Febre, mialgia/artralgia, exantema e trombocitopenia importante são compatíveis com dengue. Na gestação, e especialmente com plaquetas de 28.000/mm³, a paciente necessita manejo hospitalar, hidratação venosa e vigilância clínica/laboratorial devido ao maior risco de complicações.",
+      "optionExplanations": {
+        "A": "Correta: reconhece dengue e propõe internação, hidratação venosa e monitorização seriada.",
+        "B": "Chikungunya costuma cursar com artralgia mais intensa e persistente; a trombocitopenia grave favorece dengue e a alta proposta é inadequada.",
+        "C": "Zika em geral causa exantema/prurido com febre baixa e quadro mais brando; plaquetas de 28 mil não combinam com conduta de observação curta.",
+        "D": "Não há base para Oropouche e transfusão profilática de plaquetas não é indicada apenas pelo número, sem sangramento grave."
+      },
+      "keyPoint": "Gestante com dengue e trombocitopenia acentuada não deve receber alta simples; exige vigilância e hidratação conforme classificação de risco.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1328,9 +1473,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "A poluição atmosférica participa da carga de doenças cardiovasculares, metabólicas e respiratórias. Medidas de redução de exposição, como evitar ventilação direta nos horários de pico de tráfego quando o ar externo está mais poluído, podem ser orientadas como adaptação individual, sem substituir políticas ambientais coletivas.",
+      "optionExplanations": {
+        "A": "Correta: reconhece efeitos da poluição do ar e uma medida prática de redução de exposição em períodos críticos.",
+        "B": "A expansão de monoculturas para biocombustível não garante melhoria social e pode competir com produção de alimentos e gerar outros impactos ambientais.",
+        "C": "O calor pode causar vasodilatação, desidratação e até hipotensão; aumentar anti-hipertensivos automaticamente pode ser perigoso.",
+        "D": "Educação em saúde sobre clima é recomendável quando adequada à faixa etária; evitar o tema não é estratégia de promoção da saúde."
+      },
+      "keyPoint": "Mudanças climáticas e poluição exigem medidas de mitigação coletivas e estratégias individuais de redução de exposição; não se deve medicalizar automaticamente efeitos ambientais.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1371,9 +1521,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "TRM positivo para tuberculose com detecção de resistência à rifampicina deve ser considerado sinal de tuberculose resistente até esclarecimento. Não é necessário esperar baciloscopia para manter o encaminhamento; deve-se confirmar resistência com nova amostra e realizar cultura e teste de sensibilidade para orientar o esquema especializado.",
+      "optionExplanations": {
+        "A": "A baciloscopia não é requisito para reconhecer o resultado molecular, e cancelar o encaminhamento atrasaria manejo de possível TB resistente.",
+        "B": "Não se deve iniciar o esquema básico em caso de resistência à rifampicina detectada pelo TRM.",
+        "C": "Correta: mantém referência e solicita nova investigação molecular, cultura e teste de sensibilidade.",
+        "D": "A conduta não é inadequada e a baciloscopia isolada não resolve a questão da resistência."
+      },
+      "keyPoint": "Resistência à rifampicina no TRM muda o fluxo: referência especializada, confirmação microbiológica e teste de sensibilidade; não iniciar esquema básico às cegas.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1414,9 +1569,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Uma paciente em instabilidade hemodinâmica no pós-operatório imediato precisa ser estabilizada e transportada de forma segura, com suporte médico apropriado. Transferir essa responsabilidade aos familiares, sem estabilização, caracteriza omissão de cuidado devido e, portanto, negligência.",
+      "optionExplanations": {
+        "A": "Operar em clínica privada não é, por si só, imprudência; a inadequação depende de estrutura e condutas concretas.",
+        "B": "Não há informação que demonstre falha técnica na realização da abdominoplastia, portanto não se pode concluir imperícia.",
+        "C": "Correta: houve omissão de estabilização e de transporte medicalizado diante de instabilidade grave.",
+        "D": "Pedir à família que transporte paciente instável não é diligência adequada e expõe a paciente a risco previsível."
+      },
+      "keyPoint": "Negligência é deixar de adotar cuidado necessário; imprudência é agir de modo temerário e imperícia é falta de capacidade técnica.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1457,9 +1617,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Para manter aleitamento após retorno ao trabalho, a mãe deve aprender ordenha higiênica e armazenamento seguro. No referencial do Ministério da Saúde cobrado pela prova, o leite ordenhado pode permanecer congelado por até 15 dias, contando-se a partir da primeira coleta colocada naquele recipiente.",
+      "optionExplanations": {
+        "A": "Fervura e micro-ondas podem destruir componentes e produzir aquecimento desigual; não são recomendados para descongelar leite humano.",
+        "B": "Não se orienta higienizar a mama com álcool 70% antes da ordenha; higiene das mãos e recipiente adequado são suficientes.",
+        "C": "Correta: congelamento por até 15 dias é a recomendação doméstica cobrada pela prova.",
+        "D": "Para reduzir confusão de bicos, prefere-se copo, colher ou outro método orientado, em vez de mamadeira como regra."
+      },
+      "keyPoint": "Leite humano ordenhado deve ser coletado com higiene, armazenado corretamente e descongelado em banho-maria morno; mamadeira não é a forma preferencial de oferta.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1500,9 +1665,14 @@
         }
       ],
       "correctOption": null,
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "QUESTÃO ANULADA pelo gabarito definitivo do INEP. A menina tem 14 anos e sinais de desenvolvimento puberal, mas o enunciado não informa quando começou a telarca nem há outros dados para aplicar com segurança os critérios de investigação de amenorreia primária. Em geral, investiga-se ausência de menarca aos 15 anos ou mais de 3 anos após o início do desenvolvimento mamário; por isso as alternativas não permitem uma resposta inequívoca.",
+      "optionExplanations": {
+        "A": "Poderia ser indicada investigação se já houvesse critério temporal, mas essa informação não está completa no enunciado.",
+        "B": "Aguardar até 16 anos pode atrasar investigação em pacientes que já preencham critérios aos 15 anos ou após 3 anos de telarca.",
+        "C": "Teste de progesterona não é o primeiro passo universal para confirmar amenorreia primária e não resolve a lacuna do caso.",
+        "D": "Ultrassonografia e hormônios podem fazer parte da investigação, mas a questão não fornece dados suficientes para afirmar que devem ser solicitados imediatamente."
+      },
+      "keyPoint": "Na amenorreia primária, idade cronológica deve ser interpretada junto com o estágio e o tempo de desenvolvimento puberal; por isso o item foi anulado.",
       "status": "annulled",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1543,9 +1713,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O cuidado de populações ribeirinhas e indígenas deve ser culturalmente seguro, participativo e integrado. A equipe deve valorizar práticas tradicionais, promover uso racional de medicamentos e construir o plano de cuidado em diálogo com saberes comunitários, sem impor um único modelo biomédico.",
+      "optionExplanations": {
+        "A": "Conhecer a cultura local é valioso, mas profissionais comunitários também precisam de formação técnica e educação permanente.",
+        "B": "Separar rigidamente medicina ocidental para ribeirinhos e práticas tradicionais para indígenas cria falsa dicotomia; o cuidado deve ser integrado e pactuado.",
+        "C": "Correta: valoriza saberes tradicionais, uso racional de medicamentos e participação comunitária.",
+        "D": "Padronizar atendimentos ignora diferenças culturais e reduz a capacidade de resposta às necessidades específicas de cada população."
+      },
+      "keyPoint": "Equidade não é tratar todos de modo idêntico; é adaptar o cuidado às necessidades, culturas e formas locais de organização.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1586,9 +1761,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O início abrupto de febre alta, mialgia, cefaleia e sintomas respiratórios em várias pessoas da mesma comunidade sugere influenza, e os estertores com dispneia indicam acometimento pulmonar viral. Povos indígenas são grupo de maior risco para complicações, justificando oseltamivir sem aguardar confirmação laboratorial.",
+      "optionExplanations": {
+        "A": "Correta: quadro epidemiológico e clínico favorece pneumonia viral por influenza, com indicação de oseltamivir.",
+        "B": "Tuberculose costuma ter evolução subaguda/crônica, não surto simultâneo de 36 horas com febre alta e mialgia.",
+        "C": "Pneumonia bacteriana é possível, mas o padrão de surto e síndrome gripal favorece influenza; ceftriaxona mais amoxicilina não é o esquema justificado pelo caso.",
+        "D": "Resfriado comum não costuma causar febre de 39 °C, dispneia e estertores focais."
+      },
+      "keyPoint": "Síndrome gripal com sinais de pneumonia em grupo de risco deve receber antiviral precoce quando influenza é provável.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1629,9 +1809,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "No Brasil, a retirada de órgãos de pessoa falecida depende de autorização familiar, mesmo quando o indivíduo havia manifestado em vida vontade de doar. A morte encefálica está confirmada, mas a oposição do cônjuge impede a doação no fluxo legal apresentado pela prova.",
+      "optionExplanations": {
+        "A": "Ter rim único não impede automaticamente a doação de outros órgãos e tecidos; a avaliação é órgão a órgão.",
+        "B": "Correta: é necessária autorização familiar, representada no caso pelo esposo.",
+        "C": "O poder público não pode simplesmente sobrepor-se à recusa familiar para executar a doação.",
+        "D": "Anti-HBs positivo com HBsAg negativo sugere imunidade à hepatite B e não contraindica, por si só, doação de órgãos."
+      },
+      "keyPoint": "Na doação post mortem, a manifestação prévia do potencial doador não substitui a autorização familiar exigida pela legislação brasileira.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1672,9 +1857,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Aos 6 meses inicia-se alimentação complementar mantendo o aleitamento materno. A orientação cobrada é oferecer uma refeição principal com alimentos in natura ou minimamente processados e uma porção de fruta, progredindo gradualmente a variedade e consistência.",
+      "optionExplanations": {
+        "A": "Composto lácteo não deve substituir o aleitamento materno em lactente saudável.",
+        "B": "Uma única refeição principal, sem fruta, fica incompleta frente ao esquema alimentar recomendado no item.",
+        "C": "Suco não é recomendado para substituir fruta e “papas” muito liquidificadas não favorecem a progressão de consistências.",
+        "D": "Correta: mantém aleitamento e introduz refeição principal mais porção de fruta."
+      },
+      "keyPoint": "Introdução alimentar aos 6 meses: manter leite materno e iniciar comida de verdade, incluindo refeição principal e fruta, sem sucos ou compostos lácteos desnecessários.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1715,9 +1905,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O caso preenche vários critérios de Amsel para vaginose bacteriana: corrimento homogêneo, pH acima de 4,5, teste das aminas positivo e clue cells. O tratamento pode ser metronidazol oral ou vaginal, ou clindamicina vaginal conforme esquema indicado.",
+      "optionExplanations": {
+        "A": "Vaginose citolítica tende a apresentar excesso de lactobacilos e pH ácido, não clue cells com pH >5.",
+        "B": "Tricomoníase costuma produzir corrimento amarelo-esverdeado, inflamação e tricomonas móveis; creme vaginal isolado não é opção equivalente ao tratamento sistêmico.",
+        "C": "Candidíase costuma causar prurido intenso, hiperemia e corrimento grumoso, com pH geralmente normal.",
+        "D": "Correta: diagnóstico e opções terapêuticas correspondem à vaginose bacteriana."
+      },
+      "keyPoint": "Vaginose bacteriana = pH elevado + odor de aminas + clue cells + corrimento homogêneo, geralmente sem inflamação vaginal intensa.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1758,9 +1953,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "A lombalgia tem padrão mecânico, sem febre, perda de peso, trauma importante, déficit neurológico ou Lasègue positivo. Na ausência de sinais de alerta, não há indicação de imagem nas primeiras semanas. Deve-se manter atividade, orientar exercício e usar analgesia/anti-inflamatório por curto período conforme necessidade.",
+      "optionExplanations": {
+        "A": "Irradiação isolada, sem déficit neurológico ou Lasègue positivo, não obriga ressonância magnética.",
+        "B": "Radiografia e corticoide sistêmico não são indicados rotineiramente nesse quadro sem sinais de alerta.",
+        "C": "Repouso prolongado piora descondicionamento e corticoide sistêmico não é tratamento de rotina da lombalgia mecânica.",
+        "D": "Correta: sem exames, atividade/exercício e tratamento sintomático com AINE e, por curto prazo, relaxante muscular."
+      },
+      "keyPoint": "Lombalgia inespecífica sem red flags é diagnóstico clínico: evite imagem precoce e estimule manutenção das atividades.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1801,9 +2001,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Úlcera genital única, indolor, de base limpa e borda endurecida, associada a linfonodos inguinais indolores, é típica de cancro duro da sífilis primária. Entre as opções, o VDRL é o exame indicado, idealmente complementado por teste treponêmico conforme o algoritmo diagnóstico.",
+      "optionExplanations": {
+        "A": "Correta: VDRL é teste não treponêmico usado no diagnóstico e seguimento, devendo ser interpretado com teste treponêmico.",
+        "B": "Thayer-Martin é meio de cultura para Neisseria gonorrhoeae, que não causa o cancro descrito.",
+        "C": "Haemophilus ducreyi causa cancro mole, geralmente doloroso e com linfonodos que podem supurar.",
+        "D": "Corpúsculos de Donovan são associados a donovanose, com úlceras carnosas que sangram facilmente."
+      },
+      "keyPoint": "Cancro duro = úlcera indolor e endurecida + adenopatia não supurativa; pense em sífilis primária.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1844,9 +2049,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Protocolos ERAS/ACERTO recomendam realimentação oral precoce após cirurgia não complicada, sem necessidade de esperar ruídos intestinais ou cumprir progressão rígida de líquidos para sólidos. Se a paciente está desperta, estável e sem náuseas, pode ingerir conforme tolerância e vontade.",
+      "optionExplanations": {
+        "A": "Esperar 6 horas é desnecessário em paciente estável após colecistectomia laparoscópica.",
+        "B": "Correta: dieta oral pode ser iniciada precocemente conforme vontade/tolerância.",
+        "C": "Jejum de 24 horas é incompatível com princípios ERAS/ACERTO em caso não complicado.",
+        "D": "Não é obrigatório seguir progressão fixa de dieta; a tolerância clínica orienta a oferta."
+      },
+      "keyPoint": "Realimentação precoce faz parte da recuperação multimodal e reduz jejum desnecessário sem aumentar complicações em cirurgia eletiva não complicada.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1887,9 +2097,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Na fibrose cística, aumento de tosse e escarro purulento, febre, piora funcional e saturação de 87% caracterizam exacerbação pulmonar importante. Hipoxemia e desconforto respiratório indicam internação, oxigênio, antibiótico intravenoso de amplo espectro ajustado ao histórico microbiológico e coleta de escarro.",
+      "optionExplanations": {
+        "A": "Correta: trata gravidade e infecção ao mesmo tempo, sem atrasar terapia.",
+        "B": "Corticoide sistêmico não é rotina em exacerbação de fibrose cística sem outra indicação; fisioterapia é adjuvante, não substitui antibiótico e oxigênio.",
+        "C": "Saturação de 87% e desconforto moderado tornam tratamento domiciliar oral inadequado.",
+        "D": "Exames adicionais podem ser úteis, mas não se deve postergar oxigenação e antibiótico em paciente hipoxêmico."
+      },
+      "keyPoint": "Exacerbação grave da fibrose cística com hipoxemia exige tratamento hospitalar imediato e cultura para orientar antibiótico.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1930,9 +2145,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Gestante Rh negativa com Coombs indireto positivo já apresenta anticorpos circulantes, ou seja, está sensibilizada. A imunoglobulina anti-D é profilática e não reverte aloimunização estabelecida. A paciente deve ser encaminhada ao alto risco para titulação de anticorpos e vigilância de anemia fetal.",
+      "optionExplanations": {
+        "A": "Aloimunização não significa inviabilidade automática da gestação; o risco fetal depende do título e da repercussão hematológica.",
+        "B": "Anti-D não tem benefício para “apagar” anticorpos já formados.",
+        "C": "Repetir Coombs e tipar parceiro pode complementar avaliação, mas não substitui encaminhamento e monitorização especializada já indicados.",
+        "D": "Correta: pré-natal de alto risco com acompanhamento de aloimunização e vigilância fetal."
+      },
+      "keyPoint": "Anti-D previne sensibilização em Rh negativo não sensibilizado; Coombs indireto positivo muda o manejo para acompanhamento de aloimunização.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -1973,9 +2193,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O objetivo é conhecer, em curto período, a frequência de doenças crônicas em uma população definida. O estudo transversal mede exposição e desfecho em um recorte temporal e é adequado para estimar prevalência e planejar serviços.",
+      "optionExplanations": {
+        "A": "Correta: permite estimar a prevalência de DCNT entre os residentes avaliados.",
+        "B": "Estudo experimental exige intervenção e grupo de comparação; não é necessário para simples levantamento.",
+        "C": "Caso-controle começa por pessoas com e sem o desfecho e investiga exposições passadas; não estima prevalência diretamente.",
+        "D": "Coorte prospectiva exige seguimento no tempo, o que é mais demorado e não atende ao objetivo imediato."
+      },
+      "keyPoint": "Estudo transversal é o desenho clássico para levantamento rápido de prevalência em uma população.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2016,9 +2241,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Poliartrite simétrica de pequenas articulações, rigidez matinal prolongada, sinovite e marcadores inflamatórios elevados por mais de 6 semanas são típicos de artrite reumatoide. Fator reumatoide negativo não exclui doença. O metotrexato é o DMARD de primeira linha mais utilizado para modificar evolução e prevenir dano articular.",
+      "optionExplanations": {
+        "A": "Osteoartrite tem padrão mecânico, pouca rigidez matinal e não costuma causar sinovite inflamatória simétrica nessa idade.",
+        "B": "Correta: artrite reumatoide com indicação de metotrexato como droga modificadora de doença.",
+        "C": "Esclerose sistêmica teria fenômeno de Raynaud, espessamento cutâneo e outros achados específicos; prednisona isolada não é tratamento do quadro descrito.",
+        "D": "Não há manifestações sistêmicas típicas de lúpus e o padrão articular favorece artrite reumatoide."
+      },
+      "keyPoint": "Artrite reumatoide pode ser soronegativa; o diagnóstico é clínico-laboratorial e tratamento precoce com DMARD é fundamental.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2059,9 +2289,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O “X” no XABCDE representa hemorragia exsanguinante e vem antes da avaliação tradicional da via aérea. Em amputação traumática com sangramento maciço e choque, o controle mecânico imediato com torniquete proximal à lesão salva vidas e deve preceder reposição volêmica.",
+      "optionExplanations": {
+        "A": "Cânula orofaríngea pertence ao manejo de via aérea, etapa posterior ao controle da hemorragia exsanguinante.",
+        "B": "Fluidos são importantes no choque hemorrágico, mas não substituem a interrupção imediata da fonte de sangramento.",
+        "C": "Estabilização cervical é essencial em trauma, porém o sangramento exsanguinante externo tem prioridade no “X”.",
+        "D": "Correta: torniquete acima da amputação controla rapidamente hemorragia arterial grave."
+      },
+      "keyPoint": "No XABCDE, primeiro controle a hemorragia externa catastrófica; depois siga A, B, C, D e E.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2102,9 +2337,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "IMC entre +2 e +3 escores Z em criança corresponde a obesidade, e placas hiperpigmentadas aveludadas em pescoço/axilas caracterizam acantose nigricans, marcador clínico de hiperinsulinemia/resistência insulínica. O manejo inicial é mudança de estilo de vida familiar, alimentação adequada e atividade física.",
+      "optionExplanations": {
+        "A": "O IMC não corresponde apenas a risco de sobrepeso e não se indica hipoglicemiante apenas pela presença de acantose.",
+        "B": "Acrodermatite não corresponde ao aspecto aveludado e à distribuição típica das lesões.",
+        "C": "Correta: obesidade + acantose nigricans, com abordagem inicial de alimentação e atividade física.",
+        "D": "A classificação nutricional e o diagnóstico cutâneo estão incorretos; encaminhamento não substitui intervenção inicial na atenção primária."
+      },
+      "keyPoint": "Acantose nigricans em criança com obesidade é um sinal de resistência à insulina e deve motivar avaliação metabólica e intervenção no estilo de vida.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2145,9 +2385,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "T-score de -2,5 define osteoporose e o uso crônico de corticoide aumenta ainda mais o risco de fratura. O tratamento combina bisfosfonato, adequação de cálcio e vitamina D e exercício físico regular com carga/resistência, além de revisão de fatores de risco.",
+      "optionExplanations": {
+        "A": "Terapia hormonal não é primeira escolha para osteoporose aos 65 anos e restrição de exercício reduz benefício musculoesquelético.",
+        "B": "Calcitonina tem eficácia antifratura limitada e não é tratamento de primeira linha para esse perfil.",
+        "C": "Vitamina D isolada é insuficiente para tratar osteoporose estabelecida.",
+        "D": "Correta: bisfosfonato + cálcio/vitamina D + exercício regular compõem tratamento padrão."
+      },
+      "keyPoint": "Osteoporose com risco aumentado por glicocorticoide deve receber terapia antifratura, não apenas suplementação.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2188,9 +2433,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Exposição a água doce em área endêmica, sintomas intestinais, hepatoesplenomegalia e eosinofilia sugerem esquistossomose. O método Kato-Katz identifica ovos de Schistosoma mansoni; resultado positivo confirma infecção e indica tratamento com praziquantel e registro no sistema de vigilância/programa específico conforme normas locais.",
+      "optionExplanations": {
+        "A": "Metronidazol não trata Schistosoma mansoni.",
+        "B": "Com ovos demonstrados nas fezes não é necessário ELISA para confirmar atividade da infecção antes de tratar.",
+        "C": "Correta: praziquantel é o fármaco de escolha e o caso entra no fluxo de vigilância da doença.",
+        "D": "O método de Hoffman pode detectar ovos, mas um Kato-Katz negativo em forte suspeita pode exigir repetição/mais amostras; a alternativa não representa a conduta principal proposta."
+      },
+      "keyPoint": "Kato-Katz positivo em quadro compatível confirma esquistossomose ativa e permite tratar com praziquantel.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2231,9 +2481,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O diagnóstico de dengue está confirmado pelo NS1 positivo. A hepatomegalia dolorosa e a dor abdominal constituem sinais de alerta, e há plaquetopenia e leucopenia. Esse perfil não deve ser manejado apenas com alta: exige hidratação venosa e observação/internação com reavaliação clínica e laboratorial.",
+      "optionExplanations": {
+        "A": "Alta com hidratação oral é insuficiente porque há sinais de alerta e necessidade de monitorização.",
+        "B": "Retorno apenas após defervescência é inadequado; o período crítico frequentemente começa justamente próximo à queda da febre.",
+        "C": "Correta: internação em enfermaria, hidratação venosa e monitorização clínica/laboratorial.",
+        "D": "Não há choque ou disfunção orgânica grave que imponha UTI imediata e hidratação vigorosa indiscriminada."
+      },
+      "keyPoint": "Dengue com sinais de alarme exige manejo hospitalar e hidratação venosa; UTI fica reservada a dengue grave com choque, sangramento grave ou disfunção orgânica importante.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2274,9 +2529,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "A colangiorressonância já demonstrou coledocolitíase com dilatação de via biliar e padrão laboratorial colestático. O passo terapêutico é remover o cálculo do colédoco por CPRE, seguida de tratamento definitivo da litíase vesicular conforme planejamento cirúrgico.",
+      "optionExplanations": {
+        "A": "Antibiótico isolado não remove a obstrução e não há descrição de colangite que justifique esperar resolução clínica espontânea.",
+        "B": "A tomografia não agrega decisão necessária após a colangiorressonância já ter identificado o cálculo.",
+        "C": "Colecistectomia isolada sem resolver o cálculo no colédoco mantém risco de obstrução e complicações.",
+        "D": "Correta: CPRE permite esfinterotomia e extração do cálculo da via biliar principal."
+      },
+      "keyPoint": "Coledocolitíase confirmada com obstrução biliar é indicação clássica de abordagem endoscópica terapêutica da via biliar.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2317,9 +2577,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "A dieta vegana sem suplementação adequada, anemia macrocítica, trombocitopenia e atraso do desenvolvimento sugerem deficiência de vitamina B12. O comprometimento neurológico torna a reposição de B12 urgente; o ferro também deve ser considerado pela dieta e pelo risco de deficiência concomitante, além de suporte ao desenvolvimento.",
+      "optionExplanations": {
+        "A": "Vitaminas A e C não explicam nem tratam o padrão hematológico e neurológico.",
+        "B": "Correta pelo gabarito: repõe B12 e ferro e oferece suporte ao atraso motor.",
+        "C": "Encaminhamento neurológico pode ser útil, mas ácido fólico isolado/associado sem abordagem completa do ferro não é a alternativa indicada; folato pode mascarar a anemia sem corrigir dano neurológico por B12.",
+        "D": "Vitamina D não é a causa do VCM elevado e da trombocitopenia descritos."
+      },
+      "keyPoint": "Deficiência de B12 em lactente pode causar anemia macrocítica e dano neurológico; tratar cedo é essencial para evitar sequelas.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2360,9 +2625,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Sangramento após quatro anos de amenorreia é sangramento pós-menopausa e precisa ser investigado para excluir hiperplasia ou câncer de endométrio, ainda mais em paciente com obesidade e diabetes. A ultrassonografia transvaginal é exame inicial apropriado para medir o endométrio e orientar necessidade de amostragem histológica.",
+      "optionExplanations": {
+        "A": "Correta: inicia com ultrassonografia transvaginal e organiza seguimento; espessamento endometrial ou persistência do sangramento leva à avaliação histológica.",
+        "B": "Ressonância não é exame inicial de rastreio do endométrio nesse cenário.",
+        "C": "Histeroscopia pode ser necessária depois, mas não é preciso indicar procedimento cirúrgico imediato antes da avaliação inicial.",
+        "D": "A paciente está hemodinamicamente estável, sem anemia ou hemorragia volumosa; curetagem urgente não se justifica."
+      },
+      "keyPoint": "Todo sangramento pós-menopausa merece investigação; ultrassom transvaginal é uma porta de entrada importante em paciente estável.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2403,9 +2673,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Para paciente assintomático de risco habitual, a política pública cobrada na questão prioriza rastreamento com pesquisa de sangue oculto nas fezes, reservando colonoscopia para resultado positivo, sintomas ou risco aumentado. Isso racionaliza recursos e reduz riscos de procedimento invasivo.",
+      "optionExplanations": {
+        "A": "Colonoscopia direta por demanda individual não é a estratégia populacional proposta pelo SUS no item.",
+        "B": "Também antecipa colonoscopia sem critério de alto risco ou teste de triagem positivo.",
+        "C": "Correta: sangue oculto nas fezes é o teste de rastreio inicial previsto no referencial da prova.",
+        "D": "Orientar setor privado não é cuidado adequado quando existe estratégia de rastreamento disponível no SUS."
+      },
+      "keyPoint": "Rastreamento populacional deve diferenciar teste inicial de investigação diagnóstica; colonoscopia não é necessariamente o primeiro passo em risco habitual.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2446,9 +2721,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Mordedura por mamífero potencialmente transmissor de raiva exige limpeza imediata e avaliação de profilaxia. Como se trata de bovino, a regra de observação de 10 dias usada para cão e gato não deve ser aplicada como substituto da profilaxia; em não vacinado, a alternativa indicada é iniciar vacinação antirrábica.",
+      "optionExplanations": {
+        "A": "Esperar 10 dias sem qualquer intervenção pode atrasar profilaxia pós-exposição em espécie para a qual essa regra não se aplica da mesma forma.",
+        "B": "A ausência de sinais no animal não elimina risco e não justifica alta sem avaliação/profilaxia.",
+        "C": "Correta: inicia vacinação no paciente não previamente imunizado, conforme risco da exposição.",
+        "D": "Soro antirrábico é reservado a exposições graves/indicadas e não é automaticamente necessário em ferida superficial descrita."
+      },
+      "keyPoint": "Observação de 10 dias é estratégia consolidada para cães e gatos; exposição a outros mamíferos deve seguir avaliação de risco e profilaxia específica.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2489,9 +2769,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Murmúrio vesicular reduzido, macicez à percussão e ausência de frêmito no hemitórax após ferimento penetrante são compatíveis com hemotórax. O tratamento inicial é drenagem torácica em selo d’água no 5º espaço intercostal, na região entre linhas axilar anterior e média.",
+      "optionExplanations": {
+        "A": "Toracotomia é reservada a sangramento maciço persistente ou outras indicações, não como primeiro procedimento em paciente estável.",
+        "B": "Descompressão com agulha é medida para pneumotórax hipertensivo, não hemotórax.",
+        "C": "Correta: drenagem pleural no triângulo de segurança, aproximadamente 5º espaço intercostal.",
+        "D": "Nunca se utiliza o trajeto do projétil como local de drenagem; isso aumenta contaminação e não respeita técnica segura."
+      },
+      "keyPoint": "Hemotórax traumático é tratado inicialmente com toracostomia com dreno; macicez diferencia de pneumotórax, que tende à hiperressonância.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2532,9 +2817,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O menino tem asma persistente com sintomas noturnos, limitação ao exercício, duas idas recentes à urgência e VEF1 de 70% com reversibilidade. Precisa de tratamento controlador com corticoide inalatório e broncodilatador de longa ação em regime apropriado, mantendo medicação de alívio conforme plano.",
+      "optionExplanations": {
+        "A": "Antileucotrieno isolado é menos eficaz que corticoide inalatório e corticoide apenas nas exacerbações não controla inflamação crônica.",
+        "B": "Correta no esquema cobrado: associa LABA a corticoide inalatório e mantém broncodilatador de resgate; LABA nunca deve ser usado sem corticoide na asma.",
+        "C": "Corticoide oral não deve ser tratamento controlador crônico por seus efeitos adversos; fica para exacerbações selecionadas.",
+        "D": "LABA com corticoide oral e ipratrópio como rotina não corresponde ao manejo controlador recomendado."
+      },
+      "keyPoint": "Asma persistente não deve ser tratada apenas com SABA; o pilar do controle é corticoide inalatório, com escalonamento conforme sintomas e função pulmonar.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2575,9 +2865,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O histórico de câncer de mama em mãe aos 45 anos coloca a paciente em grupo de maior risco no referencial de rastreamento cobrado pela prova. A alternativa considera início da mamografia aos 35 anos, antecipando o rastreio em relação à população geral. Protocolos de rastreamento podem ser atualizados; o comentário está alinhado ao gabarito da edição 2025/1.",
+      "optionExplanations": {
+        "A": "Exame clínico isolado não é suficiente para mulher classificada como alto risco no referencial da questão.",
+        "B": "A alternativa trata a paciente como risco habitual e ignora o antecedente materno precoce.",
+        "C": "Também aplica estratégia de risco habitual, apesar do histórico familiar relevante.",
+        "D": "Correta segundo o gabarito: iniciar mamografia aos 35 anos pelo antecedente de primeiro grau antes dos 50."
+      },
+      "keyPoint": "História familiar de primeiro grau com câncer de mama em idade jovem muda a estratificação de risco e pode antecipar o rastreamento.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2618,9 +2913,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "A ausência de sorriso social e de vocalização aos 6 meses é sinal de alerta do desenvolvimento. A preocupação da mãe deve ser valorizada e seguida de avaliação global da criança, incluindo fatores biológicos, sociofamiliares e outros marcos do desenvolvimento, com encaminhamento oportuno conforme os achados.",
+      "optionExplanations": {
+        "A": "O M-CHAT é instrumento de rastreamento para faixa etária maior, não apropriado para lactente de 6 meses.",
+        "B": "Correta: reconhece sinais de alerta e amplia investigação de fatores de risco e contexto sociofamiliar.",
+        "C": "Protocolos diagnósticos específicos de TEA não são aplicados como primeira medida em lactente dessa idade apenas com esses achados.",
+        "D": "Neurologista e neuroimagem podem ser indicados em casos selecionados, mas não substituem avaliação inicial completa do desenvolvimento na atenção primária."
+      },
+      "keyPoint": "Preocupação parental + sinais de alerta do desenvolvimento exigem investigação precoce, sem esperar idade maior ou pedir exames de imagem automaticamente.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2661,9 +2961,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Febre persistente, sopro, hemorragias subungueais e lesão retiniana compatível com mancha de Roth formam conjunto clássico de endocardite infecciosa. A hipótese deve levar a hemoculturas e ecocardiografia antes de antibiótico sempre que a condição clínica permitir.",
+      "optionExplanations": {
+        "A": "Correta: manchas de Roth e hemorragias em estilhaço são achados clássicos associados à endocardite.",
+        "B": "Leucemia pode causar febre e palidez, mas não explica de forma integrada o sopro e os estigmas vasculares periféricos descritos.",
+        "C": "Vasculite pode causar púrpura e lesões sistêmicas, mas o padrão específico de estigmas de endocardite torna-a menos provável.",
+        "D": "Lúpus pode cursar com endocardite não infecciosa, mas faltam manifestações típicas e o quadro favorece infecção."
+      },
+      "keyPoint": "Endocardite infecciosa combina febre com fenômenos vasculares/imunológicos periféricos e novo ou conhecido sopro cardíaco.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2704,9 +3009,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "A queda de altura é uma causa externa que iniciou a cadeia de eventos que culminou na morte, mesmo que o óbito tenha ocorrido 60 dias depois por sepse durante a internação. Mortes decorrentes de causa externa devem ser encaminhadas ao Instituto Médico Legal para necropsia médico-legal e emissão da declaração de óbito.",
+      "optionExplanations": {
+        "A": "A equipe da UTI não deve emitir declaração como morte natural comum quando há cadeia causal iniciada por trauma externo.",
+        "B": "Correta: o IML é responsável pelo exame e documento em morte decorrente de causa externa.",
+        "C": "SVO investiga principalmente mortes naturais sem diagnóstico definido, não mortes por causa externa.",
+        "D": "O fato de o óbito ocorrer durante plantão da UTI não muda a natureza médico-legal da morte."
+      },
+      "keyPoint": "A causa básica externa continua relevante mesmo quando existem complicações hospitalares tardias; isso define fluxo para IML.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2747,9 +3057,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "A massa em fossa ilíaca esquerda, evacuações a cada quatro dias em cíbalos e longa história após desfralde sugerem constipação funcional com impactação fecal. O primeiro passo é desimpactar, preferencialmente com polietilenoglicol por via oral ou enema quando necessário; depois vem manutenção, dieta e treinamento de toalete.",
+      "optionExplanations": {
+        "A": "Radiografia e coprológico não são necessários de rotina quando história e exame são típicos e não há sinais de alarme.",
+        "B": "Lactulose é mais usada em manutenção; óleo mineral retal não é a estratégia preferida e pode trazer riscos.",
+        "C": "Dieta, água e toalete são importantes, mas isoladamente não resolvem uma impactação já estabelecida.",
+        "D": "Correta: PEG oral ou enema são opções de desimpactação inicial."
+      },
+      "keyPoint": "Constipação com fecaloma deve ser desimpactada antes de iniciar apenas medidas de manutenção.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2790,9 +3105,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Em gestação de baixo risco, a cesariana a pedido materno pode ser considerada após informação clara sobre riscos e benefícios e registro da decisão. Quando não há indicação médica, deve-se aguardar pelo menos 39 semanas para reduzir morbidade respiratória neonatal.",
+      "optionExplanations": {
+        "A": "Correta: aconselha riscos e, persistindo o desejo, agenda a partir de 39 semanas.",
+        "B": "O médico não deve simplesmente declarar inviável uma escolha informada quando a legislação e normas profissionais permitem cesariana a pedido em condições específicas.",
+        "C": "Esperar 41 semanas não é requisito para cesariana a pedido.",
+        "D": "Realizar aos 38 semanas sem indicação aumenta risco respiratório neonatal e não é justificado apenas por autonomia."
+      },
+      "keyPoint": "Autonomia permite considerar cesariana a pedido, mas decisão informada não elimina critérios de segurança como idade gestacional adequada.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2833,9 +3153,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Com 15 dias pós-parto, a paciente já passou da janela de inserção pós-placentária imediata, mas ainda não atingiu o período recomendado para inserção intervalar. Deve retornar por volta de 4 a 6 semanas. O DIU de cobre libera íons que geram reação inflamatória local e efeito tóxico sobre gametas, principalmente espermatozoides.",
+      "optionExplanations": {
+        "A": "Não é necessário aguardar 12 semanas e o mecanismo da alternativa está incorreto ao focar implantação.",
+        "B": "Aos 15 dias não é recomendada inserção “imediata” ambulatorial; espessamento de muco é mecanismo mais associado ao DIU hormonal.",
+        "C": "Correta: inserção intervalar em 4–6 semanas e efeito inflamatório/citotóxico dos íons de cobre.",
+        "D": "A paciente está fora da janela de inserção imediata pós-parto e o cobre não torna o muco mais fluido como mecanismo principal."
+      },
+      "keyPoint": "DIU de cobre atua predominantemente antes da fecundação por efeito inflamatório e espermicida local; não deve ser descrito como método que “impede nidação”.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2876,9 +3201,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "A paciente tem hipertensão persistente e diabetes com albuminúria, marcador de lesão renal. Bloqueio do sistema renina-angiotensina com IECA ou BRA reduz pressão intraglomerular e albuminúria, oferecendo proteção renal além do controle pressórico. Entre as opções, o IECA é a escolha.",
+      "optionExplanations": {
+        "A": "Betabloqueador não é primeira escolha específica para nefroproteção sem outra indicação como coronariopatia ou arritmia.",
+        "B": "Diurético pode compor terapia combinada, mas não oferece o mesmo benefício específico sobre albuminúria.",
+        "C": "Correta: IECA é indicado pela hipertensão associada a albuminúria diabética.",
+        "D": "Bloqueador de canal de cálcio controla pressão, mas não é a opção preferencial isolada quando há albuminúria e possibilidade de IECA/BRA."
+      },
+      "keyPoint": "Diabetes + hipertensão + albuminúria favorece IECA/BRA, salvo contraindicação, pela proteção renal e redução de albuminúria.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2919,9 +3249,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Massa cervical mediana presente desde a infância que se move com a protrusão da língua é praticamente a descrição clássica de cisto do ducto tireoglosso, remanescente embrionário do trajeto de descida da tireoide.",
+      "optionExplanations": {
+        "A": "Cisto dermoide pode ser mediano, mas tipicamente não se movimenta com a protrusão da língua.",
+        "B": "Tireoide ectópica pode ocorrer em linha média, mas deve ser diferenciada por imagem e não apresenta necessariamente o comportamento cístico típico.",
+        "C": "Higroma cístico costuma ser massa lateral, multiloculada e transiluminável.",
+        "D": "Correta: mobilidade com a língua aponta para persistência do ducto tireoglosso."
+      },
+      "keyPoint": "Cisto tireoglosso: massa mediana que sobe com deglutição e, especialmente, com protrusão da língua.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -2962,9 +3297,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Criança com sintomas respiratórios persistentes e contato domiciliar recente com tuberculose precisa investigação ativa. Em pediatria, radiografia de tórax e prova tuberculínica integram a avaliação diagnóstica, junto de história, exame e métodos microbiológicos quando factíveis.",
+      "optionExplanations": {
+        "A": "Antibiótico de amplo espectro e espera atrasariam o diagnóstico de uma criança com forte contexto epidemiológico.",
+        "B": "O contato e os sintomas aumentam probabilidade, mas tratamento empírico não é automático sem avaliação diagnóstica no cenário descrito.",
+        "C": "Correta: radiografia e prova tuberculínica fazem parte do escore/avaliação pediátrica e orientam próximos passos.",
+        "D": "Hemograma tem baixa utilidade diagnóstica e não é necessário afastar a criança por seis meses; infectividade do caso índice cai após tratamento eficaz, não apenas ao final do esquema."
+      },
+      "keyPoint": "Contato domiciliar sintomático não deve receber apenas antibiótico comum nem tratamento de TB sem avaliação; investigação estruturada é obrigatória.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3005,9 +3345,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "História de parto prematuro espontâneo prévio aumenta risco de recorrência. No referencial da prova, a profilaxia indicada é progesterona natural micronizada por via vaginal diariamente durante a gestação, associada a vigilância do colo conforme protocolo.",
+      "optionExplanations": {
+        "A": "Indometacina é tocolítico para situações agudas selecionadas, não profilaxia diária durante a gestação.",
+        "B": "Pessário não é indicação rotineira universal apenas por antecedente de prematuridade.",
+        "C": "Progesterona intramuscular semanal não é a alternativa recomendada no protocolo cobrado e seu uso foi progressivamente abandonado em várias diretrizes.",
+        "D": "Correta pelo gabarito: progesterona micronizada vaginal diária para prevenção de recorrência."
+      },
+      "keyPoint": "Parto prematuro espontâneo prévio é marcador de alto risco; progesterona vaginal é a estratégia preventiva cobrada neste item.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3048,9 +3393,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Início súbito há 30 minutos de cefaleia intensa e dificuldade de fala em mulher com fatores de risco e AVC prévio deve ser tratado como AVC agudo até prova em contrário. A UBS deve acionar imediatamente o SAMU, estabilizar ABC e encaminhar para serviço com neuroimagem e capacidade de reperfusão, sem atrasar por tentativa de reduzir a pressão.",
+      "optionExplanations": {
+        "A": "Permanecer na UBS para imagem e reduzir PA oralmente atrasa diagnóstico e pode piorar perfusão cerebral.",
+        "B": "Correta: SAMU imediato e estabilização enquanto aguarda transferência.",
+        "C": "Anti-hipertensivo sublingual pode causar queda abrupta e não deve ser usado como teste terapêutico.",
+        "D": "Seguimento ambulatorial é inaceitável diante de déficit neurológico focal agudo."
+      },
+      "keyPoint": "No AVC suspeito, “tempo é cérebro”: acione transporte de urgência e não reduza PA rotineiramente antes de definir o tipo de AVC e estratégia de reperfusão.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3091,9 +3441,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Rigidez matinal prolongada, melhora com movimento e Schober de apenas 1 cm sugerem lombalgia inflamatória com importante limitação de mobilidade, compatível com espondiloartrite axial. Radiografia lombar degenerativa não exclui essa hipótese; devem ser solicitados marcadores inflamatórios e ressonância de sacroilíacas para buscar sacroileíte ativa.",
+      "optionExplanations": {
+        "A": "A alternativa cita HLA-B37, não HLA-B27, e corticoide sistêmico não é tratamento padrão da forma axial.",
+        "B": "Correta: PCR/VHS e RM de sacroilíacas ajudam a confirmar atividade e diagnóstico.",
+        "C": "Apenas ergonomia e AINE sob demanda tratariam como lombalgia mecânica e ignorariam sinais inflamatórios.",
+        "D": "Opioides não são tratamento específico de espondiloartrite e podem gerar dependência; fisioterapia é útil, mas falta investigação adequada."
+      },
+      "keyPoint": "Na suspeita de espondiloartrite axial, a articulação sacroilíaca é central; RM detecta inflamação antes de alterações radiográficas avançadas.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3134,9 +3489,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Icterícia persistente com colúria e fezes acólicas indica hiperbilirrubinemia conjugada/colestase. Aos 40 dias, hepatomegalia firme e acolia tornam atresia biliar uma emergência diagnóstica porque a cirurgia de Kasai tem melhores resultados quando realizada precocemente.",
+      "optionExplanations": {
+        "A": "Os sinais são de icterícia obstrutiva, não apenas prolongada benigna; exames isolados não devem atrasar referência urgente.",
+        "B": "Fórmula não trata atresia biliar e “doença metabólica” não é a principal hipótese diante de acolia típica.",
+        "C": "Icterícia do leite materno é indireta, com fezes pigmentadas e bebê sem colúria; conduta expectante seria perigosa.",
+        "D": "Correta: suspeita de atresia biliar e encaminhamento urgente para diagnóstico e tratamento."
+      },
+      "keyPoint": "Fezes claras + urina escura em lactente com icterícia nunca devem ser atribuídas simplesmente ao leite materno; pense em colestase obstrutiva e atresia biliar.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3177,9 +3537,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Exantema súbito (roséola) ocorre tipicamente entre 6 meses e 2 anos: febre alta por 3 a 5 dias que desaparece abruptamente e é seguida pelo surgimento de exantema maculopapular no tronco e pescoço. Em criança bem e com padrão clássico, o diagnóstico é clínico.",
+      "optionExplanations": {
+        "A": "Mão-pé-boca costuma apresentar vesículas em mãos, pés e boca, ausentes no caso.",
+        "B": "Não é obrigatório investigar sarampo laboratorialmente apenas pela idade quando o quadro é clássico de roséola e não há contexto epidemiológico descrito.",
+        "C": "Correta: história e exame são suficientes no padrão típico, sem necessidade de exames de rotina.",
+        "D": "Escarlatina costuma vir com faringite estreptocócica, rash áspero e outros sinais; não apresenta a sequência típica de defervescência seguida de exantema."
+      },
+      "keyPoint": "Roséola: “febre vai embora, rash aparece”. Essa sequência temporal é o principal marcador clínico.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3220,9 +3585,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Cisto ovariano simples, anecoico, unilocular, de paredes finas e 6 cm em mulher pré-menopáusica assintomática tem baixo risco de malignidade e muitas vezes é funcional. Como o tamanho supera o limiar em que se pode simplesmente ignorar, a conduta é repetir ultrassonografia em cerca de 6 a 12 semanas para documentar regressão.",
+      "optionExplanations": {
+        "A": "CA-125 não é indicado de rotina em cisto simples típico em mulher pré-menopáusica e pode gerar falso-positivo.",
+        "B": "Para 6 cm, acompanhamento ginecológico sem controle de imagem perde oportunidade de confirmar resolução.",
+        "C": "Ressonância é desnecessária quando o ultrassom já mostra morfologia simples e sem características suspeitas.",
+        "D": "Correta: repetir ultrassonografia em até 12 semanas para avaliar desaparecimento ou persistência."
+      },
+      "keyPoint": "Cisto simples em pré-menopausa geralmente é benigno; tamanho e persistência orientam necessidade de seguimento.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3263,9 +3633,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Nódulo mamário na gestação deve ser investigado sem esperar o parto, sobretudo com história familiar importante. Ultrassonografia é o primeiro exame por não utilizar radiação e caracterizar lesão sólida/cística; mamografia pode ser realizada quando indicada, com proteção e dose fetal mínima.",
+      "optionExplanations": {
+        "A": "Biópsia pode ser necessária após caracterização por imagem, mas não é obrigatoriamente o primeiro passo sem ultrassonografia.",
+        "B": "O achado mamário não transforma, por si só, o pré-natal obstétrico em gestação de alto risco; o problema precisa investigação mastológica.",
+        "C": "Correta: ultrassonografia inicial e possibilidade de mamografia protegida conforme achados.",
+        "D": "Adiar até o fim da gestação pode atrasar diagnóstico de câncer em paciente com antecedente familiar relevante."
+      },
+      "keyPoint": "Gestação não é motivo para adiar investigação de nódulo mamário; ultrassom é primeira linha e mamografia é possível quando necessária.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3306,9 +3681,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Assimetria, bordas irregulares, pigmentação escura e evolução rápida com crescimento, prurido e sangramento são sinais de alerta do ABCDE para melanoma. A lesão deve ser avaliada rapidamente e, quando indicada, removida por biópsia excisional com margem diagnóstica estreita.",
+      "optionExplanations": {
+        "A": "Correta: o conjunto de assimetria, bordas irregulares e mudança recente é típico de lesão suspeita de melanoma.",
+        "B": "Queratoacantoma costuma ser nódulo de crescimento rápido com cratera central queratósica, não mácula pigmentada assimétrica.",
+        "C": "Carcinoma basocelular é mais frequentemente pápula perolada, telangiectásica ou ulcerada em área fotoexposta.",
+        "D": "Carcinoma espinocelular tende a ser lesão queratótica, endurecida ou ulcerada, não o padrão melanocítico descrito."
+      },
+      "keyPoint": "ABCDE do melanoma: Assimetria, Bordas irregulares, Cor variada, Diâmetro e Evolução; evolução é especialmente importante.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3349,9 +3729,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O ATLS determina que, ao chegar ao serviço, a avaliação primária seja reiniciada sistematicamente em ABCDE, mesmo se intervenções já foram feitas no pré-hospitalar. Como o paciente já está intubado, deve-se primeiro confirmar patência da via aérea, posição do tubo e proteção cervical durante essa avaliação.",
+      "optionExplanations": {
+        "A": "Tomografia só ocorre após a avaliação primária e estabilização de ameaças imediatas à vida.",
+        "B": "Ácido tranexâmico e volume não são a prioridade sem evidência de hemorragia maciça e antes da avaliação sistemática.",
+        "C": "Correta: a via aérea deve ser checada primeiro, inclusive em paciente já intubado.",
+        "D": "Proteção cervical acompanha o manejo da via aérea, mas o item pede a prioridade da sequência ATLS, que começa por A."
+      },
+      "keyPoint": "No trauma, intervenções pré-hospitalares não dispensam reavaliação do “A” ao chegar ao hospital.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3392,9 +3777,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Púrpura palpável predominando em membros inferiores e nádegas, artralgia/edema articular, dor abdominal e hematúria/proteinúria após infecção respiratória são a tétrade clássica da vasculite por IgA. O rim deve ser acompanhado com pressão arterial e urina ao longo do seguimento.",
+      "optionExplanations": {
+        "A": "Kawasaki exige febre prolongada e sinais mucocutâneos típicos; púrpura palpável e hematúria não são o padrão principal.",
+        "B": "Artrite idiopática juvenil não explica bem púrpura palpável e comprometimento renal.",
+        "C": "Lúpus é possível em crianças maiores, mas a combinação temporal e topográfica da púrpura é muito mais típica de vasculite por IgA.",
+        "D": "Correta: reúne as manifestações cutânea, gastrointestinal, articular e renal características."
+      },
+      "keyPoint": "Vasculite por IgA: púrpura não trombocitopênica + dor abdominal + artralgia/artrite + possível nefrite.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3435,9 +3825,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Febre, hiperemia, dor e ponto de flutuação em lactante caracterizam abscesso mamário puerperal. Há necessidade de drenagem da coleção, associada a antibiótico quando indicado, e a amamentação deve ser mantida sempre que possível, inclusive pela mama afetada, pois esvaziamento ajuda na resolução.",
+      "optionExplanations": {
+        "A": "Correta no gabarito: drena a coleção e mantém amamentação nas duas mamas quando tolerada.",
+        "B": "Aspiração guiada pode ser opção em alguns serviços, mas a alternativa erra ao restringir amamentação à mama contralateral.",
+        "C": "Leite não precisa ser fervido e antibioticoterapia isolada não resolve uma coleção flutuante estabelecida.",
+        "D": "Mamografia não é o primeiro passo em quadro típico de abscesso puerperal, e suspender aleitamento tende a piorar estase."
+      },
+      "keyPoint": "Abscesso mamário precisa drenagem; mastite/abscesso não é motivo automático para suspender aleitamento.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3478,9 +3873,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "No calendário cobrado pela prova, a vacina HPV é indicada em dose única para adolescentes na faixa etária programática, enquanto a criança de 8 anos ainda não atingiu a idade de rotina. Assim, a menina de 13 anos deve ser vacinada nessa visita e o menino ainda não.",
+      "optionExplanations": {
+        "A": "O menino de 8 anos não tem indicação de rotina naquela visita, portanto não é correto vacinar ambos.",
+        "B": "Além do menino estar fora da faixa, o esquema de duas doses em 60 dias não corresponde ao calendário cobrado.",
+        "C": "A menina de 13 anos tem indicação, portanto não deve deixar de ser vacinada.",
+        "D": "Correta: dose única para a menina de 13 anos e sem indicação rotineira para o menino de 8 anos naquele momento."
+      },
+      "keyPoint": "Vacinação contra HPV segue faixa etária e esquema vigentes no calendário; neste item, 13 anos está indicado e 8 anos ainda não.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3521,9 +3921,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Dor epigástrica recorrente irradiada para dorso em etilista crônico sugere pancreatite crônica. A tomografia de abdome é adequada para identificar calcificações, atrofia, dilatação ductal e complicações. O controle da dor pode incluir analgésicos adjuvantes como antidepressivos tricíclicos em dor neuropática, além de abstinência alcoólica e manejo nutricional.",
+      "optionExplanations": {
+        "A": "Correta: TC avalia alterações pancreáticas e amitriptilina pode ser usada como adjuvante no controle de dor crônica.",
+        "B": "CPRE é invasiva e não deve ser exame diagnóstico inicial sem indicação terapêutica ductal clara.",
+        "C": "Ácido ursodesoxicólico é usado em condições colestáticas/biliares, não trata pancreatite crônica.",
+        "D": "Enzimas pancreáticas são indicadas principalmente na insuficiência exócrina; CPRE não é necessária apenas para confirmar o diagnóstico neste caso."
+      },
+      "keyPoint": "Pancreatite crônica alcoólica: TC é exame estrutural útil; CPRE deve ser reservada principalmente a intervenção, não diagnóstico inicial de rotina.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3564,9 +3969,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Equimose perineal em “asa de borboleta”, uretrorragia e retenção urinária após trauma em sela são sinais de lesão uretral. Não se deve passar sonda uretral às cegas. Na retenção com suspeita forte de lesão, a drenagem vesical suprapúbica por cistostomia é a alternativa segura apresentada.",
+      "optionExplanations": {
+        "A": "Passagem de sonda pode agravar uma ruptura uretral e deve ser evitada nessa apresentação.",
+        "B": "Correta: cistostomia suprapúbica permite drenar a bexiga sem atravessar a uretra lesionada.",
+        "C": "Diurético aumenta produção urinária sem resolver a obstrução e pode piorar distensão vesical.",
+        "D": "Hidratação venosa não trata a retenção nem a lesão uretral."
+      },
+      "keyPoint": "Sangue no meato/uretrorragia após trauma pélvico ou perineal = suspeite lesão uretral e evite sondagem uretral antes de avaliação adequada.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3607,9 +4017,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O quadro é anemia ferropriva por baixa ingestão de ferro e excesso de leite de vaca. A dose prescrita de 2 mg/kg/dia de ferro elementar é baixa para tratamento, e o fator alimentar persiste. A resposta mínima após três meses indica necessidade de corrigir dieta e utilizar dose terapêutica adequada antes de rotular resistência ou trocar para ferro endovenoso.",
+      "optionExplanations": {
+        "A": "Hemoglobina praticamente inalterada após três meses não é resposta esperada.",
+        "B": "Ferro endovenoso e investigação de má absorção são prematuros antes de corrigir dose e fatores dietéticos evidentes.",
+        "C": "Ferritina baixa e história alimentar sustentam deficiência de ferro, tornando traço talassêmico menos provável como explicação principal da falha.",
+        "D": "Correta: aumentar para dose terapêutica e reduzir excesso de leite, aumentando alimentos ricos em ferro."
+      },
+      "keyPoint": "Falha ao ferro oral exige primeiro verificar dose, adesão e persistência da causa; aqui há subdose e dieta fortemente predisponente.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3650,9 +4065,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Há gestação ectópica tubária não rota: paciente estável, massa anexial de 3 cm com embrião sem batimentos e beta-hCG em faixa compatível com tratamento medicamentoso. Na ausência de contraindicações, metotrexato intramuscular é opção adequada, com seguimento seriado do beta-hCG.",
+      "optionExplanations": {
+        "A": "Não há instabilidade, ruptura ou outra indicação absoluta de laparoscopia imediata.",
+        "B": "Correta: critérios clínicos e laboratoriais permitem tratamento com metotrexato e monitorização.",
+        "C": "Laparotomia é reservada a instabilidade/hemoperitônio ou situações em que abordagem aberta seja necessária; não é o cenário descrito.",
+        "D": "A presença de embrião anexial confirma ectópica; apenas observar por mais 48 horas atrasa tratamento."
+      },
+      "keyPoint": "Ectópica estável, pequena, sem atividade cardíaca embrionária e com hCG não muito elevado pode ser tratada com metotrexato.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3693,9 +4113,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Fralda suja, dor não atendida, contenção por conveniência e justificativa de falta de pessoal representam omissão de cuidados básicos. Isso caracteriza negligência e, em uma instituição, configura violência institucional contra a pessoa idosa.",
+      "optionExplanations": {
+        "A": "A decisão familiar de utilizar ILPI não é, por si só, violência.",
+        "B": "Agitação e demência não justificam contenção indiscriminada nem negligência de higiene.",
+        "C": "Correta: omissão sistemática de cuidados pela instituição caracteriza violência institucional por negligência.",
+        "D": "Não há descrição de apropriação ou desvio de bens, portanto violência patrimonial não é a categoria principal."
+      },
+      "keyPoint": "Negligência é forma de violência: omissão de higiene, conforto, mobilidade e cuidados necessários não se torna aceitável por limitação de pessoal.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3736,9 +4161,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O paciente tem câncer avançado, dispneia por linfangite carcinomatosa e diretiva antecipada recusando procedimentos invasivos. Na piora respiratória, o foco deve ser conforto. Opioides, como morfina parenteral titulada, reduzem sensação de dispneia e são medida paliativa apropriada, respeitando a vontade previamente expressa.",
+      "optionExplanations": {
+        "A": "Intubação contraria a diretiva e acrescenta carga desproporcional sem tratar a progressão oncológica.",
+        "B": "Correta: morfina alivia dispneia e sofrimento dentro do plano paliativo.",
+        "C": "O derrame é pequeno e a principal causa da dispneia é linfangite difusa, portanto toracocentese não é a intervenção mais útil.",
+        "D": "VNI seguida de intubação mantém trajetória invasiva incompatível com a diretiva registrada."
+      },
+      "keyPoint": "Diretiva antecipada válida deve orientar o cuidado; em dispneia refratária no fim de vida, opioide é tratamento sintomático central.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3779,9 +4209,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O duplo contorno radiográfico de objeto circular em cavidade nasal é característico de bateria tipo botão. Ela pode causar necrose liquefativa e perfuração em poucas horas, portanto deve ser removida de forma urgente por serviço capaz de realizar endoscopia nasal e tratar lesões associadas.",
+      "optionExplanations": {
+        "A": "Alta para consulta futura permite dano cáustico progressivo.",
+        "B": "Correta: transferência para referência com retirada/endoscopia imediata.",
+        "C": "Lavagem pode espalhar conteúdo alcalino e não é a técnica indicada para bateria impactada.",
+        "D": "Procedimento eletivo é inadequado porque a lesão tecidual pode evoluir rapidamente."
+      },
+      "keyPoint": "Bateria em nariz ou ouvido é emergência: não aguarde consulta eletiva e não irrigue.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3822,9 +4257,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Na LLA, transplante de células-tronco hematopoéticas é reservado a situações de alto risco, recaída ou falha terapêutica. Falha da terapia de indução é critério importante para encaminhamento/inscrição precoce em centro transplantador, onde será feita a avaliação de doador e estratégia.",
+      "optionExplanations": {
+        "A": "“O quanto antes” sem vincular a indicação clínica é genérico; nem toda criança com LLA precisa TMO de imediato.",
+        "B": "Correta: falha de indução é um cenário clássico em que deve ser acionado o centro de referência.",
+        "C": "Tipagem de todos os familiares não precisa ocorrer antes da inscrição; o centro organiza busca e compatibilidade.",
+        "D": "Esperar alta hospitalar pode atrasar um processo complexo e tempo-dependente."
+      },
+      "keyPoint": "Quando surge indicação de TMO, encaminhe cedo ao centro especializado; não espere alta nem complete toda investigação de doador antes da referência.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3865,9 +4305,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "NIC III em biópsia exige procedimento excisional, como conização, tanto para tratar a lesão quanto para avaliar toda a zona de transformação e excluir microinvasão oculta que uma biópsia dirigida pode não demonstrar. Histerectomia não é tratamento inicial padrão apenas por desejo ou prole constituída.",
+      "optionExplanations": {
+        "A": "Histerectomia é tratamento excessivo como primeira abordagem de NIC III sem confirmação de doença invasiva ou outras indicações.",
+        "B": "Ter prole constituída não transforma histerectomia em opção preferencial automática.",
+        "C": "Correta: a conização é necessária para afastar microinvasão e definir extensão da lesão.",
+        "D": "Chamar NIC III simplesmente de “tumor in situ” e afirmar que conização é sempre suficiente ignora a necessidade de excluir invasão e avaliar margens."
+      },
+      "keyPoint": "Na NIC III, conização tem papel terapêutico e diagnóstico: permite avaliar margens e excluir invasão.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3908,9 +4353,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Macacos mortos funcionam como sentinelas epidemiológicas e devem desencadear vigilância, mas o paciente adulto relata vacina contra febre amarela há 9 anos. No esquema cobrado, uma dose válida em adulto imunocompetente oferece proteção duradoura e não há necessidade de reforço apenas por epizootia próxima.",
+      "optionExplanations": {
+        "A": "O Brasil possui áreas com circulação/endemicidade de febre amarela, portanto afirmar ausência de risco é incorreto.",
+        "B": "Correta: não há indicação de reforço apenas porque a última dose foi há 9 anos.",
+        "C": "A vigilância não precisa esperar anatomopatológico do animal para iniciar medidas de investigação e prevenção na área.",
+        "D": "Reforço indiscriminado ignora a duração da proteção e o histórico vacinal válido."
+      },
+      "keyPoint": "Epizootia em primatas alerta a vigilância; ela não significa que todo adulto adequadamente vacinado precise de reforço.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3951,9 +4401,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Drenagem gástrica de 2 litros causa perda importante de potássio e cloro. Hipocalemia reduz excitabilidade e contratilidade da musculatura lisa intestinal, podendo agravar íleo paralítico pós-operatório, com distensão, ruídos hipoativos, ausência de evacuação e poucos flatos.",
+      "optionExplanations": {
+        "A": "Correta: perdas gástricas favorecem hipocalemia, que reduz motilidade intestinal.",
+        "B": "Hipercalemia não é a alteração esperada após grande perda de conteúdo gástrico.",
+        "C": "Hipermagnesemia pode reduzir reflexos e motilidade em níveis altos, mas não é a consequência típica das perdas descritas.",
+        "D": "Hipomagnesemia pode acompanhar perdas e dificultar correção do potássio, mas não é a principal explicação pedida."
+      },
+      "keyPoint": "Hipocalemia é causa clássica de íleo e deve ser pesquisada após perdas digestivas volumosas por sonda nasogástrica.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -3994,9 +4449,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "O paciente tem hiperplasia prostática benigna com próstata aumentada, toque sem nódulos suspeitos, PSA sem sinal marcante de câncer e sintomas persistentes apesar de combinação de alfa-bloqueador com inibidor da 5-alfa-redutase. Falha clínica do tratamento medicamentoso é indicação de tratamento cirúrgico, sendo RTU de próstata apropriada para esse volume.",
+      "optionExplanations": {
+        "A": "Não há nódulo suspeito ou outra indicação apresentada para biópsia prostática.",
+        "B": "Antibiótico não tem papel sem sinais de prostatite ou infecção urinária.",
+        "C": "Repetir o mesmo ultrassom não resolve sintomas nem muda o diagnóstico já estabelecido.",
+        "D": "Correta: RTU de próstata é opção padrão para obstrução sintomática refratária em próstata de volume moderado."
+      },
+      "keyPoint": "HPB sintomática refratária ao tratamento combinado deve ser encaminhada para intervenção cirúrgica.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -4037,9 +4497,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "A criança tem câncer progressivo sem possibilidades terapêuticas modificadoras da doença. O plano deve priorizar cuidados paliativos, controle de dor e outros sintomas e decisões compartilhadas com a família sobre não iniciar medidas de ressuscitação fúteis ou desproporcionais.",
+      "optionExplanations": {
+        "A": "Correta: opioide para dor e discussão de ordem de não ressuscitar são coerentes com proporcionalidade terapêutica.",
+        "B": "Sedação e intubação rotineiras não promovem conforto e podem acrescentar sofrimento sem benefício clínico.",
+        "C": "Nova quimioterapia sem perspectiva de resposta expõe a toxicidade sem benefício esperado.",
+        "D": "Nova cirurgia apenas para prolongar sobrevida não é adequada quando a equipe já concluiu ausência de opções terapêuticas e o paciente está muito debilitado."
+      },
+      "keyPoint": "Quando tratamento oncológico não oferece benefício, mudar o objetivo para conforto não significa abandono: significa cuidado ativo focado em qualidade de vida.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -4080,9 +4545,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "A paciente é lúcida, capaz e autônoma, portanto pode recusar histeroscopia. Antes de aceitar a recusa, porém, o médico deve garantir decisão informada: explicar que sangramento pós-menopausa e endométrio espessado podem representar câncer, detalhar benefícios/riscos do exame e então respeitar a decisão final.",
+      "optionExplanations": {
+        "A": "Respeitar decisão não significa omitir diagnóstico provável ou evitar conversa esclarecedora.",
+        "B": "Correta: informa possibilidade de câncer e reforça a importância do exame sem retirar a autonomia.",
+        "C": "Não se deve substituir a paciente capaz pela família nem esconder dela informações relevantes.",
+        "D": "O médico não pode abandonar ou ameaçar interromper acompanhamento porque a paciente recusou um exame."
+      },
+      "keyPoint": "Autonomia só é plenamente exercida com informação adequada; recusa informada exige explicar consequências relevantes.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -4123,9 +4593,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Hesitação vacinal é fenômeno multifatorial. A internet pode amplificar dúvidas sobre eficácia e segurança, e algoritmos de recomendação podem criar bolhas e associar conteúdo antivacina a outros temas identitários ou morais, aumentando exposição seletiva e polarização.",
+      "optionExplanations": {
+        "A": "Correta: descreve mecanismos reais de desinformação e amplificação algorítmica que afetam confiança em vacinas.",
+        "B": "Hesitação ocorre em diferentes grupos sociais e não é exclusiva de baixa renda nem explicada por uma única visão de saúde.",
+        "C": "Não existe política de reduzir temporariamente vacinação para aumentar adesão futura; isso ampliaria risco de surtos.",
+        "D": "Fake news podem influenciar qualquer grupo e não há base para afirmar impacto pequeno em populações de menor renda."
+      },
+      "keyPoint": "Combater hesitação exige escuta e comunicação de risco; não atribua o fenômeno a uma única classe social ou a “ignorância”.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -4166,9 +4641,14 @@
         }
       ],
       "correctOption": "B",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Adulto capaz pode recusar transfusão por convicção religiosa, mesmo quando o médico considera o tratamento benéfico. A equipe deve confirmar capacidade decisória, registrar a recusa informada e oferecer alternativas clinicamente viáveis, como eritropoietina, ferro e estratégias de conservação sanguínea.",
+      "optionExplanations": {
+        "A": "Adiar a discussão para um momento de maior gravidade tenta explorar vulnerabilidade e não respeita decisão atual do paciente.",
+        "B": "Correta: respeita a recusa e propõe estratégia alternativa para anemia.",
+        "C": "Explicar evidências faz parte do consentimento, mas insistir visando vencer a recusa não é adequado após decisão informada.",
+        "D": "Comitê de ética pode apoiar conflitos complexos, mas não deve ser usado como mecanismo de coerção para obter transfusão."
+      },
+      "keyPoint": "Autonomia de adulto capaz inclui direito de recusar tratamento; o dever médico passa a ser informar, documentar e buscar alternativas.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -4209,9 +4689,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Disfagia progressiva por estenose distal, história longa de refluxo, esofagite crônica e biópsias negativas para malignidade indicam estenose péptica. O manejo inicial é dilatação endoscópica para aliviar a obstrução associada a supressão ácida intensa com inibidor de bomba de prótons para prevenir recorrência.",
+      "optionExplanations": {
+        "A": "Esofagectomia é procedimento de grande porte reservado a câncer ou doença complexa, não primeira linha em estenose benigna.",
+        "B": "Toxina botulínica é opção para acalasia em situações selecionadas, não para estenose péptica.",
+        "C": "Fundoplicatura pode ser considerada em refluxo refratário após avaliação, mas não substitui dilatação inicial da estenose sintomática.",
+        "D": "Correta: dilata o segmento estreitado e prescreve IBP para tratar a agressão ácida."
+      },
+      "keyPoint": "Estenose péptica = tratar o estreitamento e a causa: dilatação endoscópica + controle rigoroso do refluxo com IBP.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -4252,9 +4737,14 @@
         }
       ],
       "correctOption": "A",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Em criança com choque hemorrágico e indicação vital de transfusão, a recusa dos responsáveis não pode prevalecer sobre o melhor interesse e o direito à vida do menor. Em emergência, o médico deve realizar o tratamento necessário para evitar morte ou dano grave, documentando a situação e acionando a rede jurídica/protetiva quando cabível sem atrasar a assistência.",
+      "optionExplanations": {
+        "A": "Correta: a transfusão deve ser realizada quando é necessária para salvar a vida do menor.",
+        "B": "Autonomia dos pais não é absoluta quando a recusa expõe a criança a risco grave e evitável.",
+        "C": "Abandonar ou suspender atendimento é eticamente inadmissível.",
+        "D": "Autoridades podem ser comunicadas, mas em emergência não se deve esperar decisão judicial para iniciar medida salvadora necessária."
+      },
+      "keyPoint": "Adulto capaz pode recusar transfusão; menor em risco de morte é situação diferente, pois a decisão dos responsáveis não pode impedir tratamento salvador.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -4295,9 +4785,14 @@
         }
       ],
       "correctOption": "C",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Sangramento uterino anormal em usuária de tamoxifeno exige investigação endometrial, pois o fármaco aumenta risco de pólipos, hiperplasia e câncer de endométrio. O endométrio de 15 mm e heterogêneo reforça necessidade de amostragem histológica por biópsia/histeroscopia conforme disponibilidade.",
+      "optionExplanations": {
+        "A": "DIU hormonal não deve ser inserido antes de esclarecer a causa do sangramento e não é primeira conduta neste contexto oncológico.",
+        "B": "Suspender tamoxifeno sem diagnóstico pode retirar benefício oncológico e não substitui investigação endometrial.",
+        "C": "Correta: é necessário estudo histológico do endométrio.",
+        "D": "Progestagênio em altas doses pode mascarar sintomas e atrasar diagnóstico de hiperplasia/câncer."
+      },
+      "keyPoint": "Tamoxifeno + sangramento uterino = investigar endométrio; não trate empiricamente antes de excluir lesão estrutural ou neoplasia.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
@@ -4338,9 +4833,14 @@
         }
       ],
       "correctOption": "D",
-      "explanation": null,
-      "optionExplanations": null,
-      "keyPoint": null,
+      "explanation": "Sensibilidade mede a capacidade do teste de identificar corretamente quem tem a doença: verdadeiros positivos divididos por todos os doentes. Entre 100 pessoas com hanseníase, 98 tiveram teste positivo; portanto sensibilidade = 98/100 = 98%.",
+      "optionExplanations": {
+        "A": "90% corresponde à proporção de verdadeiros negativos informada e está relacionada à especificidade, não à sensibilidade.",
+        "B": "90,7% não resulta da fórmula de sensibilidade com os dados fornecidos.",
+        "C": "97,8% é um valor próximo, mas o cálculo é direto: 98 de 100 doentes testaram positivo.",
+        "D": "Correta: 98% de sensibilidade."
+      },
+      "keyPoint": "Sensibilidade = VP/(VP+FN). Use apenas o grupo que realmente tem a doença.",
       "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
