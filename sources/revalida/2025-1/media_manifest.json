@@ -1,0 +1,442 @@
+{
+  "schemaVersion": 1,
+  "edition": "2025/1",
+  "source": "INEP",
+  "questions": {
+    "Q001": [
+      {
+        "kind": "image",
+        "title": "Eletrocardiograma de 12 derivações",
+        "caption": "Imagem oficial apresentada no enunciado.",
+        "file": "q001_ecg.png",
+        "altText": "Eletrocardiograma de 12 derivações da questão 1."
+      }
+    ],
+    "Q002": [
+      {
+        "kind": "table",
+        "title": "Sinais vitais",
+        "caption": "Dados apresentados no enunciado.",
+        "columns": [
+          "Exame",
+          "Resultado"
+        ],
+        "rows": [
+          [
+            "Frequência cardíaca",
+            "110 bpm"
+          ],
+          [
+            "Pressão arterial",
+            "90 x 50 mmHg"
+          ],
+          [
+            "Frequência respiratória",
+            "22 irpm"
+          ],
+          [
+            "Temperatura axilar",
+            "36,5 °C"
+          ]
+        ],
+        "fallbackImage": "q002_table_01.png",
+        "altText": "Tabela de sinais vitais da questão 2."
+      }
+    ],
+    "Q021": [
+      {
+        "kind": "table",
+        "title": "Espirometria",
+        "caption": "Resultados pré e pós-broncodilatador.",
+        "columns": [
+          "Parâmetro",
+          "Valor encontrado (pré-broncodilatador)",
+          "Valor encontrado (pós-broncodilatador)",
+          "Valor previsto"
+        ],
+        "rows": [
+          [
+            "Volume expiratório forçado no 1º segundo (VEF1)",
+            "1,72",
+            "1,73",
+            "3,65"
+          ],
+          [
+            "Capacidade vital forçada (CVF)",
+            "3,13",
+            "3,14",
+            "4,66"
+          ],
+          [
+            "Relação VEF1/CVF",
+            "0,55",
+            "0,55",
+            "0,79"
+          ]
+        ],
+        "fallbackImage": "q021_table_01.png",
+        "altText": "Tabela de espirometria da questão 21."
+      }
+    ],
+    "Q024": [
+      {
+        "kind": "table",
+        "title": "Dados vitais maternos",
+        "caption": "Dados apresentados no enunciado.",
+        "columns": [
+          "Exame",
+          "Resultado"
+        ],
+        "rows": [
+          [
+            "Frequência cardíaca materna",
+            "60 bpm"
+          ],
+          [
+            "Pressão arterial",
+            "80 x 60 mmHg"
+          ],
+          [
+            "Saturação de oxigênio",
+            "94%"
+          ]
+        ],
+        "fallbackImage": "q024_table_01.png",
+        "altText": "Tabela de dados vitais maternos da questão 24."
+      }
+    ],
+    "Q029": [
+      {
+        "kind": "table",
+        "title": "Avaliação clínica",
+        "caption": "Sinais vitais e dados obstétricos.",
+        "columns": [
+          "Exame",
+          "Resultado"
+        ],
+        "rows": [
+          [
+            "Pressão arterial",
+            "90 x 70 mmHg"
+          ],
+          [
+            "Frequência cardíaca",
+            "82 bpm"
+          ],
+          [
+            "Saturação de O2",
+            "98% em ar ambiente"
+          ],
+          [
+            "Temperatura axilar",
+            "38,6 °C"
+          ],
+          [
+            "Altura uterina",
+            "20 cm"
+          ],
+          [
+            "Batimentos cardiofetais",
+            "142 bpm (regular)"
+          ]
+        ],
+        "fallbackImage": "q029_table_01.png",
+        "altText": "Tabela de sinais vitais e dados obstétricos da questão 29."
+      },
+      {
+        "kind": "table",
+        "title": "Hemograma",
+        "caption": "Resultados laboratoriais apresentados no enunciado.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hematócrito",
+            "38%",
+            "35 - 45%"
+          ],
+          [
+            "Hemoglobina",
+            "11,2 g/dL",
+            "12,0 - 16,0 g/dL"
+          ],
+          [
+            "Leucócitos totais",
+            "9.500/mm³",
+            "4.500 - 11.000/mm³"
+          ],
+          [
+            "Plaquetas",
+            "28.000/mm³",
+            "150.000 - 450.000/mm³"
+          ]
+        ],
+        "fallbackImage": "q029_table_02.png",
+        "altText": "Tabela de hemograma da questão 29."
+      }
+    ],
+    "Q047": [
+      {
+        "kind": "table",
+        "title": "Sinais vitais",
+        "caption": "Dados apresentados no atendimento pré-hospitalar.",
+        "columns": [
+          "Exame",
+          "Resultado"
+        ],
+        "rows": [
+          [
+            "Pressão arterial",
+            "80 x 50 mmHg"
+          ],
+          [
+            "Frequência cardíaca",
+            "130 bpm"
+          ],
+          [
+            "Frequência respiratória",
+            "30 irpm"
+          ]
+        ],
+        "fallbackImage": "q047_table_01.png",
+        "altText": "Tabela de sinais vitais da questão 47."
+      }
+    ],
+    "Q051": [
+      {
+        "kind": "table",
+        "title": "Exames laboratoriais",
+        "caption": "Resultados iniciais do paciente.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência (VR)"
+        ],
+        "rows": [
+          [
+            "Leucócitos totais",
+            "3.500 células/mm³",
+            "4.000 a 10.000/mm³"
+          ],
+          [
+            "Hematócrito",
+            "46%",
+            "39,9 a 52,1%"
+          ],
+          [
+            "Plaquetas",
+            "130.000/mm³",
+            "150.000 a 450.000/mm³"
+          ],
+          [
+            "Teste rápido de antígeno NS1",
+            "Positivo",
+            "-"
+          ]
+        ],
+        "fallbackImage": "q051_table_01.png",
+        "altText": "Tabela de exames laboratoriais da questão 51."
+      }
+    ],
+    "Q053": [
+      {
+        "kind": "table",
+        "title": "Hemograma",
+        "caption": "Achados hematológicos apresentados no enunciado.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hemoglobina (Hb)",
+            "9,5 g/dL",
+            "10,5 a 13,5 g/dL"
+          ],
+          [
+            "Hematócrito (Ht)",
+            "34%",
+            "33 a 39%"
+          ],
+          [
+            "Volume corpuscular médio (VCM)",
+            "101 fL",
+            "70 a 86 fL"
+          ],
+          [
+            "Hemoglobina corpuscular média (HCM)",
+            "23 pg",
+            "23 a 31 pg"
+          ],
+          [
+            "Plaquetas",
+            "120.000/mm³",
+            "200.000 a 500.000/mm³"
+          ]
+        ],
+        "fallbackImage": "q053_table_01.png",
+        "altText": "Tabela de hemograma da questão 53."
+      }
+    ],
+    "Q054": [
+      {
+        "kind": "table",
+        "title": "Hemograma",
+        "caption": "Resultados apresentados na UPA.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hemoglobina",
+            "12,7 g/dL",
+            "11,5 a 14,8 g/dL"
+          ],
+          [
+            "Hematócrito",
+            "38%",
+            "35,4 a 45,9%"
+          ],
+          [
+            "Leucócitos",
+            "7.800/mm³",
+            "3.143 a 10.074/mm³"
+          ],
+          [
+            "Plaquetas",
+            "324.000/mm³",
+            "135.606 a 343.044/mm³"
+          ]
+        ],
+        "fallbackImage": "q054_table_01.png",
+        "altText": "Tabela de hemograma da questão 54."
+      }
+    ],
+    "Q070": [
+      {
+        "kind": "table",
+        "title": "Sinais vitais",
+        "caption": "Dados apresentados durante a avaliação na UBS.",
+        "columns": [
+          "Exame",
+          "Resultado"
+        ],
+        "rows": [
+          [
+            "Pressão arterial (PA)",
+            "150 x 95 mmHg"
+          ],
+          [
+            "Frequência cardíaca (FC)",
+            "90 bpm"
+          ],
+          [
+            "Frequência respiratória (FR)",
+            "20 irpm"
+          ],
+          [
+            "Saturação de oxigênio",
+            "95%"
+          ]
+        ],
+        "fallbackImage": "q070_table_01.png",
+        "altText": "Tabela de sinais vitais da questão 70."
+      }
+    ],
+    "Q076": [
+      {
+        "kind": "image",
+        "title": "Lesão cutânea",
+        "caption": "Imagem clínica oficial apresentada no enunciado.",
+        "file": "q076_lesao_cutanea.jpg",
+        "altText": "Lesão cutânea pigmentada, assimétrica e de bordas irregulares, apresentada na questão 76."
+      }
+    ],
+    "Q083": [
+      {
+        "kind": "table",
+        "title": "Exames iniciais",
+        "caption": "Resultados antes do tratamento.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hemoglobina (Hb)",
+            "9,0 g/dL",
+            "10,5 a 13,5 g/dL"
+          ],
+          [
+            "Hematócrito (Ht)",
+            "27,5%",
+            "33 a 39%"
+          ],
+          [
+            "Volume corpuscular médio (VCM)",
+            "64 fL",
+            "70 a 86 fL"
+          ],
+          [
+            "Ferritina",
+            "12 ng/mL",
+            "20 - 100 ng/mL"
+          ],
+          [
+            "Observação",
+            "Anisocitose +",
+            ""
+          ]
+        ],
+        "fallbackImage": "q083_table_01.png",
+        "altText": "Tabela de exames iniciais da questão 83."
+      },
+      {
+        "kind": "table",
+        "title": "Exames após 3 meses de tratamento",
+        "caption": "Resultados após tratamento com ferro elementar.",
+        "columns": [
+          "Exame pós tratamento",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hemoglobina (Hb)",
+            "9,2 g/dL",
+            "10,5 a 13,5 g/dL"
+          ],
+          [
+            "Hematócrito (Ht)",
+            "27,9%",
+            "33 a 39%"
+          ],
+          [
+            "Volume corpuscular médio (VCM)",
+            "68 fL",
+            "70 a 86 fL"
+          ],
+          [
+            "Ferritina",
+            "15 ng/mL",
+            "20 - 100 ng/mL"
+          ],
+          [
+            "Observação",
+            "Anisocitose +",
+            ""
+          ]
+        ],
+        "fallbackImage": "q083_table_02.png",
+        "altText": "Tabela de exames após tratamento da questão 83."
+      }
+    ]
+  }
+}
