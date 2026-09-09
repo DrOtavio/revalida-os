@@ -1,0 +1,48 @@
+name: Import ALL canonical Revalida editions
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  import-all:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Import every complete edition
+        run: |
+          set -euo pipefail
+          python importer/import_all_canonical.py \
+            --sources-root sources/revalida \
+            --pack content/packs/latest.json \
+            --remove-demo
+
+      - name: Validate final pack
+        run: python importer/validate_pack.py content/packs/latest.json
+
+      - name: Build manifest
+        run: |
+          python importer/make_manifest.py \
+            --pack content/packs/latest.json \
+            --manifest content/manifest.json \
+            --relative-pack packs/latest.json
+          cp content/packs/latest.json RevalidaOS/Resources/seed_pack.json
+
+      - name: Commit total bank
+        run: |
+          set -euo pipefail
+          git config user.name 'RevalidaOS Bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add content RevalidaOS/Resources/seed_pack.json sources/revalida
+          if git diff --cached --quiet; then
+            echo 'Nada para publicar'
+            exit 0
+          fi
+          git commit -m 'content: import all complete Revalida editions'
+          git push
