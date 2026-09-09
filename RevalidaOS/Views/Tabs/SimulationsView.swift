@@ -9,29 +9,47 @@ struct SimulationsView: View {
         List {
             Section("Simulado completo") {
                 Button { createRandom(100, mode: "real") } label: { simulationRow("Aleatório balanceado — 100", "5 horas • resultado no final", "shuffle") }
+                    .buttonStyle(.plain)
                 Button { createRandom(100, mode: "flex") } label: { simulationRow("Aleatório flexível — 100", "5 horas • cronômetro pausável", "pause.circle") }
+                    .buttonStyle(.plain)
             }
             Section("Provas oficiais") {
                 ForEach(app.repository.allExams()) { exam in
                     let count = app.repository.questionCount(examId: exam.id)
                     Button { startExam(exam) } label: {
-                        HStack {
-                            VStack(alignment: .leading) {
-                                Text(exam.name).foregroundStyle(.primary)
+                        HStack(spacing: 12) {
+                            Image(systemName: "doc.text")
+                                .font(.body.weight(.semibold))
+                                .foregroundStyle(count == 0 ? Color.secondary : Color.accentColor)
+                                .frame(width: 28)
+
+                            VStack(alignment: .leading, spacing: 3) {
+                                Text(exam.name)
+                                    .font(.body.weight(.semibold))
+                                    .foregroundStyle(.primary)
+
                                 Text("\(exam.durationMinutes / 60)h • corte \(exam.officialCutoff.map(String.init) ?? "a definir") • \(count)/\(exam.objectiveQuestions) importadas")
                                     .font(.caption)
                                     .foregroundStyle(.secondary)
                             }
+
                             Spacer()
+
                             Image(systemName: "chevron.right")
+                                .font(.caption.bold())
+                                .foregroundStyle(.tertiary)
                         }
+                        .contentShape(Rectangle())
                     }
+                    .buttonStyle(.plain)
                     .disabled(count == 0)
                 }
             }
             Section("Treino rápido") {
                 Button { createRandom(10, mode: "flex") } label: { simulationRow("Mini simulado — 10", "para testar fluxo", "bolt.fill") }
+                    .buttonStyle(.plain)
                 Button { createRandom(20, mode: "flex") } label: { simulationRow("Mini simulado — 20", "treino curto", "bolt") }
+                    .buttonStyle(.plain)
             }
             Section("Histórico") {
                 ForEach(app.repository.latestSimulations(limit: 10)) { s in
@@ -56,15 +74,29 @@ struct SimulationsView: View {
     }
 
     @ViewBuilder private func simulationRow(_ title: String, _ subtitle: String, _ icon: String) -> some View {
-        HStack {
-            Image(systemName: icon).frame(width: 28).foregroundStyle(.tint)
-            VStack(alignment: .leading) {
-                Text(title).foregroundStyle(.primary)
-                Text(subtitle).font(.caption).foregroundStyle(.secondary)
+        HStack(spacing: 12) {
+            Image(systemName: icon)
+                .font(.body.weight(.semibold))
+                .frame(width: 28)
+                .foregroundStyle(Color.accentColor)
+
+            VStack(alignment: .leading, spacing: 3) {
+                Text(title)
+                    .font(.body.weight(.semibold))
+                    .foregroundStyle(.primary)
+
+                Text(subtitle)
+                    .font(.caption)
+                    .foregroundStyle(.secondary)
             }
+
             Spacer()
+
             Image(systemName: "chevron.right")
+                .font(.caption.bold())
+                .foregroundStyle(.tertiary)
         }
+        .contentShape(Rectangle())
     }
 
     private func createRandom(_ count: Int, mode: String) {
