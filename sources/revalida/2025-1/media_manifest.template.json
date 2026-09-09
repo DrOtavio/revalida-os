@@ -1,0 +1,39 @@
+{
+  "questions": {
+    "Q001": [
+      {
+        "kind": "image",
+        "title": "Eletrocardiograma",
+        "caption": "Figura oficial usada no enunciado.",
+        "file": "q001_ecg.png",
+        "altText": "Traçado de ECG da questão 1"
+      }
+    ],
+    "Q014": [
+      {
+        "kind": "table",
+        "title": "Resultados laboratoriais",
+        "caption": "Tabela reestruturada para leitura no iPhone.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Referência"
+        ],
+        "rows": [
+          [
+            "Hemoglobina",
+            "12 g/dL",
+            "12–16 g/dL"
+          ],
+          [
+            "Leucócitos",
+            "8.000/mm³",
+            "4.000–11.000/mm³"
+          ]
+        ],
+        "fallbackImage": "q014_table_01.png",
+        "altText": "Tabela de resultados laboratoriais"
+      }
+    ]
+  }
+}
