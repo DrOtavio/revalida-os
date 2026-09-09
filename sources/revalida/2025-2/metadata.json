@@ -1,0 +1,507 @@
+{
+  "EXAM_ID": "revalida-2025-2",
+  "EDITION": "2025/2",
+  "SOURCE": "INEP",
+  "questions": {
+    "Q001": {
+      "area": "Clínica Médica",
+      "specialty": "Cardiologia",
+      "topic": "Insuficiência cardíaca com fração de ejeção reduzida"
+    },
+    "Q002": {
+      "area": "Pediatria",
+      "specialty": "Nefrologia Pediátrica",
+      "topic": "Acidose tubular renal e raquitismo"
+    },
+    "Q003": {
+      "area": "Cirurgia",
+      "specialty": "Trauma",
+      "topic": "Traumatismo cranioencefálico e avaliação por imagem"
+    },
+    "Q004": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Endometriose"
+    },
+    "Q005": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Dermatologia / Infectologia",
+      "topic": "Esporotricose zoonótica"
+    },
+    "Q006": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Organização da Atenção",
+      "topic": "Níveis de atenção e prevenção secundária"
+    },
+    "Q007": {
+      "area": "Clínica Médica",
+      "specialty": "Neurologia / Psiquiatria",
+      "topic": "Distonia aguda por antipsicótico"
+    },
+    "Q008": {
+      "area": "Clínica Médica",
+      "specialty": "Reumatologia",
+      "topic": "Artrite reumatoide"
+    },
+    "Q009": {
+      "area": "Pediatria",
+      "specialty": "Emergências Pediátricas",
+      "topic": "Sepse em paciente oncológico"
+    },
+    "Q010": {
+      "area": "Cirurgia",
+      "specialty": "Cirurgia Geral",
+      "topic": "Hérnia femoral encarcerada"
+    },
+    "Q011": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia / Infectologia",
+      "topic": "Sífilis na gestação"
+    },
+    "Q012": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Prevenção / Rastreamento",
+      "topic": "Rastreamento no adulto assintomático"
+    },
+    "Q013": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Saúde do Trabalhador",
+      "topic": "Intoxicação por agrotóxicos"
+    },
+    "Q014": {
+      "area": "Pediatria",
+      "specialty": "Psiquiatria Infantil",
+      "topic": "Transtorno de oposição desafiante"
+    },
+    "Q015": {
+      "area": "Clínica Médica",
+      "specialty": "Nefrologia",
+      "topic": "Síndrome nefrótica"
+    },
+    "Q016": {
+      "area": "Pediatria",
+      "specialty": "Puericultura / Genética",
+      "topic": "Curvas de crescimento na síndrome de Down"
+    },
+    "Q017": {
+      "area": "Cirurgia",
+      "specialty": "Trauma",
+      "topic": "Pneumotórax hipertensivo no trauma"
+    },
+    "Q018": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia / Endocrinologia",
+      "topic": "Insensibilidade aos andrógenos e amenorreia primária"
+    },
+    "Q019": {
+      "area": "Clínica Médica",
+      "specialty": "Geriatria / Cardiologia",
+      "topic": "Pressão arterial no idoso"
+    },
+    "Q020": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Saúde Sexual / Infectologia",
+      "topic": "PEP e PrEP para HIV"
+    },
+    "Q021": {
+      "area": "Clínica Médica",
+      "specialty": "Nutrologia / Psiquiatria",
+      "topic": "Anorexia nervosa e instabilidade clínica"
+    },
+    "Q022": {
+      "area": "Clínica Médica",
+      "specialty": "Neurologia",
+      "topic": "Doença de Parkinson"
+    },
+    "Q023": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Saúde da Criança / Proteção",
+      "topic": "Violência contra adolescentes e notificação"
+    },
+    "Q024": {
+      "area": "Cirurgia",
+      "specialty": "Cirurgia Geral",
+      "topic": "Apendicite aguda"
+    },
+    "Q025": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Diabetes gestacional no puerpério"
+    },
+    "Q026": {
+      "area": "Clínica Médica",
+      "specialty": "Infectologia",
+      "topic": "Dengue com sinais de alarme"
+    },
+    "Q027": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Ortopedia / Dor",
+      "topic": "Lombalgia mecânica sem sinais de alerta"
+    },
+    "Q028": {
+      "area": "Clínica Médica",
+      "specialty": "Psiquiatria / Ética",
+      "topic": "Internação psiquiátrica involuntária"
+    },
+    "Q029": {
+      "area": "Clínica Médica",
+      "specialty": "Neurologia",
+      "topic": "AVC isquêmico e trombólise"
+    },
+    "Q030": {
+      "area": "Pediatria",
+      "specialty": "Cirurgia Pediátrica / Urologia",
+      "topic": "Fimose patológica"
+    },
+    "Q031": {
+      "area": "Cirurgia",
+      "specialty": "Cirurgia do Aparelho Digestivo",
+      "topic": "Icterícia obstrutiva e neoplasia pancreatobiliar"
+    },
+    "Q032": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Hipertensão crônica e prevenção de pré-eclâmpsia"
+    },
+    "Q033": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Infectologia",
+      "topic": "Tuberculose e retorno após abandono"
+    },
+    "Q034": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Epidemiologia",
+      "topic": "Sensibilidade, especificidade e falso-positivo"
+    },
+    "Q035": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Saúde Mental",
+      "topic": "Luto agudo"
+    },
+    "Q036": {
+      "area": "Clínica Médica",
+      "specialty": "Geriatria",
+      "topic": "Quedas e revisão de polifarmácia"
+    },
+    "Q037": {
+      "area": "Pediatria",
+      "specialty": "Reumatologia / Infectologia",
+      "topic": "Febre reumática"
+    },
+    "Q038": {
+      "area": "Clínica Médica",
+      "specialty": "Gastroenterologia",
+      "topic": "Pancreatite crônica"
+    },
+    "Q039": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Gestação prolongada"
+    },
+    "Q040": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Infectologia / Saúde Indígena",
+      "topic": "Quimioprofilaxia da malária"
+    },
+    "Q041": {
+      "area": "Clínica Médica",
+      "specialty": "Endocrinologia",
+      "topic": "Cetoacidose diabética"
+    },
+    "Q042": {
+      "area": "Pediatria",
+      "specialty": "Neonatologia / Emergências",
+      "topic": "Sepse neonatal e choque distributivo"
+    },
+    "Q043": {
+      "area": "Cirurgia",
+      "specialty": "Coloproctologia",
+      "topic": "Diverticulite complicada com abscesso"
+    },
+    "Q044": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Manejo ativo do terceiro período do parto"
+    },
+    "Q045": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Infectologia",
+      "topic": "Tuberculose em população privada de liberdade"
+    },
+    "Q046": {
+      "area": "Clínica Médica",
+      "specialty": "Reumatologia",
+      "topic": "Espondilite anquilosante"
+    },
+    "Q047": {
+      "area": "Pediatria",
+      "specialty": "Imunizações",
+      "topic": "Calendário vacinal do adolescente"
+    },
+    "Q048": {
+      "area": "Clínica Médica",
+      "specialty": "Pneumologia",
+      "topic": "Derrame pleural: ultrassom e toracocentese"
+    },
+    "Q049": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Planejamento Reprodutivo",
+      "topic": "Contracepção em lúpus com trombose"
+    },
+    "Q050": {
+      "area": "Clínica Médica",
+      "specialty": "Endocrinologia",
+      "topic": "Insulinização no diabetes mellitus tipo 2"
+    },
+    "Q051": {
+      "area": "Clínica Médica",
+      "specialty": "Pneumologia",
+      "topic": "Síndrome de derrame pleural"
+    },
+    "Q052": {
+      "area": "Pediatria",
+      "specialty": "Pneumologia Pediátrica",
+      "topic": "Pneumonia atípica"
+    },
+    "Q053": {
+      "area": "Cirurgia",
+      "specialty": "Trauma / Neurocirurgia",
+      "topic": "Nível neurológico da lesão medular"
+    },
+    "Q054": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia / Infectologia",
+      "topic": "Toxoplasmose na gestação"
+    },
+    "Q055": {
+      "area": "Pediatria",
+      "specialty": "Infectologia Pediátrica",
+      "topic": "Doença mão-pé-boca"
+    },
+    "Q056": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Saúde Indígena",
+      "topic": "Uso racional de medicamentos e interculturalidade"
+    },
+    "Q057": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Puerpério / Saúde Mental",
+      "topic": "Depressão pós-parto"
+    },
+    "Q058": {
+      "area": "Clínica Médica",
+      "specialty": "Cardiologia",
+      "topic": "Fibrilação atrial com alta resposta ventricular"
+    },
+    "Q059": {
+      "area": "Pediatria",
+      "specialty": "Nefrologia Pediátrica",
+      "topic": "Cicatriz renal após ITU recorrente"
+    },
+    "Q060": {
+      "area": "Cirurgia",
+      "specialty": "Trauma",
+      "topic": "Descompressão do pneumotórax hipertensivo"
+    },
+    "Q061": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Hemorragia pós-parto por atonia uterina"
+    },
+    "Q062": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Neurologia / Cefaleias",
+      "topic": "Migrânea sem sinais de alarme"
+    },
+    "Q063": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Planejamento em Saúde",
+      "topic": "Sala de situação e participação social"
+    },
+    "Q064": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Saúde Mental / Geriatria",
+      "topic": "Desprescrição de benzodiazepínico"
+    },
+    "Q065": {
+      "area": "Clínica Médica",
+      "specialty": "Infectologia / Emergências",
+      "topic": "Pielonefrite com sepse"
+    },
+    "Q066": {
+      "area": "Pediatria",
+      "specialty": "Puericultura",
+      "topic": "Aleitamento materno e pega adequada"
+    },
+    "Q067": {
+      "area": "Cirurgia",
+      "specialty": "Coloproctologia",
+      "topic": "Fissura anal"
+    },
+    "Q068": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia / Rastreamento",
+      "topic": "Citologia cervical em jovem"
+    },
+    "Q069": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Planejamento Reprodutivo",
+      "topic": "DIU de cobre"
+    },
+    "Q070": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Gestão do Cuidado",
+      "topic": "Coordenação do cuidado pela APS"
+    },
+    "Q071": {
+      "area": "Clínica Médica",
+      "specialty": "Psiquiatria",
+      "topic": "Transtorno do pânico"
+    },
+    "Q072": {
+      "area": "Cirurgia",
+      "specialty": "Cirurgia do Aparelho Digestivo / Emergência",
+      "topic": "Colangite grave e choque séptico"
+    },
+    "Q073": {
+      "area": "Pediatria",
+      "specialty": "Emergências Pediátricas",
+      "topic": "Diarreia aguda e reidratação oral por sonda"
+    },
+    "Q074": {
+      "area": "Cirurgia",
+      "specialty": "Trauma",
+      "topic": "Traumatismo craniano no idoso"
+    },
+    "Q075": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Cisto da glândula de Bartholin"
+    },
+    "Q076": {
+      "area": "Clínica Médica",
+      "specialty": "Oncologia / Dor",
+      "topic": "Dor óssea em paciente com antecedente de câncer"
+    },
+    "Q077": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Epidemiologia",
+      "topic": "Risco relativo em estudo de coorte"
+    },
+    "Q078": {
+      "area": "Clínica Médica",
+      "specialty": "Neurologia / Toxicologia",
+      "topic": "Encefalopatia de Wernicke e tiamina"
+    },
+    "Q079": {
+      "area": "Clínica Médica",
+      "specialty": "Gastroenterologia",
+      "topic": "Pancreatite crônica alcoólica e insuficiência exócrina"
+    },
+    "Q080": {
+      "area": "Pediatria",
+      "specialty": "Toxicologia Pediátrica",
+      "topic": "Intoxicação por salicilato"
+    },
+    "Q081": {
+      "area": "Clínica Médica",
+      "specialty": "Dermatologia / Oncologia",
+      "topic": "Melanoma cutâneo"
+    },
+    "Q082": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia do Adolescente",
+      "topic": "Irregularidade menstrual pós-menarca"
+    },
+    "Q083": {
+      "area": "Pediatria",
+      "specialty": "Infectologia Pediátrica",
+      "topic": "Cólera"
+    },
+    "Q084": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Bioética / Cuidados Paliativos",
+      "topic": "Autonomia no fim de vida"
+    },
+    "Q085": {
+      "area": "Pediatria",
+      "specialty": "Desenvolvimento Infantil",
+      "topic": "Triagem para transtorno do espectro autista"
+    },
+    "Q086": {
+      "area": "Clínica Médica",
+      "specialty": "Hematologia",
+      "topic": "Doença falciforme"
+    },
+    "Q087": {
+      "area": "Pediatria",
+      "specialty": "Nefrologia / Emergências",
+      "topic": "Síndrome hemolítico-urêmica"
+    },
+    "Q088": {
+      "area": "Cirurgia",
+      "specialty": "Urologia",
+      "topic": "Lesão peniana suspeita e biópsia"
+    },
+    "Q089": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia / Bioética",
+      "topic": "Zika fetal e interrupção da gestação"
+    },
+    "Q090": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Saúde do Adolescente / Ética",
+      "topic": "Sigilo na consulta do adolescente"
+    },
+    "Q091": {
+      "area": "Pediatria",
+      "specialty": "Pneumologia Pediátrica",
+      "topic": "Pneumonia viral e radiografia de tórax"
+    },
+    "Q092": {
+      "area": "Pediatria",
+      "specialty": "Neonatologia / Dermatologia",
+      "topic": "Impetigo neonatal localizado"
+    },
+    "Q093": {
+      "area": "Cirurgia",
+      "specialty": "Trauma / Urologia",
+      "topic": "Lesão uretral e derivação urinária"
+    },
+    "Q094": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Isoimunização Rh e imunoglobulina anti-D"
+    },
+    "Q095": {
+      "area": "Pediatria",
+      "specialty": "Neurologia Pediátrica",
+      "topic": "Convulsão febril simples"
+    },
+    "Q096": {
+      "area": "Clínica Médica",
+      "specialty": "Gastroenterologia / Oncologia",
+      "topic": "Dispepsia com sinais de alarme e câncer gástrico"
+    },
+    "Q097": {
+      "area": "Pediatria",
+      "specialty": "Hematologia / Pneumologia",
+      "topic": "Síndrome torácica aguda na doença falciforme"
+    },
+    "Q098": {
+      "area": "Cirurgia",
+      "specialty": "Coloproctologia",
+      "topic": "Fecaloma e fissura anal"
+    },
+    "Q099": {
+      "area": "Pediatria",
+      "specialty": "Endocrinologia Pediátrica / Adolescência",
+      "topic": "Menarca e puberdade normal"
+    },
+    "Q100": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Dermatologia / Parasitologia",
+      "topic": "Tungíase"
+    }
+  }
+}

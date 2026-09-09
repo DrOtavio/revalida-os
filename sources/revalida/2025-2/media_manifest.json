@@ -1,0 +1,436 @@
+{
+  "schemaVersion": 1,
+  "edition": "2025/2",
+  "source": "INEP",
+  "questions": {
+    "Q005": [
+      {
+        "kind": "image",
+        "title": "Lesão cutânea",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q005_lesao_esporotricose.png",
+        "altText": "Imagem oficial de lesão cutânea da questão 5."
+      }
+    ],
+    "Q058": [
+      {
+        "kind": "image",
+        "title": "Eletrocardiograma - derivação D2",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q058_ecg_d2.png",
+        "altText": "Traçado de ECG em derivação D2 da questão 58."
+      }
+    ],
+    "Q091": [
+      {
+        "kind": "image",
+        "title": "Radiografia de tórax em PA",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q091_rx_torax.png",
+        "altText": "Radiografia de tórax em PA da questão 91."
+      }
+    ],
+    "Q100": [
+      {
+        "kind": "image",
+        "title": "Lesões plantares",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q100_tungiase.png",
+        "altText": "Imagem oficial de múltiplas lesões plantares da questão 100."
+      }
+    ],
+    "Q010": [
+      {
+        "kind": "table",
+        "title": "Exames laboratoriais",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hemoglobina",
+            "13 g/dL",
+            "11 a 15 g/dL"
+          ],
+          [
+            "Leucócitos",
+            "10.300/mL",
+            "4.000 a 11.000/mL"
+          ],
+          [
+            "Plaquetas",
+            "261.000/mm³",
+            "150 a 300.000/mm³"
+          ],
+          [
+            "Creatinina",
+            "1,8 mg/dL",
+            "0,7 a 1,3 mg/dL"
+          ],
+          [
+            "Ureia",
+            "65 mg/dL",
+            "40 a 80 mg/dL"
+          ]
+        ],
+        "fallbackImage": "q010_table_01.png",
+        "altText": "Tabela oficial de dados da questão 10."
+      }
+    ],
+    "Q015": [
+      {
+        "kind": "table",
+        "title": "Exames do paciente",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Pressão arterial",
+            "130 x 80 mmHg",
+            "—"
+          ],
+          [
+            "Peso",
+            "70 kg",
+            "—"
+          ],
+          [
+            "Hematócrito",
+            "35%",
+            "48 a 69%"
+          ],
+          [
+            "Glicemia",
+            "88 mg/dL",
+            "60 a 100 mg/dL"
+          ],
+          [
+            "Albumina sérica",
+            "1,8 g/dL",
+            "3,8 a 4,8 g/dL"
+          ],
+          [
+            "Creatinina",
+            "1,2 mg/dL",
+            "0,7 a 1,3 mg/dL"
+          ],
+          [
+            "Triglicerídeos",
+            "200 mg/dL",
+            "< 150 mg/dL"
+          ],
+          [
+            "Proteína urinária de 24 horas",
+            "3,6 g/24 horas",
+            "< 100 mg/24 horas"
+          ],
+          [
+            "Sedimentos",
+            "proteínas +++; hemácias + (5 por campo)",
+            "—"
+          ]
+        ],
+        "fallbackImage": "q015_table_01.png",
+        "altText": "Tabela oficial de dados da questão 15."
+      }
+    ],
+    "Q024": [
+      {
+        "kind": "table",
+        "title": "Exames complementares",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hemoglobina",
+            "10,7 g/dL",
+            "11,5 a 15,5 g/dL"
+          ],
+          [
+            "Hematócrito",
+            "37%",
+            "38 a 52%"
+          ],
+          [
+            "Leucócitos totais",
+            "13.400/mm³",
+            "4.000 a 11.000/mm³"
+          ],
+          [
+            "Bastonetes",
+            "7%",
+            "0 a 5%"
+          ],
+          [
+            "Urina",
+            "25 leucócitos/campo",
+            "—"
+          ],
+          [
+            "Hemácias",
+            "8 hemácias/campo",
+            "—"
+          ],
+          [
+            "Beta-hCG sérico",
+            "negativo",
+            "—"
+          ]
+        ],
+        "fallbackImage": "q024_table_01.png",
+        "altText": "Tabela oficial de dados da questão 24."
+      }
+    ],
+    "Q038": [
+      {
+        "kind": "table",
+        "title": "Exames laboratoriais",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hematócrito",
+            "46%",
+            "36 a 46%"
+          ],
+          [
+            "Hemoglobina",
+            "15,0 g/dL",
+            "12,0 a 15,0 g/dL"
+          ],
+          [
+            "Leucócitos",
+            "12.000/mm³",
+            "4.000 a 10.000/mm³"
+          ],
+          [
+            "Glicose",
+            "120 mg/dL",
+            "70 a 99 mg/dL"
+          ],
+          [
+            "Bilirrubina total",
+            "1,2 mg/dL",
+            "0,3 a 1,3 mg/dL"
+          ],
+          [
+            "Ureia",
+            "38 mg/dL",
+            "15 a 40 mg/dL"
+          ],
+          [
+            "Cálcio",
+            "8,9 mg/dL",
+            "8,7 a 10,2 mg/dL"
+          ],
+          [
+            "Amilase",
+            "35 U/L",
+            "20 a 96 U/L"
+          ],
+          [
+            "Lipase",
+            "12 U/L",
+            "3 a 43 U/L"
+          ],
+          [
+            "Fosfatase alcalina",
+            "81 U/L",
+            "33 a 96 U/L"
+          ],
+          [
+            "LDH",
+            "127 U/L",
+            "100 a 190 U/L"
+          ],
+          [
+            "TGO",
+            "36 U/L",
+            "5 a 40 U/L"
+          ]
+        ],
+        "fallbackImage": "q038_table_01.png",
+        "altText": "Tabela oficial de dados da questão 38."
+      }
+    ],
+    "Q041": [
+      {
+        "kind": "table",
+        "title": "Exames laboratoriais na admissão",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Glicemia",
+            "472 mg/dL",
+            "60 a 100 mg/dL"
+          ],
+          [
+            "Gasometria arterial",
+            "pH 7,2",
+            "7,35 a 7,45"
+          ],
+          [
+            "Bicarbonato",
+            "10 mEq/L",
+            "22 a 26 mEq/L"
+          ],
+          [
+            "Creatinina",
+            "1,6 mg/dL",
+            "0,7 a 1,3 mg/dL"
+          ],
+          [
+            "Potássio sérico",
+            "3,0 mEq/L",
+            "3,5 a 5,5 mEq/L"
+          ]
+        ],
+        "fallbackImage": "q041_table_01.png",
+        "altText": "Tabela oficial de dados da questão 41."
+      }
+    ],
+    "Q046": [
+      {
+        "kind": "table",
+        "title": "Painel de autoanticorpos",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado"
+        ],
+        "rows": [
+          [
+            "Anticorpo antinuclear (ANA)",
+            "Positivo; título 1:80; padrão homogêneo/difuso"
+          ],
+          [
+            "Anticorpo anti-DNA dupla hélice",
+            "Negativo"
+          ],
+          [
+            "Antígeno leucocitário humano B27 (HLA-B27)",
+            "Positivo"
+          ],
+          [
+            "Fator reumatoide",
+            "Negativo"
+          ],
+          [
+            "Anticorpo anti-CCP",
+            "Negativo"
+          ],
+          [
+            "Anticorpo anti-Ro",
+            "Negativo"
+          ],
+          [
+            "Anticorpo anti-La",
+            "Negativo"
+          ]
+        ],
+        "fallbackImage": "q046_table_01.png",
+        "altText": "Tabela oficial de dados da questão 46."
+      }
+    ],
+    "Q086": [
+      {
+        "kind": "table",
+        "title": "Exames laboratoriais",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hematócrito",
+            "24%",
+            "36 a 47%"
+          ],
+          [
+            "Hemoglobina",
+            "8,2 g/dL",
+            "12,5 a 16,0 g/dL"
+          ],
+          [
+            "Reticulócitos",
+            "135.000/mm³",
+            "20.000 a 100.000/mm³"
+          ],
+          [
+            "Leucócitos",
+            "11.000/mm³",
+            "4.000 a 11.000/mm³"
+          ],
+          [
+            "Plaquetas",
+            "420.000/mm³",
+            "150.000 a 450.000/mm³"
+          ],
+          [
+            "Glicemia de jejum",
+            "80 mg/dL",
+            "70 a 99 mg/dL"
+          ],
+          [
+            "Colesterol total",
+            "151 mg/dL",
+            "Abaixo de 200 mg/dL"
+          ],
+          [
+            "HDL-C",
+            "53 mg/dL",
+            "Acima de 50 mg/dL"
+          ],
+          [
+            "Triglicerídeos",
+            "134 mg/dL",
+            "Abaixo de 150 mg/dL"
+          ],
+          [
+            "Esfregaço",
+            "Apresenta drepanócitos",
+            "—"
+          ],
+          [
+            "ECG",
+            "Sem alterações",
+            "—"
+          ]
+        ],
+        "fallbackImage": "q086_table_01.png",
+        "altText": "Tabela oficial de dados da questão 86."
+      }
+    ]
+  },
+  "stemOverrides": {
+    "Q010": "Paciente feminina de 78 anos, com 24 horas de evolução de dor e abaulamento progressivo em região inguinal direita. Apresentou também alguns episódios de vômitos e diminuição da eliminação de flatos. Antecedentes: neoplasia de mama há 30 anos, diabetes mellitus há 20 anos e tabagista de 40 maços/ano. Ao exame estava normotensa, eucárdica, afebril, eupneica. Índice de massa corporal de 35 kg/m2. Abdome globoso, depressível, com abaulamento não redutível e desconforto à palpação em região inguinal direita, com discreta hiperemia local e sem sinais de irritação peritoneal.",
+    "Q015": "Homem de 50 anos, queixando-se de astenia e constipação com fezes em fita. Há 15 dias, apresenta edema de membros inferiores até a raiz da região crural, bilateralmente, com pouca melhora à elevação dos membros. Ele perdeu 10 kg em 6 meses. Nega hipertensão arterial e diabetes mellitus e não faz uso de medicamento.",
+    "Q024": "Paciente do sexo feminino, 27 anos, é atendida em Unidade de Pronto Atendimento (UPA) com história de dor abdominal, com início em epigástrio há dois dias, contínua, sem fatores de melhora, associada a náuseas e perda de apetite, evoluindo para dor em fossa ilíaca direita há 1 dia e febre de 38,2 °C no dia do atendimento. Nega comorbidades, cirurgias prévias ou uso de medicações regulares. Relata que a última menstruação foi há 23 dias, e apresenta ciclos regulares de 28 dias. Exame físico: regular estado geral, corada, desidratada +/4+, eupneica, anictérica, acianótica; ausculta pulmonar e cardíaca sem alterações; ruídos hidroaéreos diminuídos, descompressão brusca dolorosa em quadrante inferior de abdome à direita.",
+    "Q038": "Homem de 58 anos deu entrada no pronto-socorro com dor epigástrica irradiada para as costas, iniciada há 2 horas, progressiva, pós-prandial, acompanhada de náuseas, vômitos e sudorese. Relata episódios semelhantes no último ano, que melhoraram com uso de analgésico. Tabagista ativo, alcoolista de 8 doses de destilado por dia há 33 anos, nega comorbidades. Exame físico: corado, acianótico, anictérico, sudoreico, fácies de dor, agitado. Índice de massa corporal de 23 kg/m2; pressão arterial de 150 x 90 mmHg; frequência cardíaca de 74 bpm; frequência respiratória de 18 irpm; temperatura axilar de 37 oC. Abdome globoso, distendido, timpânico, peristalse presente, doloroso à palpação do epigástrio e hipocôndrio esquerdo.",
+    "Q041": "Homem de 21 anos, portador de diabetes mellitus tipo 1, diagnosticado há 5 anos, foi levado à Unidade de Pronto Atendimento (UPA) devido à dor abdominal, náuseas e vômitos. Familiares informam que está sem utilizar insulina há 3 dias por dificuldades financeiras. No exame físico, encontra-se torporoso, desidratado, com hálito cetótico e dor abdominal à palpação profunda de forma generalizada. Ao exame, frequência cardíaca de 112 bpm; frequência respiratória de 38 irpm; pressão arterial de 110 x 70 mmHg.",
+    "Q046": "Homem de 32 anos apresenta quadro de dor lombar crônica de início insidioso, com duração aproximada de 6 meses, que piora pela manhã e melhora com o movimento. Refere rigidez matinal, principalmente nas regiões lombar e sacroilíaca, com duração de mais de 30 minutos, com dor nas articulações sacroilíacas e sensação de fadiga durante as últimas semanas. Não há histórico de trauma. A história familiar é positiva para doenças reumatológicas, mas o paciente desconhece diagnósticos específicos.",
+    "Q086": "Em Unidade de Pronto Atendimento (UPA), mulher de 30 anos, negra, casada, refere vários episódios de dores nas pernas no último ano, às vezes com edema local, e dores torácicas, associadas à febre, coriza e tosse, apresentando melhora com paracetamol há 1 semana. Relata fortes dores em membros inferiores, intensidade 8/10, sem irradiação, e dor na região lombar, fadiga, indisposição e edema doloroso em tornozelo sem melhora, com utilização de analgésicos há 1 dia. Pai faleceu aos 40 anos devido a acidente vascular encefálico. Exame físico: eupneica; afebril; mucosas descoradas (++/4+); icterícia (+/4+). Sem alterações nos sinais vitais. Ausculta cardíaca com sopro sistólico (++/4+). Abdome plano, sem visceromegalias. Edema unilateral sem empastamento em tornozelo esquerdo (++/4+), associado à úlcera maleolar de 2 cm, com secreção purulenta e hiperemia nas bordas."
+  }
+}
