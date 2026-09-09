@@ -51,7 +51,7 @@ def read_questions(path: Path) -> tuple[dict[str, str], list[CanonicalQuestion]]
         def field(name: str) -> str:
             return '\n'.join(fields.get(name, [])).strip()
 
-        options = {label: field(f'OPTION_{label}') for label in 'ABCD'}
+        options = {label: field(f'OPTION_{label}') for label in 'ABCDE' if field(f'OPTION_{label}')}
         images_raw = field('IMAGE')
         images = [] if not images_raw or images_raw.upper() == 'NONE' else [x.strip() for x in images_raw.splitlines() if x.strip()]
         questions.append(CanonicalQuestion(
@@ -71,7 +71,7 @@ def read_answer_key(path: Path) -> tuple[dict[str, str], dict[int, str]]:
         line = raw.strip()
         if not line or line.startswith('#'):
             continue
-        m = re.fullmatch(r'Q(\d{3})=(A|B|C|D|ANNULLED)', line, re.I)
+        m = re.fullmatch(r'Q(\d{3})=(A|B|C|D|E|ANNULLED)', line, re.I)
         if m:
             answers[int(m.group(1))] = m.group(2).upper()
             continue
@@ -94,7 +94,8 @@ def write_questions(path: Path, meta: dict[str, str], questions: list[CanonicalQ
             'TEXT:', q.text.strip(),
             '',
         ]
-        for label in 'ABCD':
+        labels = [x for x in 'ABCDE' if x in q.options]
+        for label in labels:
             out += [f'OPTION_{label}:', q.options.get(label, '').strip(), '']
         out += ['IMAGE:']
         if q.images:
