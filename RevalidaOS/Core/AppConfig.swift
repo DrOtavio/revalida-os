@@ -4,13 +4,24 @@ enum AppConfig {
     static let defaultDailyGoal = 80
     static let defaultSafetyTarget = 70
 
-    // Troque por uma URL HTTPS estável do seu repositório de conteúdo antes do build final.
-    // Também pode ser alterada dentro do app em Início > Configurações do banco.
-    static let bundledRemoteManifestURL = ""
+    // Endpoint oficial do conteúdo do Revalida OS.
+    static let bundledRemoteManifestURL =
+        "https://drotavio.github.io/revalida-os/manifest.json"
 
     static var remoteManifestURL: String {
-        get { UserDefaults.standard.string(forKey: "remoteManifestURL") ?? bundledRemoteManifestURL }
-        set { UserDefaults.standard.set(newValue.trimmingCharacters(in: .whitespacesAndNewlines), forKey: "remoteManifestURL") }
+        get {
+            let saved = UserDefaults.standard
+                .string(forKey: "remoteManifestURL")?
+                .trimmingCharacters(in: .whitespacesAndNewlines) ?? ""
+            return saved.isEmpty ? bundledRemoteManifestURL : saved
+        }
+        set {
+            let clean = newValue.trimmingCharacters(in: .whitespacesAndNewlines)
+            UserDefaults.standard.set(
+                clean.isEmpty ? bundledRemoteManifestURL : clean,
+                forKey: "remoteManifestURL"
+            )
+        }
     }
 
     static var dailyGoal: Int {
