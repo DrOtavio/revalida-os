@@ -7,7 +7,9 @@ final class AppState: ObservableObject {
     @Published var errorMessage: String?
     @Published var unreadNewsCount = 0
     @Published var contentVersion = 0
+    @Published var remoteContentVersion: Int?
     @Published var updateMessage: String?
+    @Published var isCheckingUpdate = false
 
     let store: SQLiteStore
     lazy var repository = AppRepository(store: store)
@@ -41,19 +43,41 @@ final class AppState: ObservableObject {
     }
 
     func checkForUpdates(silent: Bool = false) async {
+        guard !isCheckingUpdate else { return }
+        isCheckingUpdate = true
+        if !silent {
+            updateMessage = "Verificando servidor..."
+        }
+        defer { isCheckingUpdate = false }
+
         do {
             let result = try await updateService.checkAndApplyUpdate(currentVersion: repository.contentVersion())
             switch result {
-            case .upToDate:
-                if !silent { updateMessage = "Banco já está atualizado." }
-            case .updated(let version, let addedQuestions):
-                updateMessage = "Banco atualizado para v\(version). +\(addedQuestions) questões."
+            case .upToDate(let version):
+                remoteContentVersion = version
                 refreshBadges()
+                if !silent {
+                    updateMessage = "Banco já está atualizado. Local v\(contentVersion) • Remoto v\(version)."
+                }
+
+            case .updated(let version, let addedQuestions):
+                remoteContentVersion = version
+                refreshBadges()
+                if addedQuestions > 0 {
+                    updateMessage = "Banco atualizado para v\(version). +\(addedQuestions) questões."
+                } else {
+                    updateMessage = "Banco atualizado para v\(version). Conteúdo revisado sem novas questões."
+                }
+
             case .notConfigured:
-                if !silent { updateMessage = "URL remota ainda não configurada. O banco local continua funcionando normalmente." }
+                if !silent {
+                    updateMessage = "URL do banco não configurada."
+                }
             }
         } catch {
-            if !silent { updateMessage = "Não foi possível atualizar agora: \(error.localizedDescription)" }
+            if !silent {
+                updateMessage = "Falha na atualização: \(error.localizedDescription)"
+            }
         }
     }
 }
