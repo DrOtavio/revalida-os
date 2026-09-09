@@ -5,8 +5,10 @@ from datetime import datetime, timezone
 from pathlib import Path
 from canonical_format import read_questions, read_answer_key
 
-def cutoff_for(y,h):
-    return {(2026,1):59,(2025,2):61}.get((y,h))
+
+def cutoff_for(y, h):
+    return {(2026, 1): 59, (2025, 2): 61}.get((y, h))
+
 
 def normalize_display_text(value: str) -> str:
     value = value.replace("\u00ad", "").replace("\u00a0", " ").strip()
@@ -22,81 +24,180 @@ def normalize_display_text(value: str) -> str:
             cleaned.append(paragraph)
     return "\n\n".join(cleaned)
 
-def load_metadata(path: Path | None, questions) -> dict[int, dict[str,str]]:
+
+def load_metadata(path: Path | None, questions) -> dict[int, dict[str, str]]:
     if path is None or not path.exists():
         return {}
-    raw = json.loads(path.read_text(encoding='utf-8'))
-    items = raw.get('questions', {})
-    result: dict[int, dict[str,str]] = {}
+    raw = json.loads(path.read_text(encoding="utf-8"))
+    items = raw.get("questions", {})
+    result: dict[int, dict[str, str]] = {}
     for q in questions:
-        key=f'Q{q.number:03d}'
-        item=items.get(key)
+        key = f"Q{q.number:03d}"
+        item = items.get(key)
         if not isinstance(item, dict):
-            raise SystemExit(f'ERRO metadata: {key} ausente')
-        for field in ('area','specialty','topic'):
-            if not str(item.get(field,'')).strip():
-                raise SystemExit(f'ERRO metadata: {key}.{field} vazio')
-        result[q.number]={
-            'area':str(item['area']).strip(),
-            'specialty':str(item['specialty']).strip(),
-            'topic':str(item['topic']).strip(),
+            raise SystemExit(f"ERRO metadata: {key} ausente")
+        for field in ("area", "specialty", "topic"):
+            if not str(item.get(field, "")).strip():
+                raise SystemExit(f"ERRO metadata: {key}.{field} vazio")
+        result[q.number] = {
+            "area": str(item["area"]).strip(),
+            "specialty": str(item["specialty"]).strip(),
+            "topic": str(item["topic"]).strip(),
         }
     if len(result) != len(questions):
-        raise SystemExit(f'ERRO metadata: {len(result)}/{len(questions)} classificações')
-    print(f'METADATA: {len(result)}/{len(questions)} questões classificadas')
+        raise SystemExit(f"ERRO metadata: {len(result)}/{len(questions)} classificações")
+    print(f"METADATA: {len(result)}/{len(questions)} questões classificadas")
     return result
 
-def main():
-    ap=argparse.ArgumentParser()
-    ap.add_argument('--questions',type=Path,required=True)
-    ap.add_argument('--key',type=Path,required=True)
-    ap.add_argument('--metadata',type=Path)
-    ap.add_argument('--pack',type=Path,default=Path('content/packs/latest.json'))
-    ap.add_argument('--remove-demo',action='store_true')
-    args=ap.parse_args()
 
-    meta,qs=read_questions(args.questions)
-    kmeta,key=read_answer_key(args.key)
-    metadata_path=args.metadata or args.questions.with_name('metadata.json')
-    classifications=load_metadata(metadata_path if metadata_path.exists() else None, qs)
+def load_explanations(path: Path | None, questions) -> dict[int, dict]:
+    if path is None or not path.exists():
+        print("EDITORIAL: explanations.json não encontrado; preservando comentários existentes, se houver")
+        return {}
 
-    y=int(meta['YEAR']); label=meta['EDITION']; h=int(label.split('/')[1]); exam_id=meta['EXAM_ID']
-    status=kmeta.get('STATUS','FINAL').upper(); key_final=status=='FINAL'
+    raw = json.loads(path.read_text(encoding="utf-8"))
+    items = raw.get("questions")
+    if not isinstance(items, dict):
+        raise SystemExit("ERRO explanations: campo 'questions' ausente ou inválido")
 
-    pack=json.loads(args.pack.read_text(encoding='utf-8'))
-    exams={e['id']:e for e in pack.get('exams',[])}
-    exams[exam_id]={
-        'id':exam_id,'name':f'Revalida {label}','year':y,'edition':label,'board':'INEP',
-        'formatVersion':'objective100_discursive5' if (y,h)==(2025,1) else 'objective100',
-        'objectiveQuestions':100,'discursiveQuestions':5 if (y,h)==(2025,1) else 0,
-        'durationMinutes':int(meta.get('TIME_MINUTES','300')),'officialCutoff':cutoff_for(y,h),
-        'examDate':None,'sourceURL':None,
-    }
-    pack['exams']=list(exams.values())
+    result: dict[int, dict] = {}
+    expected = {f"Q{q.number:03d}" for q in questions}
+    actual = set(items)
+    missing = sorted(expected - actual)
+    extras = sorted(actual - expected)
+    if missing:
+        raise SystemExit(f"ERRO explanations: faltam {len(missing)} questões: {', '.join(missing[:10])}")
+    if extras:
+        raise SystemExit(f"ERRO explanations: chaves extras: {', '.join(extras[:10])}")
 
-    qmap={q['id']:q for q in pack.get('questions',[])}
-    for q in qs:
-        ans=key[q.number]
-        qid=f'{exam_id}-q{q.number:03d}'
-        stem=normalize_display_text(q.text)
-        options={a:normalize_display_text(q.options[a]) for a in 'ABCD'}
-        cls=classifications.get(q.number, {})
-        qmap[qid]={
-            'id':qid,'examId':exam_id,'number':q.number,'source':'INEP','year':y,'edition':label,'type':'objective',
-            'area':cls.get('area','Não classificada'),'specialty':cls.get('specialty'),'topic':cls.get('topic'),'stem':stem,
-            'options':[{'id':f'{qid}-{a}','label':a,'text':options[a]} for a in 'ABCD'],
-            'correctOption':None if ans=='ANNULLED' else ans,'explanation':None,'optionExplanations':None,'keyPoint':None,
-            'status':'annulled' if ans=='ANNULLED' else ('final' if key_final else 'preliminary'),
-            'officialSourceURL':None,'mediaStatus':'needs_review' if q.images else 'none','media':q.images,
+    for q in questions:
+        key = f"Q{q.number:03d}"
+        item = items[key]
+        if not isinstance(item, dict):
+            raise SystemExit(f"ERRO explanations: {key} inválida")
+
+        explanation = str(item.get("explanation", "")).strip()
+        key_point = str(item.get("keyPoint", "")).strip()
+        option_explanations = item.get("optionExplanations")
+
+        if not explanation:
+            raise SystemExit(f"ERRO explanations: {key}.explanation vazio")
+        if not key_point:
+            raise SystemExit(f"ERRO explanations: {key}.keyPoint vazio")
+        if not isinstance(option_explanations, dict):
+            raise SystemExit(f"ERRO explanations: {key}.optionExplanations inválido")
+        if set(option_explanations) != set("ABCD"):
+            raise SystemExit(f"ERRO explanations: {key}.optionExplanations deve conter exatamente A, B, C e D")
+
+        cleaned_options: dict[str, str] = {}
+        for label in "ABCD":
+            value = str(option_explanations.get(label, "")).strip()
+            if not value:
+                raise SystemExit(f"ERRO explanations: {key}.optionExplanations.{label} vazio")
+            cleaned_options[label] = value
+
+        result[q.number] = {
+            "explanation": explanation,
+            "optionExplanations": cleaned_options,
+            "keyPoint": key_point,
         }
 
-    pack['questions']=list(qmap.values())
-    if args.remove_demo:
-        pack['questions']=[q for q in pack['questions'] if q.get('source')!='DEMO' and q.get('status')!='demo']
-    pack['version']=int(pack.get('version',0))+1
-    pack['generatedAt']=datetime.now(timezone.utc).isoformat()
-    args.pack.write_text(json.dumps(pack,ensure_ascii=False,indent=2),encoding='utf-8')
-    print(f'OK canonical import {label}: pack v{pack["version"]}, total={len(pack["questions"])}')
+    print(f"EDITORIAL: {len(result)}/{len(questions)} questões com comentário completo")
+    return result
 
-if __name__=='__main__':
+
+def main():
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--questions", type=Path, required=True)
+    ap.add_argument("--key", type=Path, required=True)
+    ap.add_argument("--metadata", type=Path)
+    ap.add_argument("--explanations", type=Path)
+    ap.add_argument("--pack", type=Path, default=Path("content/packs/latest.json"))
+    ap.add_argument("--remove-demo", action="store_true")
+    args = ap.parse_args()
+
+    meta, qs = read_questions(args.questions)
+    kmeta, key = read_answer_key(args.key)
+
+    metadata_path = args.metadata or args.questions.with_name("metadata.json")
+    classifications = load_metadata(metadata_path if metadata_path.exists() else None, qs)
+
+    explanations_path = args.explanations or args.questions.with_name("explanations.json")
+    editorial = load_explanations(explanations_path if explanations_path.exists() else None, qs)
+
+    y = int(meta["YEAR"])
+    label = meta["EDITION"]
+    h = int(label.split("/")[1])
+    exam_id = meta["EXAM_ID"]
+    status = kmeta.get("STATUS", "FINAL").upper()
+    key_final = status == "FINAL"
+
+    pack = json.loads(args.pack.read_text(encoding="utf-8"))
+    exams = {e["id"]: e for e in pack.get("exams", [])}
+    exams[exam_id] = {
+        "id": exam_id,
+        "name": f"Revalida {label}",
+        "year": y,
+        "edition": label,
+        "board": "INEP",
+        "formatVersion": "objective100_discursive5" if (y, h) == (2025, 1) else "objective100",
+        "objectiveQuestions": 100,
+        "discursiveQuestions": 5 if (y, h) == (2025, 1) else 0,
+        "durationMinutes": int(meta.get("TIME_MINUTES", "300")),
+        "officialCutoff": cutoff_for(y, h),
+        "examDate": None,
+        "sourceURL": None,
+    }
+    pack["exams"] = list(exams.values())
+
+    qmap = {q["id"]: q for q in pack.get("questions", [])}
+    for q in qs:
+        ans = key[q.number]
+        qid = f"{exam_id}-q{q.number:03d}"
+        stem = normalize_display_text(q.text)
+        options = {a: normalize_display_text(q.options[a]) for a in "ABCD"}
+        cls = classifications.get(q.number, {})
+        prev = qmap.get(qid, {})
+        ed = editorial.get(q.number, {})
+
+        qmap[qid] = {
+            "id": qid,
+            "examId": exam_id,
+            "number": q.number,
+            "source": "INEP",
+            "year": y,
+            "edition": label,
+            "type": "objective",
+            "area": cls.get("area", "Não classificada"),
+            "specialty": cls.get("specialty"),
+            "topic": cls.get("topic"),
+            "stem": stem,
+            "options": [{"id": f"{qid}-{a}", "label": a, "text": options[a]} for a in "ABCD"],
+            "correctOption": None if ans == "ANNULLED" else ans,
+            "explanation": ed.get("explanation", prev.get("explanation")),
+            "optionExplanations": ed.get("optionExplanations", prev.get("optionExplanations")),
+            "keyPoint": ed.get("keyPoint", prev.get("keyPoint")),
+            "status": "annulled" if ans == "ANNULLED" else ("final" if key_final else "preliminary"),
+            "officialSourceURL": prev.get("officialSourceURL"),
+            "mediaStatus": "needs_review" if q.images else "none",
+            "media": q.images,
+        }
+
+    pack["questions"] = list(qmap.values())
+    if args.remove_demo:
+        pack["questions"] = [
+            q for q in pack["questions"]
+            if q.get("source") != "DEMO" and q.get("status") != "demo"
+        ]
+
+    pack["version"] = int(pack.get("version", 0)) + 1
+    pack["generatedAt"] = datetime.now(timezone.utc).isoformat()
+    args.pack.write_text(json.dumps(pack, ensure_ascii=False, indent=2), encoding="utf-8")
+    print(
+        f'OK canonical import {label}: pack v{pack["version"]}, '
+        f'total={len(pack["questions"])}, editorial={len(editorial)}'
+    )
+
+
+if __name__ == "__main__":
     main()
