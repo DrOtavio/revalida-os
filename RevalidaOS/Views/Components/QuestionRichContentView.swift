@@ -60,10 +60,12 @@ struct QuestionRichContentView: View {
                     .foregroundStyle(.secondary)
             }
             if let fallback = item.resolvedURL {
-                Button("Ampliar tabela em imagem") {
+                Button("Ver tabela original") {
                     preview = PreviewImage(url: fallback, caption: item.caption)
                 }
-                .buttonStyle(.bordered)
+                .buttonStyle(.plain)
+                .font(.footnote.weight(.medium))
+                .foregroundStyle(.tint)
             }
         }
     }
@@ -125,39 +127,106 @@ private struct RemoteImageCard: View {
 
 private struct QuestionTableView: View {
     let table: QuestionTable
+    @Environment(\.colorScheme) private var colorScheme
 
     var body: some View {
-        ScrollView(.horizontal) {
-            VStack(spacing: 0) {
-                HStack(spacing: 0) {
-                    ForEach(Array(table.columns.enumerated()), id: \.offset) { _, column in
-                        Text(column)
-                            .font(.subheadline.bold())
-                            .padding(10)
-                            .frame(minWidth: 120, alignment: .leading)
-                            .background(Color.accentColor.opacity(0.12))
-                            .overlay(Rectangle().stroke(Color.secondary.opacity(0.15), lineWidth: 0.5))
+        ScrollView(.horizontal, showsIndicators: table.columns.count >= 3) {
+            Grid(horizontalSpacing: 0, verticalSpacing: 0) {
+                GridRow {
+                    ForEach(Array(table.columns.enumerated()), id: \.offset) { index, column in
+                        tableCell(
+                            column,
+                            column: index,
+                            isHeader: true,
+                            isFirstColumn: false,
+                            rowIndex: nil
+                        )
                     }
                 }
+
                 ForEach(Array(table.rows.enumerated()), id: \.offset) { rowIndex, row in
-                    HStack(spacing: 0) {
-                        ForEach(Array(row.enumerated()), id: \.offset) { _, cell in
-                            Text(cell)
-                                .font(.subheadline)
-                                .padding(10)
-                                .frame(minWidth: 120, alignment: .leading)
-                                .background(rowIndex.isMultiple(of: 2) ? Color.clear : Color.secondary.opacity(0.06))
-                                .overlay(Rectangle().stroke(Color.secondary.opacity(0.15), lineWidth: 0.5))
+                    GridRow {
+                        ForEach(Array(table.columns.indices), id: \.self) { columnIndex in
+                            let value = columnIndex < row.count ? row[columnIndex] : ""
+                            tableCell(
+                                value,
+                                column: columnIndex,
+                                isHeader: false,
+                                isFirstColumn: columnIndex == 0,
+                                rowIndex: rowIndex
+                            )
                         }
                     }
                 }
             }
-            .clipShape(RoundedRectangle(cornerRadius: 14))
+            .clipShape(RoundedRectangle(cornerRadius: 12))
+            .overlay(
+                RoundedRectangle(cornerRadius: 12)
+                    .stroke(borderColor, lineWidth: 1)
+            )
         }
-        .overlay(
-            RoundedRectangle(cornerRadius: 14)
-                .stroke(Color.secondary.opacity(0.15), lineWidth: 1)
-        )
+        .scrollBounceBehavior(.basedOnSize, axes: .horizontal)
+    }
+
+    @ViewBuilder
+    private func tableCell(
+        _ text: String,
+        column: Int,
+        isHeader: Bool,
+        isFirstColumn: Bool,
+        rowIndex: Int?
+    ) -> some View {
+        Text(text)
+            .font(isHeader ? .subheadline.bold() : (isFirstColumn ? .subheadline.weight(.medium) : .subheadline))
+            .foregroundStyle(isHeader ? Color.primary : Color.primary)
+            .multilineTextAlignment(.leading)
+            .lineLimit(nil)
+            .fixedSize(horizontal: false, vertical: true)
+            .frame(width: columnWidth(column), alignment: .leading)
+            .padding(.horizontal, 12)
+            .padding(.vertical, 11)
+            .background(cellBackground(isHeader: isHeader, rowIndex: rowIndex))
+            .overlay(alignment: .trailing) {
+                Rectangle()
+                    .fill(borderColor)
+                    .frame(width: 0.5)
+            }
+            .overlay(alignment: .bottom) {
+                Rectangle()
+                    .fill(borderColor)
+                    .frame(height: 0.5)
+            }
+    }
+
+    private func columnWidth(_ index: Int) -> CGFloat {
+        switch table.columns.count {
+        case 1:
+            return 300
+        case 2:
+            return index == 0 ? 205 : 145
+        case 3:
+            switch index {
+            case 0: return 165
+            case 1: return 135
+            default: return 175
+            }
+        default:
+            return index == 0 ? 170 : 145
+        }
+    }
+
+    private func cellBackground(isHeader: Bool, rowIndex: Int?) -> Color {
+        if isHeader {
+            return Color.accentColor.opacity(colorScheme == .dark ? 0.24 : 0.14)
+        }
+        guard let rowIndex else { return .clear }
+        return rowIndex.isMultiple(of: 2)
+            ? Color.secondary.opacity(colorScheme == .dark ? 0.035 : 0.025)
+            : Color.secondary.opacity(colorScheme == .dark ? 0.09 : 0.055)
+    }
+
+    private var borderColor: Color {
+        Color.secondary.opacity(colorScheme == .dark ? 0.25 : 0.20)
     }
 }
 
