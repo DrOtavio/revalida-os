@@ -86,11 +86,12 @@ def load_explanations(path: Path | None, questions) -> dict[int, dict]:
             raise SystemExit(f"ERRO explanations: {key}.keyPoint vazio")
         if not isinstance(option_explanations, dict):
             raise SystemExit(f"ERRO explanations: {key}.optionExplanations inválido")
-        if set(option_explanations) != set("ABCD"):
-            raise SystemExit(f"ERRO explanations: {key}.optionExplanations deve conter exatamente A, B, C e D")
+        labels = [x for x in 'ABCDE' if q.options.get(x, '').strip()]
+        if set(option_explanations) != set(labels):
+            raise SystemExit(f"ERRO explanations: {key}.optionExplanations deve conter exatamente {', '.join(labels)}")
 
         cleaned_options: dict[str, str] = {}
-        for label in "ABCD":
+        for label in labels:
             value = str(option_explanations.get(label, "")).strip()
             if not value:
                 raise SystemExit(f"ERRO explanations: {key}.optionExplanations.{label} vazio")
@@ -114,6 +115,7 @@ def main():
     ap.add_argument("--explanations", type=Path)
     ap.add_argument("--pack", type=Path, default=Path("content/packs/latest.json"))
     ap.add_argument("--remove-demo", action="store_true")
+    ap.add_argument("--no-version-bump", action="store_true")
     args = ap.parse_args()
 
     meta, qs = read_questions(args.questions)
@@ -127,26 +129,34 @@ def main():
 
     y = int(meta["YEAR"])
     label = meta["EDITION"]
-    h = int(label.split("/")[1])
+    h = int(label.split("/")[1]) if "/" in label else 1
     exam_id = meta["EXAM_ID"]
     status = kmeta.get("STATUS", "FINAL").upper()
     key_final = status == "FINAL"
 
     pack = json.loads(args.pack.read_text(encoding="utf-8"))
     exams = {e["id"]: e for e in pack.get("exams", [])}
+    objective_count = int(meta.get("QUESTION_COUNT", str(len(qs))))
+    # A partir de 2025/2, a primeira etapa passou a ser exclusivamente objetiva.
+    discursive_count = int(meta.get("DISCURSIVE_COUNT", "0" if (y, h) >= (2025, 2) else "5"))
+    option_counts = sorted({len([x for x in "ABCDE" if q.options.get(x, "").strip()]) for q in qs})
+    format_version = f"objective{objective_count}_options{'-'.join(map(str, option_counts))}"
+    if discursive_count:
+        format_version += f"_discursive{discursive_count}"
+
     exams[exam_id] = {
         "id": exam_id,
         "name": f"Revalida {label}",
         "year": y,
         "edition": label,
         "board": "INEP",
-        "formatVersion": "objective100_discursive5" if (y, h) == (2025, 1) else "objective100",
-        "objectiveQuestions": 100,
-        "discursiveQuestions": 5 if (y, h) == (2025, 1) else 0,
+        "formatVersion": format_version,
+        "objectiveQuestions": objective_count,
+        "discursiveQuestions": discursive_count,
         "durationMinutes": int(meta.get("TIME_MINUTES", "300")),
         "officialCutoff": cutoff_for(y, h),
-        "examDate": None,
-        "sourceURL": None,
+        "examDate": meta.get("EXAM_DATE") or None,
+        "sourceURL": meta.get("SOURCE_URL") or None,
     }
     pack["exams"] = list(exams.values())
 
@@ -155,7 +165,8 @@ def main():
         ans = key[q.number]
         qid = f"{exam_id}-q{q.number:03d}"
         stem = normalize_display_text(q.text)
-        options = {a: normalize_display_text(q.options[a]) for a in "ABCD"}
+        labels = [x for x in 'ABCDE' if q.options.get(x, '').strip()]
+        options = {a: normalize_display_text(q.options[a]) for a in labels}
         cls = classifications.get(q.number, {})
         prev = qmap.get(qid, {})
         ed = editorial.get(q.number, {})
@@ -172,7 +183,7 @@ def main():
             "specialty": cls.get("specialty"),
             "topic": cls.get("topic"),
             "stem": stem,
-            "options": [{"id": f"{qid}-{a}", "label": a, "text": options[a]} for a in "ABCD"],
+            "options": [{"id": f"{qid}-{a}", "label": a, "text": options[a]} for a in labels],
             "correctOption": None if ans == "ANNULLED" else ans,
             "explanation": ed.get("explanation", prev.get("explanation")),
             "optionExplanations": ed.get("optionExplanations", prev.get("optionExplanations")),
@@ -190,7 +201,8 @@ def main():
             if q.get("source") != "DEMO" and q.get("status") != "demo"
         ]
 
-    pack["version"] = int(pack.get("version", 0)) + 1
+    if not args.no_version_bump:
+        pack["version"] = int(pack.get("version", 0)) + 1
     pack["generatedAt"] = datetime.now(timezone.utc).isoformat()
     args.pack.write_text(json.dumps(pack, ensure_ascii=False, indent=2), encoding="utf-8")
     print(
