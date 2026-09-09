@@ -24,10 +24,10 @@ targets:
         excludes:
           - Resources
 
-      # XcodeGen trata recursos dentro de `sources` com buildPhase=resources.
-      # O antigo bloco `resources:` não estava entrando no projeto gerado.
       - path: RevalidaOS/Resources
         buildPhase: resources
+        excludes:
+          - Info.plist
 
     settings:
       base:
