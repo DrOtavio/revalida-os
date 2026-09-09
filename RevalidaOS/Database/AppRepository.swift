@@ -39,6 +39,7 @@ final class AppRepository {
           confidence TEXT NOT NULL DEFAULT 'normal'
         );
         """)
+        try ensureColumn(table: "user_answers", column: "scorable", definition: "INTEGER NOT NULL DEFAULT 1")
         try store.execute("""
         CREATE TABLE IF NOT EXISTS reviews (
           question_id TEXT PRIMARY KEY, due_at REAL NOT NULL, reason TEXT NOT NULL, interval_days INTEGER NOT NULL DEFAULT 1
@@ -66,6 +67,8 @@ final class AppRepository {
             for exam in pack.exams { try upsert(exam) }
             for question in pack.questions { try upsert(question) }
             for news in pack.news { try upsert(news) }
+            try store.execute("UPDATE user_answers SET scorable=0 WHERE question_id IN (SELECT id FROM questions WHERE status='annulled' OR correct_option IS NULL);")
+            try store.execute("DELETE FROM reviews WHERE question_id IN (SELECT id FROM questions WHERE status='annulled' OR correct_option IS NULL);")
             try setMetadata(key: "content_version", value: String(pack.version))
             try setMetadata(key: "content_generated_at", value: pack.generatedAt)
         }
@@ -204,10 +207,17 @@ final class AppRepository {
     }
 
     func recordAnswer(question: Question, selected: String, seconds: Int, confidence: String) {
-        let correct = question.correctOption.map { $0 == selected } ?? false
-        try? store.execute("INSERT INTO user_answers(question_id,selected_option,is_correct,answered_at,response_seconds,confidence) VALUES(?,?,?,?,?,?);",
-                           bindings: [.text(question.id), .text(selected), .int(correct ? 1 : 0), .double(Date().timeIntervalSince1970), .int(Int64(seconds)), .text(confidence)])
-        if !correct || confidence == "doubt" || confidence == "guess" {
+        let scorable = !question.isAnnulled && question.correctOption != nil
+        let correct = scorable && (question.correctOption == selected)
+        try? store.execute(
+            "INSERT INTO user_answers(question_id,selected_option,is_correct,answered_at,response_seconds,confidence,scorable) VALUES(?,?,?,?,?,?,?);",
+            bindings: [
+                .text(question.id), .text(selected), .int(correct ? 1 : 0),
+                .double(Date().timeIntervalSince1970), .int(Int64(seconds)), .text(confidence),
+                .int(scorable ? 1 : 0)
+            ]
+        )
+        if scorable && (!correct || confidence == "doubt" || confidence == "guess") {
             scheduleReview(questionId: question.id, reason: correct ? confidence : "wrong")
         }
     }
@@ -234,16 +244,27 @@ final class AppRepository {
         let start = cal.startOfDay(for: Date()).timeIntervalSince1970
         let today = scalarInt("SELECT COUNT(*) c FROM user_answers WHERE answered_at >= ?;", [.double(start)])
         let total = scalarInt("SELECT COUNT(*) c FROM user_answers;")
+        let scorable = scalarInt("SELECT COUNT(*) c FROM user_answers WHERE scorable=1;")
         let unique = scalarInt("SELECT COUNT(DISTINCT question_id) c FROM user_answers;")
-        let correct = scalarInt("SELECT COUNT(*) c FROM user_answers WHERE is_correct=1;")
+        let correct = scalarInt("SELECT COUNT(*) c FROM user_answers WHERE scorable=1 AND is_correct=1;")
         let pending = scalarInt("SELECT COUNT(*) c FROM reviews WHERE due_at <= ?;", [.double(Date().timeIntervalSince1970)])
-        return DashboardStats(answeredToday: today, dailyGoal: AppConfig.dailyGoal, totalAnswered: total, uniqueAnswered: unique, correctAnswered: correct, pendingReviews: pending, currentStreak: computeStreak())
+        return DashboardStats(
+            answeredToday: today,
+            dailyGoal: AppConfig.dailyGoal,
+            totalAnswered: total,
+            scorableAnswered: scorable,
+            uniqueAnswered: unique,
+            correctAnswered: correct,
+            pendingReviews: pending,
+            currentStreak: computeStreak()
+        )
     }
 
     func areaPerformance() -> [AreaPerformance] {
         let rows = (try? store.query("""
         SELECT q.area area, COUNT(a.id) answered, SUM(a.is_correct) correct
         FROM user_answers a JOIN questions q ON q.id=a.question_id
+        WHERE a.scorable=1
         GROUP BY q.area ORDER BY answered DESC;
         """)) ?? []
         return rows.compactMap { row in
@@ -305,6 +326,14 @@ final class AppRepository {
 
     private func setMetadata(key: String, value: String) throws {
         try store.execute("INSERT INTO metadata(key,value) VALUES(?,?) ON CONFLICT(key) DO UPDATE SET value=excluded.value;", bindings: [.text(key), .text(value)])
+    }
+
+    private func ensureColumn(table: String, column: String, definition: String) throws {
+        let rows = try store.query("PRAGMA table_info(\(table));")
+        let exists = rows.contains { $0["name"]?.string == column }
+        if !exists {
+            try store.execute("ALTER TABLE \(table) ADD COLUMN \(column) \(definition);")
+        }
     }
 
     private func scalarInt(_ sql: String, _ bindings: [SQLiteValue] = []) -> Int {
