@@ -104,16 +104,72 @@ struct SettingsView: View {
                     Stepper("Questões por dia: \(goal)", value:$goal, in:1...500)
                     Stepper("Meta de segurança: \(safety)/100", value:$safety, in:1...100)
                 }
+
                 Section("Atualização do banco") {
-                    TextField("https://.../manifest.json", text:$manifest).textInputAutocapitalization(.never).keyboardType(.URL)
-                    LabeledContent("Versão local", value:"v\(app.contentVersion)")
-                    Button("Verificar atualização") { Task { await app.checkForUpdates(silent:false) } }
-                    if let msg=app.updateMessage { Text(msg).font(.footnote).foregroundStyle(.secondary) }
+                    TextField(
+                        "https://.../manifest.json",
+                        text:$manifest
+                    )
+                    .textInputAutocapitalization(.never)
+                    .keyboardType(.URL)
+
+                    LabeledContent(
+                        "Versão local",
+                        value:"v\(app.contentVersion)"
+                    )
+
+                    if let remote = app.remoteContentVersion {
+                        LabeledContent(
+                            "Versão remota",
+                            value:"v\(remote)"
+                        )
+                    }
+
+                    Button {
+                        // Salva a URL que está na tela ANTES da verificação.
+                        AppConfig.remoteManifestURL = manifest
+                        Task {
+                            await app.checkForUpdates(silent:false)
+                        }
+                    } label: {
+                        HStack {
+                            if app.isCheckingUpdate {
+                                ProgressView()
+                                    .controlSize(.small)
+                            }
+                            Text(
+                                app.isCheckingUpdate
+                                ? "Verificando..."
+                                : "Verificar atualização"
+                            )
+                        }
+                    }
+                    .disabled(app.isCheckingUpdate)
+
+                    if let msg = app.updateMessage {
+                        Text(msg)
+                            .font(.footnote)
+                            .foregroundStyle(.secondary)
+                            .textSelection(.enabled)
+                    }
                 }
-                Section { Text("O conteúdo oficial e o código do app são separados. Uma nova prova pode entrar por pack sem reinstalar o IPA.").font(.footnote) }
+
+                Section {
+                    Text("O conteúdo oficial e o código do app são separados. Uma nova prova pode entrar por pack sem reinstalar o IPA.")
+                        .font(.footnote)
+                }
             }
             .navigationTitle("Configurações")
-            .toolbar { ToolbarItem(placement:.confirmationAction) { Button("Salvar") { AppConfig.dailyGoal=goal; AppConfig.safetyTarget=safety; AppConfig.remoteManifestURL=manifest; dismiss() } } }
+            .toolbar {
+                ToolbarItem(placement:.confirmationAction) {
+                    Button("Salvar") {
+                        AppConfig.dailyGoal = goal
+                        AppConfig.safetyTarget = safety
+                        AppConfig.remoteManifestURL = manifest
+                        dismiss()
+                    }
+                }
+            }
         }
     }
 }
