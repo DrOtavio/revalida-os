@@ -1,0 +1,276 @@
+{
+  "schemaVersion": 1,
+  "edition": "2023/2",
+  "source": "INEP",
+  "questions": {
+    "Q022": [
+      {
+        "kind": "table",
+        "title": "Tabela do enunciado",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de Referência"
+        ],
+        "rows": [
+          [
+            "Leucócitos",
+            "16 150 mm³",
+            "4 500 a 11 000 mm3"
+          ],
+          [
+            "Transaminase glutâmico oxalacética (TGO)",
+            "81 U/L",
+            "0 a 35 U/L"
+          ],
+          [
+            "Transaminase glutâmico pirúvica (TGP)",
+            "79 U/L",
+            "0 a 35 U/L"
+          ],
+          [
+            "Fosfatase alcalina",
+            "850 U/L",
+            "30 a 120 U/L"
+          ],
+          [
+            "Gama glutamil transferase GGT",
+            "790 U/L",
+            "1 a 94 U/L"
+          ],
+          [
+            "Bilirrubinas totais",
+            "6,90 mg/dL",
+            "0,3 a 1,0 mg/dL"
+          ],
+          [
+            "Bilirrubinas diretas",
+            "6,50 mg/dL",
+            "0,1 a 0,3 mg/dL"
+          ],
+          [
+            "Amilase",
+            "45 U/L",
+            "20 a 160 U/L"
+          ],
+          [
+            "Proteína C Reativa (PCR)",
+            "220 mg/dL",
+            "< 8 mg/dL"
+          ]
+        ],
+        "fallbackImage": "q022_table_01.png",
+        "altText": "Tabela oficial da questão 22."
+      }
+    ],
+    "Q026": [
+      {
+        "kind": "image",
+        "title": "Imagem clínica",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q026_img_01.jpeg",
+        "altText": "Figura oficial da questão 26."
+      }
+    ],
+    "Q027": [
+      {
+        "kind": "image",
+        "title": "Imagem clínica",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q027_img_01.jpeg",
+        "altText": "Figura oficial da questão 27."
+      }
+    ],
+    "Q030": [
+      {
+        "kind": "image",
+        "title": "Imagem oficial",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q030_img_01.jpeg",
+        "altText": "Figura oficial da questão 30."
+      }
+    ],
+    "Q044": [
+      {
+        "kind": "table",
+        "title": "Tabela do enunciado",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "EXAME",
+          "RESULTADO"
+        ],
+        "rows": [
+          [
+            "Mamografia",
+            "BI-RADS II"
+          ],
+          [
+            "Ultrassonografia transvaginal",
+            "Endométrio de 4 mm"
+          ],
+          [
+            "Hematócrito",
+            "36%"
+          ],
+          [
+            "Hemoglobina",
+            "12 g/dl"
+          ],
+          [
+            "C-HDL",
+            "80 mg/dl"
+          ],
+          [
+            "C-LDL",
+            "130 mg/dl"
+          ],
+          [
+            "Colesterol total",
+            "270 mg/dl"
+          ],
+          [
+            "Triglicerídeos",
+            "330 mg/dl"
+          ],
+          [
+            "Glicemia de jejum",
+            "98 mg/dl"
+          ]
+        ],
+        "fallbackImage": "q044_table_01.png",
+        "altText": "Tabela oficial da questão 44."
+      }
+    ],
+    "Q055": [
+      {
+        "kind": "image",
+        "title": "Imagem oficial",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q055_img_01.png",
+        "altText": "Figura oficial da questão 55."
+      }
+    ],
+    "Q063": [
+      {
+        "kind": "image",
+        "title": "Radiografia",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q063_img_01.jpeg",
+        "altText": "Figura oficial da questão 63."
+      }
+    ],
+    "Q071": [
+      {
+        "kind": "table",
+        "title": "Exames laboratoriais",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de Referência"
+        ],
+        "rows": [
+          [
+            "Hemoglobina",
+            "7,5 g/dL",
+            "13 a 15 g/dL"
+          ],
+          [
+            "Hematócrito",
+            "23%",
+            "36 a 47%"
+          ],
+          [
+            "Leucócitos totais",
+            "8 000 mm3",
+            "4 500 a 11 000 mm3"
+          ],
+          [
+            "Proteínas totais",
+            "9,4 g/dL",
+            "6,5 a 8,1 g/dL"
+          ],
+          [
+            "Albumina",
+            "2,2 g/dL",
+            "3,5 a 5,2 g/dL"
+          ],
+          [
+            "Cálcio sérico",
+            "12,3 mg/dL",
+            "8,8 a 10,4 mg/dL"
+          ],
+          [
+            "Creatinina",
+            "1,4 mg/dL",
+            "0,6 a 1,2 mg/dL"
+          ]
+        ],
+        "fallbackImage": "q071_table_01.png",
+        "altText": "Tabela oficial da questão 71."
+      },
+      {
+        "kind": "table",
+        "title": "Imunoeletroforese de proteínas — imunoglobulinas",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "IgA",
+            "5 200 mg/dL",
+            "40 a 350 mg/dL"
+          ],
+          [
+            "IgG",
+            "180 mg/dL",
+            "700 a 1 600 mg/dL"
+          ],
+          [
+            "IgM",
+            "100 mg/dL",
+            "50 a 300 mg/dL"
+          ]
+        ],
+        "fallbackImage": "q071_table_02.png",
+        "altText": "Tabela oficial da questão 71."
+      }
+    ],
+    "Q076": [
+      {
+        "kind": "image",
+        "title": "Imagem oficial",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q076_img_01.jpeg",
+        "altText": "Figura oficial da questão 76."
+      }
+    ],
+    "Q078": [
+      {
+        "kind": "image",
+        "title": "Radiografia",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q078_img_01.jpeg",
+        "altText": "Figura oficial da questão 78."
+      }
+    ],
+    "Q096": [
+      {
+        "kind": "image",
+        "title": "Radiografia",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q096_img_01.jpeg",
+        "altText": "Figura oficial da questão 96."
+      }
+    ]
+  },
+  "stemOverrides": {
+    "Q022": "Uma mulher de 45 anos procura o pronto-socorro com queixa de dor abdominal há 3 dias em região epigástrica e hipocôndrio direito, de intensidade crescente, associada a náusea e vômitos. Refere sudorese e calafrios, porém não aferiu temperatura corporal. Além disso, apresenta urina de coloração escurecida. A paciente nega episódios anteriores e não possui antecedentes pessoais relevantes. Ao físico, apresenta regular estado geral, corada e hidratada; ictérica 2+/4+; frequência cardíaca 108 batimentos por minuto; pressão arterial de 110 × 70 mmHg; saturação de oxigênio de 97% em ar ambiente; frequência respiratória de 23 incursões respiratórias por minuto; e temperatura axilar de 38,5 °C; abdome doloroso à palpação em região epigástrica e em hipocôndrio direito. Os exames laboratoriais apresentaram o seguinte : Ultrassonografia de abdome: vesícula biliar de paredes finas, com múltiplos pequenos cálculos em seu interior, e moderada dilatação de vias biliares, sem evidência de fator obstrutivo ao método; fígado e pâncreas estavam sem alterações. Acerca do quadro dessa paciente, qual é a principal hipótese diagnóstica e a conduta imediata adequada?",
+    "Q044": "Uma mulher de 58 anos foi atendida pela primeira vez no ambulatório especializado em climatério. Faz uso de terapia hormonal combinada via oral há 6 anos. Interrompeu o uso há 5 meses, mas voltou a usar a medicação devido aos sintomas intensos de climatério, principalmente devido aos fogachos e ao impacto negativo na relação sexual. Há cinco anos foi internada por um quadro de trombose venosa profunda, porém, desde então, não houve outros episódios. Os exames de rotina recentes são apresentados na tabela a seguir: 36% Diante do caso acima, a conduta mais segura é",
+    "Q071": "Um homem de 68 anos retorna do ambulatório de referência devido a dores em coluna torácica e lombar, de intensidade progressivamente maior nos últimos 3 meses. Os exames realizados estão apresentados nas tabelas abaixo. A radiografia de coluna vertebral mostrou lesões osteolíticas e fraturas vertebrais em T11, T12, L1 e L2. Nas últimas 2 semanas, o paciente apresenta-se excessivamente sonolento. Considerando essas informações, a hipótese diagnóstica e o exame mais adequado para confirmá-la são, respectivamente,"
+  }
+}

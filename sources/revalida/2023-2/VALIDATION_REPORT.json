@@ -1,0 +1,11 @@
+{
+  "edition": "2023/2",
+  "questions": 100,
+  "answers": 100,
+  "annulled": 9,
+  "metadata": 100,
+  "explanations": 100,
+  "mediaQuestions": 11,
+  "mediaItems": 12,
+  "tablesWithStemOverride": 3
+}

@@ -1,0 +1,73 @@
+{
+  "schemaVersion": 1,
+  "edition": "2022/2",
+  "source": "INEP",
+  "questions": {
+    "Q001": [
+      {
+        "kind": "image",
+        "title": "Eletrocardiograma",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q001_img_01.jpeg",
+        "altText": "Figura oficial da questão 1."
+      }
+    ],
+    "Q027": [
+      {
+        "kind": "image",
+        "title": "Radiografia 1",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q027_img_01.jpeg",
+        "altText": "Figura oficial da questão 27."
+      },
+      {
+        "kind": "image",
+        "title": "Radiografia 2",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q027_img_02.jpeg",
+        "altText": "Figura oficial da questão 27."
+      }
+    ],
+    "Q042": [
+      {
+        "kind": "image",
+        "title": "Imagem oficial",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q042_img_01.jpeg",
+        "altText": "Figura oficial da questão 42."
+      }
+    ],
+    "Q045": [
+      {
+        "kind": "image",
+        "title": "Imagem oficial 1",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q045_img_01.jpeg",
+        "altText": "Figura oficial da questão 45."
+      },
+      {
+        "kind": "image",
+        "title": "Imagem oficial 2",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q045_img_02.jpeg",
+        "altText": "Figura oficial da questão 45."
+      }
+    ],
+    "Q067": [
+      {
+        "kind": "image",
+        "title": "Radiografia 1",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q067_img_01.png",
+        "altText": "Figura oficial da questão 67."
+      },
+      {
+        "kind": "image",
+        "title": "Radiografia 2",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q067_img_02.png",
+        "altText": "Figura oficial da questão 67."
+      }
+    ]
+  }
+}

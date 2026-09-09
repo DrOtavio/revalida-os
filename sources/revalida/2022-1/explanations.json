@@ -1,0 +1,1008 @@
+{
+  "schemaVersion": 1,
+  "edition": "2022/1",
+  "source": "INEP + comentário editorial Revalida OS",
+  "notice": "Comentários são editoriais e educativos; o gabarito definitivo do INEP é preservado. Questões anuladas não recebem alternativa correta.",
+  "questions": {
+    "Q001": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar cirurgia geral sem atribuir alternativa oficial correta."
+    },
+    "Q002": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Adenocarcinoma de cabeça de pâncreas.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é gastroenterologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Coledocolitiase.”. Não é a opção que melhor responde ao cenário quando se prioriza gastroenterologia.",
+        "B": "B — Incorreta: “Adenocarcinoma de vesícula biliar.”. Não é a opção que melhor responde ao cenário quando se prioriza gastroenterologia.",
+        "C": "C — Correta: Adenocarcinoma de cabeça de pâncreas.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “Colangiocarcinoma da confluência dos ductos hepáticos.”. Não é a opção que melhor responde ao cenário quando se prioriza gastroenterologia."
+      },
+      "keyPoint": "Ponto-chave: Gastroenterologia."
+    },
+    "Q003": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Observação clínica ambulatorial.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é pediatria clínica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Terapia com corticosteroide.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "B": "B — Incorreta: “Internação para esplenectomia.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "C": "C — Correta: Observação clínica ambulatorial.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “Administração de imunoglobulina.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica."
+      },
+      "keyPoint": "Ponto-chave: Pediatria clínica."
+    },
+    "Q004": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “50 aos 69 anos de idade; a cada 2 anos.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é ginecologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “45 aos 69 anos de idade; anualmente.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "B": "B — Incorreta: “50 aos 79 anos de idade; anualmente.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "C": "C — Incorreta: “40 aos 69 anos de idade; a cada 2 anos.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "D": "D — Correta: 50 aos 69 anos de idade; a cada 2 anos.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Ginecologia."
+    },
+    "Q005": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “construir um projeto terapêutico singular e pactuar com o paciente as propostas de ações para a mudança do estilo de vida e a adesão medicamentosa.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Correta: construir um projeto terapêutico singular e pactuar com o paciente as propostas de ações para a mudança do estilo de vida e a adesão medicamentosa.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “esclarecer o paciente, no projeto terapêutico singular, sobre as consequências da não adesão ao tratamento, destacando o perigo dos potenciais danos clínicos e reiterando firmemente o aconselhamento.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "C": "C — Incorreta: “utilizar, no projeto terapêutico singular, a negação do paciente aos problemas apresentados e a adesão ao tratamento como formas de pressão para obtenção da mudança do estilo de vida.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "D": "D — Incorreta: “condicionar, na construção do projeto terapêutico singular, a adesão às mudança do estilo de vida e ao tratamento farmacológico e comunicar ao paciente que, se não seguir as orientações da equipe, não poderá mais ser atendido na UBS.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    },
+    "Q006": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar cardiologia sem atribuir alternativa oficial correta."
+    },
+    "Q007": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Internação em Unidade de Terapia Intensiva com monitorização hemodinâmica e hematécrito seriado.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atendimento ao trauma.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Laparotomia com rafia da laceração hepática e drenagem do hematoma subcapsular.”. Não é a opção que melhor responde ao cenário quando se prioriza atendimento ao trauma.",
+        "B": "B — Incorreta: “Laparotomia, hemostasia com compressas no fígado e reabordagem cirúrgica após 48 horas.”. Não é a opção que melhor responde ao cenário quando se prioriza atendimento ao trauma.",
+        "C": "C — Correta: Internação em Unidade de Terapia Intensiva com monitorização hemodinâmica e hematécrito seriado.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “Internação em Unidade de Terapia Intensiva com monitorização hemodinâmica, hematócrito seriado e tomografia de abdome a cada 48 horas.”. Não é a opção que melhor responde ao cenário quando se prioriza atendimento ao trauma."
+      },
+      "keyPoint": "Ponto-chave: Atendimento ao trauma."
+    },
+    "Q008": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Ultrassonografia e punção articular de joelho.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é pediatria clínica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Antiestreptolisina O e ecocardiograma.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "B": "B — Incorreta: “Anticorpo antinuclear e fator reumatoide.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "C": "C — Correta: Ultrassonografia e punção articular de joelho.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “Hemograma e provas de atividade inflamatória.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica."
+      },
+      "keyPoint": "Ponto-chave: Pediatria clínica."
+    },
+    "Q009": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “Encaminhar a gestante para pré-natal de alto risco, já que se trata de diabetes mellitus prévio diagnosticado na gestação.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Encaminhar a gestante para pré-natal de alto risco, já que se trata de diabetes mellitus gestacional.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "B": "B — Correta: Encaminhar a gestante para pré-natal de alto risco, já que se trata de diabetes mellitus prévio diagnosticado na gestação.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “Solicitar um teste de tolerância à glicose oral com 75 g imediatamente para elucidar o diagnóstico e avaliar necessidade de encaminhar a paciente ao ambulatório especializado.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "D": "D — Incorreta: “Solicitar um teste de tolerância à glicose oral com 75 g com 26 semanas para elucidar o diagnóstico e avaliar necessidade de encaminhar a paciente ao ambulatório especializado.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q010": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “gorro descartável, óculos de proteção ou protetor facial, máscara PFF2 (N95 ou equivalente), avental de mangas compridas, luva de procedimento e calçados fechados.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “gorro descartável, protetor facial, máscara PFF2 e avental de pano.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "B": "B — Incorreta: “óculos de proteção, máscara cirúrgica e avental de mangas compridas.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "C": "C — Correta: gorro descartável, óculos de proteção ou protetor facial, máscara PFF2 (N95 ou equivalente), avental de mangas compridas, luva de procedimento e calçados fechados.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “gorro descartável, óculos de proteção ou protetor facial, máscara de pano/tecido (dupla camada), avental de mangas compridas, luva de procedimento e calçados fechados.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    },
+    "Q011": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar cardiologia sem atribuir alternativa oficial correta."
+    },
+    "Q012": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “Colangite aguda; antibioticoterapia venosa.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é gastroenterologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Colecistite aguda; antibioticoterapia venosa.”. Não é a opção que melhor responde ao cenário quando se prioriza gastroenterologia.",
+        "B": "B — Correta: Colangite aguda; antibioticoterapia venosa.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “Colecistite aguda; colecistectomia de emergência.”. Não é a opção que melhor responde ao cenário quando se prioriza gastroenterologia.",
+        "D": "D — Incorreta: “Colangite aguda; drenagem cirúrgica das vias biliares.”. Não é a opção que melhor responde ao cenário quando se prioriza gastroenterologia."
+      },
+      "keyPoint": "Ponto-chave: Gastroenterologia."
+    },
+    "Q013": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “tríplice viral aos 12 meses e uma dose da vacina tetraviral aos 15 meses.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é pediatria clínica.",
+      "optionExplanations": {
+        "A": "A — Correta: tríplice viral aos 12 meses e uma dose da vacina tetraviral aos 15 meses.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “tríplice viral aos 12 meses e uma dose da vacina tetraviral aos 18 meses.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "C": "C — Incorreta: “antissarampo aos 12 meses e uma dose da vacina tríplice viral aos 15 meses.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "D": "D — Incorreta: “antissarampo aos 18 meses e outra dose da vacina tetraviral aos 18 meses.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica."
+      },
+      "keyPoint": "Ponto-chave: Pediatria clínica."
+    },
+    "Q014": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar assistência obstétrica sem atribuir alternativa oficial correta."
+    },
+    "Q015": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Diabetes mellitus gestacional; manter acompanhamento longitudinal na USF e encaminhar a paciente para pré-natal de alto risco.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Diabetes mellitus gestacional não detectado; manter seguimento na rotina de pré-natal de risco habitual na USF”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "B": "B — Incorreta: “Diabetes mellitus gestacional; solicitar início, na USF, da insulinoterapia (2,5 UI/Kg/dia) e avaliar glicemia capilar em 15 dias.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "C": "C — Correta: Diabetes mellitus gestacional; manter acompanhamento longitudinal na USF e encaminhar a paciente para pré-natal de alto risco.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “Diabetes mellitus; suspender acompanhamento do pré-natal de risco habitual na USF e encaminhar a paciente ao pré-natal de alto risco.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q016": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “hepatite aguda viral.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é gastroenterologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “leptospirose.”. Não é a opção que melhor responde ao cenário quando se prioriza gastroenterologia.",
+        "B": "B — Incorreta: “mononucleose.”. Não é a opção que melhor responde ao cenário quando se prioriza gastroenterologia.",
+        "C": "C — Incorreta: “colecistite aguda.”. Não é a opção que melhor responde ao cenário quando se prioriza gastroenterologia.",
+        "D": "D — Correta: hepatite aguda viral.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Gastroenterologia."
+    },
+    "Q017": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “reposição volêmica e nova endoscopia para terapêutica endoscópica.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é cardiologia.",
+      "optionExplanations": {
+        "A": "A — Correta: reposição volêmica e nova endoscopia para terapêutica endoscópica.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “terapia intensiva, inibidor de bomba de prótons e tratamento operatório.”. Não é a opção que melhor responde ao cenário quando se prioriza cardiologia.",
+        "C": "C — Incorreta: “transferência para angiografia terapêutica e embolização em hospital terciário.”. Não é a opção que melhor responde ao cenário quando se prioriza cardiologia.",
+        "D": "D — Incorreta: “terapia intensiva e dobrar a dose de inibidor de bomba de prótons endovenoso.”. Não é a opção que melhor responde ao cenário quando se prioriza cardiologia."
+      },
+      "keyPoint": "Ponto-chave: Cardiologia."
+    },
+    "Q018": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “notificar sífilis congênita, solicitar liquor, radiografia de ossos longos, hemograma e iniciar tratamento.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “fazer seguimento ambulatorial com novas coletas de VRDL nas consultas de rotina.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "B": "B — Incorreta: “solicitar radiografia de ossos longos e hemograma e notificar sífilis congênita se exames alterados.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "C": "C — Correta: notificar sífilis congênita, solicitar liquor, radiografia de ossos longos, hemograma e iniciar tratamento.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “notificar sífilis congênita e iniciar tratamento com penicilina cristalina endovenosa por 10 dias.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q019": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “Gestação ectópica rota; cirurgia.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Apendicite aguda; cirurgia.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "B": "B — Correta: Gestação ectópica rota; cirurgia.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “Doença inflamatória pélvica; antibioticoterapia parenteral.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "D": "D — Incorreta: “Aborto ou ameaça de aborto; internação para observação. rago livre”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q020": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “a participação do controle social é legalmente permitida e muito importante para o desenvolvimento do projeto.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “não há espaço para a participação do controle social no desenvolvimento do projeto de intervenção.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "B": "B — Correta: a participação do controle social é legalmente permitida e muito importante para o desenvolvimento do projeto.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “a participação do controle social no desenvolvimento do projeto seria importante, mas não é permitida pela legislação brasileira.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "D": "D — Incorreta: “a participação do controle social no desenvolvimento do projeto só é permitida após aprovação pelo poder legislativo do município.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    },
+    "Q021": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “anemia falciforme e solicitar eletroforese de hemoglobina.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “hiperparatireoidismo e solicitar dosagem de paratormônio.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "B": "B — Correta: anemia falciforme e solicitar eletroforese de hemoglobina.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “fraturas vertebrais secundárias e solicitar tomografia computadorizada.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "D": "D — Incorreta: “espondilite anquilosante e solicitar ressonância magnética de sacroiliacas.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    },
+    "Q022": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar atendimento ao trauma sem atribuir alternativa oficial correta."
+    },
+    "Q023": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “tumor de Wilms; ultrassonografia de abdome.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “linfoma; ultrassonografia de abome.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "B": "B — Correta: tumor de Wilms; ultrassonografia de abdome.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “glomerulonefrite difusa aguda; complemento sérico.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "D": "D — Incorreta: “neuroblastoma; tomografia computadorizada de abdome.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q024": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “orientar e esclarecer a paciente sobre a normalidade do desenvolvimento.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é ginecologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “solicitar dosagens hormonais e fazer o encaminhamento da paciente para centro de referência.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "B": "B — Incorreta: “pedir avaliação ultrassonográfica da presença e tamanho de útero e ovários da paciente.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "C": "C — Incorreta: “solicitar teste de progesterona via oral da paciente para estímulo endometrial.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "D": "D — Correta: orientar e esclarecer a paciente sobre a normalidade do desenvolvimento.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Ginecologia."
+    },
+    "Q025": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “assumir um papel de vigilância em saúde, com prioridade às necessidades dos grupos mais vulneráveis em relação à pandemia da COVID-19.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “homogeneizar as orientações para toda a comunidade, já que a COVID-19 atinge de modo semelhante todos os grupos populacionais.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "B": "B — Correta: assumir um papel de vigilância em saúde, com prioridade às necessidades dos grupos mais vulneráveis em relação à pandemia da COVID-19.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “buscar orientações dos órgãos competentes, alertando contra quaisquer recomendações de curadores tradicionais referentes à pandemia da COVID-19.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "D": "D — Incorreta: “posicionar-se com neutralidade diante das necessidades da comunidade e das diferentes orientações das autoridades municipal, estadual e federal no combate à COVID-19.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    },
+    "Q026": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “medicação inadequada na coexistência de infarto de ventrículo direito.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é cardiologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “agravamento da hipercalemia pelo AAS.”. Não é a opção que melhor responde ao cenário quando se prioriza cardiologia.",
+        "B": "B — Incorreta: “desenvolvimento de rotura de septo interventricular.”. Não é a opção que melhor responde ao cenário quando se prioriza cardiologia.",
+        "C": "C — Correta: medicação inadequada na coexistência de infarto de ventrículo direito.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “instalação de choque cardiogênico por grave disfunção ventricular esquerda.”. Não é a opção que melhor responde ao cenário quando se prioriza cardiologia."
+      },
+      "keyPoint": "Ponto-chave: Cardiologia."
+    },
+    "Q027": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar atendimento ao trauma sem atribuir alternativa oficial correta."
+    },
+    "Q028": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “Peso baixo para a idade.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é ginecologia.",
+      "optionExplanations": {
+        "A": "A — Correta: Peso baixo para a idade.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “Peso elevado para a idade.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "C": "C — Incorreta: “Peso adequado para a idade.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "D": "D — Incorreta: “Peso muito baixo para a idade.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia."
+      },
+      "keyPoint": "Ponto-chave: Ginecologia."
+    },
+    "Q029": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “Herpes Genital; indicação de tratamento com aciclovir e com 36 semanas de gestação deve ser prescrito aciclovir profilático, para diminuir o risco de lesões ativas no momento do parto.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Sífilis (lesão secundária); deve ser solicitado VDRL e teste treponêmico com urgência para definir conduta.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "B": "B — Incorreta: “Sífilis (lesão primária); indicação de tratamento com penicilina benzatina para a mulher e o(s) parceiro(s).”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "C": "C — Incorreta: “Herpes Genital; deve ser solicitada sorologia (IGG e IGM) ecultura de secreção da lesão e, após coleta, iniciar tratamento com aciclovir.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "D": "D — Correta: Herpes Genital; indicação de tratamento com aciclovir e com 36 semanas de gestação deve ser prescrito aciclovir profilático, para diminuir o risco de lesões ativas no momento do parto.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q030": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “mensalmente até a 28º semana.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “mensalmente até a 34º semana.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "B": "B — Correta: mensalmente até a 28º semana.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “quinzenalmente até a 342 semana.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "D": "D — Incorreta: “quinzenalmente até a 28º semana.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q031": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “observar o quadro clínico do paciente e instituir precaução de contato.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atendimento ao trauma.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “encaminhar o paciente a um centro especializado de trauma.”. Não é a opção que melhor responde ao cenário quando se prioriza atendimento ao trauma.",
+        "B": "B — Incorreta: “iniciar tratamento do paciente com antibiótico conforme o antibiograma.”. Não é a opção que melhor responde ao cenário quando se prioriza atendimento ao trauma.",
+        "C": "C — Correta: observar o quadro clínico do paciente e instituir precaução de contato.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “instituir precaução de gotículas e banho com clorhexidine para o paciente.”. Não é a opção que melhor responde ao cenário quando se prioriza atendimento ao trauma."
+      },
+      "keyPoint": "Ponto-chave: Atendimento ao trauma."
+    },
+    "Q032": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “Lidocaína e bupivacaína.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é pediatria clínica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Mepivacaína e lidocaína.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "B": "B — Correta: Lidocaína e bupivacaína.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “Cloroprocaina e lidocaína.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "D": "D — Incorreta: “Cloroprocaina e mepivacaina.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica."
+      },
+      "keyPoint": "Ponto-chave: Pediatria clínica."
+    },
+    "Q033": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “Penicilina intravenosa.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é pediatria clínica.",
+      "optionExplanations": {
+        "A": "A — Correta: Penicilina intravenosa.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “Gentamicina intravenosa.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "C": "C — Incorreta: “Ceftazidima intravenosa.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "D": "D — Incorreta: “Vancomicina intravenosa.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica."
+      },
+      "keyPoint": "Ponto-chave: Pediatria clínica."
+    },
+    "Q034": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “As características ultrassonográficas são de alto risco para malignidade.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é ginecologia.",
+      "optionExplanations": {
+        "A": "A — Correta: As características ultrassonográficas são de alto risco para malignidade.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “As características ultrassonográficas correspondem a processos não neoplásicos ou fisiológicos.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "C": "C — Incorreta: “As características ultrassonográficas são inespecíficas para classificar risco de malignidade.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "D": "D — Incorreta: “O exame de ultrassom não é adequado para a avaliação das características da massa anexial.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia."
+      },
+      "keyPoint": "Ponto-chave: Ginecologia."
+    },
+    "Q035": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Hemograma; tipagem sanguínea e fator Rh; glicemia de jejum; testes de rastreamento para sífilis, HIV, toxoplasmose e hepatite B; exame de urina e urocultura.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Hemograma; tipagem sanguínea e fator Rh; glicemia de jejum; testes de rastreamento para sífilis, HIV e citomegalovirus; exame de urina e urocultura.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "B": "B — Incorreta: “Hemograma; tipagem sanguínea e fator Rh; teste de tolerância oral à glicose; testes de rastreamento para sífilis, HIV e hepatite B; exame de urina e urocultura.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "C": "C — Correta: Hemograma; tipagem sanguínea e fator Rh; glicemia de jejum; testes de rastreamento para sífilis, HIV, toxoplasmose e hepatite B; exame de urina e urocultura.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “Hemograma; tipagem sanguínea e fator Rh; glicemia de jejum; testes de rastreamento para sífilis, HIV, citomegalovirus e hepatite B e C; exame de urina e urocultura.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q036": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “deficiência de G6PD.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é hematologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “deficiência de vitamina B12.”. Não é a opção que melhor responde ao cenário quando se prioriza hematologia.",
+        "B": "B — Incorreta: “aplasia de medula óssea.”. Não é a opção que melhor responde ao cenário quando se prioriza hematologia.",
+        "C": "C — Correta: deficiência de G6PD.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “hipotireoidismo.”. Não é a opção que melhor responde ao cenário quando se prioriza hematologia."
+      },
+      "keyPoint": "Ponto-chave: Hematologia."
+    },
+    "Q037": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “reposição com fluidos endovenosos, monitorização eletrocardiográfica e transferência para centro especializado em queimados, após estabilização.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é questão clínica integrada.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “fasciotomia, reposição hídrica por via oral, radiografia de membro superior direito e observação no PS.”. Não é a opção que melhor responde ao cenário quando se prioriza questão clínica integrada.",
+        "B": "B — Incorreta: “sondagem vesical, pesquisa de mioglobina na urina, analgesia, monitorização eletrocardiográfica e internação hospitalar.”. Não é a opção que melhor responde ao cenário quando se prioriza questão clínica integrada.",
+        "C": "C — Incorreta: “avaliação do cirurgião plástico, considerando que a superfície corpórea queimada corresponde a 9%, além de reposição hídrica por via oral.”. Não é a opção que melhor responde ao cenário quando se prioriza questão clínica integrada.",
+        "D": "D — Correta: reposição com fluidos endovenosos, monitorização eletrocardiográfica e transferência para centro especializado em queimados, após estabilização.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Questão clínica integrada."
+    },
+    "Q038": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “Fenobarbital sódico; depressão respiratória.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é pediatria clínica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Tiopental; arritmia cardíaca.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "B": "B — Incorreta: “Midazolan; hipertensão intracraniana.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "C": "C — Incorreta: “Propofol; instabilidade hemodinâmica.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "D": "D — Correta: Fenobarbital sódico; depressão respiratória.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Pediatria clínica."
+    },
+    "Q039": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “exame a fresco de secreção vaginal; observados parasitas flagelados com movimentos pendulares.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é ginecologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “exame de secreção vaginal com coloração de Gram; observadas “Clue Cells”.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "B": "B — Incorreta: “cultura de secreção vaginal; observado crescimento de Streptococcus agalactie.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "C": "C — Correta: exame a fresco de secreção vaginal; observados parasitas flagelados com movimentos pendulares.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “exame a fresco de secreção vaginal com hidróxido de potássio; observadas pseudo-hifas e esporos.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia."
+      },
+      "keyPoint": "Ponto-chave: Ginecologia."
+    },
+    "Q040": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “Acidentes com arraia.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Acidentes ofídicos.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "B": "B — Correta: Acidentes com arraia.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “Acidentes escorpiônicos.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "D": "D — Incorreta: “Intoxicação por mercúrio.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    },
+    "Q041": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “o uso de metimazol via oral.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é endocrinologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “a terapia com iodo radioativo.”. Não é a opção que melhor responde ao cenário quando se prioriza endocrinologia.",
+        "B": "B — Correta: o uso de metimazol via oral.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “a tireoidectomia subtotal.”. Não é a opção que melhor responde ao cenário quando se prioriza endocrinologia.",
+        "D": "D — Incorreta: “a tireoidectomia total.”. Não é a opção que melhor responde ao cenário quando se prioriza endocrinologia."
+      },
+      "keyPoint": "Ponto-chave: Endocrinologia."
+    },
+    "Q042": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “Limpa-contaminada; realizar antibioticoprofilaxia com a administração de cefazolina 2G IV uma hora antes do ato cirúrgico.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é cirurgia geral.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Contaminada; realizar antibioticoprofilaxia com a administração de cefazolina 1G IV durante o ato cirúrgico.”. Não é a opção que melhor responde ao cenário quando se prioriza cirurgia geral.",
+        "B": "B — Incorreta: “Contaminada; realizar antibioticoprofilaxia com a administração de cefazolina 2G IV uma hora antes do ato cirúrgico.”. Não é a opção que melhor responde ao cenário quando se prioriza cirurgia geral.",
+        "C": "C — Incorreta: “Limpa-contaminada; realizar antibioticoprofilaxia com a administração de cefazolina 1G IV durante o ato cirúrgico.”. Não é a opção que melhor responde ao cenário quando se prioriza cirurgia geral.",
+        "D": "D — Correta: Limpa-contaminada; realizar antibioticoprofilaxia com a administração de cefazolina 2G IV uma hora antes do ato cirúrgico.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Cirurgia geral."
+    },
+    "Q043": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar pediatria clínica sem atribuir alternativa oficial correta."
+    },
+    "Q044": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “inserir o Dispositivo Intrauterino (DIU), pois existe contraindicação ao uso de métodos hormonais estroprogestativos por via oral.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “usar fármacos que reduzam o sangramento na fase dos sangramentos — intermenstruais, por — exemplo, anti-inflamatórios e/ou antifibrinolíticos.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "B": "B — Incorreta: “voltar a fazer uso de CHO de dose maior, podendo ser o mesmo que usava antes (etinilestradiol 35 mcg em associação com acetato de ciproterona 2 mg)”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "C": "C — Correta: inserir o Dispositivo Intrauterino (DIU), pois existe contraindicação ao uso de métodos hormonais estroprogestativos por via oral.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “usar outr°CHO com o progestógeno acetato de ciproterona, pois o gestodeno frequentemente se associa com maior risco de sangramentos intermenstruais.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q045": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “iniciar esquema básico com rifampicina, isoniazida, pirazinamida e etambutol, e reavaliar o caso após resultado da cultura de escarro e do teste de sensibilidade.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “solicitar cultura de escarro e aguardar o resultado para iniciar o tratamento de acordo com o teste de sensibilidade.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "B": "B — Incorreta: “encaminhar para a referência terciária para iniciar o tratamento após o resultado da cultura de escarro e do teste de sensibilidade.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "C": "C — Incorreta: “iniciar esquema básico com rifampicina, isoniazida, pirazinamida e etambutol, não havendo necessidade de coleta de cultura de escarro.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "D": "D — Correta: iniciar esquema básico com rifampicina, isoniazida, pirazinamida e etambutol, e reavaliar o caso após resultado da cultura de escarro e do teste de sensibilidade.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    },
+    "Q046": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “infecção de trato urinário não complicada.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “pielonefrite grave.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "B": "B — Incorreta: “sepse de foco urinário.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "C": "C — Incorreta: “bacteriúria assintomática.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "D": "D — Correta: infecção de trato urinário não complicada.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    },
+    "Q047": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “irrigação ocular com soro fisiológico a 0,9% em temperatura ambiente. raço livre”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é questão clínica integrada.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “curativo oclusivo e compressivo.”. Não é a opção que melhor responde ao cenário quando se prioriza questão clínica integrada.",
+        "B": "B — Incorreta: “oftalmoscopia e retirada de corpo estranho com pinça.”. Não é a opção que melhor responde ao cenário quando se prioriza questão clínica integrada.",
+        "C": "C — Incorreta: “aplicação de colírio contendo antimicrobianos e corticoesteroides.”. Não é a opção que melhor responde ao cenário quando se prioriza questão clínica integrada.",
+        "D": "D — Correta: irrigação ocular com soro fisiológico a 0,9% em temperatura ambiente. raço livre. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Questão clínica integrada."
+    },
+    "Q048": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “síndrome inflamatória multissistêmica pediátrica.”. O conjunto dos achados clínicos e laboratoriais deve ser integrado para reconhecer síndrome inflamatória multissistêmica pediátrica (sim-p).",
+      "optionExplanations": {
+        "A": "A — Incorreta: “dengue grave com choque.”. Não é a opção que melhor responde ao cenário quando se prioriza síndrome inflamatória multissistêmica pediátrica (sim-p).",
+        "B": "B — Incorreta: “síndrome do choque tóxico estafilocócico.”. Não é a opção que melhor responde ao cenário quando se prioriza síndrome inflamatória multissistêmica pediátrica (sim-p).",
+        "C": "C — Incorreta: “meningite meningocócica na forma séptica.”. Não é a opção que melhor responde ao cenário quando se prioriza síndrome inflamatória multissistêmica pediátrica (sim-p).",
+        "D": "D — Correta: síndrome inflamatória multissistêmica pediátrica.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Síndrome inflamatória multissistêmica pediátrica (SIM-P)."
+    },
+    "Q049": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “uso de anticoncepcional hormonal associado ao uso de preservativo.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “realização de laqueadura tubária associada ao uso de preservativo.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "B": "B — Correta: uso de anticoncepcional hormonal associado ao uso de preservativo.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “uso do Dispositivo Intrauterino (DIU) de cobre.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "D": "D — Incorreta: “realização de vasectomia.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q050": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “individualizar e compartilhar a decisão frente aos riscos e benefícios associados ao rastreamento. ‘ago livre”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “solicitar PSA e, se alterado, realizar o toque retal.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "B": "B — Incorreta: “solicitar PSA associado à realização do toque retal.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "C": "C — Incorreta: “solicitar PSA e, se alterado, encaminhar ao urologista para a realização do toque retal.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "D": "D — Correta: individualizar e compartilhar a decisão frente aos riscos e benefícios associados ao rastreamento. ‘ago livre. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    },
+    "Q051": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “tuberculose pulmonar pós-primária.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é pneumologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “tuberculose extrapulmonar.”. Não é a opção que melhor responde ao cenário quando se prioriza pneumologia.",
+        "B": "B — Incorreta: “tuberculose pulmonar latente.”. Não é a opção que melhor responde ao cenário quando se prioriza pneumologia.",
+        "C": "C — Correta: tuberculose pulmonar pós-primária.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “infecção primária por Mycobacterium tuberculosis”. Não é a opção que melhor responde ao cenário quando se prioriza pneumologia."
+      },
+      "keyPoint": "Ponto-chave: Pneumologia."
+    },
+    "Q052": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “imobilizar o membro afetado e medicar a paciente com anti-inflamatério.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é questão clínica integrada.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “pedir uma radiografia do tornozelo para avaliar a fratura.”. Não é a opção que melhor responde ao cenário quando se prioriza questão clínica integrada.",
+        "B": "B — Incorreta: “aplicar calor local e encaminhar a paciente para avaliação do ortopedista.”. Não é a opção que melhor responde ao cenário quando se prioriza questão clínica integrada.",
+        "C": "C — Incorreta: “iniciar fisioterapia motora precoce e solicitar o parecer de um ortopedista.”. Não é a opção que melhor responde ao cenário quando se prioriza questão clínica integrada.",
+        "D": "D — Correta: imobilizar o membro afetado e medicar a paciente com anti-inflamatério.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Questão clínica integrada."
+    },
+    "Q053": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “Caso o recém-nascido comece a respirar ou chorar e esteja ativo, deve-se secá-lo rapidamente e envolver a região das fontanelas e do corpo em campo estéril aquecido para evitar a hipotermia; o neonato deve ser posicionado no abdome ou tórax materno.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Caso o recém-nascido apresente boa vitalidade, o clampeamento imediato do cordão evita a hemorragia intracraniana e a enterocolite necrosante.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "B": "B — Correta: Caso o recém-nascido comece a respirar ou chorar e esteja ativo, deve-se secá-lo rapidamente e envolver a região das fontanelas e do corpo em campo estéril aquecido para evitar a hipotermia; o neonato deve ser posicionado no abdome ou tórax materno.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “Caso o recém-nascido não apresente boa vitalidade, realizam-se o clampeamento imediato de cordão, a colocação de touca dupla e saco plástico, visando-se manter a temperatura axilar > 37,5 “C para proteção de lesão cerebral em paciente asfixiado.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "D": "D — Incorreta: “Caso o recém-nascido apresente boa vitalidade, após posicionar o pescoço, deve-se aspirar delicadamente a boca e depois as narinas com sonda traqueal número 6-8 conectada ao aspirador a vácuo, sob pressão máxima de 100 mmHg.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q054": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “Solicitar exames para excluir outros fatores de infertilidade.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Encaminhar o casal para programa de adoção.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "B": "B — Incorreta: “Prescrever indução de ovulação para reprodução assistida.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "C": "C — Incorreta: “Encaminhar a paciente para cirurgia de recanalização tubária.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "D": "D — Correta: Solicitar exames para excluir outros fatores de infertilidade.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q055": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “tuberculose pulmonar; teste rápido molecular para tuberculose (TRM-TB), cultura de escarro e teste de sensibilidade.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “criptococose; sorologia.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "B": "B — Incorreta: “paracocciodioidomicose; exame a fresco de escarro.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "C": "C — Incorreta: “toxoplasmose; tomografia, imununofluorescência indireta e teste imunoenzimático (ELISA).”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "D": "D — Correta: tuberculose pulmonar; teste rápido molecular para tuberculose (TRM-TB), cultura de escarro e teste de sensibilidade.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    },
+    "Q056": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “Solicitar ultrassonografia de tireoide.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é endocrinologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Solicitar cintilografia de tireoide.”. Não é a opção que melhor responde ao cenário quando se prioriza endocrinologia.",
+        "B": "B — Correta: Solicitar ultrassonografia de tireoide.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “Encaminhar a paciente para cirurgia.”. Não é a opção que melhor responde ao cenário quando se prioriza endocrinologia.",
+        "D": "D — Incorreta: “Solicitar punção aspirativa por agulha fina.”. Não é a opção que melhor responde ao cenário quando se prioriza endocrinologia."
+      },
+      "keyPoint": "Ponto-chave: Endocrinologia."
+    },
+    "Q057": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar questão clínica integrada sem atribuir alternativa oficial correta."
+    },
+    "Q058": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “manitol, na dose de 0,5 a 1,0 g/kg, intravenoso.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é pediatria clínica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “bicarbonato, 1 mEq/kg, intravenoso.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "B": "B — Incorreta: “flush de 200 mg/kg de glicose, intravenoso.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "C": "C — Correta: manitol, na dose de 0,5 a 1,0 g/kg, intravenoso.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “40 mEq de potássio por litro de solução, intravenoso.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica."
+      },
+      "keyPoint": "Ponto-chave: Pediatria clínica."
+    },
+    "Q059": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “anovulação.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é ginecologia.",
+      "optionExplanations": {
+        "A": "A — Correta: anovulação.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “doença von Willebrand.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "C": "C — Incorreta: “hipogonadismo hipogonadotrófico.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "D": "D — Incorreta: “púrpura trombocitopênica idiopática.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia."
+      },
+      "keyPoint": "Ponto-chave: Ginecologia."
+    },
+    "Q060": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “a introdução da tentacânula deve ser realizada a cerca de 3 mm da margem lateral, longitudinalmente até a matriz.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “a ressecção da margem lateral da unha deve ser realizada com tesoura reta, preservando-se a matriz ungueal.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "B": "B — Incorreta: “o bloqueio digital deve ser realizado com lidocaína com vasoconstritor, por ser um procedimento muito doloroso.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "C": "C — Correta: a introdução da tentacânula deve ser realizada a cerca de 3 mm da margem lateral, longitudinalmente até a matriz.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “o tecido de granulação pode ser preservado, não havendo necessidade de ressecá-lo, pois não há sinais de infecção.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    },
+    "Q061": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar questão clínica integrada sem atribuir alternativa oficial correta."
+    },
+    "Q062": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “Câncer de pâncreas; ultrassom de abdome.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Correta: Câncer de pâncreas; ultrassom de abdome.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “Câncer de vias biliares; ressonância nuclear magnética de abdome.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "C": "C — Incorreta: “Câncer de fígado; tomografia computadorizada de abdome com contraste venoso.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "D": "D — Incorreta: “Coledocolitiase; — colangiopancreatografia retrógrada endoscópica com papilotomia.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    },
+    "Q063": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “alterado, uma vez que foi realizado de acordo com a técnica preconizada.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Correta: alterado, uma vez que foi realizado de acordo com a técnica preconizada.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “normal, visto que a saturação pós-ductal é superior à pré-ductal.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "C": "C — Incorreta: “inválido, já que foi feito antes da idade gestacional indicada.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "D": "D — Incorreta: “inválido, pois foi realizado antes do período preconizado.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q064": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “programar parto cesariana para a 38º semana de gestação e iniciar zidovudina endovenosa pelo menos 3 horas antes do procedimento.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “induzir o parto com misoprostol e/ou ocitocina na 38º semana e realizar zidovudina endovenosa durante todo o procedimento.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "B": "B — Correta: programar parto cesariana para a 38º semana de gestação e iniciar zidovudina endovenosa pelo menos 3 horas antes do procedimento.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “realizar parto cesariana na 402 semana e prescrever zidovudina injetável para ser administrada 1 hora antes do procedimento.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "D": "D — Incorreta: “aguardar início espontâneo do parto vaginal até 40 semanas e usar zidovudina endovenosa durante todo o período do trabalho de parto.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q065": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “na ambivalência de emoções, abordando discrepâncias entre o comportamento atual e objetivos mais amplos da paciente.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é cardiologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “nos benefícios de uma mudança, buscando pressionar a paciente a iniciar um novo estilo de vida.”. Não é a opção que melhor responde ao cenário quando se prioriza cardiologia.",
+        "B": "B — Incorreta: “na resistência à mudança, confrontando e debatendo com a paciente sobre a importância de novos hábitos.”. Não é a opção que melhor responde ao cenário quando se prioriza cardiologia.",
+        "C": "C — Incorreta: “nas consequências dos fatores de risco atuais, explicando com detalhes os malefícios da não mudança de hábitos.”. Não é a opção que melhor responde ao cenário quando se prioriza cardiologia.",
+        "D": "D — Correta: na ambivalência de emoções, abordando discrepâncias entre o comportamento atual e objetivos mais amplos da paciente.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Cardiologia."
+    },
+    "Q066": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “investigar possível infecção fúngica por meio da avaliação de KOH a 10% ou cultura fúngica por raspagem da pele; se o teste for positivo, tratar com terbinafina oral por 14 dias.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é doenças infecciosas.",
+      "optionExplanations": {
+        "A": "A — Correta: investigar possível infecção fúngica por meio da avaliação de KOH a 10% ou cultura fúngica por raspagem da pele; se o teste for positivo, tratar com terbinafina oral por 14 dias.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “investigar possível infecção fúngica por meio da avaliação de KOH a 10% ou cultura fúngica por raspagem da pele; se o teste for positivo, tratar com fluconazol 200 mg, dose única.”. Não é a opção que melhor responde ao cenário quando se prioriza doenças infecciosas.",
+        "C": "C — Incorreta: “tratar com clotrimazol tópico por 3 semanas, visto que, pelas características das lesões de pele, muito sugestivas de lesão fúngica, não há necessidade de investigação adicional.”. Não é a opção que melhor responde ao cenário quando se prioriza doenças infecciosas.",
+        "D": "D — Incorreta: “investigar possível infecção fúngica por meio da avaliação de KOH a 10% ou cultura fúngica por raspagem da pele; se o teste for positivo, tratar com betametazona e cetoconazol tópicos por 14 dias.”. Não é a opção que melhor responde ao cenário quando se prioriza doenças infecciosas."
+      },
+      "keyPoint": "Ponto-chave: Doenças infecciosas."
+    },
+    "Q067": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “Câncer de tiréoide; ultrassonografia de pescoço com Doppler da tireoide e punção aspirativa por agulha fina.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é endocrinologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Bócio; tomografia computadorizada de pescoço, com contraste.”. Não é a opção que melhor responde ao cenário quando se prioriza endocrinologia.",
+        "B": "B — Incorreta: “Tireoidite de Hashimoto; ressonância nuclear magnética de pescoço.”. Não é a opção que melhor responde ao cenário quando se prioriza endocrinologia.",
+        "C": "C — Incorreta: “Cisto de conduto tireoglosso; cintilografia da tireoide com iodo radioativo.”. Não é a opção que melhor responde ao cenário quando se prioriza endocrinologia.",
+        "D": "D — Correta: Câncer de tiréoide; ultrassonografia de pescoço com Doppler da tireoide e punção aspirativa por agulha fina.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Endocrinologia."
+    },
+    "Q068": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “realizar descompressão gástrica com sonda nasogástrica e administrar óleo mineral.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é pediatria clínica.",
+      "optionExplanations": {
+        "A": "A — Correta: realizar descompressão gástrica com sonda nasogástrica e administrar óleo mineral.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “realizar enema com solução salina hipertônica e administrar ivermectina.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "C": "C — Incorreta: “instalar sonda nasogástrica aberta, para drenagem, e administrar piperazina.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "D": "D — Incorreta: “suspender a ingestão oral e indicar o tratamento cirúrgico.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica."
+      },
+      "keyPoint": "Ponto-chave: Pediatria clínica."
+    },
+    "Q069": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “realizar a vacinação contra influenza em dose única imediata e administrar nova dose de dTpa.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Correta: realizar a vacinação contra influenza em dose única imediata e administrar nova dose de dTpa.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “administrar nova dose de dTpa, não havendo necessidade de nova vacinação contra influenza.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "C": "C — Incorreta: “realizar vacinação contra influenza em 2 doses (imediata e após 30 dias) e administrar nova dose de dTpa.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "D": "D — Incorreta: “realizar vacinação contra influenza em dose única imediata, não havendo indicação de nova dose da dTpa.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q070": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “a segunda dose da tríplice viral + varicela. taço livre”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é pediatria clínica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “a tríplice viral juntamente com a tetraviral”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "B": "B — Incorreta: “o reforço da pneumocécica conjugada.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "C": "C — Incorreta: “o reforço da meningocócica C conjugada.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "D": "D — Correta: a segunda dose da tríplice viral + varicela. taço livre. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Pediatria clínica."
+    },
+    "Q071": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “AntiDNA nativo; lúpus eritematoso sistêmico.”. O conjunto dos achados clínicos e laboratoriais deve ser integrado para reconhecer lúpus eritematoso sistêmico e anti-dna nativo.",
+      "optionExplanations": {
+        "A": "A — Correta: AntiDNA nativo; lúpus eritematoso sistêmico.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “AntiCCP; artrite reumatoide.”. Não é a opção que melhor responde ao cenário quando se prioriza lúpus eritematoso sistêmico e anti-dna nativo.",
+        "C": "C — Incorreta: “AntiScl-70; esclerose sistêmica.”. Não é a opção que melhor responde ao cenário quando se prioriza lúpus eritematoso sistêmico e anti-dna nativo.",
+        "D": "D — Incorreta: “AntiRo; síndrome de Sjögren.”. Não é a opção que melhor responde ao cenário quando se prioriza lúpus eritematoso sistêmico e anti-dna nativo."
+      },
+      "keyPoint": "Ponto-chave: Lúpus eritematoso sistêmico e anti-DNA nativo."
+    },
+    "Q072": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “documentos técnicos e administrativos referentes àinternação hospitalar, que são de guarda e responsabilidade do hospital, mas de propriedade do paciente.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é questão clínica integrada.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “documentos referentes aos procedimentos administrativos, que são de guarda, responsabilidade e propriedade do hospital.”. Não é a opção que melhor responde ao cenário quando se prioriza questão clínica integrada.",
+        "B": "B — Incorreta: “documentos técnicos e administrativos referentes à internação, que são de responsabilidade, guarda e propriedade do hospital.”. Não é a opção que melhor responde ao cenário quando se prioriza questão clínica integrada.",
+        "C": "C — Correta: documentos técnicos e administrativos referentes àinternação hospitalar, que são de guarda e responsabilidade do hospital, mas de propriedade do paciente.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “documentos técnicos referentes somente aos atos médicos executados, que são de guarda e responsabilidade do hospital, mas de propriedade do paciente.”. Não é a opção que melhor responde ao cenário quando se prioriza questão clínica integrada."
+      },
+      "keyPoint": "Ponto-chave: Questão clínica integrada."
+    },
+    "Q073": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “doença de Kawasaki.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é pediatria clínica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “escarlatina.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "B": "B — Incorreta: “mononucleose.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "C": "C — Incorreta: “eritema infeccioso.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "D": "D — Correta: doença de Kawasaki.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Pediatria clínica."
+    },
+    "Q074": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “Repetir a coleta para exame da citologia em 6 meses.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é ginecologia.",
+      "optionExplanations": {
+        "A": "A — Correta: Repetir a coleta para exame da citologia em 6 meses.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “Realizar nova coleta da citologia em 1 ano.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "C": "C — Incorreta: “Solicitar pesquisa do tipo e da classe viral.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "D": "D — Incorreta: “Encaminhar para colposcopia e biópsia.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia."
+      },
+      "keyPoint": "Ponto-chave: Ginecologia."
+    },
+    "Q075": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “tuberculose.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “leucemia.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "B": "B — Correta: tuberculose.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “câncer de bexiga.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "D": "D — Incorreta: “câncer de cabeça e pescoço.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    },
+    "Q076": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “teste não treponêmico e tratar a paciente com esquema de sífilis latente tardia.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é doenças infecciosas.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “tratamento da paciente com esquema para sífilis secundária, não havendo necessidade de realização de outro teste.”. Não é a opção que melhor responde ao cenário quando se prioriza doenças infecciosas.",
+        "B": "B — Incorreta: “teste treponêmico e aguardar o resultado antes de iniciar tratamento da paciente.”. Não é a opção que melhor responde ao cenário quando se prioriza doenças infecciosas.",
+        "C": "C — Correta: teste não treponêmico e tratar a paciente com esquema de sífilis latente tardia.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “teste de rastreamento para HIV e tratar a paciente com esquema para sífilis primária.”. Não é a opção que melhor responde ao cenário quando se prioriza doenças infecciosas."
+      },
+      "keyPoint": "Ponto-chave: Doenças infecciosas."
+    },
+    "Q077": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “hérnia inguinal indireta; encaminhamento ao cirurgião para correção cirúrgica eletiva.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é pediatria clínica.",
+      "optionExplanations": {
+        "A": "A — Correta: hérnia inguinal indireta; encaminhamento ao cirurgião para correção cirúrgica eletiva.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “hérnia inguinal direta; encaminhamento ao cirurgião para correção cirúrgica de urgência.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "C": "C — Incorreta: “hidrocele comunicante à direita; encaminhamento ao cirurgião para correção cirúrgica eletiva.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "D": "D — Incorreta: “hidrocele septada à direita; encaminhamento ao cirurgião para correção cirúrgica de urgência.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica."
+      },
+      "keyPoint": "Ponto-chave: Pediatria clínica."
+    },
+    "Q078": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Enema contrastado; dilatação do segmento colônico com a inervação preservada.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é cuidados neonatais.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Manometria anorretal; relaxamento do esfíncter anal interno.”. Não é a opção que melhor responde ao cenário quando se prioriza cuidados neonatais.",
+        "B": "B — Incorreta: “Biópsia retal; presença ou diminuição do número de células ganglionares.”. Não é a opção que melhor responde ao cenário quando se prioriza cuidados neonatais.",
+        "C": "C — Correta: Enema contrastado; dilatação do segmento colônico com a inervação preservada.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “Radiografia simples do abdome; calibre do reto maior que o do segmento colônico à montante. raço livre”. Não é a opção que melhor responde ao cenário quando se prioriza cuidados neonatais."
+      },
+      "keyPoint": "Ponto-chave: Cuidados neonatais."
+    },
+    "Q079": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “orientar dieta hipossódica e iniciar metildopa via oral.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “solicitar internação e administração de hidralazina endovenosa.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "B": "B — Incorreta: “orientar o uso regular do captopril e fazer curva pressórica.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "C": "C — Correta: orientar dieta hipossódica e iniciar metildopa via oral.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “orientar dieta hipossódica e fazer curva pressórica.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q080": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “os casos positivos e conviventes.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “somente os casos positivos.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "B": "B — Incorreta: “coletivamente a comunidade.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "C": "C — Correta: os casos positivos e conviventes.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “somente os casos confirmados por meio de um segundo exame. aço livre”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    },
+    "Q081": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “manter o tratamento com amoxicilina + clavulanato e repetir o estudo radiológico em 1 semana.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é cardiologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “referenciar o paciente para a assistência hospitalar para drenagem de tórax.”. Não é a opção que melhor responde ao cenário quando se prioriza cardiologia.",
+        "B": "B — Correta: manter o tratamento com amoxicilina + clavulanato e repetir o estudo radiológico em 1 semana.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “suspender a amoxicilina + clavulanato, prescrever levofloxacina e reavaliar o paciente em 3 dias.”. Não é a opção que melhor responde ao cenário quando se prioriza cardiologia.",
+        "D": "D — Incorreta: “manter o tratamento com amoxicilina + clavulanato, colher bacilos álcool-ácido resistente (BAAR) em escarro e reavaliar o paciente no final do tratamento.”. Não é a opção que melhor responde ao cenário quando se prioriza cardiologia."
+      },
+      "keyPoint": "Ponto-chave: Cardiologia."
+    },
+    "Q082": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “contaminada.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é pediatria clínica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “limpa”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "B": "B — Incorreta: “infectada.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "C": "C — Correta: contaminada.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “potencialmente contaminada.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica."
+      },
+      "keyPoint": "Ponto-chave: Pediatria clínica."
+    },
+    "Q083": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; não há alternativa oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar hematologia sem atribuir alternativa oficial correta."
+    },
+    "Q084": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “encaminhar a paciente para tratamento em ambiente hospitalar com antibioticoterapia injetável.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é ginecologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “identificar o agente etiológico da secreção cervical antes de iniciar o tratamento medicamentoso.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "B": "B — Correta: encaminhar a paciente para tratamento em ambiente hospitalar com antibioticoterapia injetável.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “instituir tratamento clínico ambulatorial de imediato para a paciente, com retorno em 48 horas para reavaliação”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "D": "D — Incorreta: “encaminhar a paciente para tratamento cirúrgico a fim de melhor avaliar o comprometimento do sistema reprodutivo.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia."
+      },
+      "keyPoint": "Ponto-chave: Ginecologia."
+    },
+    "Q085": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “instituir terapia de sedação paliativa se os sintomas físicos forem intoleráveis, graves e refratários.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é questão clínica integrada.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “solicitar tomografia de tórax para investigar metástases pulmonares.”. Não é a opção que melhor responde ao cenário quando se prioriza questão clínica integrada.",
+        "B": "B — Incorreta: “exercer a demora permitida e orientar familiares sobre sinais de alarme.”. Não é a opção que melhor responde ao cenário quando se prioriza questão clínica integrada.",
+        "C": "C — Incorreta: “encaminhar para emergência hospitalar se não houver melhora da dispneia com oxigenioterapia.”. Não é a opção que melhor responde ao cenário quando se prioriza questão clínica integrada.",
+        "D": "D — Correta: instituir terapia de sedação paliativa se os sintomas físicos forem intoleráveis, graves e refratários.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Questão clínica integrada."
+    },
+    "Q086": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “mantê-la em observação no pronto atendimento e associar ipratrópio 4 jatos de 20/20 minutos e sulfato de magnésio 2 g intravenoso.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é cardiologia.",
+      "optionExplanations": {
+        "A": "A — Correta: mantê-la em observação no pronto atendimento e associar ipratrópio 4 jatos de 20/20 minutos e sulfato de magnésio 2 g intravenoso.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “mantêla em observação no pronto atendimento e administrar nova dose de salbutamol, 4 jatos, em 1 hora.”. Não é a opção que melhor responde ao cenário quando se prioriza cardiologia.",
+        "C": "C — Incorreta: “admitila em enfermaria com salbutamol + ipratrópio inalatórios, 4 jatos de cada um de 1/1 hora até a estabilização.”. Não é a opção que melhor responde ao cenário quando se prioriza cardiologia.",
+        "D": "D — Incorreta: “realizar intubação orotraqueal com sequência rápida e mantê-la em ventilação mecânica até estabilização clínica.”. Não é a opção que melhor responde ao cenário quando se prioriza cardiologia."
+      },
+      "keyPoint": "Ponto-chave: Cardiologia."
+    },
+    "Q087": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “tumor de cólon direito.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Correta: tumor de cólon direito.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “tuberculose intestinal.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "C": "C — Incorreta: “doença diverticular do cólon.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "D": "D — Incorreta: “doença inflamatória intestinal.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    },
+    "Q088": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “Tomografia computadorizada.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é pediatria clínica.",
+      "optionExplanations": {
+        "A": "A — Correta: Tomografia computadorizada.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “Endoscopia digestiva alta.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "C": "C — Incorreta: “Ressonância magnética.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "D": "D — Incorreta: “Ultrassonografia. aço livre”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica."
+      },
+      "keyPoint": "Ponto-chave: Pediatria clínica."
+    },
+    "Q089": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “Sistema Intrauterino (SIU) com liberação de levonorgestrel.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é ginecologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Acido tranexamico.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "B": "B — Incorreta: “Anti-inflamatório não esteroide.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "C": "C — Incorreta: “Anticoncepcional oral combinado.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "D": "D — Correta: Sistema Intrauterino (SIU) com liberação de levonorgestrel.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Ginecologia."
+    },
+    "Q090": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “explicar que novos exames são desnecessários, indicar atividades físicas, apoio psicológico e retorno, em um continuum de complexidade de tratamento.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é ginecologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “referenciar a paciente ao serviço de urgência e emergência para realização de novos eletrocardiogramas (ECG) e enzimas cardíacas e solicitar avaliação de especialistas focais.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "B": "B — Incorreta: “solicitar novos exames para descartar outras doenças orgânicas de base e iniciar tratamento farmacológico com betabloqueador e benzodiazepínico.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "C": "C — Correta: explicar que novos exames são desnecessários, indicar atividades físicas, apoio psicológico e retorno, em um continuum de complexidade de tratamento.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “explicar que novos exames são desnecessários, iniciar benzodiazepínico nas crises e antidepressivo tricíclico; indicar apoio psicológico e retorno em 6 semanas.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia."
+      },
+      "keyPoint": "Ponto-chave: Ginecologia."
+    },
+    "Q091": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “hepatite B aguda; iniciar tratamento sintomático, evitando-se fármacos hepatotóxicos e de metabolismo hepático.”. O conjunto dos achados clínicos e laboratoriais deve ser integrado para reconhecer hepatite b aguda.",
+      "optionExplanations": {
+        "A": "A — Correta: hepatite B aguda; iniciar tratamento sintomático, evitando-se fármacos hepatotóxicos e de metabolismo hepático.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “hepatite alcoólica aguda; prescrever corticoide, evitar novos insultos hepáticos e encaminhar o paciente para o Centro de Atenção Psicossocial (Álcool e Drogas).”. Não é a opção que melhor responde ao cenário quando se prioriza hepatite b aguda.",
+        "C": "C — Incorreta: “hepatite C aguda; prescrever antivirais combinados (como ledipasvir/sofosbuvir), conforme resultado do teste de genotipagem.”. Não é a opção que melhor responde ao cenário quando se prioriza hepatite b aguda.",
+        "D": "D — Incorreta: “hepatite B crônica agudizada; prescrever tenofovir ou entecavir, evitando-se fármacos hepatotóxicos e de metabolismo hepático.”. Não é a opção que melhor responde ao cenário quando se prioriza hepatite b aguda."
+      },
+      "keyPoint": "Ponto-chave: Hepatite B aguda."
+    },
+    "Q092": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “Traumatismo leve; solicitar tomografia de crânio e avaliação clínica seriada.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atendimento ao trauma.",
+      "optionExplanations": {
+        "A": "A — Correta: Traumatismo leve; solicitar tomografia de crânio e avaliação clínica seriada.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “Traumatismo moderado; solicitar tomografia de crânio e avaliação clínica seriada.”. Não é a opção que melhor responde ao cenário quando se prioriza atendimento ao trauma.",
+        "C": "C — Incorreta: “Traumatismo leve; solicitar avaliação clínica seriada e tomografia de crânio se a pontuação na escala de Glasgow for menor que 15 após 2 horas.”. Não é a opção que melhor responde ao cenário quando se prioriza atendimento ao trauma.",
+        "D": "D — Incorreta: “Traumatismo moderado; solicitar avaliação clínica seriada e tomografia de crânio se a pontuação na escala de Glasgow for menor que 15 após 2 horas.”. Não é a opção que melhor responde ao cenário quando se prioriza atendimento ao trauma."
+      },
+      "keyPoint": "Ponto-chave: Atendimento ao trauma."
+    },
+    "Q093": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “iniciar a administração de prostaglandina.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é cuidados neonatais.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “realizar atriosseptostomia por balão.”. Não é a opção que melhor responde ao cenário quando se prioriza cuidados neonatais.",
+        "B": "B — Correta: iniciar a administração de prostaglandina.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “encaminhar o paciente para cirurgia corretiva.”. Não é a opção que melhor responde ao cenário quando se prioriza cuidados neonatais.",
+        "D": "D — Incorreta: “ventilar o paciente com uma FiO2 entre 80 a 100%.”. Não é a opção que melhor responde ao cenário quando se prioriza cuidados neonatais."
+      },
+      "keyPoint": "Ponto-chave: Cuidados neonatais."
+    },
+    "Q094": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “exérese da zona de transformação com alça de alta frequência.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é ginecologia.",
+      "optionExplanations": {
+        "A": "A — Correta: exérese da zona de transformação com alça de alta frequência.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “conização a frio do colo uterino com margem de segurança.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "C": "C — Incorreta: “repetição da coleta da citologia oncótica em 6 meses.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "D": "D — Incorreta: “amputação do colo uterino com eletrocauterização.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia."
+      },
+      "keyPoint": "Ponto-chave: Ginecologia."
+    },
+    "Q095": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “escuta ativa das queixas trazidas pelos familiares, para a compreensão do problema e construção dialogada da solução.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é pediatria clínica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “promoção de reuniões com profissionais d°Centro de Atenção Psicossocial infantil e familiares para esclarecer o manejo medicamentoso dos casos.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "B": "B — Correta: escuta ativa das queixas trazidas pelos familiares, para a compreensão do problema e construção dialogada da solução.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "C": "C — Incorreta: “utilização pelos profissionais da Unidade Básica de Saúde de uma série de técnicas de convencimento dos familiares para evitar a medicalização do sofrimento das crianças.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "D": "D — Incorreta: “elaboração de uma série de palestras informativas, com exposição das melhores evidências científicas para o tratamento das doenças neurodegenerativas da infância.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica."
+      },
+      "keyPoint": "Ponto-chave: Pediatria clínica."
+    },
+    "Q096": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “realização de tomografia de pelve e abdome.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é questão clínica integrada.",
+      "optionExplanations": {
+        "A": "A — Correta: realização de tomografia de pelve e abdome.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “repetição, de imediato, de biópsia de próstata.”. Não é a opção que melhor responde ao cenário quando se prioriza questão clínica integrada.",
+        "C": "C — Incorreta: “repetição da dosagem de PSA em 6 meses.”. Não é a opção que melhor responde ao cenário quando se prioriza questão clínica integrada.",
+        "D": "D — Incorreta: “realização de novo PSA e de biópsia de próstata em 12 meses.”. Não é a opção que melhor responde ao cenário quando se prioriza questão clínica integrada."
+      },
+      "keyPoint": "Ponto-chave: Questão clínica integrada."
+    },
+    "Q097": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “fio absorvível 3-0 para a musculatura, fio absorvivel 3-0 para o tecido celular subcutâneo e fio não absorvivel 3-0 para a pele.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Correta: fio absorvível 3-0 para a musculatura, fio absorvivel 3-0 para o tecido celular subcutâneo e fio não absorvivel 3-0 para a pele.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “fio absorvível 5-0 para a musculatura, fio absorvivel 5-0 para o tecido celular subcutâneo e fio absorvível 4-0 para a pele.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "C": "C — Incorreta: “fio não absorvível 3-0 para a musculatura, fio não absorvível 3-0 para o tecido celular subcutâneo e fio não absorvivel 3-0 para a pele.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "D": "D — Incorreta: “fio não absorvível 5-0 para a musculatura, fio não absorvível 5-0 para o tecido celular subcutâneo e fio não absorvivel 4-0 para a pele. Jago livre”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    },
+    "Q098": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “expansão volêmica endovenosa com cloreto de sódio (NaCl) a 0,9%.”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é pediatria clínica.",
+      "optionExplanations": {
+        "A": "A — Correta: expansão volêmica endovenosa com cloreto de sódio (NaCl) a 0,9%.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "B": "B — Incorreta: “aplicação endovenosa de bicarbonato de sódio a 8,4%.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "C": "C — Incorreta: “realização de tratamento de substituição renal.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica.",
+        "D": "D — Incorreta: “aplicação endovenosa de furosemida.”. Não é a opção que melhor responde ao cenário quando se prioriza pediatria clínica."
+      },
+      "keyPoint": "Ponto-chave: Pediatria clínica."
+    },
+    "Q099": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “situação longitudinal, apresentação cefálica, variedade de posição occípito-direita-posterior.”. O conjunto dos achados clínicos e laboratoriais deve ser integrado para reconhecer situação, apresentação e posição fetal.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “situação cefálica, apresentação longitudinal, variedade de posição occípito-esquerda-posterior.”. Não é a opção que melhor responde ao cenário quando se prioriza situação, apresentação e posição fetal.",
+        "B": "B — Incorreta: “situação cefálica, apresentação longitudinal, variedade de posição occípito-direita-posterior.”. Não é a opção que melhor responde ao cenário quando se prioriza situação, apresentação e posição fetal.",
+        "C": "C — Correta: situação longitudinal, apresentação cefálica, variedade de posição occípito-direita-posterior.. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão.",
+        "D": "D — Incorreta: “situação longitudinal, apresentação cefálica, variedade de posição naso-esquerda-anterior.”. Não é a opção que melhor responde ao cenário quando se prioriza situação, apresentação e posição fetal."
+      },
+      "keyPoint": "Ponto-chave: Situação, apresentação e posição fetal."
+    },
+    "Q100": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “solicitar novo exame citopatológico do colo uterino em um exame mais detalhado, a colposcopia. aço livre”. Os achados do enunciado devem ser integrados para escolher a resposta mais adequada. O foco editorial é ginecologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “repetir o exame citopatológico do colo uterino no moment”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "B": "B — Incorreta: “solicitar novo exame citopatológico do colo uterino em 121”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "C": "C — Incorreta: “encaminhar a paciente para o serviço especializado de € colposcopia.”. Não é a opção que melhor responde ao cenário quando se prioriza ginecologia.",
+        "D": "D — Correta: solicitar novo exame citopatológico do colo uterino em um exame mais detalhado, a colposcopia. aço livre. É a alternativa indicada pelo gabarito definitivo e compatível com o eixo central da questão."
+      },
+      "keyPoint": "Ponto-chave: Ginecologia."
+    }
+  }
+}

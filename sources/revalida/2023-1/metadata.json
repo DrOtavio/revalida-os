@@ -1,0 +1,508 @@
+{
+  "schemaVersion": 1,
+  "edition": "2023/1",
+  "source": "INEP",
+  "notice": "Classificação editorial Revalida OS; enunciados e gabarito permanecem oficiais.",
+  "questions": {
+    "Q001": {
+      "area": "Clínica Médica",
+      "specialty": "Cardiologia",
+      "topic": "Fibrilação atrial e cardioversão"
+    },
+    "Q002": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q003": {
+      "area": "Pediatria",
+      "specialty": "Puericultura",
+      "topic": "Crescimento e desenvolvimento"
+    },
+    "Q004": {
+      "area": "Clínica Médica",
+      "specialty": "Endocrinologia",
+      "topic": "Doença tireoidiana"
+    },
+    "Q005": {
+      "area": "Clínica Médica",
+      "specialty": "Infectologia",
+      "topic": "HIV/AIDS"
+    },
+    "Q006": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Neurologia",
+      "topic": "Doença de Parkinson"
+    },
+    "Q007": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Promoção da Saúde",
+      "topic": "Cessação do tabagismo"
+    },
+    "Q008": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q009": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Clínica Geral",
+      "topic": "Dermatologia"
+    },
+    "Q010": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Infectologia",
+      "topic": "HIV/AIDS"
+    },
+    "Q011": {
+      "area": "Clínica Médica",
+      "specialty": "Nefrologia",
+      "topic": "Doença renal"
+    },
+    "Q012": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q013": {
+      "area": "Clínica Médica",
+      "specialty": "Neurologia",
+      "topic": "Crise convulsiva / epilepsia"
+    },
+    "Q014": {
+      "area": "Pediatria",
+      "specialty": "Clínica Geral",
+      "topic": "Dermatologia"
+    },
+    "Q015": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q016": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Planejamento Reprodutivo",
+      "topic": "Contracepção"
+    },
+    "Q017": {
+      "area": "Clínica Médica",
+      "specialty": "Clínica Geral",
+      "topic": "Dermatologia"
+    },
+    "Q018": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q019": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q020": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q021": {
+      "area": "Clínica Médica",
+      "specialty": "Pneumologia / Infectologia",
+      "topic": "Pneumonia"
+    },
+    "Q022": {
+      "area": "Clínica Médica",
+      "specialty": "Clínica Geral",
+      "topic": "Dermatologia"
+    },
+    "Q023": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q024": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q025": {
+      "area": "Pediatria",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q026": {
+      "area": "Pediatria",
+      "specialty": "Gastroenterologia Pediátrica",
+      "topic": "Diarreia e hidratação"
+    },
+    "Q027": {
+      "area": "Clínica Médica",
+      "specialty": "Endocrinologia",
+      "topic": "Doença tireoidiana"
+    },
+    "Q028": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q029": {
+      "area": "Clínica Médica",
+      "specialty": "Infectologia / IST",
+      "topic": "Sífilis"
+    },
+    "Q030": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Endocrinologia",
+      "topic": "Diabetes mellitus"
+    },
+    "Q031": {
+      "area": "Clínica Médica",
+      "specialty": "Endocrinologia",
+      "topic": "Diabetes mellitus"
+    },
+    "Q032": {
+      "area": "Cirurgia",
+      "specialty": "Clínica Geral",
+      "topic": "Dermatologia"
+    },
+    "Q033": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q034": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Abortamento"
+    },
+    "Q035": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q036": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Infectologia",
+      "topic": "Dengue"
+    },
+    "Q037": {
+      "area": "Cirurgia",
+      "specialty": "Trauma",
+      "topic": "Atendimento ao trauma"
+    },
+    "Q038": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q039": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Nefrologia",
+      "topic": "Doença renal"
+    },
+    "Q040": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Infectologia",
+      "topic": "HIV/AIDS"
+    },
+    "Q041": {
+      "area": "Pediatria",
+      "specialty": "Infectologia / Hepatologia",
+      "topic": "Hepatites virais"
+    },
+    "Q042": {
+      "area": "Clínica Médica",
+      "specialty": "Clínica Geral",
+      "topic": "Dermatologia"
+    },
+    "Q043": {
+      "area": "Pediatria",
+      "specialty": "Gastroenterologia Pediátrica",
+      "topic": "Diarreia e hidratação"
+    },
+    "Q044": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Pneumologia / Infectologia",
+      "topic": "Pneumonia"
+    },
+    "Q045": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q046": {
+      "area": "Clínica Médica",
+      "specialty": "Geriatria / Neurologia",
+      "topic": "Alteração cognitiva"
+    },
+    "Q047": {
+      "area": "Cirurgia",
+      "specialty": "Gastroenterologia / Cirurgia",
+      "topic": "Doença biliar"
+    },
+    "Q048": {
+      "area": "Pediatria",
+      "specialty": "Clínica Geral",
+      "topic": "Dermatologia"
+    },
+    "Q049": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q050": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Clínica Geral",
+      "topic": "Dermatologia"
+    },
+    "Q051": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q052": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Bioética / Medicina Legal",
+      "topic": "Ética e medicina legal"
+    },
+    "Q053": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q054": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q055": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q056": {
+      "area": "Clínica Médica",
+      "specialty": "Gastroenterologia",
+      "topic": "Doença péptica / hemorragia digestiva"
+    },
+    "Q057": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Promoção da Saúde",
+      "topic": "Cessação do tabagismo"
+    },
+    "Q058": {
+      "area": "Pediatria",
+      "specialty": "Trauma",
+      "topic": "Atendimento ao trauma"
+    },
+    "Q059": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q060": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q061": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q062": {
+      "area": "Clínica Médica",
+      "specialty": "Clínica Geral",
+      "topic": "Dermatologia"
+    },
+    "Q063": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q064": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q065": {
+      "area": "Pediatria",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q066": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Nefrologia",
+      "topic": "Doença renal"
+    },
+    "Q067": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q068": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q069": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Endocrinologia",
+      "topic": "Diabetes mellitus"
+    },
+    "Q070": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q071": {
+      "area": "Clínica Médica",
+      "specialty": "Infectologia / Pneumologia",
+      "topic": "Tuberculose"
+    },
+    "Q072": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "Clínica Geral",
+      "topic": "Dermatologia"
+    },
+    "Q073": {
+      "area": "Pediatria",
+      "specialty": "Cirurgia Geral",
+      "topic": "Obstrução intestinal"
+    },
+    "Q074": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Massa anexial / ovário"
+    },
+    "Q075": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q076": {
+      "area": "Clínica Médica",
+      "specialty": "Endocrinologia",
+      "topic": "Doença tireoidiana"
+    },
+    "Q077": {
+      "area": "Cirurgia",
+      "specialty": "Trauma / Cirurgia",
+      "topic": "Queimaduras"
+    },
+    "Q078": {
+      "area": "Pediatria",
+      "specialty": "Dermatologia",
+      "topic": "Dermatologia"
+    },
+    "Q079": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Hematologia",
+      "topic": "Alteração hematológica"
+    },
+    "Q080": {
+      "area": "Pediatria",
+      "specialty": "Pneumologia",
+      "topic": "Asma"
+    },
+    "Q081": {
+      "area": "Clínica Médica",
+      "specialty": "Endocrinologia / Reumatologia",
+      "topic": "Osteoporose"
+    },
+    "Q082": {
+      "area": "Pediatria",
+      "specialty": "Trauma / Cirurgia",
+      "topic": "Queimaduras"
+    },
+    "Q083": {
+      "area": "Pediatria",
+      "specialty": "Hematologia",
+      "topic": "Alteração hematológica"
+    },
+    "Q084": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Clínica Geral",
+      "topic": "Dermatologia"
+    },
+    "Q085": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q086": {
+      "area": "Clínica Médica",
+      "specialty": "Clínica Geral",
+      "topic": "Dermatologia"
+    },
+    "Q087": {
+      "area": "Clínica Médica",
+      "specialty": "Clínica Geral",
+      "topic": "Dermatologia"
+    },
+    "Q088": {
+      "area": "Pediatria",
+      "specialty": "Trauma / Cirurgia",
+      "topic": "Queimaduras"
+    },
+    "Q089": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Planejamento Reprodutivo",
+      "topic": "Contracepção"
+    },
+    "Q090": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q091": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q092": {
+      "area": "Pediatria",
+      "specialty": "Gastroenterologia Pediátrica",
+      "topic": "Diarreia e hidratação"
+    },
+    "Q093": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    },
+    "Q094": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Planejamento Reprodutivo",
+      "topic": "Contracepção"
+    },
+    "Q095": {
+      "area": "Clínica Médica",
+      "specialty": "Pneumologia",
+      "topic": "DPOC"
+    },
+    "Q096": {
+      "area": "Cirurgia",
+      "specialty": "Ortopedia",
+      "topic": "Trauma ortopédico"
+    },
+    "Q097": {
+      "area": "Clínica Médica",
+      "specialty": "Cardiologia",
+      "topic": "Síndrome coronariana aguda"
+    },
+    "Q098": {
+      "area": "Pediatria",
+      "specialty": "Puericultura",
+      "topic": "Crescimento e desenvolvimento"
+    },
+    "Q099": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q100": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Rastreamento e lesões do colo uterino"
+    }
+  }
+}

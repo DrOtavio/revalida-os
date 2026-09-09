@@ -1,0 +1,508 @@
+{
+  "schemaVersion": 1,
+  "edition": "2022/1",
+  "source": "INEP",
+  "notice": "Classificação editorial Revalida OS; enunciados e gabarito permanecem oficiais.",
+  "questions": {
+    "Q001": {
+      "area": "Cirurgia",
+      "specialty": "Cirurgia Geral",
+      "topic": "Cirurgia geral"
+    },
+    "Q002": {
+      "area": "Clínica Médica",
+      "specialty": "Gastroenterologia",
+      "topic": "Gastroenterologia"
+    },
+    "Q003": {
+      "area": "Pediatria",
+      "specialty": "Pediatria",
+      "topic": "Pediatria clínica"
+    },
+    "Q004": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Ginecologia"
+    },
+    "Q005": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q006": {
+      "area": "Clínica Médica",
+      "specialty": "Cardiologia",
+      "topic": "Cardiologia"
+    },
+    "Q007": {
+      "area": "Cirurgia",
+      "specialty": "Trauma",
+      "topic": "Atendimento ao trauma"
+    },
+    "Q008": {
+      "area": "Pediatria",
+      "specialty": "Pediatria",
+      "topic": "Pediatria clínica"
+    },
+    "Q009": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q010": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q011": {
+      "area": "Clínica Médica",
+      "specialty": "Cardiologia",
+      "topic": "Cardiologia"
+    },
+    "Q012": {
+      "area": "Clínica Médica",
+      "specialty": "Gastroenterologia",
+      "topic": "Gastroenterologia"
+    },
+    "Q013": {
+      "area": "Pediatria",
+      "specialty": "Pediatria",
+      "topic": "Pediatria clínica"
+    },
+    "Q014": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q015": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q016": {
+      "area": "Clínica Médica",
+      "specialty": "Gastroenterologia",
+      "topic": "Gastroenterologia"
+    },
+    "Q017": {
+      "area": "Clínica Médica",
+      "specialty": "Cardiologia",
+      "topic": "Cardiologia"
+    },
+    "Q018": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q019": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q020": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q021": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q022": {
+      "area": "Cirurgia",
+      "specialty": "Trauma",
+      "topic": "Atendimento ao trauma"
+    },
+    "Q023": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q024": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Ginecologia"
+    },
+    "Q025": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q026": {
+      "area": "Clínica Médica",
+      "specialty": "Cardiologia",
+      "topic": "Cardiologia"
+    },
+    "Q027": {
+      "area": "Cirurgia",
+      "specialty": "Trauma",
+      "topic": "Atendimento ao trauma"
+    },
+    "Q028": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Ginecologia"
+    },
+    "Q029": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q030": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q031": {
+      "area": "Cirurgia",
+      "specialty": "Trauma",
+      "topic": "Atendimento ao trauma"
+    },
+    "Q032": {
+      "area": "Pediatria",
+      "specialty": "Pediatria",
+      "topic": "Pediatria clínica"
+    },
+    "Q033": {
+      "area": "Pediatria",
+      "specialty": "Pediatria",
+      "topic": "Pediatria clínica"
+    },
+    "Q034": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Ginecologia"
+    },
+    "Q035": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q036": {
+      "area": "Clínica Médica",
+      "specialty": "Hematologia",
+      "topic": "Hematologia"
+    },
+    "Q037": {
+      "area": "Clínica Médica",
+      "specialty": "Clínica Geral",
+      "topic": "Questão clínica integrada"
+    },
+    "Q038": {
+      "area": "Pediatria",
+      "specialty": "Pediatria",
+      "topic": "Pediatria clínica"
+    },
+    "Q039": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Ginecologia"
+    },
+    "Q040": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q041": {
+      "area": "Clínica Médica",
+      "specialty": "Endocrinologia",
+      "topic": "Endocrinologia"
+    },
+    "Q042": {
+      "area": "Cirurgia",
+      "specialty": "Cirurgia Geral",
+      "topic": "Cirurgia geral"
+    },
+    "Q043": {
+      "area": "Pediatria",
+      "specialty": "Pediatria",
+      "topic": "Pediatria clínica"
+    },
+    "Q044": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q045": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q046": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q047": {
+      "area": "Clínica Médica",
+      "specialty": "Clínica Geral",
+      "topic": "Questão clínica integrada"
+    },
+    "Q048": {
+      "area": "Pediatria",
+      "specialty": "Infectologia Pediátrica / Emergência",
+      "topic": "Síndrome inflamatória multissistêmica pediátrica (SIM-P)"
+    },
+    "Q049": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q050": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q051": {
+      "area": "Clínica Médica",
+      "specialty": "Pneumologia",
+      "topic": "Pneumologia"
+    },
+    "Q052": {
+      "area": "Clínica Médica",
+      "specialty": "Clínica Geral",
+      "topic": "Questão clínica integrada"
+    },
+    "Q053": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q054": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q055": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q056": {
+      "area": "Clínica Médica",
+      "specialty": "Endocrinologia",
+      "topic": "Endocrinologia"
+    },
+    "Q057": {
+      "area": "Clínica Médica",
+      "specialty": "Clínica Geral",
+      "topic": "Questão clínica integrada"
+    },
+    "Q058": {
+      "area": "Pediatria",
+      "specialty": "Pediatria",
+      "topic": "Pediatria clínica"
+    },
+    "Q059": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Ginecologia"
+    },
+    "Q060": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q061": {
+      "area": "Clínica Médica",
+      "specialty": "Clínica Geral",
+      "topic": "Questão clínica integrada"
+    },
+    "Q062": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q063": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q064": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q065": {
+      "area": "Clínica Médica",
+      "specialty": "Cardiologia",
+      "topic": "Cardiologia"
+    },
+    "Q066": {
+      "area": "Clínica Médica",
+      "specialty": "Infectologia",
+      "topic": "Doenças infecciosas"
+    },
+    "Q067": {
+      "area": "Clínica Médica",
+      "specialty": "Endocrinologia",
+      "topic": "Endocrinologia"
+    },
+    "Q068": {
+      "area": "Pediatria",
+      "specialty": "Pediatria",
+      "topic": "Pediatria clínica"
+    },
+    "Q069": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q070": {
+      "area": "Pediatria",
+      "specialty": "Pediatria",
+      "topic": "Pediatria clínica"
+    },
+    "Q071": {
+      "area": "Clínica Médica",
+      "specialty": "Reumatologia",
+      "topic": "Lúpus eritematoso sistêmico e anti-DNA nativo"
+    },
+    "Q072": {
+      "area": "Clínica Médica",
+      "specialty": "Clínica Geral",
+      "topic": "Questão clínica integrada"
+    },
+    "Q073": {
+      "area": "Pediatria",
+      "specialty": "Pediatria",
+      "topic": "Pediatria clínica"
+    },
+    "Q074": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Ginecologia"
+    },
+    "Q075": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q076": {
+      "area": "Clínica Médica",
+      "specialty": "Infectologia",
+      "topic": "Doenças infecciosas"
+    },
+    "Q077": {
+      "area": "Pediatria",
+      "specialty": "Pediatria",
+      "topic": "Pediatria clínica"
+    },
+    "Q078": {
+      "area": "Pediatria",
+      "specialty": "Neonatologia",
+      "topic": "Cuidados neonatais"
+    },
+    "Q079": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Assistência obstétrica"
+    },
+    "Q080": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q081": {
+      "area": "Clínica Médica",
+      "specialty": "Cardiologia",
+      "topic": "Cardiologia"
+    },
+    "Q082": {
+      "area": "Pediatria",
+      "specialty": "Pediatria",
+      "topic": "Pediatria clínica"
+    },
+    "Q083": {
+      "area": "Clínica Médica",
+      "specialty": "Hematologia",
+      "topic": "Hematologia"
+    },
+    "Q084": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Ginecologia"
+    },
+    "Q085": {
+      "area": "Clínica Médica",
+      "specialty": "Clínica Geral",
+      "topic": "Questão clínica integrada"
+    },
+    "Q086": {
+      "area": "Clínica Médica",
+      "specialty": "Cardiologia",
+      "topic": "Cardiologia"
+    },
+    "Q087": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q088": {
+      "area": "Pediatria",
+      "specialty": "Pediatria",
+      "topic": "Pediatria clínica"
+    },
+    "Q089": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Ginecologia"
+    },
+    "Q090": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Ginecologia"
+    },
+    "Q091": {
+      "area": "Clínica Médica",
+      "specialty": "Infectologia / Hepatologia",
+      "topic": "Hepatite B aguda"
+    },
+    "Q092": {
+      "area": "Cirurgia",
+      "specialty": "Trauma",
+      "topic": "Atendimento ao trauma"
+    },
+    "Q093": {
+      "area": "Pediatria",
+      "specialty": "Neonatologia",
+      "topic": "Cuidados neonatais"
+    },
+    "Q094": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Ginecologia"
+    },
+    "Q095": {
+      "area": "Pediatria",
+      "specialty": "Pediatria",
+      "topic": "Pediatria clínica"
+    },
+    "Q096": {
+      "area": "Clínica Médica",
+      "specialty": "Clínica Geral",
+      "topic": "Questão clínica integrada"
+    },
+    "Q097": {
+      "area": "MFC / Saúde Coletiva",
+      "specialty": "MFC / Saúde Coletiva",
+      "topic": "Atenção Primária / SUS"
+    },
+    "Q098": {
+      "area": "Pediatria",
+      "specialty": "Pediatria",
+      "topic": "Pediatria clínica"
+    },
+    "Q099": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Obstetrícia",
+      "topic": "Situação, apresentação e posição fetal"
+    },
+    "Q100": {
+      "area": "Ginecologia e Obstetrícia",
+      "specialty": "Ginecologia",
+      "topic": "Ginecologia"
+    }
+  }
+}

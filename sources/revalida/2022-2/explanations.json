@@ -1,0 +1,1008 @@
+{
+  "schemaVersion": 1,
+  "edition": "2022/2",
+  "source": "INEP + comentário editorial Revalida OS",
+  "notice": "Comentários são editoriais e educativos; o gabarito definitivo do INEP é preservado. Questões anuladas não recebem alternativa correta.",
+  "questions": {
+    "Q001": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “implante de marca-passo definitivo.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é bradiarritmia e marca-passo.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “cardioversão elétrica.”. Não é a opção que melhor responde ao cenário quando se prioriza bradiarritmia e marca-passo.",
+        "B": "B — Incorreta: “ablação de via anômala.”. Não é a opção que melhor responde ao cenário quando se prioriza bradiarritmia e marca-passo.",
+        "C": "C — Correta: implante de marca-passo definitivo.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “isolamento elétrico das vias pulmonares.”. Não é a opção que melhor responde ao cenário quando se prioriza bradiarritmia e marca-passo."
+      },
+      "keyPoint": "Ponto-chave: Bradiarritmia e marca-passo."
+    },
+    "Q002": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “uretrocistoscopia; carcinoma invasor de bexiga.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é cessação do tabagismo.",
+      "optionExplanations": {
+        "A": "A — Correta: uretrocistoscopia; carcinoma invasor de bexiga.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “urografia excretora; carcinoma de células renais.”. Não é a opção que melhor responde ao cenário quando se prioriza cessação do tabagismo.",
+        "C": "C — Incorreta: “ressonância magnética de abdome; cálculo coraliforme.”. Não é a opção que melhor responde ao cenário quando se prioriza cessação do tabagismo.",
+        "D": "D — Incorreta: “ultrassom transretal com biópsia de próstata; adenocarcinoma de próstata.”. Não é a opção que melhor responde ao cenário quando se prioriza cessação do tabagismo."
+      },
+      "keyPoint": "Ponto-chave: Cessação do tabagismo."
+    },
+    "Q003": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “As frutas, in natura, raspadas, amassadas ou picadas devem ser introduzidas como fontes de fibras.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “A carne deve ser triturada e peneirada, para garantir oferta adequada de ferro, zinco e vitamina B12.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Correta: As frutas, in natura, raspadas, amassadas ou picadas devem ser introduzidas como fontes de fibras.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “Os sucos devem ser introduzidos na rotina alimentar, uma vez ao dia, sendo importante fonte de vitaminas e fibras.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Incorreta: “A gema do ovo, por ser uma importante fonte proteica, deve ser oferecida de imediato, ao passo que a clara, devido ao seu poder alergênico, deve ser oferecida somente após 12 meses de idade.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q004": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “Exame da placenta e, caso estejam presentes escavações, indicação de curetagem uterina.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Administração de 800 mcg de misoprostol via retal.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "B": "B — Incorreta: “Indicação de laparotomia de urgência para histerectomia.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "C": "C — Incorreta: “Conduta expectante, mantendo-se a monitorização clínica.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "D": "D — Correta: Exame da placenta e, caso estejam presentes escavações, indicação de curetagem uterina.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q005": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “Referenciar a paciente à equipe multiprofissional do Centro de Atenção Psicossocial.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é saúde mental.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Continuar o atendimento na UBS e trocar o tratamento.”. Não é a opção que melhor responde ao cenário quando se prioriza saúde mental.",
+        "B": "B — Incorreta: “Encaminhar a paciente para internação em hospital psiquiátrico.”. Não é a opção que melhor responde ao cenário quando se prioriza saúde mental.",
+        "C": "C — Incorreta: “Solicitar internação em hospital geral e otimizar o tratamento farmacológico.”. Não é a opção que melhor responde ao cenário quando se prioriza saúde mental.",
+        "D": "D — Correta: Referenciar a paciente à equipe multiprofissional do Centro de Atenção Psicossocial.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Saúde mental."
+    },
+    "Q006": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “adicionar inibidor da enzima conversora ou bloqueador do receptor de angiotensina II.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é doença renal.",
+      "optionExplanations": {
+        "A": "A — Correta: adicionar inibidor da enzima conversora ou bloqueador do receptor de angiotensina II.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “trocar a hidroclorotiazida por diurético de alça e aumentar a dose do bloqueador de canal de cálcio.”. Não é a opção que melhor responde ao cenário quando se prioriza doença renal.",
+        "C": "C — Incorreta: “iniciar espironolactona e carvedilol.”. Não é a opção que melhor responde ao cenário quando se prioriza doença renal.",
+        "D": "D — Incorreta: “mantê-lo sem alterações e trabalhar a adesão ao tratamento.”. Não é a opção que melhor responde ao cenário quando se prioriza doença renal."
+      },
+      "keyPoint": "Ponto-chave: Doença renal."
+    },
+    "Q007": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “Antibioticoterapia venosa e drenagem do abscesso.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Internação e antibioticoterapia venosa exclusiva.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Correta: Antibioticoterapia venosa e drenagem do abscesso.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “Alta hospitalar e antibioticoterapia oral ambulatorial.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Incorreta: “Laparotomia exploradora e procedimento de Hartmann.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q008": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “baixa estatura familiar.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “puberdade atrasada.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Correta: baixa estatura familiar.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “reduzida velocidade de crescimento.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Incorreta: “idade óssea compatível com distúrbio constitucional de estatura.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q009": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “Pólipo endometrial; histeroscopia diagnóstica.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Patologia cervical; colposcopia.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Incorreta: “Gestação ectópica; laparotomia exploratória.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "C": "C — Incorreta: “Miomatose uterina; laparoscopia diagnóstica.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Correta: Pólipo endometrial; histeroscopia diagnóstica.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q010": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Encaminhar a paciente para um serviço com psicoterapia estruturada e reavaliar a medicação em uso.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Prescrever um benzodiazepínico e encaminhar a paciente para a emergência de um hospital psiquiátrico.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Incorreta: “Manter a sertralina na dose atual e monitorar a evolução da paciente.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "C": "C — Correta: Encaminhar a paciente para um serviço com psicoterapia estruturada e reavaliar a medicação em uso.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “Substituir a sertralina por fluoxetina 20 mg, clonazepam 0,5 mg e clorpromazina 25 mg.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q011": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “considerar os dados da anamnese e do exame físico suficientes para o provável diagnóstico de farmacodermia pelo anticonvulsivante.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é asma.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “solicitar biópsia cutânea com pesquisa por imunofluorescência, dado o histórico familiar de pênfigo foliáceo.”. Não é a opção que melhor responde ao cenário quando se prioriza asma.",
+        "B": "B — Incorreta: “encaminhar a paciente para pesquisa de FAN em células Hep-2, em função do padrão típico de lúpus cutâneo subagudo.”. Não é a opção que melhor responde ao cenário quando se prioriza asma.",
+        "C": "C — Incorreta: “entrar em contato com o laboratório e solicitar a pesquisa de exotoxina estafilocóccica (síndrome da pele escaldada estafilocóccica).”. Não é a opção que melhor responde ao cenário quando se prioriza asma.",
+        "D": "D — Correta: considerar os dados da anamnese e do exame físico suficientes para o provável diagnóstico de farmacodermia pelo anticonvulsivante.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Asma."
+    },
+    "Q012": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar diabetes mellitus sem atribuir alternativa oficial correta."
+    },
+    "Q013": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Bronquiolite viral aguda; medidas sintomáticas de suporte e monitorização.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é bronquiolite.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Resfriado comum; broncodilatador, manejo ambulatorial e hidratação.”. Não é a opção que melhor responde ao cenário quando se prioriza bronquiolite.",
+        "B": "B — Incorreta: “Pneumonia bacteriana; antibioticoterapia, oxigenoterapia e internação.”. Não é a opção que melhor responde ao cenário quando se prioriza bronquiolite.",
+        "C": "C — Correta: Bronquiolite viral aguda; medidas sintomáticas de suporte e monitorização.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “Asma de início precoce; administração de beta-agonista de curta duração e corticoide.”. Não é a opção que melhor responde ao cenário quando se prioriza bronquiolite."
+      },
+      "keyPoint": "Ponto-chave: Bronquiolite."
+    },
+    "Q014": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “A falta de lubrificação é uma causa comum e pode estar relacionada ao uso de contraceptivos hormonais.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é contracepção.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Sua etiologia não engloba causas psicossociais, ficando restrita às causas anatômicas.”. Não é a opção que melhor responde ao cenário quando se prioriza contracepção.",
+        "B": "B — Incorreta: “Ela não guarda relação com a endometriose, cujos sintomas estão restritos ao período menstrual.”. Não é a opção que melhor responde ao cenário quando se prioriza contracepção.",
+        "C": "C — Correta: A falta de lubrificação é uma causa comum e pode estar relacionada ao uso de contraceptivos hormonais.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “No subtipo de penetração, está restrita a causas infecciosas, como gonorreia, tricomoníase e vaginose bacteriana.”. Não é a opção que melhor responde ao cenário quando se prioriza contracepção."
+      },
+      "keyPoint": "Ponto-chave: Contracepção."
+    },
+    "Q015": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “Roda de conversa para levantar as percepções positivas e negativas dos(as) participantes acerca da vacina contra a covid-19 e, a partir dessas informações, construir os argumentos para convencer os mais resistentes, finalizando-se com a apresentação de dados científicos que demonstrem a redução da mortalidade na população vacinada. Espaço livre”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Palestra para explicar os benefícios da vacinação, com o objetivo de convencer os mais resistentes por meio de argumentos baseados em evidências científicas, além de apresentar dados estatísticos que demonstrem a redução da mortalidade na população vacinada.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Incorreta: “Roda de conversa para priorizar as percepções positivas dos(as) participantes acerca da vacina contra a covid-19 e, a partir daí, construir os argumentos para convencer os mais resistentes, finalizando-se com a apresentação de dados científicos que demonstrem a redução da mortalidade na população vacinada.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "C": "C — Incorreta: “Palestra para apresentar os números de pessoas com covid-19 e a proporção entre vacinados e não vacinados que necessitaram de internação aos usuários mais resistentes à vacinação, tentando-se, dessa forma, pressioná-los a se vacinar.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Correta: Roda de conversa para levantar as percepções positivas e negativas dos(as) participantes acerca da vacina contra a covid-19 e, a partir dessas informações, construir os argumentos para convencer os mais resistentes, finalizando-se com a apresentação de dados científicos que demonstrem a redução da mortalidade na população vacinada. Espaço livre. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q016": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar rastreamento e lesões do colo uterino sem atribuir alternativa oficial correta."
+    },
+    "Q017": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “Drenagem cirúrgica imediata.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é dermatologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Antibioticoterapia venosa.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "B": "B — Correta: Drenagem cirúrgica imediata.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “Termoterapia local e observação.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "D": "D — Incorreta: “Tomografia computadorizada da pelve.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia."
+      },
+      "keyPoint": "Ponto-chave: Dermatologia."
+    },
+    "Q018": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “asma materna.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é asma.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “cor branca.”. Não é a opção que melhor responde ao cenário quando se prioriza asma.",
+        "B": "B — Incorreta: “tamanho PIG.”. Não é a opção que melhor responde ao cenário quando se prioriza asma.",
+        "C": "C — Incorreta: “sexo feminino.”. Não é a opção que melhor responde ao cenário quando se prioriza asma.",
+        "D": "D — Correta: asma materna.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Asma."
+    },
+    "Q019": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “O intervalo mais curto entre a cirurgia e a concepção está associado a maior risco de prematuridade e de parto de recém-nascidos pequenos para a idade gestacional.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Correta: O intervalo mais curto entre a cirurgia e a concepção está associado a maior risco de prematuridade e de parto de recém-nascidos pequenos para a idade gestacional.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “O teste oral de tolerância à glicose deverá ser realizado entre a 24ª e a 28ª semana de gestação, pelo risco aumentado de diabetes mellitus gestacional.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "C": "C — Incorreta: “A reposição de ferro deverá ser feita por via intravenosa, pelo risco aumentado de anemia ferropriva e megaloblástica.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Incorreta: “Para as gestantes com suspeita de dumping, deve-se estimular a ingestão de carboidratos de rápida absorção, pelo risco aumentado de desencadear a síndrome.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q020": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “Dislipidemia.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Obesidade.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Correta: Dislipidemia.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “Hipotireoidismo.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Incorreta: “Diabetes mellitus.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q021": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar rastreamento e lesões do colo uterino sem atribuir alternativa oficial correta."
+    },
+    "Q022": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “Passagem de prótese endoscópica.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é cessação do tabagismo.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Jejunostomia cirúrgica.”. Não é a opção que melhor responde ao cenário quando se prioriza cessação do tabagismo.",
+        "B": "B — Incorreta: “Nutrição por sonda nasoenteral.”. Não é a opção que melhor responde ao cenário quando se prioriza cessação do tabagismo.",
+        "C": "C — Incorreta: “Gastrostomia por via endoscópica.”. Não é a opção que melhor responde ao cenário quando se prioriza cessação do tabagismo.",
+        "D": "D — Correta: Passagem de prótese endoscópica.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Cessação do tabagismo."
+    },
+    "Q023": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “escoliose, sendo necessária a determinação do ângulo de Cobb para indicar o tratamento clínico ou cirúrgico.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “escoliose familiar, sendo dispensada a investigação com exames complementares.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Incorreta: “lordose familiar, indica-se uma investigação com exame radiológico da coluna.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "C": "C — Correta: escoliose, sendo necessária a determinação do ângulo de Cobb para indicar o tratamento clínico ou cirúrgico.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “lordose associada à espinha bífida, uma vez que o teste de Adams foi positivo.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q024": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “realizar colposcopia.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Correta: realizar colposcopia.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “manter colpocitologia anual.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "C": "C — Incorreta: “fazer exérese da zona de transformação.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "D": "D — Incorreta: “repetir colpocitologia em exame em 6 meses.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    },
+    "Q025": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “O tratamento de escolha deve ser feito com penicilina G benzatina, 2,4 milhões de unidades, IM, semanalmente, durante 3 semanas.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é sífilis.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Considerando o título baixo de VDRL, o médico pode esperar para fazer exames seriados mensais de VDRL antes de instituir tratamento.”. Não é a opção que melhor responde ao cenário quando se prioriza sífilis.",
+        "B": "B — Incorreta: “Caso a paciente tenha alergia à penicilina, deve-se seguir com a gestação sem tratamento até o momento do parto, quando se deve instituir tratamento com eritromicina.”. Não é a opção que melhor responde ao cenário quando se prioriza sífilis.",
+        "C": "C — Incorreta: “Após o tratamento com penicilina, a paciente deve repetir o VDRL no último trimestre, realizando novo tratamento caso o resultado seja positivo, independentemente da titulação.”. Não é a opção que melhor responde ao cenário quando se prioriza sífilis.",
+        "D": "D — Correta: O tratamento de escolha deve ser feito com penicilina G benzatina, 2,4 milhões de unidades, IM, semanalmente, durante 3 semanas.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Sífilis."
+    },
+    "Q026": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Retocolite ulcerativa; prednisona.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Doença de Crohn; infliximab.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Incorreta: “Colite microscópica; mesalazina.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "C": "C — Correta: Retocolite ulcerativa; prednisona.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “Colite pseudomembranosa; metronidazol.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q027": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Sondagem nasogástrica e observação clínica.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é doença péptica / hemorragia digestiva.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Videolaparoscopia diagnóstica.”. Não é a opção que melhor responde ao cenário quando se prioriza doença péptica / hemorragia digestiva.",
+        "B": "B — Incorreta: “Laparotomia exploradora de emergência.”. Não é a opção que melhor responde ao cenário quando se prioriza doença péptica / hemorragia digestiva.",
+        "C": "C — Correta: Sondagem nasogástrica e observação clínica.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “Descompressão colônica por retossigmoidoscopia.”. Não é a opção que melhor responde ao cenário quando se prioriza doença péptica / hemorragia digestiva."
+      },
+      "keyPoint": "Ponto-chave: Doença péptica / hemorragia digestiva."
+    },
+    "Q028": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “neuroblastoma.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é dermatologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “linfoma.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "B": "B — Correta: neuroblastoma.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “tumor de Wilms.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "D": "D — Incorreta: “feocromocitoma.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia."
+      },
+      "keyPoint": "Ponto-chave: Dermatologia."
+    },
+    "Q029": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “cisto torcido de ovário.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é apendicite aguda.",
+      "optionExplanations": {
+        "A": "A — Correta: cisto torcido de ovário.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “abscesso tubo-ovariano.”. Não é a opção que melhor responde ao cenário quando se prioriza apendicite aguda.",
+        "C": "C — Incorreta: “endometrioma de ovário.”. Não é a opção que melhor responde ao cenário quando se prioriza apendicite aguda.",
+        "D": "D — Incorreta: “cisto hemorrágico ovariano.”. Não é a opção que melhor responde ao cenário quando se prioriza apendicite aguda."
+      },
+      "keyPoint": "Ponto-chave: Apendicite aguda."
+    },
+    "Q030": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “O diagnóstico correto é dermatite de contato, irritante ou alérgica, que pode ser causada pelo látex.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Devido à localização das lesões em área descoberta do corpo da paciente é possível concluir que o diagnóstico correto é fotodermatite.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Incorreta: “A paciente apresenta ceratoses actínicas, pela cronificação do quadro, que pode ter relação direta com detergentes e exposição solar.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "C": "C — Correta: O diagnóstico correto é dermatite de contato, irritante ou alérgica, que pode ser causada pelo látex.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “Diagnósticos de quadro alérgico são afastados pelo fato de o quadro melhorar no período de férias da paciente.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q031": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “Ajustar medicamentos, para evitar hipotensão.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é síndrome coronariana aguda.",
+      "optionExplanations": {
+        "A": "A — Correta: Ajustar medicamentos, para evitar hipotensão.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “Realizar contenção química e física, pois a paciente é jovem.”. Não é a opção que melhor responde ao cenário quando se prioriza síndrome coronariana aguda.",
+        "C": "C — Incorreta: “Solicitar a presença de um acompanhante para minimizar o risco de acidentes.”. Não é a opção que melhor responde ao cenário quando se prioriza síndrome coronariana aguda.",
+        "D": "D — Incorreta: “Substituir os medicamentos de uso contínuo e administrar contenção química.”. Não é a opção que melhor responde ao cenário quando se prioriza síndrome coronariana aguda."
+      },
+      "keyPoint": "Ponto-chave: Síndrome coronariana aguda."
+    },
+    "Q032": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “Repetir a colonoscopia em 3 anos.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é dermatologia.",
+      "optionExplanations": {
+        "A": "A — Correta: Repetir a colonoscopia em 3 anos.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “Refazer a colonoscopia em 7 a 10 anos.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "C": "C — Incorreta: “Transversectomia e colonoscopia em 5 anos.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "D": "D — Incorreta: “Colectomia total e rastreio de familiares de primeiro grau.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia."
+      },
+      "keyPoint": "Ponto-chave: Dermatologia."
+    },
+    "Q033": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “eritema tóxico.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “miliária rubra.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Correta: eritema tóxico.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “pustulose cefálica neonatal.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Incorreta: “melanose pustulosa t neonatal.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q034": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Câncer de vulva; realizar biópsia da lesão.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Cancroide; prescrever doxiciclina.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Incorreta: “Doença de Behçet; tratar com corticoide.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "C": "C — Correta: Câncer de vulva; realizar biópsia da lesão.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “Neoplasia intravaginal (NIV) usual ou lesão intraepitelial de alto grau; exérese ampla da lesão.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q035": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “Problematizar com os participantes a temática da violência, fazendo-se perguntas com a finalidade de compreender seus valores e pontos de vista.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é dermatologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Realizar uma dinâmica de grupo para promover a integração entre os participantes e, em seguida, uma palestra sobre não violência e respeito.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "B": "B — Incorreta: “Utilizar métodos de áudio e vídeo (como um filme ou uma música) e adaptar as falas dos coordenadores do grupo ao entendimento popular dos adolescentes.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "C": "C — Incorreta: “Convidar uma pessoa com reconhecida experiência na temática da violência para conduzir a atividade educativa e responder perguntas dos participantes.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "D": "D — Correta: Problematizar com os participantes a temática da violência, fazendo-se perguntas com a finalidade de compreender seus valores e pontos de vista.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Dermatologia."
+    },
+    "Q036": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “doença de Parkinson.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é doença de parkinson.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “demência vascular.”. Não é a opção que melhor responde ao cenário quando se prioriza doença de parkinson.",
+        "B": "B — Incorreta: “tremores essenciais.”. Não é a opção que melhor responde ao cenário quando se prioriza doença de parkinson.",
+        "C": "C — Correta: doença de Parkinson.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “doença de Alzheimer.”. Não é a opção que melhor responde ao cenário quando se prioriza doença de parkinson."
+      },
+      "keyPoint": "Ponto-chave: Doença de Parkinson."
+    },
+    "Q037": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar dermatologia sem atribuir alternativa oficial correta."
+    },
+    "Q038": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “solicitar hemograma e marcar cirurgia eletiva logo após o diagnóstico.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Correta: solicitar hemograma e marcar cirurgia eletiva logo após o diagnóstico.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “solicitar ultrassonografia inguinal, para confirmar o diagnóstico, e programar cirurgia eletiva.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "C": "C — Incorreta: “aguardar o paciente completar um ano de idade, uma vez que 90% desses quadros têm resolução espontânea.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Incorreta: “aguardar o paciente completar dois anos de idade, pois nessa idade a cirurgia terá menor risco.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q039": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “Ácido acetilsalicílico 100 mg/dia + enoxaparina 1 mg/kg de 12/12h.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é síndromes hipertensivas da gestação.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Enoxaparina 40 mg/dia.”. Não é a opção que melhor responde ao cenário quando se prioriza síndromes hipertensivas da gestação.",
+        "B": "B — Incorreta: “Ácido acetilsalicílico 100 mg/dia.”. Não é a opção que melhor responde ao cenário quando se prioriza síndromes hipertensivas da gestação.",
+        "C": "C — Incorreta: “Ácido acetilsalicílico 100 mg/dia + enoxaparina 40 mg/dia.”. Não é a opção que melhor responde ao cenário quando se prioriza síndromes hipertensivas da gestação.",
+        "D": "D — Correta: Ácido acetilsalicílico 100 mg/dia + enoxaparina 1 mg/kg de 12/12h.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Síndromes hipertensivas da gestação."
+    },
+    "Q040": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “Esporotricose.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Correta: Esporotricose.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “Cromoblastomicose.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "C": "C — Incorreta: “Leishmaniose tegumentar.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Incorreta: “Blastomicose sul-americana. Espaço livre”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q041": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “Linfoma; biopsia de gânglio cervical.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Citomegalovírus; sorologias.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Correta: Linfoma; biopsia de gânglio cervical.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “Mononucleose infecciosa; sorologias.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Incorreta: “Metástase de carcinoma cervical, provavelmente tireoide; biopsia de gânglio cervical.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q042": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Staphylococcus aureus.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é dermatologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Adenovírus.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "B": "B — Incorreta: “Herpes simples.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "C": "C — Correta: Staphylococcus aureus.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “Chlamydia trachomatis.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia."
+      },
+      "keyPoint": "Ponto-chave: Dermatologia."
+    },
+    "Q043": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “É necessário tranquilizar os pais e garantir um acompanhamento longitudinal da criança, com observação de novas crises.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é crise convulsiva / epilepsia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “O acompanhamento da criança deve ser feito por especialista, o que é mais indicado para descartar trauma e violência infantil.”. Não é a opção que melhor responde ao cenário quando se prioriza crise convulsiva / epilepsia.",
+        "B": "B — Incorreta: “A criança deve realizar exames complementares, como tomografia cerebral, na própria emergência, devido ao passado de morte súbita do irmão.”. Não é a opção que melhor responde ao cenário quando se prioriza crise convulsiva / epilepsia.",
+        "C": "C — Correta: É necessário tranquilizar os pais e garantir um acompanhamento longitudinal da criança, com observação de novas crises.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “A criança deve ser mantida internada para investigação, porque não é comum crise tônico-clônica generalizada com febre.”. Não é a opção que melhor responde ao cenário quando se prioriza crise convulsiva / epilepsia."
+      },
+      "keyPoint": "Ponto-chave: Crise convulsiva / epilepsia."
+    },
+    "Q044": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “Linfonodos sentinelas comprometidos.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Tipo histológico do tumor.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "B": "B — Incorreta: “Tamanho do tumor primário.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "C": "C — Incorreta: “Receptores hormonais positivos.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "D": "D — Correta: Linfonodos sentinelas comprometidos.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    },
+    "Q045": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “As pessoas brancas tiveram melhor sobrevida do que as pessoas das outras raças/etnias juntas.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é dermatologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Houve mais óbitos de indígenas do que de pessoas de raça/etnia amarela.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "B": "B — Correta: As pessoas brancas tiveram melhor sobrevida do que as pessoas das outras raças/etnias juntas.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “Entre as pessoas de raça/etnia preta, houve um número maior de internações do que entre as pessoas pardas.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "D": "D — Incorreta: “As pessoas de raça/etnia amarela e indígena, juntas, foram mais submetidas a internações do que as pessoas de raça/etnia preta.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia."
+      },
+      "keyPoint": "Ponto-chave: Dermatologia."
+    },
+    "Q046": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Ultrassonografia com doppler.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é epidemiologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Flebografia.”. Não é a opção que melhor responde ao cenário quando se prioriza epidemiologia.",
+        "B": "B — Incorreta: “Arteriografia.”. Não é a opção que melhor responde ao cenário quando se prioriza epidemiologia.",
+        "C": "C — Correta: Ultrassonografia com doppler.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “Ultrassonografia de partes moles.”. Não é a opção que melhor responde ao cenário quando se prioriza epidemiologia."
+      },
+      "keyPoint": "Ponto-chave: Epidemiologia."
+    },
+    "Q047": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Endoscopia digestiva alta com biópsia.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Esofagomanometria.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Incorreta: “pHmetria esofágica de 24 horas.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "C": "C — Correta: Endoscopia digestiva alta com biópsia.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “Esofagogastroduodenografia contrastada.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q048": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “asfixias, quedas e aspiração de corpo estranho.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é crescimento e desenvolvimento.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “atropelamento e queimadura solar.”. Não é a opção que melhor responde ao cenário quando se prioriza crescimento e desenvolvimento.",
+        "B": "B — Incorreta: “queda do carrinho e atropelamento.”. Não é a opção que melhor responde ao cenário quando se prioriza crescimento e desenvolvimento.",
+        "C": "C — Correta: asfixias, quedas e aspiração de corpo estranho.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “aspirações e queimadura por água de banheira.”. Não é a opção que melhor responde ao cenário quando se prioriza crescimento e desenvolvimento."
+      },
+      "keyPoint": "Ponto-chave: Crescimento e desenvolvimento."
+    },
+    "Q049": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “Ele deverá orientar a paciente e prescrever o medicamento indicado, considerando a urgência e a impossibilidade comprovada de realizar a consulta.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é ética e medicina legal.",
+      "optionExplanations": {
+        "A": "A — Correta: Ele deverá orientar a paciente e prescrever o medicamento indicado, considerando a urgência e a impossibilidade comprovada de realizar a consulta.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “Ele não deverá orientar nem prescrever qualquer medicamento para essa paciente sem examiná-la pessoalmente.”. Não é a opção que melhor responde ao cenário quando se prioriza ética e medicina legal.",
+        "C": "C — Incorreta: “Ele poderá orientar a paciente via aplicativo de mensagens, ainda que não possa prescrever o medicamento indicado sem examiná-la pessoalmente.”. Não é a opção que melhor responde ao cenário quando se prioriza ética e medicina legal.",
+        "D": "D — Incorreta: “Ele só poderá orientar a paciente mediante uma teleconsulta, ainda que não possa prescrever o medicamento indicado sem examiná-la pessoalmente.”. Não é a opção que melhor responde ao cenário quando se prioriza ética e medicina legal."
+      },
+      "keyPoint": "Ponto-chave: Ética e medicina legal."
+    },
+    "Q050": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar contracepção sem atribuir alternativa oficial correta."
+    },
+    "Q051": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “pneumonia pós-obstrutiva, derrame pleural e neoplasia pulmonar.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é pneumonia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “silicose, tuberculose e pneumotórax.”. Não é a opção que melhor responde ao cenário quando se prioriza pneumonia.",
+        "B": "B — Correta: pneumonia pós-obstrutiva, derrame pleural e neoplasia pulmonar.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “tromboembolismo pulmonar e neoplasia de cabeça e pescoço.”. Não é a opção que melhor responde ao cenário quando se prioriza pneumonia.",
+        "D": "D — Incorreta: “granulomatose eosinofílica com poliangiíte e infecção de vias aéreas superiores.”. Não é a opção que melhor responde ao cenário quando se prioriza pneumonia."
+      },
+      "keyPoint": "Ponto-chave: Pneumonia."
+    },
+    "Q052": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “Toracocentese à direita.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é epidemiologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Tomografia de tórax.”. Não é a opção que melhor responde ao cenário quando se prioriza epidemiologia.",
+        "B": "B — Correta: Toracocentese à direita.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “Ultrassonografia de tórax.”. Não é a opção que melhor responde ao cenário quando se prioriza epidemiologia.",
+        "D": "D — Incorreta: “Exame de escarro com pesquisa de BAAR.”. Não é a opção que melhor responde ao cenário quando se prioriza epidemiologia."
+      },
+      "keyPoint": "Ponto-chave: Epidemiologia."
+    },
+    "Q053": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “orientar a mãe e não realizar a revacinação.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é imunizações.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “solicitar prova tuberculínica para eventual revacinação.”. Não é a opção que melhor responde ao cenário quando se prioriza imunizações.",
+        "B": "B — Incorreta: “administrar nova aplicação da BCG no dia da consulta.”. Não é a opção que melhor responde ao cenário quando se prioriza imunizações.",
+        "C": "C — Incorreta: “iniciar investigação laboratorial de imunodeficiência.”. Não é a opção que melhor responde ao cenário quando se prioriza imunizações.",
+        "D": "D — Correta: orientar a mãe e não realizar a revacinação.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Imunizações."
+    },
+    "Q054": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “Uso de progesterona natural micronizada 200 mg à noite.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Indicação de cerclagem eletiva via transvaginal.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Correta: Uso de progesterona natural micronizada 200 mg à noite.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “Suplementação diária de ácido fólico associado a ômega 3.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Incorreta: “Rastreio de estreptococo do grupo B em cultura vaginal e retal.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q055": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “dengue; iniciar hidratação, solicitar hemograma, alertar o ACE de que reforce as medidas individuais e coletivas de controle de mosquito e de que notifique o caso.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é dengue.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “covid-19; solicitar o teste rápido ou rt-PCR e iniciar antibioticoterapia com azitromicina e corticoide.”. Não é a opção que melhor responde ao cenário quando se prioriza dengue.",
+        "B": "B — Incorreta: “chikungunya; prescrever analgésico e anti-inflamatório, avaliar o uso de corticoide e notificar imediatamente o caso.”. Não é a opção que melhor responde ao cenário quando se prioriza dengue.",
+        "C": "C — Incorreta: “zika; iniciar sintomáticos e orientar o ACE a buscar todas as gestantes, para que possam ser feitas as medidas de prevenção à microcefalia.”. Não é a opção que melhor responde ao cenário quando se prioriza dengue.",
+        "D": "D — Correta: dengue; iniciar hidratação, solicitar hemograma, alertar o ACE de que reforce as medidas individuais e coletivas de controle de mosquito e de que notifique o caso.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Dengue."
+    },
+    "Q056": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “opacificação em hemitórax esquerdo.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é dermatologia.",
+      "optionExplanations": {
+        "A": "A — Correta: opacificação em hemitórax esquerdo.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “hipertransparência em hemitórax esquerdo.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "C": "C — Incorreta: “apresentação de linha pleural visível à esquerda.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "D": "D — Incorreta: “presença de linhas horizontais na periferia pulmonar.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia."
+      },
+      "keyPoint": "Ponto-chave: Dermatologia."
+    },
+    "Q057": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “A extensão das lesões cutâneas apresentadas pelo paciente no momento do trauma não tem relação com a gravidade do caso.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é queimaduras.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “A perda de consciência apresentada pelo paciente é evidência de arritmia cardíaca causada pelo choque.”. Não é a opção que melhor responde ao cenário quando se prioriza queimaduras.",
+        "B": "B — Incorreta: “A queimadura elétrica causa lesões de entrada e saída que não correspondem ao trajeto da corrente.”. Não é a opção que melhor responde ao cenário quando se prioriza queimaduras.",
+        "C": "C — Incorreta: “As lesões cutâneas apresentadas pelo paciente no momento do trauma definem o grau de profundidade da queimadura.”. Não é a opção que melhor responde ao cenário quando se prioriza queimaduras.",
+        "D": "D — Correta: A extensão das lesões cutâneas apresentadas pelo paciente no momento do trauma não tem relação com a gravidade do caso.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Queimaduras."
+    },
+    "Q058": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “repetir o exame em 1 h.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “dar alta hospitalar.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Correta: repetir o exame em 1 h.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “requerer ecocardiograma.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Incorreta: “solicitar eletrocardiograma.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q059": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “A elevação do LH e a relação LH e do hormônio folículo-estimulante (FSH) maior que 2,5 são achados observáveis na SOP.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é massa anexial / ovário.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “A insulinemia geralmente é abaixo do normal em paciente com essa síndrome, o que colabora para manifestações clínicas como o aparecimento das lesões do tipo acantose nigricans.”. Não é a opção que melhor responde ao cenário quando se prioriza massa anexial / ovário.",
+        "B": "B — Incorreta: “A dopamina hipotalâmica aumentada na SOP inibe o hormônio liberador de gonadotrofina (GnRH), o que resulta em menor amplitude da secreção dos pulsos de hormônio luteinizante (LH) e, com isso, menores níveis de LH sistêmicos.”. Não é a opção que melhor responde ao cenário quando se prioriza massa anexial / ovário.",
+        "C": "C — Incorreta: “O sulfato de deidroepiandrosterona (S-DHEA) marcadamente elevado é padrão-ouro para definição de SOP.”. Não é a opção que melhor responde ao cenário quando se prioriza massa anexial / ovário.",
+        "D": "D — Correta: A elevação do LH e a relação LH e do hormônio folículo-estimulante (FSH) maior que 2,5 são achados observáveis na SOP.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Massa anexial / ovário."
+    },
+    "Q060": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar assistência obstétrica sem atribuir alternativa oficial correta."
+    },
+    "Q061": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar rastreamento e lesões do colo uterino sem atribuir alternativa oficial correta."
+    },
+    "Q062": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar diabetes mellitus sem atribuir alternativa oficial correta."
+    },
+    "Q063": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “fototerapia.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Correta: fototerapia.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “observação clínica.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "C": "C — Incorreta: “hidratação venosa.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Incorreta: “exsanguineotransfusão.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q064": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “Indireta.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é dermatologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Direta.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "B": "B — Correta: Indireta.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “Suspeita.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "D": "D — Incorreta: “Não obstétrica.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia."
+      },
+      "keyPoint": "Ponto-chave: Dermatologia."
+    },
+    "Q065": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Toxoplasmose pregressa; tranquilizar a paciente de que não há motivos de preocupação e orientá-la a continuar o acompanhamento habitual no pré-natal na USF.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Possivelmente um falso-positivo para toxoplasmose; repetir os exames e encaminhar a paciente para acompanhamento no pré-natal de alto risco.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "B": "B — Incorreta: “Compatibilidade com toxoplasmose aguda; iniciar o tratamento específico e encaminhar a paciente para acompanhamento no pré-natal de alto risco.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "C": "C — Correta: Toxoplasmose pregressa; tranquilizar a paciente de que não há motivos de preocupação e orientá-la a continuar o acompanhamento habitual no pré-natal na USF.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “Suscetibilidade à toxoplasmose; orientar a paciente sobre medidas de prevenção e indicar que ela continue o acompanhamento no pré-natal na USF.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q066": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar rastreamento e lesões do colo uterino sem atribuir alternativa oficial correta."
+    },
+    "Q067": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Obstrução intestinal baixa; distensão colônica e válvula ileocecal competente.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é obstrução intestinal.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Obstrução intestinal; distensão de alças de intestino delgado e cólon.”. Não é a opção que melhor responde ao cenário quando se prioriza obstrução intestinal.",
+        "B": "B — Incorreta: “Abdome agudo obstrutivo; pneumoperitônio e ausência de ar na ampola retal.”. Não é a opção que melhor responde ao cenário quando se prioriza obstrução intestinal.",
+        "C": "C — Correta: Obstrução intestinal baixa; distensão colônica e válvula ileocecal competente.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “Constipação intestinal; ar na ampola retal e distensão de cólon e intestino delgado.”. Não é a opção que melhor responde ao cenário quando se prioriza obstrução intestinal."
+      },
+      "keyPoint": "Ponto-chave: Obstrução intestinal."
+    },
+    "Q068": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “Ultrassonografia.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é assistência obstétrica.",
+      "optionExplanations": {
+        "A": "A — Correta: Ultrassonografia.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “Ressonância magnética.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "C": "C — Incorreta: “Radiografia panorâmica.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica.",
+        "D": "D — Incorreta: “Tomografia computadorizada.”. Não é a opção que melhor responde ao cenário quando se prioriza assistência obstétrica."
+      },
+      "keyPoint": "Ponto-chave: Assistência obstétrica."
+    },
+    "Q069": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “O grupo só poderá incluir profissionais médicos, com a ressalva que as informações passadas têm caráter confidencial e não podem extrapolar os limites do grupo.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “A criação de grupos de mensagens eletrônicas, mesmo que inclua apenas médicos, não é ética, pelo risco de quebra do sigilo.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Incorreta: “Os casos clínicos poderão fazer referência a situação clínica que permita identificação do paciente, desde que autorizado por ele.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "C": "C — Incorreta: “A responsabilidade ética sobre o sigilo dessas informações é do administrador do grupo, que deverá ser o responsável técnico da unidade.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Correta: O grupo só poderá incluir profissionais médicos, com a ressalva que as informações passadas têm caráter confidencial e não podem extrapolar os limites do grupo.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q070": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar dermatologia sem atribuir alternativa oficial correta."
+    },
+    "Q071": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “nefropatia membranosa paraneoplásica com síndrome nefrótica.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é doença renal.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “disfunção hepática precipitada por metástases do câncer de mama e hipertensão portal.”. Não é a opção que melhor responde ao cenário quando se prioriza doença renal.",
+        "B": "B — Incorreta: “angioedema induzido pelo esquema quimioterápico.”. Não é a opção que melhor responde ao cenário quando se prioriza doença renal.",
+        "C": "C — Incorreta: “cardiotoxicidade secundária ao esquema quimioterápico com insuficiência cardíaca descompensada perfil B.”. Não é a opção que melhor responde ao cenário quando se prioriza doença renal.",
+        "D": "D — Correta: nefropatia membranosa paraneoplásica com síndrome nefrótica.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Doença renal."
+    },
+    "Q072": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “controle clínico/imaginológico.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é diabetes mellitus.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “supressão hormonal.”. Não é a opção que melhor responde ao cenário quando se prioriza diabetes mellitus.",
+        "B": "B — Incorreta: “tratamento cirúrgico.”. Não é a opção que melhor responde ao cenário quando se prioriza diabetes mellitus.",
+        "C": "C — Correta: controle clínico/imaginológico.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “punção aspirativa por agulha fina.”. Não é a opção que melhor responde ao cenário quando se prioriza diabetes mellitus."
+      },
+      "keyPoint": "Ponto-chave: Diabetes mellitus."
+    },
+    "Q073": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar rastreamento e lesões do colo uterino sem atribuir alternativa oficial correta."
+    },
+    "Q074": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “Nível tensional de 150 × 110 mmHg, mantido por 4 horas.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Proteinúria de 5 g.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Incorreta: “Creatinina sérica de 0,9 mg/dL.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "C": "C — Incorreta: “Desidrogenase láctica de 490 UI.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Correta: Nível tensional de 150 × 110 mmHg, mantido por 4 horas.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q075": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “A ES e os líderes podem convidar a população masculina para uma roda de conversa sobre o tema do alcoolismo na aldeia, com o objetivo de pactuar com os participantes os próximos passos.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é uso de álcool.",
+      "optionExplanations": {
+        "A": "A — Correta: A ES e os líderes podem convidar a população masculina para uma roda de conversa sobre o tema do alcoolismo na aldeia, com o objetivo de pactuar com os participantes os próximos passos.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “A ES pode convidar a população para ir ao polo base a fim de assistir a uma palestra expositiva sobre os riscos e as complicações do etilismo crônico, avaliando a possibilidade de prescrever midazolam para as pessoas com dificuldade de cessar o uso de bebida alcóolica.”. Não é a opção que melhor responde ao cenário quando se prioriza uso de álcool.",
+        "C": "C — Incorreta: “A ES pode realizar uma reunião de planejamento para designar o papel de cada membro da equipe e convidar a população para ir ao polo base a fim de assistir a uma palestra sobre os riscos e as complicações do etilismo crônico.”. Não é a opção que melhor responde ao cenário quando se prioriza uso de álcool.",
+        "D": "D — Incorreta: “A ES e os líderes podem convidar a população masculina para uma roda de conversa sobre o tema do alcoolismo na aldeia, com o objetivo de prescrever benzodiazepínicos para as pessoas com dificuldade de cessar o uso de bebida alcóolica.”. Não é a opção que melhor responde ao cenário quando se prioriza uso de álcool."
+      },
+      "keyPoint": "Ponto-chave: Uso de álcool."
+    },
+    "Q076": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “reação anafilática/anafilactoide ao óxido de etileno utilizado para esterilização do sistema de HD.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é doença renal.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “embolia pulmonar gasosa precipitada pela punção venosa profunda.”. Não é a opção que melhor responde ao cenário quando se prioriza doença renal.",
+        "B": "B — Incorreta: “síndrome de desequilíbrio dialítico provocado por desvios osmóticos graves.”. Não é a opção que melhor responde ao cenário quando se prioriza doença renal.",
+        "C": "C — Incorreta: “rápida mobilização de fluidos por ultrafiltração na ausência de resposta autonômica adequada.”. Não é a opção que melhor responde ao cenário quando se prioriza doença renal.",
+        "D": "D — Correta: reação anafilática/anafilactoide ao óxido de etileno utilizado para esterilização do sistema de HD.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Doença renal."
+    },
+    "Q077": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Tumor de testículo.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é dermatologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Torção do cordão espermático.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "B": "B — Incorreta: “Hérnia inguinal escrotal.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "C": "C — Correta: Tumor de testículo.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “Orquiepididimite.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia."
+      },
+      "keyPoint": "Ponto-chave: Dermatologia."
+    },
+    "Q078": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar hiv/aids sem atribuir alternativa oficial correta."
+    },
+    "Q079": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “Utilizar clindamicina 900 mg intravascular.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Evitar profilaxia antibiótica.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Incorreta: “Usar vancomicina 1 g intravascular.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "C": "C — Incorreta: “Empregar ampicilina 2 g intravascular.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Correta: Utilizar clindamicina 900 mg intravascular.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q080": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “Ela garante a saúde das pessoas privadas de liberdade, por intermédio de um acordo entre o governo federal, estados e municípios.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Correta: Ela garante a saúde das pessoas privadas de liberdade, por intermédio de um acordo entre o governo federal, estados e municípios.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “A equipe de saúde da família de um município não tem o dever de desenvolver ações de saúde em uma unidade carcerária, mesmo que localizada em seu território.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "C": "C — Incorreta: “As equipes de atenção primária prisional não poderão possuir equipe de saúde mental, pois as pessoas privadas de liberdade devem ser acompanhadas em Centro de Atenção Psicossocial (CAPS).”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Incorreta: “A adesão à PNAISP é obrigatória para os municípios e estados, garantindo-se, assim, o cuidado integral à saúde das pessoas privadas de liberdade.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q081": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “administrar terapia trombolítica intravenosa com rtPA.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é fibrilação atrial e cardioversão.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “reverter a fibrilação atrial paroxística com cardioversão química.”. Não é a opção que melhor responde ao cenário quando se prioriza fibrilação atrial e cardioversão.",
+        "B": "B — Correta: administrar terapia trombolítica intravenosa com rtPA.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “infundir insulina intravenosa em bólus.”. Não é a opção que melhor responde ao cenário quando se prioriza fibrilação atrial e cardioversão.",
+        "D": "D — Incorreta: “controlar a hipertensão arterial com nitroprussiato de sódio.”. Não é a opção que melhor responde ao cenário quando se prioriza fibrilação atrial e cardioversão."
+      },
+      "keyPoint": "Ponto-chave: Fibrilação atrial e cardioversão."
+    },
+    "Q082": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “não indicar o rastreamento.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é síndrome coronariana aguda.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “solicitar ultrassonografia transretal de próstata.”. Não é a opção que melhor responde ao cenário quando se prioriza síndrome coronariana aguda.",
+        "B": "B — Incorreta: “realizar toque retal e exame de PSA.”. Não é a opção que melhor responde ao cenário quando se prioriza síndrome coronariana aguda.",
+        "C": "C — Incorreta: “requerer apenas exame de PSA.”. Não é a opção que melhor responde ao cenário quando se prioriza síndrome coronariana aguda.",
+        "D": "D — Correta: não indicar o rastreamento.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Síndrome coronariana aguda."
+    },
+    "Q083": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “não cometeu uma infração, por ser uma situação de risco.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é diabetes mellitus.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “cometeu uma infração, por não respeitar o sigilo médico.”. Não é a opção que melhor responde ao cenário quando se prioriza diabetes mellitus.",
+        "B": "B — Correta: não cometeu uma infração, por ser uma situação de risco.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “não cometeu uma infração, por a mãe já saber das internações.”. Não é a opção que melhor responde ao cenário quando se prioriza diabetes mellitus.",
+        "D": "D — Incorreta: “cometeu uma infração, por não respeitar a autonomia do paciente.”. Não é a opção que melhor responde ao cenário quando se prioriza diabetes mellitus."
+      },
+      "keyPoint": "Ponto-chave: Diabetes mellitus."
+    },
+    "Q084": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar rastreamento e lesões do colo uterino sem atribuir alternativa oficial correta."
+    },
+    "Q085": {
+      "explanation": "Questão anulada no gabarito definitivo do INEP. Ela é mantida para estudo, mas não deve pontuar em simulados.",
+      "optionExplanations": {
+        "A": "A — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "B": "B — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "C": "C — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta.",
+        "D": "D — Questão anulada pelo gabarito definitivo do INEP; esta alternativa não deve ser tratada como resposta oficial correta."
+      },
+      "keyPoint": "Ponto-chave: revisar atenção primária / sus sem atribuir alternativa oficial correta."
+    },
+    "Q086": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Chikungunya; metotrexato.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é chikungunya.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Citomegalovirose; paracetamol.”. Não é a opção que melhor responde ao cenário quando se prioriza chikungunya.",
+        "B": "B — Incorreta: “Febre do Mayaro; metotrexato.”. Não é a opção que melhor responde ao cenário quando se prioriza chikungunya.",
+        "C": "C — Correta: Chikungunya; metotrexato.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “Dengue; paracetamol.”. Não é a opção que melhor responde ao cenário quando se prioriza chikungunya."
+      },
+      "keyPoint": "Ponto-chave: Chikungunya."
+    },
+    "Q087": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “Calázio.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é dermatologia.",
+      "optionExplanations": {
+        "A": "A — Correta: Calázio.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “Hordéolo.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "C": "C — Incorreta: “Canaliculite.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "D": "D — Incorreta: “Dacriocistite.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia."
+      },
+      "keyPoint": "Ponto-chave: Dermatologia."
+    },
+    "Q088": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “dexclorfeniramina.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “dipirona.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Incorreta: “salbutamol.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "C": "C — Incorreta: “clorpromazina.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Correta: dexclorfeniramina.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q089": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “Cesariana eletiva.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é síndromes hipertensivas da gestação.",
+      "optionExplanations": {
+        "A": "A — Correta: Cesariana eletiva.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “Neuroproteção fetal.”. Não é a opção que melhor responde ao cenário quando se prioriza síndromes hipertensivas da gestação.",
+        "C": "C — Incorreta: “Perfil biofísico fetal a cada 3 dias.”. Não é a opção que melhor responde ao cenário quando se prioriza síndromes hipertensivas da gestação.",
+        "D": "D — Incorreta: “Dopplervelocimetria fetal a cada semana.”. Não é a opção que melhor responde ao cenário quando se prioriza síndromes hipertensivas da gestação."
+      },
+      "keyPoint": "Ponto-chave: Síndromes hipertensivas da gestação."
+    },
+    "Q090": {
+      "explanation": "A alternativa D é a correta no gabarito definitivo: “Para prescrição de anticoncepcional oral, não é necessária a realização prévia de colpocitologia oncótica nem exame de mamas.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é contracepção.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “A avaliação global e o acolhimento com escuta qualificada são função exclusiva dos médicos e enfermeiros na APS.”. Não é a opção que melhor responde ao cenário quando se prioriza contracepção.",
+        "B": "B — Incorreta: “É função específica da enfermagem a orientação com relação aos métodos contraceptivos de barreira.”. Não é a opção que melhor responde ao cenário quando se prioriza contracepção.",
+        "C": "C — Incorreta: “O método contraceptivo definitivo somente é aplicado para homem ou mulher com capacidade civil plena e que tenha idade acima de 25 anos e pelo menos dois filhos vivos.”. Não é a opção que melhor responde ao cenário quando se prioriza contracepção.",
+        "D": "D — Correta: Para prescrição de anticoncepcional oral, não é necessária a realização prévia de colpocitologia oncótica nem exame de mamas.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central."
+      },
+      "keyPoint": "Ponto-chave: Contracepção."
+    },
+    "Q091": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “internar o paciente para realização de exames laboratoriais, e iniciar antimicrobianos via intravenosa.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “manter o paciente em regime ambulatorial e prescrever antibiótico via oral.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Correta: internar o paciente para realização de exames laboratoriais, e iniciar antimicrobianos via intravenosa.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “solicitar tomografia computadorizada de abdome com contraste e prescrever antitérmico e sintomáticos.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "D": "D — Incorreta: “solicitar tomografia computadorizada do encéfalo e prescrever haloperidol.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q092": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “femoral encarcerada.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é hérnias.",
+      "optionExplanations": {
+        "A": "A — Correta: femoral encarcerada.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “incisional encarcerada.”. Não é a opção que melhor responde ao cenário quando se prioriza hérnias.",
+        "C": "C — Incorreta: “inguinal direta encarcerada.”. Não é a opção que melhor responde ao cenário quando se prioriza hérnias.",
+        "D": "D — Incorreta: “inguinal indireta encarcerada.”. Não é a opção que melhor responde ao cenário quando se prioriza hérnias."
+      },
+      "keyPoint": "Ponto-chave: Hérnias."
+    },
+    "Q093": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “intoxicação exógena de haloperidol.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é rastreamento e lesões do colo uterino.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “cardiopatia congênita cianótica.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "B": "B — Incorreta: “intoxicação exógena por captopril.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino.",
+        "C": "C — Correta: intoxicação exógena de haloperidol.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “ingestão exógena por benzodiazepínico.”. Não é a opção que melhor responde ao cenário quando se prioriza rastreamento e lesões do colo uterino."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento e lesões do colo uterino."
+    },
+    "Q094": {
+      "explanation": "A alternativa C é a correta no gabarito definitivo: “Indução com miconazol creme vaginal tópico diário por 10 a 14 dias. Manutenção com miconazol creme vaginal tópico, 2 vezes por semana, durante 6 meses.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é diabetes mellitus.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Indução com fluconazol 150 mg, via oral, 1 vez ao dia, dias 1, 4 e 7. Manutenção com fluconazol 150 mg, via oral, 1 vez por semana, por 6 meses.”. Não é a opção que melhor responde ao cenário quando se prioriza diabetes mellitus.",
+        "B": "B — Incorreta: “Indução com itraconazol 100 mg, 2 comprimidos, via oral, 2 vezes ao dia, por 1 dia. Manutenção com miconazol óvulo vaginal, 1 vez por semana, durante 3 meses.”. Não é a opção que melhor responde ao cenário quando se prioriza diabetes mellitus.",
+        "C": "C — Correta: Indução com miconazol creme vaginal tópico diário por 10 a 14 dias. Manutenção com miconazol creme vaginal tópico, 2 vezes por semana, durante 6 meses.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "D": "D — Incorreta: “Indução com miconazol creme vaginal tópico diário por 7 dias. Manutenção com miconazol óvulo vaginal, 1 vez por semana, durante 3 meses.”. Não é a opção que melhor responde ao cenário quando se prioriza diabetes mellitus."
+      },
+      "keyPoint": "Ponto-chave: Diabetes mellitus."
+    },
+    "Q095": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “notificação de agravo e acompanhamento na USF.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é vigilância epidemiológica.",
+      "optionExplanations": {
+        "A": "A — Correta: notificação de agravo e acompanhamento na USF.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “encaminhamento para psiquiatra e notificação de agravo.”. Não é a opção que melhor responde ao cenário quando se prioriza vigilância epidemiológica.",
+        "C": "C — Incorreta: “denúncia do caso pelo número 180 e acompanhamento da USF.”. Não é a opção que melhor responde ao cenário quando se prioriza vigilância epidemiológica.",
+        "D": "D — Incorreta: “denúncia do caso pelo número 180 e encaminhamento para psiquiatra.”. Não é a opção que melhor responde ao cenário quando se prioriza vigilância epidemiológica."
+      },
+      "keyPoint": "Ponto-chave: Vigilância epidemiológica."
+    },
+    "Q096": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “fibromialgia.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é doença tireoidiana.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “polimiosite.”. Não é a opção que melhor responde ao cenário quando se prioriza doença tireoidiana.",
+        "B": "B — Correta: fibromialgia.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “fadiga crônica.”. Não é a opção que melhor responde ao cenário quando se prioriza doença tireoidiana.",
+        "D": "D — Incorreta: “polimialgia reumática.”. Não é a opção que melhor responde ao cenário quando se prioriza doença tireoidiana."
+      },
+      "keyPoint": "Ponto-chave: Doença tireoidiana."
+    },
+    "Q097": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “Retirada da punção profunda e compressão.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é dermatologia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Solicitação de ultrassonografia diagnóstica.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "B": "B — Correta: Retirada da punção profunda e compressão.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “Instalação de infusão lenta de SG 5% 500 ml.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia.",
+        "D": "D — Incorreta: “Solicitação de radiografia de tórax de controle.”. Não é a opção que melhor responde ao cenário quando se prioriza dermatologia."
+      },
+      "keyPoint": "Ponto-chave: Dermatologia."
+    },
+    "Q098": {
+      "explanation": "A alternativa B é a correta no gabarito definitivo: “corticoide.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é doença renal.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “diurético.”. Não é a opção que melhor responde ao cenário quando se prioriza doença renal.",
+        "B": "B — Correta: corticoide.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "C": "C — Incorreta: “antibiótico.”. Não é a opção que melhor responde ao cenário quando se prioriza doença renal.",
+        "D": "D — Incorreta: “anti-inflamatório não hormonal.”. Não é a opção que melhor responde ao cenário quando se prioriza doença renal."
+      },
+      "keyPoint": "Ponto-chave: Doença renal."
+    },
+    "Q099": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “VDRL.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é sífilis.",
+      "optionExplanations": {
+        "A": "A — Correta: VDRL.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “TPHA.”. Não é a opção que melhor responde ao cenário quando se prioriza sífilis.",
+        "C": "C — Incorreta: “FTA-ABS.”. Não é a opção que melhor responde ao cenário quando se prioriza sífilis.",
+        "D": "D — Incorreta: “penicilina procaína.”. Não é a opção que melhor responde ao cenário quando se prioriza sífilis."
+      },
+      "keyPoint": "Ponto-chave: Sífilis."
+    },
+    "Q100": {
+      "explanation": "A alternativa A é a correta no gabarito definitivo: “Orientar isolamento e afastar a criança da creche por sete dias ou até o desaparecimento das lesões cutâneas.”. Os achados do enunciado devem ser integrados para selecionar a resposta mais adequada. O foco desta questão é atenção primária / sus.",
+      "optionExplanations": {
+        "A": "A — Correta: Orientar isolamento e afastar a criança da creche por sete dias ou até o desaparecimento das lesões cutâneas.. É a alternativa compatível com o gabarito definitivo e com o eixo clínico central.",
+        "B": "B — Incorreta: “Notificar imediatamente o caso ao serviço de vigilância epidemiológica e agendar visita à creche para busca ativa de casos.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "C": "C — Incorreta: “Recomendar isolamento domiciliar por sete dias e instituir tratamento ambulatorial com o antiviral plenaril.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus.",
+        "D": "D — Incorreta: “Encaminhar a criança para internação hospitalar, para hidratação, se necessária, tratamento sintomático e aplicação de imunoglobulina endovenosa. QUESTIONÁRIO DE PERCEPÇÃO SOBRE A PROVA As perguntas abaixo visam obter sua opinião sobre a qualidade da prova que você acabou de realizar. Para cada uma delas, assinale a opção correspondente à sua opinião, nos espaços próprios do Cartão-Resposta. Agradecemos a sua colaboração. PERGUNTA 1 Qual o grau de dificuldade da prova? A Muito fácil. B Fácil. C Médio. D Difícil. E Muito difícil. PERGUNTA 2 Considerando a extensão da prova, em relação ao tempo total, você considera que a prova foi A muito longa. B longa. C adequada. D curta. E muito curta. PERGUNTA 3 Os enunciados das questões da prova estavam claros? A Sim, todos. B Sim, a maioria. C Cerca da metade. D Poucos. E Não, nenhum. PERGUNTA 4 As informações/instruções fornecidas para a resolução das questões foram suficientes para resolvê-las? A Sim, até excessivas. B Sim, em todas elas. C Sim, na maioria delas. D Sim, somente em algumas. E Não, em nenhuma delas. PERGUNTA 5 Qual a maior dificuldade encontrada por você ao responder a prova? A Desconhecimento do conteúdo. B Forma diferente de abordagem do conteúdo. C Extensão das questões. D Falta de motivação para fazer a prova. E Não tive qualquer tipo de dificuldade em responder a prova. PERGUNTA 6 Você já participou, no Brasil, de outro(s) processo(s) de revalidação de diploma de medicina obtido no exterior? A Sim. B Não.”. Não é a opção que melhor responde ao cenário quando se prioriza atenção primária / sus."
+      },
+      "keyPoint": "Ponto-chave: Atenção Primária / SUS."
+    }
+  }
+}

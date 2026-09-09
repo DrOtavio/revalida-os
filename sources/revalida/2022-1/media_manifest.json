@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 1,
+  "edition": "2022/1",
+  "source": "INEP",
+  "questions": {
+    "Q048": [
+      {
+        "kind": "table",
+        "title": "Exames laboratoriais",
+        "caption": "Resultados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Valor encontrado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hemoglobina",
+            "10,3 g/dL",
+            "11,0 - 15 g/dL"
+          ],
+          [
+            "Hematócrito",
+            "31%",
+            "35 - 45%"
+          ],
+          [
+            "Leucócitos",
+            "4.000/mm³",
+            "4.000 - 12.000/mm³"
+          ],
+          [
+            "Neutrófilos segmentados",
+            "80%",
+            "18 - 48%"
+          ],
+          [
+            "Eosinófilos",
+            "5%",
+            "0 - 6%"
+          ],
+          [
+            "Linfócitos",
+            "8%",
+            "44 - 68%"
+          ],
+          [
+            "Monócitos",
+            "7%",
+            "3 - 10%"
+          ],
+          [
+            "Plaquetas",
+            "680.000/mm³",
+            "150.000 - 450.000/mm³"
+          ],
+          [
+            "RT-PCR para SARS-CoV-2",
+            "detectável",
+            "não detectável"
+          ],
+          [
+            "Ferritina",
+            "450 ng/mL",
+            "20 - 120 ng/mL"
+          ],
+          [
+            "Albumina",
+            "2,8 g/dL",
+            "3,5 - 4,5 g/dL"
+          ],
+          [
+            "PCR",
+            "210 mg/dL",
+            "até 5,0 mg/dL"
+          ],
+          [
+            "Ureia",
+            "22 mg/dL",
+            "10 a 40 mg/dL"
+          ],
+          [
+            "Creatinina",
+            "0,8 mg/dL",
+            "0,40 a 0,90 mg/dL"
+          ],
+          [
+            "Sorologias para dengue",
+            "IgM = 0,4; IgG = 45",
+            "Índice <1,0: não reagente / 1,0 a 1,4: inconclusivo / >1,4: reagente"
+          ]
+        ],
+        "fallbackImage": "q048_table_01.png",
+        "altText": "Tabela de exames laboratoriais da questão 48."
+      }
+    ],
+    "Q071": [
+      {
+        "kind": "table",
+        "title": "Hemograma",
+        "caption": "Primeira parte dos exames apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Valor encontrado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hemoglobina",
+            "10 g/dL",
+            "12-14 g/dL"
+          ],
+          [
+            "Hematócrito",
+            "30%",
+            "36-42%"
+          ],
+          [
+            "VCM",
+            "90 fL",
+            "80-100 fL"
+          ],
+          [
+            "HCM",
+            "30 pg",
+            "27-32 pg"
+          ],
+          [
+            "RDW",
+            "14%",
+            "11,5-15%"
+          ],
+          [
+            "Leucócitos",
+            "4 mil/mm³",
+            "5-10 mil/mm³"
+          ],
+          [
+            "Bastões",
+            "1%",
+            "0-5%"
+          ],
+          [
+            "Neutrófilos",
+            "74%",
+            "45-75%"
+          ],
+          [
+            "Linfócitos",
+            "20%",
+            "22-40%"
+          ],
+          [
+            "Eosinófilos",
+            "5%",
+            "1-5%"
+          ],
+          [
+            "Plaquetas",
+            "130 mil/mm³",
+            "150-400 mil/mm³"
+          ]
+        ],
+        "fallbackImage": "q071_table_01.png",
+        "altText": "Hemograma da questão 71."
+      },
+      {
+        "kind": "table",
+        "title": "Bioquímica e autoanticorpos",
+        "caption": "Segunda parte dos exames apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Valor encontrado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Creatinina",
+            "0,7 mg/dL",
+            "0,6-1,2 mg/dL"
+          ],
+          [
+            "Ureia",
+            "20 mg/dL",
+            "15-38 mg/dL"
+          ],
+          [
+            "TGO/AST",
+            "30 U/L",
+            "< 38 U/L"
+          ],
+          [
+            "TGP/ALT",
+            "31 U/L",
+            "< 41 U/L"
+          ],
+          [
+            "Bilirrubina total",
+            "2 mg/dL",
+            "0,2-1,0 mg/dL"
+          ],
+          [
+            "Bilirrubina direta",
+            "0,8 mg/dL",
+            "0,1-0,4 mg/dL"
+          ],
+          [
+            "Bilirrubina indireta",
+            "1,2 mg/dL",
+            "0,1-0,6 mg/dL"
+          ],
+          [
+            "Pesquisa de autoanticorpos",
+            "Positiva; título > 1:640; padrão nuclear homogêneo",
+            "Negativa"
+          ],
+          [
+            "Fator reumatoide",
+            "Positivo",
+            "Negativo"
+          ]
+        ],
+        "fallbackImage": "q071_table_01.png",
+        "altText": "Exames bioquímicos e autoanticorpos da questão 71."
+      }
+    ],
+    "Q091": [
+      {
+        "kind": "table",
+        "title": "Provas bioquímicas hepáticas",
+        "caption": "Resultados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Valor encontrado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Aspartato aminotransferase (AST)",
+            "778 UI/L",
+            "até 40 UI/L"
+          ],
+          [
+            "Alanino aminotransferase (ALT)",
+            "1.058 UI/L",
+            "até 38 UI/L"
+          ],
+          [
+            "Bilirrubina total",
+            "3,8 mg/dL",
+            "até 1,2 mg/dL"
+          ],
+          [
+            "Bilirrubina direta",
+            "3,2 mg/dL",
+            "até 0,3 mg/dL"
+          ],
+          [
+            "Fosfatase alcalina",
+            "215 UI/L",
+            "40-129 UI/L"
+          ],
+          [
+            "Gama-glutamil transferase",
+            "98 UI/L",
+            "10-50 UI/L"
+          ],
+          [
+            "INR",
+            "1,0",
+            "0,9-1,03"
+          ],
+          [
+            "PTTa",
+            "35,2 segundos",
+            "29-35 segundos"
+          ]
+        ],
+        "fallbackImage": "q091_table_01.png",
+        "altText": "Provas bioquímicas hepáticas da questão 91."
+      },
+      {
+        "kind": "table",
+        "title": "Marcadores virais da hepatite",
+        "caption": "Marcadores apresentados no enunciado oficial.",
+        "columns": [
+          "Marcador",
+          "Resultado"
+        ],
+        "rows": [
+          [
+            "Anti-HAV total",
+            "negativo"
+          ],
+          [
+            "HBsAg",
+            "positivo"
+          ],
+          [
+            "Anti-HBc IgM",
+            "positivo"
+          ],
+          [
+            "Anti-HBc IgG",
+            "negativo"
+          ],
+          [
+            "Anti-HBe IgM",
+            "negativo"
+          ],
+          [
+            "Anti-HBs",
+            "negativo"
+          ],
+          [
+            "Anti-HCV",
+            "negativo"
+          ]
+        ],
+        "fallbackImage": "q091_table_01.png",
+        "altText": "Marcadores virais da hepatite da questão 91."
+      }
+    ],
+    "Q099": [
+      {
+        "kind": "image",
+        "title": "Imagem oficial",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q099_img_01.png",
+        "altText": "Figura oficial da questão 99."
+      }
+    ]
+  },
+  "stemOverrides": {
+    "Q048": "Um pré-escolar com 4 anos de idade, acompanhado dos pais, dá entrada na emergência com quadro de febre, cefaleia e irritabilidade que se iniciou há 2 dias. A mãe relata que, hoje pela manhã, a criança apresentou erupções vermelhas na pele e que não percebeu outros sintomas antes do início do aparecimento desse quadro, porém, conta que o pai da criança estava com sintomas de síndrome gripal 2 semanas antes do adoecimento do filho. Ao exame físico, a criança apresenta estado geral comprometido, mucosas hipocoradas +/4+ e escleróticas anictéricas. Apresenta, ainda, olhos com conjuntivas hiperemiadas; pescoço com linfoadenomegalia cervical; tórax com diminuição da expansibilidade e tiragem subcostal presente; abdome plano, sem visceromegalias; pele com presença de erupções exantematosas. Frequência cardíaca = 168 batimentos por minuto, frequência respiratória = 39 incursões respiratórias por minuto e temperatura axilar = 39,1 °C. Os resultados dos exames laboratoriais iniciais da criança são apresentados no quadro a seguir. Após análise do quadro clínico e dos resultados laboratoriais, a principal hipótese diagnóstica é",
+    "Q071": "Uma mulher com 33 anos de idade procura o ambulatório de clínica médica devido a dores articulares há 3 meses. Refere o acometimento de mãos (interfalangeanas proximais e metacarpofalangeanas), punhos e joelhos. Ao exame físico, apresenta sinais de artrite nessas articulações. Foram solicitados exames laboratoriais para a investigação diagnóstica e os resultados são apresentados a seguir. Diante desses achados clínicos e laboratoriais, quais são, respectivamente, o autoanticorpo relacionado ao FAN apresentado e o diagnóstico pertinente ao caso?",
+    "Q091": "Um homem com 32 anos de idade, usuário de drogas ilícitas injetáveis (DII), comparece à consulta ambulatorial em clínica médica com queixa de fadiga importante e dor abdominal no hipocôndrio direito que teve início há 1 semana. Refere que, 2 dias antes do início desses sintomas, apresentou febre, artralgias e um exantema leve, que desapareceram, ficando em seguida com os olhos amarelados e a urina escura. Relata que esses últimos sinais apareceram simultaneamente à melhora da febre, que persistiu por alguns dias, e que, nos últimos dias, passou a ter apenas fadiga e dor abdominal. Nega náuseas, vômitos, diarreia ou sangramentos, e afirma conseguir ingerir líquidos e alimentos por via oral de forma normal. Nega comorbidades prévias significativas, e sua história familiar não é relevante. Além do uso de DII, o paciente é tabagista (10 maços/ano) e etilista social de fermentados. Ao exame físico, encontra-se em regular estado geral, com fácies de doença aguda, levemente ictérico nas escleras; corado, hidratado, acianótico, afebril, sem equimoses ou petéquias. Aparelhos cardiovascular e respiratório sem anormalidades. Abdome doloroso à palpação do hipocôndrio direito, sendo o fígado palpável a 3 cm do rebordo costal direito, na linha hemiclavicular, de borda romba e consistência habitual; espaço de Traube livre. Não há edemas em membros inferiores. Os resultados dos exames complementares solicitados nessa consulta são apresentados na tabela a seguir. Considerando as informações apresentadas, a principal hipótese diagnóstica e o tratamento indicado são, respectivamente,",
+    "Q099": "Uma primigesta com 24 anos de idade comparece à consulta médica de rotina de pré-natal com 38 semanas. Relata dores em cólica associadas às contrações uterinas. No exame obstétrico, apresentou dinâmica uterina positiva e, após as manobras de Leopold, notou-se o dorso à direita, com polo cefálico na pelve, conforme figura a seguir. A partir dessas informações, a situação, apresentação e posição do feto são, respectivamente,"
+  }
+}

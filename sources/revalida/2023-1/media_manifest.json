@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "edition": "2023/1",
+  "source": "INEP",
+  "questions": {
+    "Q011": [
+      {
+        "kind": "table",
+        "title": "Hemograma",
+        "caption": "Hemograma apresentado no enunciado oficial. Observação: foram observadas macroplaquetas no esfregaço de sangue.",
+        "columns": [
+          "Hemograma",
+          "Resultado",
+          "Referência mulheres",
+          "Referência homens"
+        ],
+        "rows": [
+          [
+            "Hemácias",
+            "4,0 x 10¹²/L",
+            "0,5–4,3 x 10¹²/L",
+            "0,5–5,0 x 10¹²/L"
+          ],
+          [
+            "Hemoglobina",
+            "10 g/dL",
+            "12,0–16,0 g/dL",
+            "13,5–17,5 g/dL"
+          ],
+          [
+            "Hematócrito",
+            "30%",
+            "36–46%",
+            "41–53%"
+          ],
+          [
+            "Leucócitos",
+            "5,0 x 10³/L",
+            "3,0–7,0 x 10³/L",
+            "3,0–7,0 x 10³/L"
+          ],
+          [
+            "Plaquetas",
+            "10 x 10³/L",
+            "150–400 x 10³/L",
+            "150–400 x 10³/L"
+          ]
+        ],
+        "fallbackImage": "q011_table_01.png",
+        "altText": "Tabela oficial da questão 11."
+      },
+      {
+        "kind": "table",
+        "title": "Coagulograma",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Coagulograma",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "TP (tempo de protrombina)",
+            "12 seg",
+            "11,7 ± 0,5 seg"
+          ],
+          [
+            "Atividade",
+            "100%",
+            "70 a 120%"
+          ],
+          [
+            "RNI (Razão Normalizada Internacional)",
+            "1,0",
+            "1,0"
+          ],
+          [
+            "TTPA (tempo de tromboplastina parcial ativada)",
+            "20 seg",
+            "22 a 40 seg"
+          ],
+          [
+            "R (tempo paciente / tempo de controle interno)",
+            "1,0",
+            "0,8 a 1,3"
+          ]
+        ],
+        "fallbackImage": "q011_table_02.png",
+        "altText": "Tabela oficial da questão 11."
+      },
+      {
+        "kind": "table",
+        "title": "Outros exames laboratoriais",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Outros exames laboratoriais",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Ureia",
+            "30 mg/dL",
+            "13 a 43 mg/dL"
+          ],
+          [
+            "Creatinina",
+            "0,8 mg/dL",
+            "0,6 a 1,2 mg/dL"
+          ],
+          [
+            "DHL (desidrogenase lática)",
+            "150 U/dL",
+            "125 a 220 U/dL"
+          ],
+          [
+            "Bilirrubina total",
+            "1,0 mg/dL",
+            "Até 1,2 mg/dL"
+          ],
+          [
+            "Bilirrubina direta",
+            "0,3 mg/dL",
+            "Até 0,3 mg/dL"
+          ],
+          [
+            "Bilirrubina indireta",
+            "0,6 mg/dL",
+            "Até 0,6 mg/dL"
+          ],
+          [
+            "Teste de Coombs direto",
+            "Negativo",
+            "Negativo"
+          ],
+          [
+            "Teste de Coombs indireto",
+            "Negativo",
+            "Negativo"
+          ],
+          [
+            "Atividade da enzima ADAMTS13",
+            ">10%",
+            "≥10%"
+          ]
+        ],
+        "fallbackImage": "q011_table_03.png",
+        "altText": "Tabela oficial da questão 11."
+      }
+    ],
+    "Q064": [
+      {
+        "kind": "image",
+        "title": "Imagem oficial",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q064_img_01.jpeg",
+        "altText": "Figura oficial da questão 64."
+      }
+    ],
+    "Q077": [
+      {
+        "kind": "image",
+        "title": "Radiografia",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q077_img_01.jpeg",
+        "altText": "Figura oficial da questão 77."
+      }
+    ],
+    "Q100": [
+      {
+        "kind": "image",
+        "title": "Imagem oficial",
+        "caption": "Figura oficial apresentada no caderno do INEP.",
+        "file": "q100_img_01.jpeg",
+        "altText": "Figura oficial da questão 100."
+      }
+    ]
+  },
+  "stemOverrides": {
+    "Q011": "Uma paciente de 30 anos, branca, procura serviço de emergência devido a sangramento gengival e ao aparecimento de pontos avermelhados nos membros inferiores há 15 dias, com piora progressiva das lesões e fadiga. Nega febre, uso de medicamentos e ingesta de bebidas à base de quinino. Foram solicitados exames, apresentados nas tabelas abaixo. Ao exame clínico, notou-se a presença de lesões na pele, com petéquias no dorso do pé e no tornozelo (sola dos pés sem lesões) e hemorragia bolhosa na mucosa bucal. Com base nas informações descritas, a principal hipótese diagnóstica é"
+  }
+}
