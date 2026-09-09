@@ -80,6 +80,30 @@ def load_explanations(path: Path | None, questions, option_labels: list[str]) ->
     print(f"EDITORIAL: {len(result)}/{len(questions)} questões com comentário completo")
     return result
 
+def load_stem_overrides(path: Path | None) -> dict[int, str]:
+    """Optional display-only stems for questions whose PDF tables were flattened into prose."""
+    if path is None or not path.exists():
+        return {}
+
+    raw = json.loads(path.read_text(encoding="utf-8"))
+    items = raw.get("stemOverrides", {})
+    if not isinstance(items, dict):
+        raise SystemExit("ERRO media: campo 'stemOverrides' deve ser objeto")
+
+    result: dict[int, str] = {}
+    for key, value in items.items():
+        match = re.fullmatch(r"Q(\d{3})", str(key).strip().upper())
+        if not match:
+            raise SystemExit(f"ERRO media: stemOverride com chave inválida: {key}")
+        text = str(value).strip()
+        if not text:
+            raise SystemExit(f"ERRO media: stemOverride vazio em {key}")
+        result[int(match.group(1))] = text
+
+    if result:
+        print(f"TEXTO DE EXIBIÇÃO: {len(result)} questões com tabela sem texto achatado")
+    return result
+
 def load_media_manifest(path: Path | None, questions, source_folder: str, source_media_dir: Path) -> dict[int, list[dict]]:
     result: dict[int, list[dict]] = {}
     if path is None or not path.exists():
@@ -202,6 +226,7 @@ def main():
     content_root = args.pack.parent.parent
     content_media_dir = content_root / "media" / "revalida" / source_folder
     media_manifest = load_media_manifest(media_manifest_path if media_manifest_path.exists() else None, qs, source_folder, source_media_dir)
+    stem_overrides = load_stem_overrides(media_manifest_path if media_manifest_path.exists() else None)
     if media_manifest or source_media_dir.exists():
         copy_media_assets(source_media_dir, content_media_dir)
 
@@ -233,7 +258,8 @@ def main():
     for q in qs:
         ans = key[q.number]
         qid = f"{exam_id}-q{q.number:03d}"
-        stem = normalize_display_text(q.text)
+        stem_source = stem_overrides.get(q.number, q.text)
+        stem = normalize_display_text(stem_source)
         option_labels = list(q.options.keys())
         options = {a: normalize_display_text(q.options[a]) for a in option_labels}
         cls = classifications.get(q.number, {})
