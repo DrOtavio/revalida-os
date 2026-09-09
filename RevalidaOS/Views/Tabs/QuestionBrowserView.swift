@@ -41,6 +41,7 @@ struct QuestionBrowserView: View {
                                 if q.source == "DEMO" { badge("DEMO", color: .orange) }
                                 if q.isAnnulled { badge("ANULADA", color: .orange) }
                                 else if q.status != "final" { badge(q.status.uppercased(), color: .secondary) }
+                                if q.hasRichMedia { badge("MÍDIA", color: .blue) }
                             }
                         }
                         .padding(.vertical, 4)
@@ -92,7 +93,13 @@ struct StudyQuestionView: View {
         ScrollView {
             VStack(alignment: .leading, spacing: 18) {
                 QuestionMetadataHeader(question: question)
-                Text(question.stem).font(.body).textSelection(.enabled)
+                Text(question.stem)
+                    .font(.body)
+                    .textSelection(.enabled)
+
+                if let media = question.media, !media.isEmpty {
+                    QuestionRichContentView(media: media)
+                }
 
                 VStack(spacing: 10) {
                     ForEach(question.options) { opt in
