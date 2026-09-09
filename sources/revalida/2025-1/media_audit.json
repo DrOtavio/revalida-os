@@ -1,0 +1,10 @@
+{
+  "examId": "revalida-2025-1",
+  "items": {
+    "Q001": {
+      "status": "MISSING",
+      "type": "ECG",
+      "note": "O enunciado depende do eletrocardiograma apresentado no caderno oficial; imagem ainda não incorporada ao pack."
+    }
+  }
+}

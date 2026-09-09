@@ -1,0 +1,24 @@
+{
+  "examId": "revalida-2025-1",
+  "edition": "2025/1",
+  "items": {
+    "Q007": {
+      "status": "ANNULLED",
+      "officialReason": null,
+      "educationalAnalysis": null,
+      "analysisStatus": "PENDING"
+    },
+    "Q023": {
+      "status": "ANNULLED",
+      "officialReason": null,
+      "educationalAnalysis": null,
+      "analysisStatus": "PENDING"
+    },
+    "Q034": {
+      "status": "ANNULLED",
+      "officialReason": null,
+      "educationalAnalysis": null,
+      "analysisStatus": "PENDING"
+    }
+  }
+}
