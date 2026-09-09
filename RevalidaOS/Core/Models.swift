@@ -105,9 +105,38 @@ struct DashboardStats {
     let answeredToday: Int
     let dailyGoal: Int
     let totalAnswered: Int
+    let scorableAnswered: Int
     let uniqueAnswered: Int
     let correctAnswered: Int
     let pendingReviews: Int
     let currentStreak: Int
-    var accuracy: Double { totalAnswered == 0 ? 0 : Double(correctAnswered) / Double(totalAnswered) * 100 }
+    var accuracy: Double { scorableAnswered == 0 ? 0 : Double(correctAnswered) / Double(scorableAnswered) * 100 }
+}
+
+extension Question {
+    var isAnnulled: Bool { status.lowercased() == "annulled" }
+
+    var displayTopic: String {
+        if let topic, !topic.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty { return topic }
+        if let specialty, !specialty.trimmingCharacters(in: .whitespacesAndNewlines).isEmpty { return specialty }
+        if area.lowercased() != "não classificada" { return area }
+        return "Tema não informado"
+    }
+
+    var displayCategory: String {
+        var parts: [String] = []
+        if area.lowercased() != "não classificada" { parts.append(area) }
+        if let specialty, !specialty.isEmpty, specialty != area { parts.append(specialty) }
+        return parts.isEmpty ? "Classificação pendente" : parts.joined(separator: " • ")
+    }
+
+    var sourceEditionLabel: String {
+        var parts = [source]
+        if let edition, !edition.isEmpty {
+            parts.append(edition.replacingOccurrences(of: "/", with: "-"))
+        } else if let year {
+            parts.append(String(year))
+        }
+        return parts.joined(separator: " • ")
+    }
 }
