@@ -1,6 +1,6 @@
 {
-  "version": 7,
-  "generatedAt": "2026-09-09T16:21:41.996902+00:00",
+  "version": 8,
+  "generatedAt": "2026-09-09T17:16:21.311735+00:00",
   "exams": [
     {
       "id": "revalida-2026-1",
@@ -115,7 +115,7 @@
       "area": "Cirurgia",
       "specialty": "Cirurgia do Aparelho Digestivo",
       "topic": "Perfuração de úlcera péptica",
-      "stem": "Homem de 42 anos, em uso crônico de anti-inflamatório não esteroide por doença reumática, dá entrada no pronto-socorro com 6 horas de evolução de dor epigástrica de forte intensidade. Sinais vitais: Exame Resultado Frequência cardíaca 110 bpm Pressão arterial 90 x 50 mmHg Frequência respiratória 22 irpm Temperatura axilar 36,5 °C Ao exame físico, abdome tenso, com descompressão brusca dolorosa nos quatro quadrantes. O hemograma apresenta valores dentro da normalidade e a tomografia de abdome evidencia líquido livre intraperitoneal com ar no recesso hepatofrênico. Nesse caso, assinale a alternativa que apresenta a principal hipótese diagnóstica.",
+      "stem": "Homem de 42 anos, em uso crônico de anti-inflamatório não esteroide por doença reumática, dá entrada no pronto-socorro com 6 horas de evolução de dor epigástrica de forte intensidade. Ao exame físico, apresenta abdome tenso, com descompressão brusca dolorosa nos quatro quadrantes. O hemograma apresenta valores dentro da normalidade e a tomografia de abdome evidencia líquido livre intraperitoneal com ar no recesso hepatofrênico. Nesse caso, assinale a alternativa que apresenta a principal hipótese diagnóstica, considerando também os sinais vitais apresentados na tabela abaixo.",
       "options": [
         {
           "id": "revalida-2025-1-q002-A",
@@ -1060,7 +1060,7 @@
       "area": "Clínica Médica",
       "specialty": "Pneumologia",
       "topic": "DPOC — classificação funcional GOLD",
-      "stem": "Homem de 55 anos procura atendimento em unidade básica de saúde (UBS) para renovar prescrição de losartana. Durante a consulta, relata dispneia aos esforços físicos moderados. Além disso, refere tosse pouco produtiva há alguns anos, o que atribui ao uso de 20 cigarros por dia há 20 anos. Radiografia do tórax revela alargamento dos espaços intercostais, sem outras alterações. Espirometria apresenta os seguintes resultados: Parâmetro Valor encontrado (pré-broncodilatador) Valor encontrado (pós-broncodilatador) Valor previsto (de acordo com sexo, idade, cor da pele e estatura do paciente) Volume expiratório forçado no 1º segundo (VEF1) 1,72 1,73 3,65 Capacidade vital forçada (CVF) 3,13 3,14 4,66 Relação VEF1/CVF 0,55 0,55 0,79 Diante dos achados, define-se doença pulmonar obstrutiva crônica. Nesse caso, de acordo com os critérios GOLD, a doença do paciente pode ser funcionalmente classificada em",
+      "stem": "Homem de 55 anos procura atendimento em unidade básica de saúde (UBS) para renovar prescrição de losartana. Durante a consulta, relata dispneia aos esforços físicos moderados. Além disso, refere tosse pouco produtiva há alguns anos, o que atribui ao uso de 20 cigarros por dia há 20 anos. Radiografia do tórax revela alargamento dos espaços intercostais, sem outras alterações. Diante dos achados, define-se doença pulmonar obstrutiva crônica. Nesse caso, de acordo com os critérios GOLD, a doença pode ser funcionalmente classificada considerando os resultados da espirometria apresentados na tabela abaixo.",
       "options": [
         {
           "id": "revalida-2025-1-q021-A",
@@ -1241,7 +1241,7 @@
       "area": "Ginecologia e Obstetrícia",
       "specialty": "Obstetrícia",
       "topic": "Descolamento prematuro de placenta",
-      "stem": "Mulher, G2P1 (parto vaginal), é conduzida ao serviço de urgência obstétrica por estar desacordada, após ter apresentado dor abdominal súbita e desmaio em casa. Está com 35 semanas de gestação e é hipertensa crônica em uso de metildopa e nifedipina. Está inconsciente, apresenta tônus uterino aumentado, com batimento cardíaco fetal de 50 bpm, colo uterino fechado e com moderado sangramento escuro por via vaginal. Ela apresenta os seguintes dados vitais: Exame Resultado Frequência cardíaca materna 60 bpm Pressão arterial 80 x 60 mmHg Saturação de oxigênio 94% Diante desse quadro clínico, assinale a alternativa que apresenta, respectivamente, o diagnóstico e a conduta adequados.",
+      "stem": "Mulher, G2P1 (parto vaginal), é conduzida ao serviço de urgência obstétrica por estar desacordada, após ter apresentado dor abdominal súbita e desmaio em casa. Está com 35 semanas de gestação e é hipertensa crônica em uso de metildopa e nifedipina. Está inconsciente, apresenta tônus uterino aumentado, com batimento cardíaco fetal de 50 bpm, colo uterino fechado e moderado sangramento escuro por via vaginal. Diante desse quadro clínico, assinale a alternativa que apresenta, respectivamente, o diagnóstico e a conduta adequados, considerando também os dados vitais maternos apresentados na tabela abaixo.",
       "options": [
         {
           "id": "revalida-2025-1-q024-A",
@@ -1510,7 +1510,7 @@
       "area": "Ginecologia e Obstetrícia",
       "specialty": "Obstetrícia / Infectologia",
       "topic": "Dengue na gestação",
-      "stem": "Primigesta de 24 anos chega à maternidade com queixa de cefaleia, febre e dores articulares leves há 5 dias. Relata que ontem houve piora da febre e surgimento de manchas pelo corpo, o que a fez procurar a emergência. O obstetra verifica o cartão do pré-natal e constata que ela está com 22 semanas de gestação e já realizou 3 consultas na unidade básica de saúde (UBS), sempre com sinais vitais normais e exames laboratoriais sem alterações. Ao exame físico, a paciente apresenta-se em bom estado geral, lúcida e orientada. Durante a análise clínica, foram obtidos os seguintes resultados: Exame Resultado Pressão arterial 90 x 70 mmHg Frequência cardíaca 82 bpm Saturação de O2 98% em ar ambiente Temperatura axilar 38,6 °C Altura uterina 20 cm Batimentos cardiofetais 142 bpm (regular) Após ouvir a história da paciente e examiná-la, o médico solicita um hemograma, cujo resultado é: Exame Resultado Valor de referência Hematócrito 38% 35 - 45% Hemoglobina 11,2 g/dL 12,0 - 16,0 g/dL Leucócitos totais 9.500/mm³ 4.500 – 11.000 /mm³ Plaquetas 28.000/mm³ 150.000 – 450.000/mm³ Ness e caso, qual a principal hipótese diagnóstica e a conduta a ser adotada pelo obstetra?",
+      "stem": "Primigesta de 24 anos chega à maternidade com queixa de cefaleia, febre e dores articulares leves há 5 dias. Relata que ontem houve piora da febre e surgimento de manchas pelo corpo. O obstetra verifica o cartão do pré-natal e constata 22 semanas de gestação e 3 consultas prévias na UBS, sempre com sinais vitais normais e exames laboratoriais sem alterações. Ao exame físico, apresenta-se em bom estado geral, lúcida e orientada. Após examiná-la, o médico solicita hemograma. Nesse caso, qual é a principal hipótese diagnóstica e a conduta a ser adotada pelo obstetra, considerando os dados da avaliação clínica e do hemograma apresentados nas duas tabelas abaixo?",
       "options": [
         {
           "id": "revalida-2025-1-q029-A",
@@ -2452,7 +2452,7 @@
       "area": "Cirurgia",
       "specialty": "Trauma",
       "topic": "Controle de hemorragia exsanguinante — X-ATLS",
-      "stem": "Homem de 35 anos, vítima de acidente de trânsito, com amputação traumática de membro inferior direito na região da perna, recebe atendimento no local do acidente. O exame clínico revela sangramento ativo e abundante na região da amputação. No momento, sua pele está pálida e fria, apresenta 13 pontos em Escala de Coma de Glasgow e seus sinais vitais são apresentados a seguir. Exame Resultado Pressão arterial 80 x 50 mmHg Frequência cardíaca 130 bpm Frequência respiratória 30 irpm Com base no protocolo do “X” ATLS, qual é a intervenção prioritária inicial para esse paciente?",
+      "stem": "Homem de 35 anos, vítima de acidente de trânsito, com amputação traumática de membro inferior direito na região da perna, recebe atendimento no local. O exame clínico revela sangramento ativo e abundante na região da amputação. Sua pele está pálida e fria e apresenta 13 pontos na Escala de Coma de Glasgow. Com base no protocolo do “X” ATLS, qual é a intervenção prioritária inicial, considerando também os sinais vitais apresentados na tabela abaixo?",
       "options": [
         {
           "id": "revalida-2025-1-q047-A",
@@ -2673,7 +2673,7 @@
       "area": "Clínica Médica",
       "specialty": "Infectologia",
       "topic": "Dengue — classificação e manejo inicial",
-      "stem": "Homem de 25 anos vai à unidade de pronto atendimento (UPA) apresentando quadro de febre alta há 3 dias, associado a náuseas, mialgia, artralgia e leve dor em quadrantes superiores do abdome. Ao exame físico, o paciente encontra-se alerta, consciente e orientado; pressão arterial de 100 x 70 mmHg; frequência cardíaca de 110 bpm; e frequência respiratória de 18 irpm; pulsos cheios e extremidades quentes; fígado palpável a 3 centímetros do rebordo costal direito, levemente doloroso à palpação. Os exames laboratoriais iniciais do paciente revelam os seguintes resultados: Exame Resultado Valor de referência (VR) Leucócitos totais 3.500 células/mm3 4.000 a 10.000/mm3 Hematócrito 46% 39,9 a 52,1% Plaquetas 130.000/mm 3 150.000 a 450.000/mm 3 Teste rápido de antígeno NS1 Positivo -Nesse caso, a conduta inicial mais adequada envolve",
+      "stem": "Homem de 25 anos vai à unidade de pronto atendimento (UPA) apresentando febre alta há 3 dias, associada a náuseas, mialgia, artralgia e leve dor em quadrantes superiores do abdome. Ao exame físico, encontra-se alerta, consciente e orientado; pressão arterial de 100 x 70 mmHg; frequência cardíaca de 110 bpm; frequência respiratória de 18 irpm; pulsos cheios e extremidades quentes; fígado palpável a 3 cm do rebordo costal direito, levemente doloroso à palpação. Nesse caso, qual é a conduta inicial mais adequada, considerando os exames laboratoriais apresentados na tabela abaixo?",
       "options": [
         {
           "id": "revalida-2025-1-q051-A",
@@ -2807,7 +2807,7 @@
       "area": "Pediatria",
       "specialty": "Hematologia / Nutrologia",
       "topic": "Deficiência de vitamina B12 em dieta vegana",
-      "stem": "Menina de 11 meses, nascida a termo é levada para avaliação médica pois a mãe está preocupada com o desenvolvimento da criança: está mais irritada, não senta sem apoio, não engatinha, e dorme pouco. A alimentação consiste de aleitamento materno complementado com a dieta da família, que é vegana. Faz suplementação de vitamina D (400 UI ao dia). O hemograma da criança revela leucócitos totais normais e diferencial de células sem alterações, além dos seguintes achados: Exame Resultado Valor de referência Hemoglobina (Hb) 9,5 g/dL 10,5 a 13,5 g/dL Hematócrito (Ht) 34% 33 a 39% Volume corpuscular médio (VCM) 101 fL 70 a 86 fL Hemoglobina corpuscular média (HCM) 23 pg 23 a 31 pg Plaquetas 120.000/mm 3 200.000 a 500.000/mm 3 Considerando o quadro descrito, a conduta adequada para essa criança é",
+      "stem": "Menina de 11 meses, nascida a termo, é levada para avaliação porque a mãe está preocupada com seu desenvolvimento: está mais irritada, não senta sem apoio, não engatinha e dorme pouco. A alimentação consiste em aleitamento materno complementado com a dieta da família, que é vegana. Faz suplementação de vitamina D (400 UI ao dia). O hemograma revela leucócitos totais normais e diferencial sem alterações. Considerando o quadro descrito e os demais achados hematológicos apresentados na tabela abaixo, qual é a conduta adequada?",
       "options": [
         {
           "id": "revalida-2025-1-q053-A",
@@ -2898,7 +2898,7 @@
       "area": "Ginecologia e Obstetrícia",
       "specialty": "Ginecologia",
       "topic": "Sangramento pós-menopausa",
-      "stem": "Mulher de 54 anos procura a unidade de pronto atendimento (UPA) com queixa de dor pélvica e de sangramento vaginal ativo, há 2 dias. Relata preocupação, pois não menstruava há 4 anos. Relata que a menopausa ocorreu aos 50 anos e que tem diabetes mellitus tipo 2, tratada com metformina desde os 41 anos. É sedentária, não fuma e nunca ingeriu bebidas alcoólicas. Apresentou os exames de mamografia e citologia de colo uterino, realizados há 4 meses, que mostraram BIRADS 2 bilateral na mamografia e citologia dentro dos limites da normalidade. Ao exame físico, a paciente encontra-se em bom estado geral, orientada, corada, com pressão arterial de 120 x 70 mmHg, frequência cardíaca de 69 bpm e índice de massa corporal (IMC) de 32,3 kg/m². O exame especular revela pequeno sangramento vermelho vivo, saindo pelo orifício cervical externo, com colo do útero atrófico e sem lesões visíveis. O hemograma realizado na UPA revela os seguintes resultados: Exame Resultado Valor de referência Hemoglobina 12,7 g/dL 11,5 a 14,8 g/dL Hematócrito 38% 35,4 a 45,9 % Leucócitos 7.800/mm 3 3.143 a 10.074/mm 3 Plaquetas 324.000/mm 3 135.606 a 343.044/mm 3 Considerando o caso descrito, a conduta adequada é",
+      "stem": "Mulher de 54 anos procura a UPA com dor pélvica e sangramento vaginal ativo há 2 dias. Não menstruava há 4 anos; a menopausa ocorreu aos 50 anos. Tem diabetes mellitus tipo 2 tratada com metformina, é sedentária, não fuma e nunca ingeriu bebidas alcoólicas. Mamografia e citologia cervical realizadas há 4 meses mostraram BIRADS 2 bilateral e citologia dentro dos limites da normalidade. Ao exame, encontra-se em bom estado geral, orientada, corada, com pressão arterial de 120 x 70 mmHg, frequência cardíaca de 69 bpm e IMC de 32,3 kg/m². O exame especular revela pequeno sangramento vermelho vivo saindo pelo orifício cervical externo, com colo atrófico e sem lesões visíveis. Considerando o caso e o hemograma apresentado na tabela abaixo, qual é a conduta adequada?",
       "options": [
         {
           "id": "revalida-2025-1-q054-A",
@@ -3704,7 +3704,7 @@
       "area": "Clínica Médica",
       "specialty": "Neurologia",
       "topic": "AVC agudo na atenção primária",
-      "stem": "Mulher de 67 anos chega a uma unidade básica de saúde (UBS) acompanhada pelo filho. Ele relata que a mãe, há cerca de 30 minutos, passou a apresentar intensa dor de cabeça e dificuldade para falar. A paciente é hipertensa, faz uso de anti-hipertensivos, estatina e antiagregante plaquetário em dose profilática. Há 6 anos, sofreu um acidente vascular cerebral (AVC) sem sequelas. Durante o exame físico, pontuou 14 na Escala de Coma de Glasgow e apresentou seguintes sinais vitais: Exame Resultado Pressão arterial (PA) 150 x 95 mmHg Frequência cardíaca (FC) 90 bpm Frequência respiratória (FR) 20 irpm Saturação de oxigênio 95% Nessa situação, qual é a conduta adequada a ser adotada pelo médico da UBS?",
+      "stem": "Mulher de 67 anos chega a uma unidade básica de saúde (UBS) acompanhada pelo filho. Há cerca de 30 minutos, passou a apresentar intensa dor de cabeça e dificuldade para falar. É hipertensa, usa anti-hipertensivos, estatina e antiagregante plaquetário em dose profilática. Há 6 anos, sofreu acidente vascular cerebral sem sequelas. Durante o exame físico, pontuou 14 na Escala de Coma de Glasgow. Nessa situação, qual é a conduta adequada a ser adotada pelo médico da UBS, considerando também os sinais vitais apresentados na tabela abaixo?",
       "options": [
         {
           "id": "revalida-2025-1-q070-A",
@@ -4371,7 +4371,7 @@
       "area": "Pediatria",
       "specialty": "Hematologia / Nutrologia",
       "topic": "Anemia ferropriva e falha terapêutica",
-      "stem": "Menina de 2 anos e 6 meses é atendida em uma unidade básica de saúde (UBS). A mãe relata que a criança consome cerca de um litro de leite de vaca por dia e ingere pouca carne. O médico observa palidez cutaneomucosa e solicita exames. Os resultados são apresentados a seguir. Exame Resultado Valor de referência Hemoglobina (Hb) 9,0 g/dL 10,5 a 13,5 g/dL Hematócrito (Ht) 27,5% 33 a 39% Volume corpuscular médio (VCM) 64 fL 70 a 86 fL Ferritina 12 ng/mL 20–100 ng/mL Obs: anisocitose + O médico inicia tratamento com ferro elementar na dose de 2 mg/kg/dia. Após 3 meses, exames foram repetidos, conforme tabela a seguir. Exame pós-tratamento Resultado Valor de referência Hemoglobina (Hb) 9,2 g/dL 10,5 a 13,5 g/dL Hematócrito (Ht) 27,9% 33 a 39% Volume corpuscular médio (VCM) 68 fL 70 a 86 fL Ferritina 15 ng/mL 20–100 ng/mL Obs: anisocitose + Com relação ao tratamento e à conduta desse paciente é correto afirmar que a",
+      "stem": "Menina de 2 anos e 6 meses é atendida em uma unidade básica de saúde (UBS). A mãe relata que a criança consome cerca de um litro de leite de vaca por dia e ingere pouca carne. O médico observa palidez cutaneomucosa e solicita exames. Inicia tratamento com ferro elementar na dose de 2 mg/kg/dia e, após 3 meses, repete os exames. Com relação ao tratamento e à conduta dessa paciente, assinale a alternativa correta considerando os resultados iniciais e pós-tratamento apresentados nas duas tabelas abaixo.",
       "options": [
         {
           "id": "revalida-2025-1-q083-A",
