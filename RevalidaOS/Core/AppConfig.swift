@@ -4,25 +4,10 @@ enum AppConfig {
     static let defaultDailyGoal = 80
     static let defaultSafetyTarget = 70
 
-    // Endpoint oficial do conteúdo do Revalida OS.
-    static let bundledRemoteManifestURL =
-        "https://drotavio.github.io/revalida-os/manifest.json"
-
-    static var remoteManifestURL: String {
-        get {
-            let saved = UserDefaults.standard
-                .string(forKey: "remoteManifestURL")?
-                .trimmingCharacters(in: .whitespacesAndNewlines) ?? ""
-            return saved.isEmpty ? bundledRemoteManifestURL : saved
-        }
-        set {
-            let clean = newValue.trimmingCharacters(in: .whitespacesAndNewlines)
-            UserDefaults.standard.set(
-                clean.isEmpty ? bundledRemoteManifestURL : clean,
-                forKey: "remoteManifestURL"
-            )
-        }
-    }
+    // Endpoint fixo do serviço de conteúdo. Não é editável pela interface.
+    static let remoteManifestURL = "https://drotavio.github.io/revalida-os/manifest.json"
+    static let allowedContentHost = "drotavio.github.io"
+    static let allowedContentPathPrefix = "/revalida-os/"
 
     static var dailyGoal: Int {
         get {
