@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 1,
+  "scope": "Provas objetivas oficiais publicadas pelo INEP até 2026/1",
+  "publicationRule": "Uma edição só entra no pack quando questions, answer_key, metadata e explanations estiverem completos e validados.",
+  "editions": [
+    {
+      "edition": "2011",
+      "examId": "revalida-2011",
+      "folder": "2011",
+      "status": "pending",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2011"
+    },
+    {
+      "edition": "2012",
+      "examId": "revalida-2012",
+      "folder": "2012",
+      "status": "pending",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2012"
+    },
+    {
+      "edition": "2013",
+      "examId": "revalida-2013",
+      "folder": "2013",
+      "status": "pending",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2013"
+    },
+    {
+      "edition": "2014",
+      "examId": "revalida-2014",
+      "folder": "2014",
+      "status": "pending",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2014"
+    },
+    {
+      "edition": "2015",
+      "examId": "revalida-2015",
+      "folder": "2015",
+      "status": "pending",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2015"
+    },
+    {
+      "edition": "2016",
+      "examId": "revalida-2016",
+      "folder": "2016",
+      "status": "pending",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2016"
+    },
+    {
+      "edition": "2017",
+      "examId": "revalida-2017",
+      "folder": "2017",
+      "status": "pending",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2017"
+    },
+    {
+      "edition": "2020",
+      "examId": "revalida-2020",
+      "folder": "2020",
+      "status": "pending",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2020"
+    },
+    {
+      "edition": "2021",
+      "examId": "revalida-2021",
+      "folder": "2021",
+      "status": "pending",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2021"
+    },
+    {
+      "edition": "2022/1",
+      "examId": "revalida-2022-1",
+      "folder": "2022-1",
+      "status": "pending",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2022"
+    },
+    {
+      "edition": "2022/2",
+      "examId": "revalida-2022-2",
+      "folder": "2022-2",
+      "status": "pending",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2022"
+    },
+    {
+      "edition": "2023/1",
+      "examId": "revalida-2023-1",
+      "folder": "2023-1",
+      "status": "pending",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2023"
+    },
+    {
+      "edition": "2023/2",
+      "examId": "revalida-2023-2",
+      "folder": "2023-2",
+      "status": "pending",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2023"
+    },
+    {
+      "edition": "2024/1",
+      "examId": "revalida-2024-1",
+      "folder": "2024-1",
+      "status": "pending",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2024"
+    },
+    {
+      "edition": "2024/2",
+      "examId": "revalida-2024-2",
+      "folder": "2024-2",
+      "status": "pending",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2024"
+    },
+    {
+      "edition": "2025/1",
+      "examId": "revalida-2025-1",
+      "folder": "2025-1",
+      "status": "ready",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2025"
+    },
+    {
+      "edition": "2025/2",
+      "examId": "revalida-2025-2",
+      "folder": "2025-2",
+      "status": "pending",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2025"
+    },
+    {
+      "edition": "2026/1",
+      "examId": "revalida-2026-1",
+      "folder": "2026-1",
+      "status": "pending",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2026"
+    }
+  ]
+}
