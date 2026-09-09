@@ -1,0 +1,654 @@
+{
+  "schemaVersion": 1,
+  "edition": "2026/1",
+  "source": "INEP",
+  "questions": {
+    "Q005": [
+      {
+        "kind": "image",
+        "title": "Lesão cutânea",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q005_larva_migrans.png",
+        "altText": "Imagem oficial da lesão pruriginosa do pé apresentada na questão 5."
+      }
+    ],
+    "Q011": [
+      {
+        "kind": "image",
+        "title": "Partograma",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q011_partograma.png",
+        "altText": "Partograma oficial apresentado na questão 11."
+      }
+    ],
+    "Q027": [
+      {
+        "kind": "image",
+        "title": "Diagrama de controle de dengue",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q027_diagrama_dengue.png",
+        "altText": "Diagrama oficial de controle do território apresentado na questão 27."
+      }
+    ],
+    "Q068": [
+      {
+        "kind": "image",
+        "title": "Mamografia bilateral",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q068_mamografia.png",
+        "altText": "Mamografia oficial apresentada na questão 68."
+      }
+    ],
+    "Q004": [
+      {
+        "kind": "table",
+        "title": "EAS e urocultura",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Aspecto",
+            "Ligeiramente turvo",
+            "Límpido"
+          ],
+          [
+            "Densidade",
+            "1.015",
+            "1.010 a 1.030"
+          ],
+          [
+            "pH",
+            "5,5",
+            "5,0 a 8,0"
+          ],
+          [
+            "Proteínas",
+            "Traços",
+            "Ausentes"
+          ],
+          [
+            "Nitrito",
+            "Negativo",
+            "Negativo"
+          ],
+          [
+            "Leucócitos",
+            "4 por campo",
+            "Até 5 por campo"
+          ],
+          [
+            "Hemácias",
+            "2 por campo",
+            "Até 2 por campo"
+          ],
+          [
+            "Células epiteliais",
+            "Raras",
+            "Raras"
+          ],
+          [
+            "Bactérias",
+            "Moderadas",
+            "Ausentes"
+          ],
+          [
+            "Urocultura",
+            "E. coli 30.000 UFC/mL",
+            "—"
+          ]
+        ],
+        "fallbackImage": "q004_table_01.png",
+        "altText": "Tabela oficial de dados da questão 4."
+      }
+    ],
+    "Q015": [
+      {
+        "kind": "table",
+        "title": "Exames laboratoriais",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hemoglobina",
+            "14,5 g/dL",
+            "13 a 16 g/dL"
+          ],
+          [
+            "Hematócrito",
+            "45,3%",
+            "37 a 49%"
+          ],
+          [
+            "Leucócitos",
+            "5.650/mm³",
+            "5.000 a 10.000/mm³"
+          ],
+          [
+            "Bastonetes",
+            "0%",
+            "—"
+          ],
+          [
+            "Segmentados",
+            "52%",
+            "—"
+          ],
+          [
+            "Linfócitos típicos",
+            "38%",
+            "—"
+          ],
+          [
+            "Linfócitos atípicos",
+            "0%",
+            "—"
+          ],
+          [
+            "Eosinófilos",
+            "2%",
+            "—"
+          ],
+          [
+            "Plaquetas",
+            "185.000/mm³",
+            "140.000 a 400.000/mm³"
+          ],
+          [
+            "TGO",
+            "30 U/L",
+            "5 a 40 U/L"
+          ],
+          [
+            "TGP",
+            "32 U/L",
+            "4 a 32 U/L"
+          ],
+          [
+            "Ureia",
+            "28 mg/dL",
+            "16,6 a 48,5 mg/dL"
+          ],
+          [
+            "Creatinina",
+            "1,2 mg/dL",
+            "0,6 a 0,9 mg/dL"
+          ]
+        ],
+        "fallbackImage": "q015_table_01.png",
+        "altText": "Tabela oficial de dados da questão 15."
+      }
+    ],
+    "Q017": [
+      {
+        "kind": "table",
+        "title": "Exames laboratoriais na admissão",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Leucócitos",
+            "14.800/mm³",
+            "4.500 a 10.000/mm³"
+          ],
+          [
+            "Proteína C reativa",
+            "36 mg/L",
+            "< 5 mg/L"
+          ]
+        ],
+        "fallbackImage": "q017_table_01.png",
+        "altText": "Tabela oficial de dados da questão 17."
+      }
+    ],
+    "Q020": [
+      {
+        "kind": "table",
+        "title": "Casos novos e óbitos por câncer - 2025",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Tipo de câncer",
+          "Casos novos",
+          "Óbitos entre casos novos"
+        ],
+        "rows": [
+          [
+            "Colorretal",
+            "21",
+            "7"
+          ],
+          [
+            "Estômago",
+            "10",
+            "5"
+          ],
+          [
+            "Mama",
+            "40",
+            "4"
+          ],
+          [
+            "Próstata",
+            "30",
+            "6"
+          ]
+        ],
+        "fallbackImage": "q020_table_01.png",
+        "altText": "Tabela oficial de dados da questão 20."
+      }
+    ],
+    "Q021": [
+      {
+        "kind": "table",
+        "title": "Exames laboratoriais e de imagem",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "EAS (urina tipo I)",
+            "Sem alterações",
+            "—"
+          ],
+          [
+            "Urocultura",
+            "Negativa",
+            "Ausência de crescimento"
+          ],
+          [
+            "Glicemia de jejum",
+            "86 mg/dL",
+            "70 a 105 mg/dL"
+          ],
+          [
+            "Ultrassonografia de rins e vias urinárias",
+            "Normal",
+            "—"
+          ]
+        ],
+        "fallbackImage": "q021_table_01.png",
+        "altText": "Tabela oficial de dados da questão 21."
+      }
+    ],
+    "Q029": [
+      {
+        "kind": "table",
+        "title": "Exames na admissão",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "INR",
+            "2,1",
+            "0,8 a 1,2"
+          ],
+          [
+            "Plaquetas",
+            "62.000/mm³",
+            "150.000 a 350.000/mm³"
+          ],
+          [
+            "Creatinina",
+            "1,1 mg/dL",
+            "0,7 a 1,2 mg/dL"
+          ],
+          [
+            "Sódio",
+            "134 mEq/L",
+            "135 a 145 mEq/L"
+          ]
+        ],
+        "fallbackImage": "q029_table_01.png",
+        "altText": "Tabela oficial de dados da questão 29."
+      }
+    ],
+    "Q040": [
+      {
+        "kind": "table",
+        "title": "Avaliação metabólica e cardiovascular",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hemoglobina glicada",
+            "7,9%",
+            "4,7 a 5,7%"
+          ],
+          [
+            "Colesterol total",
+            "239 mg/dL",
+            "150 a 200 mg/dL"
+          ],
+          [
+            "Colesterol HDL",
+            "29 mg/dL",
+            "> 40 mg/dL"
+          ],
+          [
+            "Triglicerídeos",
+            "235 mg/dL",
+            "< 150 mg/dL"
+          ],
+          [
+            "Creatinina",
+            "1,2 mg/dL",
+            "0,7 a 1,2 mg/dL"
+          ],
+          [
+            "Albuminúria",
+            "55 mg/24 h",
+            "< 30 mg/24 h"
+          ],
+          [
+            "PA",
+            "142 x 85 mmHg",
+            "—"
+          ]
+        ],
+        "fallbackImage": "q040_table_01.png",
+        "altText": "Tabela oficial de dados da questão 40."
+      }
+    ],
+    "Q066": [
+      {
+        "kind": "table",
+        "title": "Exames iniciais",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Limites de normalidade"
+        ],
+        "rows": [
+          [
+            "Glicemia capilar",
+            "392 mg/dL",
+            "70 a 105 mg/dL"
+          ],
+          [
+            "pH arterial",
+            "7,12",
+            "7,35 a 7,45"
+          ],
+          [
+            "Bicarbonato",
+            "9 mEq/L",
+            "22 a 26 mEq/L"
+          ],
+          [
+            "Lactato",
+            "1,2 mmol/L",
+            "0,5 a 2,2 mmol/L"
+          ],
+          [
+            "Creatinina",
+            "0,5 mg/dL",
+            "0,3 a 0,9 mg/dL"
+          ],
+          [
+            "Ureia",
+            "32 mg/dL",
+            "11 a 38 mg/dL"
+          ],
+          [
+            "Sódio",
+            "132 mEq/L",
+            "135 a 145 mEq/L"
+          ],
+          [
+            "Potássio",
+            "4,8 mEq/L",
+            "3,4 a 5,0 mEq/L"
+          ],
+          [
+            "Leucócitos totais",
+            "15.200/mm³",
+            "5.000 a 14.500/mm³"
+          ],
+          [
+            "Plaquetas",
+            "150.000/mm³",
+            "150.000 a 450.000/mm³"
+          ]
+        ],
+        "fallbackImage": "q066_table_01.png",
+        "altText": "Tabela oficial de dados da questão 66."
+      }
+    ],
+    "Q072": [
+      {
+        "kind": "table",
+        "title": "Exames da admissão",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Creatinina sérica",
+            "1,9 mg/dL",
+            "0,7 a 1,2 mg/dL"
+          ],
+          [
+            "Ureia",
+            "124 mg/dL",
+            "10 a 50 mg/dL"
+          ],
+          [
+            "Potássio sérico",
+            "5,7 mEq/L",
+            "3,5 a 5,5 mEq/L"
+          ],
+          [
+            "Sódio sérico",
+            "145 mEq/L",
+            "135 a 145 mEq/L"
+          ],
+          [
+            "pH (gasometria venosa)",
+            "7,35",
+            "7,35 a 7,45"
+          ],
+          [
+            "Bicarbonato (gasometria venosa)",
+            "20 mEq/L",
+            "22 a 26 mEq/L"
+          ],
+          [
+            "pCO₂ (gasometria venosa)",
+            "38 mmHg",
+            "35 a 45 mmHg"
+          ],
+          [
+            "Eletrocardiograma",
+            "Sem alterações",
+            "—"
+          ]
+        ],
+        "fallbackImage": "q072_table_01.png",
+        "altText": "Tabela oficial de dados da questão 72."
+      }
+    ],
+    "Q073": [
+      {
+        "kind": "table",
+        "title": "Hemograma",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Componente",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Leucócitos",
+            "8.200/mm³",
+            "5.000 a 15.000/mm³"
+          ],
+          [
+            "Hemoglobina",
+            "12,3 g/dL",
+            "11,5 a 13,5 g/dL"
+          ],
+          [
+            "Hematócrito",
+            "37%",
+            "40 a 50%"
+          ],
+          [
+            "Plaquetas",
+            "18.000/mm³",
+            "150.000 a 450.000/mm³"
+          ]
+        ],
+        "fallbackImage": "q073_table_01.png",
+        "altText": "Tabela oficial de dados da questão 73."
+      }
+    ],
+    "Q091": [
+      {
+        "kind": "table",
+        "title": "Exames durante os episódios de icterícia",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Bilirrubina total",
+            "3,2 mg/dL",
+            "0,3 a 1,2 mg/dL"
+          ],
+          [
+            "Bilirrubina indireta",
+            "2,8 mg/dL",
+            "até 0,8 mg/dL"
+          ],
+          [
+            "Bilirrubina direta",
+            "0,3 mg/dL",
+            "até 0,3 mg/dL"
+          ],
+          [
+            "AST (TGO)",
+            "22 U/L",
+            "até 35 U/L"
+          ],
+          [
+            "ALT (TGP)",
+            "25 U/L",
+            "até 35 U/L"
+          ],
+          [
+            "Fosfatase alcalina",
+            "82 U/L",
+            "30 a 120 U/L"
+          ],
+          [
+            "GGT",
+            "28 U/L",
+            "1 a 94 U/L"
+          ],
+          [
+            "Hemoglobina",
+            "14,5 g/dL",
+            "13,5 a 17,5 g/dL"
+          ],
+          [
+            "Reticulócitos",
+            "1,1%",
+            "0,5 a 2,0%"
+          ],
+          [
+            "LDH",
+            "178 U/L",
+            "100 a 190 U/L"
+          ],
+          [
+            "Haptoglobina",
+            "110 mg/dL",
+            "30 a 200 mg/dL"
+          ]
+        ],
+        "fallbackImage": "q091_table_01.png",
+        "altText": "Tabela oficial de dados da questão 91."
+      }
+    ],
+    "Q096": [
+      {
+        "kind": "table",
+        "title": "Exames laboratoriais",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hemoglobina",
+            "12,2 g/dL",
+            "11,5 a 13,5 g/dL"
+          ],
+          [
+            "Leucócitos",
+            "13.400/mm³",
+            "5.000 a 15.000/mm³"
+          ],
+          [
+            "Creatinina",
+            "1,1 mg/dL",
+            "0,5 a 0,9 mg/dL"
+          ],
+          [
+            "Proteína C reativa",
+            "8,5 mg/L",
+            "< 5 mg/L"
+          ]
+        ],
+        "fallbackImage": "q096_table_01.png",
+        "altText": "Tabela oficial de dados da questão 96."
+      }
+    ]
+  },
+  "stemOverrides": {
+    "Q004": "Gestante de 30 anos, G2 P1, com 28 semanas de gestação,\ncomparece à Unidade Básica de Saúde para consulta de\nrotina. Nega disúria, urgência miccional, dor suprapúbica,\nlombar, febre ou comorbidades. Traz exames solicitados da\nrotina pré-natal, cujos resultados são apresentados a seguir:\n\nQual é a interpretação para os exames laboratoriais e o\nmanejo adequado da paciente?",
+    "Q015": "Adolescente de 15 anos, sexo masculino, procura Unidade Básica\nde Saúde relatando manchas cutâneas pruriginosas iniciadas\nnas últimas 24 horas, comprometendo todo o corpo. Relata\ndiagnóstico recente de amigdalite, tendo iniciado por conta\nprópria ibuprofeno há 7 dias. Antecedente de asma na infância e\nrinite alérgica. Nega febre, tosse ou diarreia, bem como alergias\nanteriores a medicamentos ou alimentos. Ao exame físico,\n36,8 °C, eupneico, corado, anictérico. PA 110 x 70 mmHg; FC 86\nbpm, FR 14 irpm, SatO2 98% em ar ambiente. Pele com eritema\ndifuso, simétrico, papular, principalmente em tronco, mas\ntambém em membros, poupando palmas e plantas. Sem lesões,\nadenomegalias cervicais, axilares ou inguinais. Cavidade oral sem\nalterações.\n\nQual é a conduta mais adequada para o caso?",
+    "Q017": "Mulher de 38 anos comparece a um serviço de emergência\nno 10º dia pós-operatório de cirurgia de obesidade\n(gastrectomia vertical). Queixa-se de dor abdominal\nprogressiva, principalmente em epigástrio, náuseas com\nvômitos, inapetência e febre há dois dias. Ao exame, estado\ngeral regular; FC 108 bpm; PA 110 x 70 mmHg; levemente\ndesidratada; com dor à palpação profunda em andar superior\ndo abdome e ausência de sinais de irritação peritoneal.\n\nA próxima conduta é",
+    "Q020": "Um relatório de vigilância epidemiológica avaliou os casos\nnotificados de quatro tipos de câncer em um município com\n100 mil habitantes no ano de 2025. A tabela apresenta, para\ncada tipo, o número de casos notificados em 2025 e o número\nde óbitos entre esses casos no mesmo ano.\n\nCom base nesses resultados, qual câncer teve a maior\nletalidade do município, em 2025?",
+    "Q021": "Paciente, 4 anos, é levado à Unidade Básica de Saúde pelos\npais com queixa de manter perda de urina durante a noite\n1 a 2 vezes por semana, principalmente quando dorme\nprofundamente, apesar de ter desenvolvido o controle\nesfincteriano diurno desde 3 anos e meio de idade. Não há\nhistórico de infecção urinária, dor ao urinar, aumento da\nfrequência urinária ou urgência miccional. Apresenta sono\nprofundo, com dificuldade para despertar. Desenvolvimento\nneuropsicomotor adequado para a idade. Exame físico sem\nalterações.\n\nQual é a principal hipótese diagnóstica?",
+    "Q029": "Homem, 52 anos, portador de cirrose hepática alcoólica,\né admitido em Unidade de Emergência de um hospital\nsecundário\napós\napresentar\nrebaixamento\ndo\nnível\nde consciência, iniciado há 24 horas. Chega confuso,\ndesorientado, Glasgow 13, flapping positivo. Acompanhante\nrefere aumento do volume abdominal nas últimas semanas.\nAo exame físico, apresenta ascite volumosa, sem sinais de\nirritação peritoneal.\n\nEm relação à ascite, a conduta mais adequada é realizar",
+    "Q040": "Homem, 64 anos, aposentado, portador de diabetes mellitus,\ndiagnosticada há 6 anos, e hipertensão arterial, diagnosticada\nrecentemente. Faz uso de metformina 850 mg 3 vezes ao\ndia e losartana 50 mg/dia em dose única. É tabagista (30\nmaços/ano). Nega etilismo ou outras comorbidades. Pratica\ncaminhadas de 30 minutos 3 vezes na semana. Traz os\nseguintes exames para avaliação:\n\nPara otimizar o tratamento medicamentoso deste paciente,\nque conjunto de medidas é mais adequado?",
+    "Q066": "Menina, 7 anos, previamente saudável, é trazida pelos pais à\nUnidade de Pronto Atendimento de um hospital secundário\ndevido à fadiga intensa há 3 dias, com piora progressiva. Nas\núltimas 24 horas, tornou-se muito sonolenta, com respiração\nrápida e profunda, descrita pelos pais como “barulhenta” e\n“ofegante”. Apresenta também dor abdominal difusa, náuseas\ne vômitos repetidos. Os pais negam tosse, febre e diarreia, mas\nrelatam que a criança perdeu peso nas últimas semanas, apesar\ndo aumento de apetite. Relatam aumento da ingesta de água\ne diurese abundante. Ao exame físico, a criança encontrava-se\nsonolenta; despertando com comandos verbais dos pais (Glasgow\n13); mucosas secas; olhos encovados; FR 36 irpm, FC 138 bpm,\nPA 92 x 60 mmHg, SatO2 98% em ar ambiente; temperatura axilar\n36,3 °C e enchimento capilar 2 segundos.\n\nConsiderando-se o caso, qual é a conduta terapêutica indicada?",
+    "Q072": "Homem preto, 68 anos, com hipertensão arterial sistêmica,\ndoença renal crônica estágio clínico 3a com creatinina basal\nde 1,4 mg/dL é levado ao Pronto Atendimento com náusea,\ntontura e mal-estar geral. Faz uso regular de anlodipino 10\nmg/dia, furosemida 80 mg/dia e enalapril 20 mg/dia. Ao\nexame físico, apresenta PA 90 × 60 mmHg, FC 96 bpm, FR\n20 irpm, SatO2 95% em ar ambiente, tempo de enchimento\ncapilar de 4 segundos, sem outras alterações. Os exames da\nadmissão estão no quadro abaixo:\n\nCom base nos dados do quadro, que condutas devem ser\ntomadas nesse momento?",
+    "Q073": "Um menino de 5 anos, previamente saudável, é trazido à\nemergência com dor nos membros inferiores iniciada há 4 dias,\ndificuldade para correr e andar, e surgimento de petéquias\nno tronco inferior e pernas há 24 horas. Apresentou febre\n(38 °C) no 1º dia do quadro, sem outros sintomas respiratórios,\ngastrointestinais ou urinários. Mãe nega sangramentos\nespontâneos, perda de peso, palidez progressiva ou infecções\nrecorrentes. Ao exame físico, bom estado geral, ativo, boa\nperfusão periférica. Desconforto ao movimentar os membros\ninferiores. Na pele, presença de petéquias dispersas, púrpuras,\npequenas, não palpáveis e sem equimoses grandes. Ausência\nde visceromegalias e de linfonodomegalias. Os joelhos e\ntornozelos estão dolorosos à palpação, sem calor ou edema.\n\n*Contagem diferencial de Leucócitos sem alterações.\n**Provas de coagulação normais.\nQual é o diagnóstico provável?",
+    "Q091": "Homem, 26 anos, é avaliado em ambulatório de especialidades\napós encaminhamento da Atenção Primária à Saúde por 4\nepisódios de icterícia leve nos últimos 2 anos. Os episódios\nsão autolimitados e exacerbam-se sob estresse físico, jejum\nprolongado ou privação de sono. O paciente nega perda\nponderal, dor abdominal, colúria, acolia fecal, comorbidades,\netilismo ou uso de medicamentos. Ao exame físico, apresenta-se em bom estado geral, com discreta icterícia de escleras,\nsem visceromegalias. Restante do exame físico normal.\nDurante investigação ambulatorial, foram solicitados exames\nlaboratoriais, cujos resultados foram semelhantes aos exames\nrealizados durante os episódios anteriores de icterícia:\n\nCom base no quadro clínico e laboratorial e uso adequado de\nrecursos em saúde, o médico deve",
+    "Q096": "Mulher, 68 anos, procurou a Unidade de Pronto Atendimento\ncom quadro de dor súbita, calor e edema importante em joelho\ndireito, iniciado há 24 horas, que a impede de deambular.\nFaz acompanhamento regular por diabetes mellitus tipo 2 e\nosteoartrite de joelhos, em uso de metformina e gliclazida. Ao\nexame físico, apresenta bom estado geral, lúcida e orientada;\nPA 135 x 85 mmHg; FC 98 bpm; FR 18 irpm e temperatura\naxilar 37,9 °C. O joelho direito apresenta-se com volumoso\nderrame articular, eritema e dor à mobilização passiva e ativa.\nExames laboratoriais:\n\nNessa situação, qual conduta deve ser adotada?"
+  }
+}

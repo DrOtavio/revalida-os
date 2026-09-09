@@ -1,0 +1,1008 @@
+{
+  "schemaVersion": 1,
+  "edition": "2026/1",
+  "source": "Editorial Revalida OS baseado no gabarito definitivo do INEP",
+  "notice": "Comentários editoriais para estudo. Questões e gabarito são oficiais do INEP; explicações não são texto oficial do INEP.",
+  "questions": {
+    "Q001": {
+      "explanation": "A crise descrita é enxaqueca com aura. Como a paciente tem episódios recorrentes e insônia, a amitriptilina é uma opção profilática útil; além disso, o antecedente de broncoespasmo torna o propranolol menos atraente.",
+      "optionExplanations": {
+        "A": "A — Ibuprofeno é analgésico para tratamento agudo, não fármaco de escolha para profilaxia diária.",
+        "B": "B — Propranolol pode prevenir enxaqueca, mas deve ser evitado ou usado com cautela em pacientes com asma/broncoespasmo.",
+        "C": "C — Sumatriptano é abortivo de crise, não medicação de uso contínuo diário.",
+        "D": "D — Correta: amitriptilina é opção preventiva e pode também favorecer o sono."
+      },
+      "keyPoint": "Profilaxia de enxaqueca é tratamento diário; triptanos e AINEs são usados principalmente na crise aguda."
+    },
+    "Q002": {
+      "explanation": "Episódios no primeiro terço da noite com gritos, sudorese, pouca responsividade, retorno rápido ao sono e amnésia no dia seguinte são típicos de terror noturno, uma parassonia do sono NREM.",
+      "optionExplanations": {
+        "A": "A — Sonambulismo também é parassonia NREM, mas predomina comportamento motor complexo, não o quadro de pânico autonômico descrito.",
+        "B": "B — Insônia de manutenção é dificuldade de permanecer dormindo com despertares conscientes.",
+        "C": "C — Correta: o padrão é clássico de terror noturno.",
+        "D": "D — Pesadelos ocorrem mais em sono REM e a criança geralmente recorda o sonho ao despertar."
+      },
+      "keyPoint": "Terror noturno: despertar parcial com intensa ativação autonômica e amnésia do episódio."
+    },
+    "Q003": {
+      "explanation": "A idosa desenvolveu delirium agudo e flutuante após fratura dolorosa. Sem hipoglicemia, hipoxemia relevante ou lesão cerebral na TC, a dor não controlada é o precipitante mais evidente.",
+      "optionExplanations": {
+        "A": "A — SpO2 de 94% não sustenta hipoxemia importante como principal fator precipitante.",
+        "B": "B — Hipertensão e diabetes são vulnerabilidades, mas não explicam sozinhas a mudança abrupta do estado mental.",
+        "C": "C — Correta: a dor intensa persistente é um gatilho clássico de delirium.",
+        "D": "D — Glicemia capilar de 120 mg/dL exclui hipoglicemia."
+      },
+      "keyPoint": "Delirium em idosos costuma ser multifatorial; dor aguda e ambiente de urgência são precipitantes frequentes."
+    },
+    "Q004": {
+      "explanation": "A gestante está assintomática e a urocultura mostrou 30.000 UFC/mL de E. coli, valor abaixo do limiar clássico de bacteriúria assintomática em amostra de jato médio. O gabarito considera o resultado alterado, porém sem indicação de tratar como bacteriúria assintomática.",
+      "optionExplanations": {
+        "A": "A — Não há contagem bacteriana suficiente para firmar bacteriúria assintomática clássica e iniciar antibiótico.",
+        "B": "B — Repetir a coleta pode ser considerado em alguns cenários, mas o gabarito não classifica o exame como contaminado.",
+        "C": "C — Cistite pressupõe sintomas urinários, ausentes no caso.",
+        "D": "D — Correta conforme o gabarito definitivo: reconhecer a alteração e manter acompanhamento gestacional."
+      },
+      "keyPoint": "Bacteriúria assintomática na gestação exige bacteriúria significativa; contagens baixas isoladas devem ser interpretadas com cautela."
+    },
+    "Q005": {
+      "explanation": "A imagem e a história de lesão pruriginosa serpiginosa iniciada entre os dedos do pé e avançando pelo dorso são compatíveis com larva migrans cutânea, geralmente causada por larvas de Ancylostoma de cães e gatos.",
+      "optionExplanations": {
+        "A": "A — Tunga penetrans causa tungíase, com pápula/nódulo e ponto negro central, especialmente em pés.",
+        "B": "B — Correta: Ancylostoma brasiliensis é agente clássico de larva migrans cutânea.",
+        "C": "C — Sarcoptes scabiei causa escabiose, com túneis curtos e distribuição típica em mãos, punhos e outras áreas.",
+        "D": "D — Trichophyton rubrum causa dermatofitose, geralmente lesão descamativa, não trajeto serpiginoso."
+      },
+      "keyPoint": "Larva migrans cutânea = trajeto serpiginoso, muito pruriginoso, após contato da pele com solo/areia contaminados."
+    },
+    "Q006": {
+      "explanation": "Óbito por causa externa relacionada ao trabalho deve ser encaminhado ao IML para a declaração de óbito. O acidente de trabalho fatal é de notificação compulsória e a CAT continua sendo responsabilidade legal do empregador/empresa.",
+      "optionExplanations": {
+        "A": "A — O médico assistente não deve emitir a DO de morte por causa externa como se fosse morte natural.",
+        "B": "B — O IML não substitui automaticamente todas as responsabilidades de vigilância e de emissão da CAT.",
+        "C": "C — A notificação ao Sinan não substitui a Comunicação de Acidente de Trabalho.",
+        "D": "D — Correta: encaminhar ao IML, notificar o acidente de trabalho e orientar o registro da CAT."
+      },
+      "keyPoint": "Óbito por causa externa: IML; acidente de trabalho: notificação ao Sinan e CAT em fluxo próprio."
+    },
+    "Q007": {
+      "explanation": "Tremor grosseiro, ataxia e alteração do discurso em usuária de lítio após introdução de hidroclorotiazida sugerem intoxicação por lítio. Tiazídicos reduzem sua depuração renal, podendo elevar a litemia; a medida imediata é suspender o lítio.",
+      "optionExplanations": {
+        "A": "A — Carvão ativado não adsorve adequadamente o lítio e não é a medida principal.",
+        "B": "B — Metformina não explica o quadro neurológico descrito.",
+        "C": "C — Levodopa/carbidopa trata parkinsonismo, não intoxicação por lítio.",
+        "D": "D — Correta: suspender o carbonato de lítio e prosseguir avaliação da gravidade."
+      },
+      "keyPoint": "Tiazídicos podem aumentar litemia; sinais neurológicos são alerta para toxicidade por lítio."
+    },
+    "Q008": {
+      "explanation": "Artralgia intensa e persistente após fase febril, principalmente em punhos e tornozelos, é muito sugestiva de Chikungunya. Com 18 dias de evolução, a sorologia IgM é apropriada para confirmação.",
+      "optionExplanations": {
+        "A": "A — NS1 de dengue é mais útil nos primeiros dias da doença, e o padrão articular não é típico.",
+        "B": "B — RT-PCR para Zika é mais útil na fase aguda inicial e o quadro clínico não é o mais compatível.",
+        "C": "C — Correta: IgM para Chikungunya é adequada nessa fase da evolução.",
+        "D": "D — O quadro não sugere febre amarela e o exame proposto não é o indicado."
+      },
+      "keyPoint": "Chikungunya costuma deixar artralgia prolongada; na fase mais tardia, a sorologia IgM ganha utilidade."
+    },
+    "Q009": {
+      "explanation": "Febre persistente, choque, sintomas gastrointestinais, exantema, conjuntivite e disfunção cardíaca semanas após covid-19 são características de síndrome inflamatória multissistêmica pediátrica.",
+      "optionExplanations": {
+        "A": "A — Kawasaki clássica pode compartilhar febre e conjuntivite, mas o choque e a associação temporal com covid-19 favorecem MIS-C.",
+        "B": "B — Pneumonia bacteriana não explica bem exantema, choque e dor abdominal intensa nesse contexto.",
+        "C": "C — Apendicite não explica o conjunto sistêmico e cardiocirculatório.",
+        "D": "D — Correta: o quadro é típico de síndrome inflamatória multissistêmica pediátrica."
+      },
+      "keyPoint": "MIS-C/PIMS ocorre geralmente semanas após SARS-CoV-2 e pode cursar com choque e comprometimento multissistêmico."
+    },
+    "Q010": {
+      "explanation": "O paciente está em choque hemorrágico, permanece instável após volume e tem FAST claramente positivo. Em trauma abdominal fechado instável, não se deve atrasar o controle cirúrgico da hemorragia com tomografia ou exames confirmatórios.",
+      "optionExplanations": {
+        "A": "A — TC exige estabilidade suficiente para deslocamento e não deve atrasar cirurgia nesse cenário.",
+        "B": "B — Repetir FAST após mais cristaloide posterga o controle definitivo da hemorragia.",
+        "C": "C — Lavado peritoneal não é necessário quando o FAST já demonstrou líquido livre.",
+        "D": "D — Correta: ácido tranexâmico quando indicado no trauma hemorrágico e laparotomia exploradora imediata."
+      },
+      "keyPoint": "FAST positivo + instabilidade hemodinâmica persistente = laparotomia de urgência."
+    },
+    "Q011": {
+      "explanation": "O partograma não mostra indicação inequívoca de distócia que exija intervenção imediata. Em trabalho de parto espontâneo com mãe e feto estáveis, a conduta é vigilância e respeito à evolução fisiológica.",
+      "optionExplanations": {
+        "A": "A — Amniotomia não deve ser feita rotineiramente sem indicação.",
+        "B": "B — Ocitocina é indicada em situações selecionadas de hipodinamia/distócia, não automaticamente.",
+        "C": "C — Não há indicação de cesariana apenas pelo padrão mostrado.",
+        "D": "D — Correta: manter observação e acompanhamento do trabalho de parto."
+      },
+      "keyPoint": "Não se intervém apenas porque a progressão parece lenta; amniotomia, ocitocina e cesárea exigem indicação clínica."
+    },
+    "Q012": {
+      "explanation": "Zolpidem e amitriptilina são potencialmente inapropriados em idosos com tontura, sonolência e instabilidade postural por aumentarem risco de quedas, confusão e efeitos anticolinérgicos/sedativos. A desprescrição deve ser planejada e progressiva.",
+      "optionExplanations": {
+        "A": "A — Trocar zolpidem por outro hipnótico mantém o problema de sedação e risco de quedas.",
+        "B": "B — Manter o esquema ignora sintomas possivelmente iatrogênicos.",
+        "C": "C — Suspender anti-hipertensivos eficazes sem evidência de hipotensão não é a melhor estratégia.",
+        "D": "D — Correta: retirar progressivamente zolpidem e amitriptilina."
+      },
+      "keyPoint": "Em idosos com quedas ou tontura, revisar sedativos e fármacos anticolinérgicos é prioridade."
+    },
+    "Q013": {
+      "explanation": "No TFD, quando há indicação médica formal de acompanhante, o custeio pode ser autorizado conforme as regras do programa; não se exige necessariamente perícia de incapacidade locomotora como condição absoluta.",
+      "optionExplanations": {
+        "A": "A — A necessidade de acompanhante não se restringe apenas a menores, idosos ou incapacidade pericial.",
+        "B": "B — A questão central não é comprovação de pobreza para alimentação/pernoite.",
+        "C": "C — Correta: a indicação médica registrada no laudo fundamenta a necessidade do acompanhante.",
+        "D": "D — A distância inferior a 200 km não invalida por si só o TFD quando o tratamento é indisponível localmente."
+      },
+      "keyPoint": "TFD deve seguir indicação clínica documentada e regras de custeio, inclusive para acompanhante quando justificado."
+    },
+    "Q014": {
+      "explanation": "Depressão associada a ganho de peso, constipação, pele seca, irregularidade menstrual e ausência de resposta adequada ao antidepressivo deve levantar hipótese de hipotireoidismo. A avaliação inicial é TSH e T4 livre.",
+      "optionExplanations": {
+        "A": "A — Autoanticorpos reumatológicos não são o principal diferencial do conjunto clínico.",
+        "B": "B — Correta: TSH e T4 livre avaliam função tireoidiana.",
+        "C": "C — Investigação de hipercortisolismo não é a principal hipótese nesse quadro.",
+        "D": "D — Sífilis não explica adequadamente os sintomas metabólicos e autonômicos descritos."
+      },
+      "keyPoint": "Sintomas depressivos podem ser secundários a hipotireoidismo; TSH e T4 livre são exames básicos."
+    },
+    "Q015": {
+      "explanation": "O exantema surgiu após uma semana de ibuprofeno, é difuso, simétrico, pruriginoso e sem sinais sistêmicos graves. O padrão favorece erupção medicamentosa simples; a conduta principal é suspender o fármaco suspeito e tratar sintomas.",
+      "optionExplanations": {
+        "A": "A — Corticoide sistêmico não é necessário de rotina em exantema medicamentoso simples.",
+        "B": "B — Correta: suspender ibuprofeno e usar anti-histamínico para prurido.",
+        "C": "C — Teste de contato não é prioridade no quadro agudo.",
+        "D": "D — Não há achados sugestivos de infecção herpética."
+      },
+      "keyPoint": "Erupção medicamentosa morbiliforme: suspender o agente causal e usar tratamento sintomático."
+    },
+    "Q016": {
+      "explanation": "Quatro casos de hepatite A ligados à mesma escola e a evento de saneamento sugerem surto. A resposta de vigilância inclui notificação imediata, investigação epidemiológica e busca ativa de sintomáticos e contatos.",
+      "optionExplanations": {
+        "A": "A — Hepatite A não exige isolamento hospitalar dos casos apenas para interromper transmissão comunitária.",
+        "B": "B — Correta: notificar o surto e realizar busca ativa na escola e domicílios.",
+        "C": "C — Imunoglobulina não é indicada indiscriminadamente para todos os contatos nesse formato.",
+        "D": "D — Fechar a escola por todo o período de incubação não é medida padrão."
+      },
+      "keyPoint": "Surto de hepatite A exige vigilância rápida, busca ativa e intervenção sobre a fonte/rota fecal-oral."
+    },
+    "Q017": {
+      "explanation": "Dor abdominal, febre, taquicardia, leucocitose e PCR elevada no 10º dia após gastrectomia vertical levantam suspeita de complicação intra-abdominal, como fístula/coleção. A tomografia com contraste é exame de escolha para investigação inicial em paciente estável.",
+      "optionExplanations": {
+        "A": "A — Endoscopia pode ter papel posterior, mas não é o primeiro exame para mapear coleção ou vazamento intra-abdominal.",
+        "B": "B — Correta: TC de abdome é a próxima etapa diagnóstica.",
+        "C": "C — Alta é inadequada diante de sinais inflamatórios e dor progressiva.",
+        "D": "D — Laparotomia imediata sem peritonite ou instabilidade não é a primeira conduta."
+      },
+      "keyPoint": "Pós-operatório bariátrico com febre e dor progressiva: investigar complicação abdominal com TC."
+    },
+    "Q018": {
+      "explanation": "Obesidade importante aumenta risco de hemorragia pós-parto. Com 93 kg e 1,60 m, o IMC é aproximadamente 36,3 kg/m², portanto acima de 35.",
+      "optionExplanations": {
+        "A": "A — Idade de 37 anos isoladamente não é o fator apontado pelo gabarito.",
+        "B": "B — Dois partos prévios não equivalem à multiparidade de maior risco.",
+        "C": "C — Bolsa rota, sem outras complicações, não é o principal fator listado.",
+        "D": "D — Correta: IMC acima de 35 kg/m²."
+      },
+      "keyPoint": "IMC >35 kg/m² é fator de risco obstétrico relevante, inclusive para hemorragia pós-parto."
+    },
+    "Q019": {
+      "explanation": "Na gestante com teste rápido reagente para sífilis, o tratamento não deve ser adiado à espera de confirmação, e as parcerias sexuais devem ser convocadas, avaliadas e tratadas conforme indicação, com apoio do serviço de saúde.",
+      "optionExplanations": {
+        "A": "A — Entregar prescrição para a gestante repassar não substitui avaliação e abordagem adequada das parcerias.",
+        "B": "B — Correta: tratar a gestante e apoiar a convocação das parcerias para tratamento.",
+        "C": "C — Aguardar VDRL para iniciar tratamento aumenta risco de transmissão vertical.",
+        "D": "D — FTA-Abs não deve ser usado como etapa para postergar o tratamento."
+      },
+      "keyPoint": "Sífilis na gestação: tratar imediatamente e manejar as parcerias; não atrasar por exames confirmatórios."
+    },
+    "Q020": {
+      "explanation": "Letalidade é a proporção de óbitos entre os casos da própria doença. Câncer de estômago teve 5 óbitos em 10 casos, ou 50%, maior que colorretal (33%), próstata (20%) e mama (10%).",
+      "optionExplanations": {
+        "A": "A — Colorretal: 7/21 ≈ 33%.",
+        "B": "B — Correta: estômago, 5/10 = 50%.",
+        "C": "C — Mama: 4/40 = 10%.",
+        "D": "D — Próstata: 6/30 = 20%."
+      },
+      "keyPoint": "Letalidade = óbitos/casos × 100."
+    },
+    "Q021": {
+      "explanation": "Aos 4 anos, perdas urinárias noturnas ocasionais ainda podem refletir maturação do controle esfincteriano, especialmente com controle diurno normal, ausência de sintomas urinários e exames sem alterações.",
+      "optionExplanations": {
+        "A": "A — Correta: o quadro é compatível com controle esfincteriano ainda em desenvolvimento.",
+        "B": "B — Não há sinais neurológicos ou urodinâmicos de bexiga neurogênica.",
+        "C": "C — Enurese secundária pressupõe período prévio de continência noturna sustentada seguido de recidiva.",
+        "D": "D — Bexiga hiperativa causa urgência e frequência, inclusive durante o dia."
+      },
+      "keyPoint": "Enurese costuma ser definida a partir de idade em que se espera continência noturna mais consolidada; antes disso, maturação é diagnóstico provável."
+    },
+    "Q022": {
+      "explanation": "Valores persistentes em faixa hipertensiva em duas consultas, obtidos corretamente, permitem diagnóstico e estratificação. O protocolo citado no enunciado indica associar mudanças de estilo de vida ao tratamento farmacológico conforme o estágio.",
+      "optionExplanations": {
+        "A": "A — MAPA pode ser útil, mas não é obrigatória em todo caso para começar manejo quando medidas repetidas são claramente elevadas.",
+        "B": "B — Correta: medidas não farmacológicas mais anti-hipertensivo.",
+        "C": "C — MRPA pode complementar avaliação, mas não substitui o plano terapêutico indicado pelo estágio.",
+        "D": "D — Apenas esperar nova avaliação posterga tratamento em hipertensão já confirmada."
+      },
+      "keyPoint": "PA persistentemente elevada em consultas repetidas deve ser tratada de acordo com estágio e risco, não apenas observada indefinidamente."
+    },
+    "Q023": {
+      "explanation": "A ausência de eliminação de mecônio, distensão, vômitos biliosos e eliminação explosiva de fezes após estímulo retal são clássicos de doença de Hirschsprung. A enterocolite associada pode causar deterioração sistêmica grave.",
+      "optionExplanations": {
+        "A": "A — Íleo meconial é fortemente associado à fibrose cística e tem outro padrão clínico.",
+        "B": "B — Má rotação pode causar vômito bilioso agudo, mas não explica o padrão de eliminação explosiva após estímulo retal.",
+        "C": "C — Correta: megacólon congênito/doença de Hirschsprung com complicação grave.",
+        "D": "D — Síndrome do tampão meconial costuma ser transitória e menos compatível com o quadro de obstrução distal persistente."
+      },
+      "keyPoint": "Doença de Hirschsprung: atraso na eliminação de mecônio + distensão + ampola vazia + eliminação explosiva após toque."
+    },
+    "Q024": {
+      "explanation": "Na epistaxe anterior com paciente estável e foco visível, a primeira linha é compressão firme das asas nasais associada a vasoconstritor tópico; medidas mais invasivas ficam para falha do manejo inicial.",
+      "optionExplanations": {
+        "A": "A — Hiperextensão cervical favorece deglutição de sangue e não é recomendada.",
+        "B": "B — Tamponamento posterior é reservado para sangramento posterior ou refratário.",
+        "C": "C — Correta: compressão anterior e vasoconstritor tópico.",
+        "D": "D — Ligadura arterial é opção de resgate para casos refratários."
+      },
+      "keyPoint": "Epistaxe anterior: compressão + vasoconstritor tópico antes de tamponamentos ou cirurgia."
+    },
+    "Q025": {
+      "explanation": "A retração da cabeça fetal após exteriorização caracteriza distócia de ombro. A primeira manobra é McRoberts: hiperflexão das coxas sobre o abdome, geralmente associada a pressão suprapúbica.",
+      "optionExplanations": {
+        "A": "A — Correta: hiperflexão das pernas e coxas corresponde à manobra de McRoberts.",
+        "B": "B — Tração forte e pressão no fundo uterino aumentam risco de lesão e não são recomendadas.",
+        "C": "C — Manobras internas podem ser usadas se medidas iniciais falharem.",
+        "D": "D — Episiotomia não resolve a impactação óssea do ombro e não é a primeira medida."
+      },
+      "keyPoint": "Distócia de ombro: começar com McRoberts; nunca fazer pressão fúndica."
+    },
+    "Q026": {
+      "explanation": "Febre alta, Giordano positivo, piúria/nitrito e hipotensão sugerem pielonefrite complicada com sepse/instabilidade. A paciente precisa de antibiótico parenteral precoce, reposição volêmica e encaminhamento hospitalar.",
+      "optionExplanations": {
+        "A": "A — Correta: ceftriaxona IV, ressuscitação volêmica, antitérmico e transferência hospitalar.",
+        "B": "B — Nitrofurantoína não atinge adequadamente o parênquima renal e não serve para pielonefrite grave.",
+        "C": "C — Tratamento ambulatorial é inadequado diante da instabilidade hemodinâmica.",
+        "D": "D — Sulfametoxazol-trimetoprima oral não é a escolha imediata em paciente séptica e hipotensa."
+      },
+      "keyPoint": "Pielonefrite com hipotensão é caso de urgência: antibiótico IV + volume + referência hospitalar."
+    },
+    "Q027": {
+      "explanation": "O diagrama mostra a incidência de 2025 oscilando dentro do canal endêmico, sem ultrapassar de forma sustentada o limite superior. Assim, no território analisado, a incidência permaneceu em nível endêmico.",
+      "optionExplanations": {
+        "A": "A — O número absoluto de casos não basta; deve-se comparar com o canal endêmico.",
+        "B": "B — Correta: a curva de 2025 permanece compatível com nível endêmico.",
+        "C": "C — Não há padrão sustentado que caracterize surto entre as semanas 3 e 9.",
+        "D": "D — Surto em outros distritos do município não prova epidemia na população adscrita da equipe."
+      },
+      "keyPoint": "Em diagrama de controle, epidemia é sugerida quando a incidência ultrapassa o limite superior do canal endêmico."
+    },
+    "Q028": {
+      "explanation": "Amitriptilina em dose alta e uso crônico exige vigilância de efeitos cardiovasculares, eletrolíticos, hepáticos e renais. Entre as opções, creatinina, transaminases, potássio e ECG compõem o conjunto mais pertinente.",
+      "optionExplanations": {
+        "A": "A — Correta: inclui avaliação renal, hepática, potássio e eletrocardiograma.",
+        "B": "B — TSH e ultrassonografia abdominal não são exames rotineiros específicos para esse fármaco.",
+        "C": "C — Radiografia de tórax e ultrassonografia abdominal não são monitorização usual.",
+        "D": "D — Lipidograma, TSH e radiografia de tórax não correspondem ao perfil de segurança prioritário."
+      },
+      "keyPoint": "Tricíclicos podem prolongar condução cardíaca e têm efeitos sistêmicos; ECG é especialmente relevante em uso crônico/dose elevada."
+    },
+    "Q029": {
+      "explanation": "Na cirrose com ascite de grande volume e encefalopatia, a paracentese diagnóstica é indicada. Alterações de INR e plaquetopenia na cirrose não exigem correção profilática de rotina antes de paracentese, procedimento de baixo risco hemorrágico.",
+      "optionExplanations": {
+        "A": "A — Correta: realizar paracentese sem plasma ou plaquetas preventivos.",
+        "B": "B — Espironolactona não substitui investigação imediata de PBE; ceftriaxona não deve ser presumida sem dados do líquido.",
+        "C": "C — Correção profilática de INR e plaquetas não é necessária de rotina.",
+        "D": "D — TC não deve atrasar paracentese indicada."
+      },
+      "keyPoint": "Paracentese na cirrose é segura mesmo com INR elevado e plaquetopenia, salvo situações excepcionais."
+    },
+    "Q030": {
+      "explanation": "Ronco, respiração oral crônica, apneias e fácies adenoideana sugerem hipertrofia adenoideana. A nasofibroscopia flexível permite visualizar diretamente a nasofaringe e quantificar a obstrução.",
+      "optionExplanations": {
+        "A": "A — Teste alérgico investiga rinite, mas não confirma obstrução adenoideana.",
+        "B": "B — Radiografia de cavum pode sugerir aumento de adenoide, porém é menos direta e menos precisa.",
+        "C": "C — Correta: nasofibroscopia flexível.",
+        "D": "D — Polissonografia avalia gravidade de distúrbio respiratório do sono, não a anatomia adenoideana como exame confirmatório principal."
+      },
+      "keyPoint": "Nasofibroscopia é exame direto e confirmatório para hipertrofia de adenoide."
+    },
+    "Q031": {
+      "explanation": "Trauma de alta energia com desaceleração e radiografia mostrando mediastino alargado, apagamento do botão aórtico e desvio traqueal é clássico de lesão traumática de aorta.",
+      "optionExplanations": {
+        "A": "A — Tamponamento costuma causar hipotensão, turgência jugular e abafamento de bulhas, não mediastino alargado típico.",
+        "B": "B — Pneumotórax hipertensivo cursa com assimetria ventilatória e hipertimpanismo unilateral.",
+        "C": "C — Correta: lesão de aorta é a principal hipótese.",
+        "D": "D — Hemotórax maciço cursa com macicez e redução importante do murmúrio vesicular."
+      },
+      "keyPoint": "Desaceleração + mediastino alargado = suspeitar fortemente de lesão de aorta torácica."
+    },
+    "Q032": {
+      "explanation": "A laceração envolve pele, mucosa e musculatura perineal, sem esfíncter anal: é laceração de 2º grau e deve ser reparada. Em cuidado humanizado, é necessário explicar o procedimento, obter consentimento e oferecer anestesia adequada.",
+      "optionExplanations": {
+        "A": "A — Lesão muscular com sangramento moderado não deve ser simplesmente observada.",
+        "B": "B — A urgência não elimina a obrigação de informar e buscar consentimento.",
+        "C": "C — Correta: explicar, consentir e suturar com anestesia local.",
+        "D": "D — Anestesia geral e centro cirúrgico são desnecessários para laceração de 2º grau estável."
+      },
+      "keyPoint": "Reparo perineal deve combinar indicação técnica com comunicação, consentimento e analgesia/anestesia."
+    },
+    "Q033": {
+      "explanation": "Aumento de sintomas respiratórios em trabalhadores e moradores, associado à poeira de fábrica, exige abordagem de vigilância em saúde e ação intersetorial. A APS deve articular Vigilância em Saúde para investigar e intervir no risco ambiental e ocupacional.",
+      "optionExplanations": {
+        "A": "A — Notificação não deve depender de nexo causal já completamente comprovado.",
+        "B": "B — Distribuir máscaras aos moradores é medida limitada e não aborda a fonte ambiental.",
+        "C": "C — Correta: acionar Vigilância em Saúde e apoiar intervenções pactuadas.",
+        "D": "D — Exames admissionais/periódicos são responsabilidade ocupacional e não resolvem a exposição comunitária."
+      },
+      "keyPoint": "Problemas de saúde relacionados ao território pedem articulação APS + Vigilância e ação intersetorial."
+    },
+    "Q034": {
+      "explanation": "Para estudar se uma exposição ocupacional precede e se associa ao aparecimento de dor lombar ao longo dos anos, o delineamento de coorte é o mais adequado entre as opções.",
+      "optionExplanations": {
+        "A": "A — Estudo ecológico compara grupos agregados e tem menor capacidade de estabelecer relação individual exposição-desfecho.",
+        "B": "B — Transversal mede exposição e desfecho em um ponto no tempo, dificultando temporalidade.",
+        "C": "C — Correta: estudo de coorte.",
+        "D": "D — Ensaio clínico não é apropriado para atribuir exposição ocupacional potencialmente nociva."
+      },
+      "keyPoint": "Coorte acompanha expostos e não expostos ao longo do tempo e estima incidência/risco."
+    },
+    "Q035": {
+      "explanation": "Tentativa de suicídio planejada e sintomas depressivos configuram risco relevante. O dever de proteção supera o sigilo absoluto: responsáveis devem ser informados da gravidade, e é necessário definir ambiente seguro e necessidade de hospitalização.",
+      "optionExplanations": {
+        "A": "A — Manter sigilo absoluto expõe o adolescente a risco e é inadequado.",
+        "B": "B — Informar apenas 'intoxicação' omite a gravidade real do risco.",
+        "C": "C — Correta: comunicar a tentativa e o risco, avaliar segurança domiciliar versus internação.",
+        "D": "D — Internação compulsória não deve ser automática, e o sigilo não pode ser mantido diante de risco grave."
+      },
+      "keyPoint": "Em adolescente com risco de suicídio, sigilo tem limite quando há risco de dano grave à própria vida."
+    },
+    "Q036": {
+      "explanation": "Síndrome mononucleose-like após exposição sexual recente com teste rápido negativo pode representar infecção aguda pelo HIV na janela diagnóstica. Nessa fase, a carga viral/RNA por PCR pode detectar infecção antes da soroconversão.",
+      "optionExplanations": {
+        "A": "A — Repetir apenas teste rápido em 7 dias pode ainda perder a fase inicial e não é o exame mais sensível agora.",
+        "B": "B — Correta: solicitar carga viral por PCR.",
+        "C": "C — ELISA pode também estar negativo antes da soroconversão.",
+        "D": "D — O quadro e a exposição justificam investigação adicional."
+      },
+      "keyPoint": "Suspeita de HIV agudo + teste rápido negativo = investigar RNA/carga viral."
+    },
+    "Q037": {
+      "explanation": "Déficit de comunicação social, pouco contato visual, brincadeira repetitiva, rigidez a mudanças e atraso de linguagem aos 3 anos sugerem TEA. Não se deve adotar conduta expectante; avaliação multidisciplinar e intervenção precoce melhoram prognóstico funcional.",
+      "optionExplanations": {
+        "A": "A — Correta: avaliação multidisciplinar e início de intervenção precoce.",
+        "B": "B — Esperar 6 meses posterga cuidado em uma janela importante de desenvolvimento.",
+        "C": "C — Instrumentos de triagem não devem ser adiados por meses quando já há sinais clínicos importantes.",
+        "D": "D — Fonoaudiologia isolada é insuficiente; é necessária abordagem multidisciplinar."
+      },
+      "keyPoint": "Sinais claros de TEA exigem encaminhamento e intervenção precoce, sem esperar confirmação tardia."
+    },
+    "Q038": {
+      "explanation": "O paciente apresenta choque provável por trauma pélvico e a UPA não tem capacidade definitiva. Antes da transferência, deve ser estabilizado dentro do possível, com imobilização pélvica, regulação e contato com receptor, documentação e transporte por suporte avançado.",
+      "optionExplanations": {
+        "A": "A — Grande volume de cristaloide e suporte básico são inadequados para choque traumático grave.",
+        "B": "B — Correta: inclui estabilização, binder pélvico, regulação, contato e suporte avançado.",
+        "C": "C — Transferir sem comunicação prévia e deixar documentação para depois é inseguro.",
+        "D": "D — Consentimento familiar não é pré-requisito absoluto para transferência urgente e suporte básico é insuficiente."
+      },
+      "keyPoint": "Transferência de trauma grave: estabilizar, regular, comunicar receptor, documentar e usar transporte compatível com gravidade."
+    },
+    "Q039": {
+      "explanation": "No puerpério precoce com amamentação exclusiva, métodos só de progestagênio são compatíveis com lactação. Como há útero didelfo, o DIU pode ser inadequado por malformação cavitária; entre as opções, o implante de etonogestrel é apropriado.",
+      "optionExplanations": {
+        "A": "A — DIU pode ser problemático em cavidade uterina distorcida/didelfa.",
+        "B": "B — Correta: implante de etonogestrel é eficaz e compatível com amamentação.",
+        "C": "C — Combinado contém estrogênio e não é a melhor escolha tão precocemente no puerpério.",
+        "D": "D — Injetável mensal combinado também contém estrogênio."
+      },
+      "keyPoint": "Puerpério + lactação: preferir método não estrogênico; anomalia uterina pode contraindicar DIU."
+    },
+    "Q040": {
+      "explanation": "O paciente tem diabetes acima da meta, albuminúria, hipertensão e alto risco cardiovascular. Dapagliflozina agrega benefício renal/cardiovascular, a losartana deve ser otimizada e estatina de alta intensidade é indicada.",
+      "optionExplanations": {
+        "A": "A — Glicazida não oferece os mesmos benefícios cardiorrenais; HCTZ 50 mg é dose alta e atorvastatina 10 mg é baixa intensidade.",
+        "B": "B — Insulina pode ser necessária em alguns casos, mas fibrato não substitui estatina para redução de risco aterosclerótico.",
+        "C": "C — Correta: dapagliflozina, losartana 100 mg e atorvastatina 40 mg.",
+        "D": "D — Glibenclamida aumenta risco de hipoglicemia e sinvastatina 20 mg é insuficiente para o risco do paciente."
+      },
+      "keyPoint": "DM2 + albuminúria + alto risco: SGLT2, bloqueio do SRAA otimizado e estatina de alta intensidade."
+    },
+    "Q041": {
+      "explanation": "Febre, taquicardia intensa, agitação/confusão, perda de peso, sudorese e bócio sugerem tempestade tireotóxica. O controle adrenérgico com betabloqueador é uma medida inicial prioritária, integrado ao tratamento específico da tireotoxicose.",
+      "optionExplanations": {
+        "A": "A — Correta: betabloqueador controla taquicardia e manifestações simpáticas.",
+        "B": "B — Benzodiazepínico pode sedar, mas não trata o mecanismo principal.",
+        "C": "C — Adenosina não é tratamento de taquicardia sinusal por tireotoxicose.",
+        "D": "D — Antibiótico só seria prioritário se houvesse foco infeccioso claro como desencadeante."
+      },
+      "keyPoint": "Tempestade tireotóxica exige controle rápido dos sintomas adrenérgicos e tratamento da síntese/liberação hormonal."
+    },
+    "Q042": {
+      "explanation": "Mordedura por cão saudável, vacinado e passível de observação permite conduta de observação do animal, sem iniciar vacina/soro de imediato, além da notificação conforme vigilância.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito: observar, sem vacina/soro no momento, e notificar.",
+        "B": "B — Vacina em dose única não corresponde a esquema antirrábico indicado.",
+        "C": "C — Soro não é indicado isoladamente nesse cenário.",
+        "D": "D — Esquema completo com soro é excessivo para animal saudável e observável."
+      },
+      "keyPoint": "Cão saudável e observável: acompanhar por 10 dias; profilaxia pode ser dispensada inicialmente conforme avaliação do acidente."
+    },
+    "Q043": {
+      "explanation": "Gestante traumatizada e hipotensa no terceiro trimestre pode sofrer compressão aortocava pelo útero gravídico. O deslocamento uterino para a esquerda melhora retorno venoso sem atrasar o ABC do trauma.",
+      "optionExplanations": {
+        "A": "A — Ultrassonografia obstétrica vem após medidas imediatas de ressuscitação materna.",
+        "B": "B — Coloide não é a primeira correção para a fisiologia de compressão aortocava.",
+        "C": "C — Correta: lateralizar a prancha para a esquerda.",
+        "D": "D — TC não deve anteceder estabilização hemodinâmica."
+      },
+      "keyPoint": "Trauma na gestação avançada: aliviar compressão aortocava com inclinação/deslocamento uterino à esquerda."
+    },
+    "Q044": {
+      "explanation": "Com TARV regular e carga viral indetectável, o risco de transmissão vertical é muito baixo. A via de parto segue critérios obstétricos e de carga viral; no Brasil, a amamentação por pessoa vivendo com HIV permanece contraindicada, com fornecimento de fórmula.",
+      "optionExplanations": {
+        "A": "A — Correta: resume adequadamente TARV, via de parto e alimentação do recém-nascido.",
+        "B": "B — Carga viral indetectável não implica risco elevado nem cesariana obrigatória.",
+        "C": "C — A amamentação não é autorizada nas diretrizes brasileiras apenas pela carga indetectável.",
+        "D": "D — O desejo materno não muda a contraindicação vigente à amamentação no cenário proposto."
+      },
+      "keyPoint": "HIV na gestação: carga viral suprimida reduz transmissão; amamentação é contraindicada nas diretrizes brasileiras."
+    },
+    "Q045": {
+      "explanation": "O protocolo citado adota rastreamento primário com teste de DNA-HPV. Em mulher dentro da faixa de rastreamento e sem alterações anteriores relevantes, teste negativo permite espaçar novo rastreamento para 5 anos.",
+      "optionExplanations": {
+        "A": "A — Correta: coleta para DNA-HPV e novo rastreamento em 5 anos se negativo.",
+        "B": "B — A estratégia deixa de ser citologia convencional trienal como método principal onde o novo protocolo está implantado.",
+        "C": "C — Co-teste não é necessário de rotina para todas as mulheres.",
+        "D": "D — Teste negativo não dispensa definitivamente a paciente de rastreamento futuro."
+      },
+      "keyPoint": "Rastreamento cervical moderno: DNA-HPV primário e intervalo maior quando negativo."
+    },
+    "Q046": {
+      "explanation": "A paciente teve embolia pulmonar com choque/hipotensão que exigiu noradrenalina, portanto é TEP de alto risco com instabilidade hemodinâmica. Na ausência de contraindicação, está indicada reperfusão sistêmica com trombolítico.",
+      "optionExplanations": {
+        "A": "A — Dupla antiagregação é tratamento de síndrome coronariana, não TEP.",
+        "B": "B — Enoxaparina anticoagula, mas não oferece reperfusão rápida necessária no choque.",
+        "C": "C — Heparina não fracionada é útil em TEP grave, mas isoladamente não substitui trombólise no choque.",
+        "D": "D — Correta: alteplase intravenosa para reperfusão sistêmica."
+      },
+      "keyPoint": "TEP com choque = alto risco e indicação de trombólise sistêmica quando não houver contraindicação."
+    },
+    "Q047": {
+      "explanation": "Telarca e pubarca antes dos 8 anos indicam puberdade precoce. A presença conjunta de caracteres sexuais secundários sugere ativação central do eixo hipotálamo-hipófise-gonadal, com produção gonadal de esteroides.",
+      "optionExplanations": {
+        "A": "A — Adrenarca isolada explicaria pelos pubianos, mas não o desenvolvimento mamário.",
+        "B": "B — Conversão periférica pode produzir estrogênio, mas não é o mecanismo mais provável para quadro puberal coordenado.",
+        "C": "C — Correta: ativação do eixo hipotálamo-hipófise-gonadal.",
+        "D": "D — Hipersensibilidade a níveis basais não explica progressão puberal típica."
+      },
+      "keyPoint": "Puberdade precoce central decorre de ativação prematura do eixo H-H-G."
+    },
+    "Q048": {
+      "explanation": "Ferida simples em antebraço pode ser reparada sob infiltração local nas bordas. Lidocaína a 2% oferece início rápido e, em região com boa circulação, vasoconstritor pode reduzir sangramento e prolongar efeito.",
+      "optionExplanations": {
+        "A": "A — Correta: infiltração das bordas com lidocaína 2% com vasoconstritor.",
+        "B": "B — Bloqueio de plexo braquial é excessivamente invasivo para ferida superficial pequena.",
+        "C": "C — Bupivacaína 2% é concentração inadequada e tem maior risco de toxicidade.",
+        "D": "D — Bloqueio nervoso mais proximal com ropivacaína não é necessário."
+      },
+      "keyPoint": "Para sutura simples, infiltração local com lidocaína é prática e suficiente."
+    },
+    "Q049": {
+      "explanation": "Dor súbita, choque, sofrimento fetal, perda da definição uterina, partes fetais facilmente palpáveis e elevação da apresentação em mulher com cicatriz de cesárea sugerem rotura uterina. A conduta é laparotomia/cesariana imediata.",
+      "optionExplanations": {
+        "A": "A — Aguardar parto vaginal coloca mãe e feto em risco.",
+        "B": "B — Ultrassom não deve atrasar tratamento quando o diagnóstico clínico é forte.",
+        "C": "C — Fórceps não corrige rotura uterina.",
+        "D": "D — Correta: cesariana de emergência."
+      },
+      "keyPoint": "Rotura uterina é emergência obstétrica: choque materno + bradicardia fetal + mudança da apresentação exigem cirurgia imediata."
+    },
+    "Q050": {
+      "explanation": "Hipertensão grave e lúpus com anticorpo antifosfolípide tornam métodos estrogênicos inadequados pelo risco trombótico. O DIU de cobre é não hormonal, altamente eficaz e não aumenta trombose.",
+      "optionExplanations": {
+        "A": "A — Anel vaginal contém estrogênio e aumenta risco trombótico.",
+        "B": "B — Injetável combinado também contém estrogênio.",
+        "C": "C — Progestagênio pode ser opção em alguns contextos, mas o gabarito prioriza método sem hormônio diante do alto risco.",
+        "D": "D — Correta: dispositivo intrauterino de cobre."
+      },
+      "keyPoint": "Anticorpo antifosfolípide + HAS grave: evitar estrogênio; DIU de cobre é opção segura."
+    },
+    "Q051": {
+      "explanation": "Nódulos endurecidos no abdome em usuário de insulina sugerem lipohipertrofia por aplicações repetidas no mesmo local ou técnica inadequada, o que pode causar absorção errática e pior controle glicêmico. Antes de simplesmente aumentar doses, é apropriado revisar técnica, rodízio de sítios e armazenamento em consulta de enfermagem.",
+      "optionExplanations": {
+        "A": "A — Aumentar insulina sem corrigir possível falha de aplicação pode piorar variabilidade e não aborda a causa.",
+        "B": "B — Correta: manter inicialmente e encaminhar à enfermagem para avaliar técnica, locais e conservação da insulina.",
+        "C": "C — Trocar NPH por regular não corrige o problema e insulina regular não substitui a basal dessa forma.",
+        "D": "D — Sulfonilureia adiciona risco de hipoglicemia e não aborda a aplicação inadequada."
+      },
+      "keyPoint": "HbA1c elevada com lipohipertrofia: primeiro revisar técnica de aplicação e rodízio antes de escalar insulina."
+    },
+    "Q052": {
+      "explanation": "Dor insidiosa no quadril, claudicação, limitação de abdução/rotação interna e achatamento/irregularidade da epífise femoral em menino de 7 anos são típicos da doença de Legg-Calvé-Perthes, uma osteonecrose avascular da cabeça femoral.",
+      "optionExplanations": {
+        "A": "A — Epifisiólise é mais comum em adolescentes, especialmente obesos, e mostra deslizamento epifisário.",
+        "B": "B — Artrite idiopática juvenil costuma cursar com sinovite e padrão inflamatório.",
+        "C": "C — Sinovite transitória é aguda, frequentemente pós-viral, e tende a resolver em dias/semanas.",
+        "D": "D — Correta: necrose asséptica da cabeça do fêmur/doença de Legg-Calvé-Perthes."
+      },
+      "keyPoint": "Perthes: criança de 4–10 anos, claudicação e limitação da rotação interna com alterações da cabeça femoral."
+    },
+    "Q053": {
+      "explanation": "Após ingestão cáustica, não se deve induzir vômito, fazer lavagem, neutralização química ou inserir sonda às cegas. Em paciente estável, a endoscopia nas primeiras 6–24 horas avalia extensão da lesão.",
+      "optionExplanations": {
+        "A": "A — Sonda para lavagem pode agravar lesões e não é indicada.",
+        "B": "B — Neutralização química pode gerar reação exotérmica e piorar dano tecidual.",
+        "C": "C — Corticoide e antibiótico profiláticos não são rotina indiscriminada.",
+        "D": "D — Correta: manter jejum e programar endoscopia entre 6 e 24 horas."
+      },
+      "keyPoint": "Ingestão de cáustico: estabilizar, jejum e EDA precoce; evitar neutralização e lavagem gástrica."
+    },
+    "Q054": {
+      "explanation": "Pápula/úlcera genital seguida de linfonodomegalia inguinal dolorosa com supuração e múltiplas fístulas é compatível com linfogranuloma venéreo, causado por sorovares invasivos de Chlamydia trachomatis.",
+      "optionExplanations": {
+        "A": "A — Correta: Chlamydia trachomatis é o agente do linfogranuloma venéreo.",
+        "B": "B — Haemophilus ducreyi causa cancro mole, com úlcera dolorosa e adenite que pode supurar, mas o padrão de múltiplas fístulas e evolução do caso favorece LGV no gabarito.",
+        "C": "C — Klebsiella granulomatis causa donovanose, geralmente úlcera indolor, friável e sem adenite típica.",
+        "D": "D — Treponema pallidum causa cancro duro indolor e adenopatia geralmente indolor."
+      },
+      "keyPoint": "Linfogranuloma venéreo: lesão genital inicial discreta seguida de bubão inguinal doloroso e fistulizante."
+    },
+    "Q055": {
+      "explanation": "A paciente tem sintomas climatéricos vasomotores importantes, sem contraindicações evidentes à terapia hormonal. O diagnóstico de transição menopausal é clínico e, em mulher com útero, a terapia deve ser individualizada quanto a dose, via e associação progestagênica.",
+      "optionExplanations": {
+        "A": "A — Progestagênio isolado não é a estratégia padrão para prevenção cardiovascular e controle global do climatério.",
+        "B": "B — FSH não é necessário para confirmar menopausa em mulher com quadro clínico típico nessa faixa etária.",
+        "C": "C — Fitoterápicos não têm eficácia equivalente ao estrogênio nem benefício comprovado equivalente na prevenção de fraturas.",
+        "D": "D — Correta: propor terapia hormonal individualizada com reavaliações periódicas."
+      },
+      "keyPoint": "Sintomas vasomotores moderados/importantes e ausência de contraindicação: terapia hormonal pode ser oferecida de forma individualizada."
+    },
+    "Q056": {
+      "explanation": "A PEP para HIV deve ser iniciada o mais cedo possível e tem janela máxima de 72 horas. Como a profissional procurou atendimento 4 dias depois, não há indicação de iniciar PEP para essa exposição; deve-se realizar acompanhamento sorológico conforme protocolo.",
+      "optionExplanations": {
+        "A": "A — Após 96 horas, iniciar PEP não é indicado; além disso, a fonte deve ser avaliada quando possível.",
+        "B": "B — Mesmo se a fonte for positiva, a janela da PEP já foi ultrapassada.",
+        "C": "C — Correta: acompanhamento sorológico, sem PEP para esta exposição.",
+        "D": "D — PEP não deve ser iniciada fora da janela apenas pela gravidade potencial da exposição."
+      },
+      "keyPoint": "PEP para HIV: iniciar idealmente nas primeiras horas e no máximo até 72 h após a exposição."
+    },
+    "Q057": {
+      "explanation": "Miose puntiforme, depressão do nível de consciência, bradipneia e suspeita de grande ingestão de morfina configuram toxíndrome opioide. Naloxona é antagonista competitivo de receptores opioides e reverte sobretudo depressão respiratória.",
+      "optionExplanations": {
+        "A": "A — Atropina é usada em bradicardia selecionada e intoxicação colinérgica, não reverte opioide.",
+        "B": "B — Dopamina pode apoiar pressão em choque, mas não antagoniza morfina.",
+        "C": "C — Flumazenil antagoniza benzodiazepínicos.",
+        "D": "D — Correta: naloxona."
+      },
+      "keyPoint": "Opioide + miose + bradipneia + coma = naloxona."
+    },
+    "Q058": {
+      "explanation": "Paciente com HIV avançado, CD4 muito baixo e nova convulsão tem alto risco de lesão expansiva do SNC, como toxoplasmose ou outra infecção oportunista. Neuroimagem deve preceder punção lombar quando há possibilidade de efeito de massa.",
+      "optionExplanations": {
+        "A": "A — Punção lombar antes de excluir lesão expansiva pode ser perigosa.",
+        "B": "B — Correta: tomografia de crânio é prioridade.",
+        "C": "C — A massa pulmonar é relevante, mas não explica diretamente a convulsão sem investigar SNC.",
+        "D": "D — Biópsia pulmonar não é prioridade diante da manifestação neurológica aguda."
+      },
+      "keyPoint": "Convulsão nova em imunossuprimido: priorizar TC/RM de crânio antes de punção lombar."
+    },
+    "Q059": {
+      "explanation": "Lactente com febre alta, fontanela abaulada, prostração, petéquias/púrpura e vacinação ainda incompleta sugere meningite meningocócica. No líquor bacteriano espera-se pleocitose, proteína elevada, glicose reduzida e diplococos Gram-negativos.",
+      "optionExplanations": {
+        "A": "A — Correta: padrão liquórico bacteriano e bacterioscopia compatível com Neisseria meningitidis.",
+        "B": "B — Líquor normal não condiz com meningite bacteriana invasiva.",
+        "C": "C — Bacilo álcool-ácido resistente sugere tuberculose e o perfil bioquímico também não corresponde.",
+        "D": "D — Líquor normal com bacilos Gram-negativos não corresponde ao quadro."
+      },
+      "keyPoint": "Meningite bacteriana: muitas células, proteína alta, glicose baixa; meningococo = diplococo Gram-negativo."
+    },
+    "Q060": {
+      "explanation": "Queimado com 22% de superfície corporal deve receber ressuscitação com solução cristaloide, tipicamente Ringer lactato, ajustada pela resposta clínica e especialmente pelo débito urinário. A presença de queimadura facial exige vigilância de via aérea.",
+      "optionExplanations": {
+        "A": "A — Coloide não é a solução inicial padrão nas primeiras horas.",
+        "B": "B — Correta: solução cristaloide com monitorização do débito urinário.",
+        "C": "C — Solução glicosada não é a base da ressuscitação volêmica do adulto.",
+        "D": "D — Solução hipertônica não é a escolha rotineira inicial."
+      },
+      "keyPoint": "Grande queimado: cristaloide e ajuste por débito urinário; fórmulas são ponto de partida, não meta fixa."
+    },
+    "Q061": {
+      "explanation": "DIP com toxemia, febre alta, falha de tratamento oral e abscesso tubo-ovariano requer internação e antibióticos intravenosos de amplo espectro cobrindo gonococo, clamídia e anaeróbios, com reavaliação da resposta.",
+      "optionExplanations": {
+        "A": "A — Correta: internação, esquema IV amplo e monitorização clínica.",
+        "B": "B — Manter apenas antibiótico oral é inadequado diante de abscesso e toxicidade sistêmica.",
+        "C": "C — Esquema oral não deve ser mantido como única terapia em paciente grave.",
+        "D": "D — Antifúngico não trata a fisiopatologia principal."
+      },
+      "keyPoint": "Abscesso tubo-ovariano + quadro sistêmico = internação e antibioticoterapia IV."
+    },
+    "Q062": {
+      "explanation": "O IVCF-20 inclui dimensões como idade, autopercepção, atividades de vida diária, cognição, humor, mobilidade, comunicação e comorbidades/polifarmácia. No caso, polifarmácia, queixa de esquecimento e incapacidade para tarefa instrumental como limpar a casa pontuam diretamente.",
+      "optionExplanations": {
+        "A": "A — Correta: polifarmácia, esquecimento e dificuldade em atividade instrumental são itens pertinentes.",
+        "B": "B — Hipertensão mal controlada isoladamente e uso de bengala não formam o conjunto indicado pelo instrumento nessa alternativa.",
+        "C": "C — Internação antiga e doenças crônicas isoladas não são a combinação correta.",
+        "D": "D — IMC e cirurgia ortopédica prévia não correspondem ao trio de itens pontuáveis proposto."
+      },
+      "keyPoint": "IVCF-20 valoriza perda funcional, cognição e polifarmácia, não apenas diagnósticos crônicos isolados."
+    },
+    "Q063": {
+      "explanation": "A paciente idosa apresenta possível declínio cognitivo, descompensação de doenças crônicas, risco social e dificuldade de autocuidado observados no domicílio. A visita domiciliar conjunta permite avaliação clínica e territorial integrada e elaboração compartilhada do plano.",
+      "optionExplanations": {
+        "A": "A — Consulta na UBS pode perder informações centrais do ambiente e há histórico de faltas.",
+        "B": "B — Correta: visita domiciliar com médico e ACS, integrando dados clínicos e territoriais.",
+        "C": "C — Delegar apenas orientações à ACS e esperar 30 dias subestima o risco.",
+        "D": "D — A visita só do médico fragmenta o cuidado e reduz a contribuição da ACS na avaliação."
+      },
+      "keyPoint": "Situação complexa no domicílio exige avaliação contextual e trabalho interdisciplinar, não fragmentação de tarefas."
+    },
+    "Q064": {
+      "explanation": "Aos 10 dias pós-parto, a paciente relata tristeza, culpa, ambivalência e exaustão, sem descrição de psicose ou risco imediato. A abordagem inicial deve incluir acolhimento e apoio psicossocial, com avaliação longitudinal para depressão pós-parto caso sintomas persistam ou se agravem.",
+      "optionExplanations": {
+        "A": "A — Correta: encaminhar para apoio psicossocial e acompanhar evolução.",
+        "B": "B — Fluoxetina pode ser usada em depressão pós-parto definida, mas o caso pede abordagem inicial mais ampla.",
+        "C": "C — CAPS não é automaticamente necessário sem quadro grave ou risco.",
+        "D": "D — Clonazepam não trata a causa e pode piorar sedação e funcionamento materno."
+      },
+      "keyPoint": "Puerpério precoce com sofrimento emocional: acolher, apoiar e avaliar risco; farmacoterapia não é automática."
+    },
+    "Q065": {
+      "explanation": "Dor típica de síndrome coronariana com inversão simétrica de T em precordiais é compatível com SCA sem supra, possivelmente padrão isquêmico de alto risco. Antiagregação com AAS e clopidogrel deve ser iniciada após verificar contraindicações, sem esperar troponina para todas as medidas.",
+      "optionExplanations": {
+        "A": "A — Morfina IM não é abordagem adequada e propranolol oral não é prioridade imediata.",
+        "B": "B — Correta: AAS 200 mg e clopidogrel 300 mg após avaliação de contraindicações.",
+        "C": "C — Troponina ajuda estratificação, mas não deve atrasar antiagregação quando a suspeita clínica é forte.",
+        "D": "D — Oxigênio não é rotineiro com saturação de 93% sem hipoxemia importante; nitrato isolado não substitui antiagregação."
+      },
+      "keyPoint": "SCA sem supra: AAS precoce e, conforme estratégia, segundo antiagregante; não atrasar tratamento aguardando marcadores."
+    },
+    "Q066": {
+      "explanation": "Poliúria, polidipsia, perda de peso, hiperglicemia, acidose metabólica importante e respiração de Kussmaul definem cetoacidose diabética. Em criança, começa-se com cristalóide; depois da reposição inicial inicia-se insulina IV contínua e acompanha-se/repõe-se potássio conforme evolução. Bicarbonato não é de rotina.",
+      "optionExplanations": {
+        "A": "A — Bolus de insulina e bicarbonato aumentam riscos e não são rotina.",
+        "B": "B — Correta: cristalóide inicial, depois insulina IV contínua com manejo de potássio.",
+        "C": "C — Iniciar insulina simultaneamente antes da reposição inicial e permitir volumes excessivos não é a conduta padrão.",
+        "D": "D — Coloide não é solução inicial e potássio precisa ser monitorado e frequentemente reposto."
+      },
+      "keyPoint": "Cetoacidose pediátrica: volume cuidadoso primeiro, depois insulina contínua; monitorar potássio e evitar bolus de insulina/bicarbonato rotineiro."
+    },
+    "Q067": {
+      "explanation": "No terceiro dia após colectomia, distensão, ausência de flatos/fezes, vômitos, ruídos diminuídos e TC com dilatação difusa sem sinais de perfuração ou ponto mecânico favorecem íleo paralítico pós-operatório prolongado.",
+      "optionExplanations": {
+        "A": "A — Isquemia mesentérica costuma causar dor desproporcional e achados vasculares/intestinal isquêmicos.",
+        "B": "B — Obstrução mecânica tende a ter ponto de transição e ruídos inicialmente aumentados.",
+        "C": "C — Deiscência costuma associar-se a peritonite, ar/líquido livre ou coleção.",
+        "D": "D — Correta: íleo paralítico prolongado."
+      },
+      "keyPoint": "Pós-operatório + distensão difusa + ruídos diminuídos + ausência de ponto de transição = íleo paralítico."
+    },
+    "Q068": {
+      "explanation": "BI-RADS 4C corresponde a achado suspeito com probabilidade relevante de malignidade, especialmente calcificações pleomórficas finas segmentares. A paciente deve ser encaminhada para investigação especializada e obtenção de diagnóstico histológico.",
+      "optionExplanations": {
+        "A": "A — Ressonância pode ter indicações específicas, mas não substitui a necessidade de investigação histológica.",
+        "B": "B — Rastreamento habitual é inadequado para BI-RADS 4C.",
+        "C": "C — Controle em 6 meses é típico de achados provavelmente benignos, não 4C.",
+        "D": "D — Correta: encaminhar à mastologia."
+      },
+      "keyPoint": "BI-RADS 4C não é seguimento de rotina: requer investigação diagnóstica/biopsia em serviço especializado."
+    },
+    "Q069": {
+      "explanation": "A atividade foi síncrona entre profissionais, sem participação da paciente, para apoiar a tomada de decisão da médica da APS. Isso caracteriza teleconsultoria: orientação técnico-assistencial sem transferência automática de responsabilidade clínica.",
+      "optionExplanations": {
+        "A": "A — Telediagnóstico envolve emissão de laudo/diagnóstico a distância sobre exame ou dado específico.",
+        "B": "B — Teleconsulta pressupõe interação remota entre profissional e paciente.",
+        "C": "C — Correta: teleconsultoria, mantendo responsabilidade assistencial com a médica da APS.",
+        "D": "D — Teleinterconsulta pressupõe participação conjunta na assistência e compartilhamento mais direto do cuidado, não o cenário descrito."
+      },
+      "keyPoint": "Teleconsultoria = profissional consulta outro profissional para apoio; paciente não participa diretamente."
+    },
+    "Q070": {
+      "explanation": "O documento deve permitir identificação inequívoca e, ao mesmo tempo, respeitar nome social e dignidade da paciente. Conforme o gabarito, a solução é emitir novo atestado com nome civil para compatibilidade formal, mantendo o nome social em campo próprio.",
+      "optionExplanations": {
+        "A": "A — Apenas substituir o nome social apaga um direito identitário da paciente.",
+        "B": "B — Incluir CID sem consentimento não é necessário para validar atestado e pode violar sigilo.",
+        "C": "C — Revelar à empresa que a paciente é trans expõe dado sensível sem necessidade.",
+        "D": "D — Correta conforme o gabarito: nome civil para identificação e nome social em campo específico."
+      },
+      "keyPoint": "Documentos clínicos devem conciliar identificação legal e respeito ao nome social, sem exposição desnecessária."
+    },
+    "Q071": {
+      "explanation": "Início relativamente súbito, evolução em degraus, fatores vasculares importantes, sinais neurológicos e prejuízo executivo desproporcional à memória sugerem demência vascular.",
+      "optionExplanations": {
+        "A": "A — Correta: o padrão é típico de demência vascular.",
+        "B": "B — Frontotemporal costuma iniciar mais cedo, com alterações comportamentais ou de linguagem predominantes.",
+        "C": "C — Lewy costuma ter flutuação cognitiva, alucinações visuais e parkinsonismo.",
+        "D": "D — Alzheimer geralmente apresenta progressão insidiosa e contínua, com memória episódica proeminente inicialmente."
+      },
+      "keyPoint": "Demência vascular: curso em degraus + fatores cerebrovasculares + déficits executivos/focais."
+    },
+    "Q072": {
+      "explanation": "Hipotensão, sinais de hipoperfusão, ureia desproporcionalmente elevada e piora da creatinina sugerem lesão renal aguda pré-renal por depleção, agravada por diurético e IECA. A hipercalemia é leve e sem alteração eletrocardiográfica; deve-se suspender fármacos que pioram perfusão/pressão e hidratar, com reavaliação.",
+      "optionExplanations": {
+        "A": "A — Furosemida IV pioraria depleção e não há indicação imediata de diálise.",
+        "B": "B — Manter enalapril e furosemida perpetua a fisiologia pré-renal; cálcio não é indicado sem alteração de ECG/hipercalemia grave.",
+        "C": "C — Restrição hídrica é oposta ao necessário e diálise não está indicada pelos dados.",
+        "D": "D — Correta: suspender enalapril, furosemida e anlodipino, hidratar e reavaliar."
+      },
+      "keyPoint": "IRA pré-renal por hipovolemia: suspender diurético/IECA e anti-hipertensivos, restaurar volume e reavaliar."
+    },
+    "Q073": {
+      "explanation": "Petéquias e púrpura não palpável com plaquetas de 18.000/mm³, hemoglobina/leucócitos preservados, sem organomegalias e coagulação normal configuram trombocitopenia isolada típica de púrpura trombocitopênica imune.",
+      "optionExplanations": {
+        "A": "A — Correta: o hemograma e exame físico favorecem PTI.",
+        "B": "B — Dengue costuma ter contexto epidemiológico/sintomas sistêmicos e pode afetar outros parâmetros.",
+        "C": "C — Leucemia geralmente apresenta alterações em outras séries, sintomas sistêmicos e/ou organomegalias.",
+        "D": "D — Vasculite IgA causa púrpura palpável com plaquetas normais."
+      },
+      "keyPoint": "PTI = trombocitopenia isolada em criança previamente bem, frequentemente após infecção viral."
+    },
+    "Q074": {
+      "explanation": "Eritema persistente em pele íntegra sobre proeminência óssea corresponde a lesão por pressão estágio 1. A principal prevenção é redistribuição de pressão com mudança regular de decúbito, associada a cuidados nutricionais e de pele.",
+      "optionExplanations": {
+        "A": "A — Argolas podem concentrar pressão e não são recomendadas.",
+        "B": "B — Decúbito dorsal permanente agrava pressão sacral.",
+        "C": "C — Correta: rodízio de decúbito em intervalos que não excedam cerca de 2 horas, individualizando conforme risco.",
+        "D": "D — Massagear área eritematosa pode lesar tecido vulnerável."
+      },
+      "keyPoint": "Lesão por pressão: aliviar pressão repetidamente; não massagear área eritematosa."
+    },
+    "Q075": {
+      "explanation": "Citologia com células glandulares atípicas (AGC) exige investigação do colo e, conforme idade/risco, do endométrio. A alternativa que combina avaliação endometrial por imagem e encaminhamento para colposcopia é a mais adequada entre as oferecidas.",
+      "optionExplanations": {
+        "A": "A — Repetir citologia e HPV isoladamente é insuficiente diante de AGC.",
+        "B": "B — Cauterização sem diagnóstico é inadequada.",
+        "C": "C — Correta conforme o gabarito: ultrassonografia transvaginal e colposcopia.",
+        "D": "D — Biópsia cervical às cegas antes da avaliação colposcópica não é a sequência proposta."
+      },
+      "keyPoint": "AGC tem risco de lesão glandular significativa e não deve ser apenas repetida em meses."
+    },
+    "Q076": {
+      "explanation": "Homens trans que mantêm colo uterino continuam sujeitos ao rastreamento do câncer do colo conforme idade e recomendações vigentes. O uso prolongado de testosterona pode provocar atrofia vaginal e cervical, tornando o exame especular e a coleta mais dolorosos e aumentando a chance de amostra insatisfatória. Quando há atrofia importante, curto curso de estrogênio vaginal antes da coleta pode melhorar o conforto e a qualidade da amostra.",
+      "optionExplanations": {
+        "A": "A — Correta: o estrogênio tópico vaginal por curto período pode reduzir a atrofia relacionada à testosterona e facilitar uma coleta adequada e menos desconfortável.",
+        "B": "B — A presença de atrofia não elimina a indicação de rastreamento quando o paciente mantém o colo uterino.",
+        "C": "C — Dilatação com vela de Hegar não é medida de rotina para preparar coleta citopatológica e acrescentaria trauma e desconforto desnecessários.",
+        "D": "D — A vacinação contra HPV é preventiva, mas não substitui o rastreamento indicado em pessoa que possui colo uterino."
+      },
+      "keyPoint": "Ter colo uterino, e não identidade de gênero, determina a necessidade de avaliar indicação de rastreamento cervical; atrofia por testosterona pode ser manejada para tornar a coleta mais confortável."
+    },
+    "Q077": {
+      "explanation": "O cenário descreve determinantes ambientais que favorecem diretamente a proliferação do Aedes: abastecimento coletivo e armazenamento doméstico improvisado de água. A intervenção de maior impacto e sustentabilidade é eliminar ou proteger criadouros com participação dos moradores e articulação intersetorial, agindo sobre a causa ambiental da transmissão.",
+      "optionExplanations": {
+        "A": "A — Correta: manejo ambiental, participação comunitária e ação intersetorial reduzem de forma sustentada os recipientes que funcionam como criadouros.",
+        "B": "B — Encaminhar casos suspeitos é assistência clínica importante, mas não atua sobre a fonte de transmissão nem reduz o vetor no território.",
+        "C": "C — Inseticidas podem ter papel complementar e focal, mas não substituem o controle ambiental contínuo e podem sofrer limitação por resistência e efeito transitório.",
+        "D": "D — Atuar apenas nos domicílios de casos notificados é insuficiente porque o vetor e os criadouros estão distribuídos por todo o território."
+      },
+      "keyPoint": "Controle sustentável do Aedes depende principalmente de manejo de criadouros associado à mobilização comunitária e ação intersetorial."
+    },
+    "Q078": {
+      "explanation": "A paciente apresenta dependência importante de nicotina, múltiplas tentativas prévias sem sucesso e deseja cessar o tabagismo. Entre as opções apresentadas, a bupropiona é fármaco de primeira linha utilizado no tratamento da dependência de nicotina, geralmente associada à abordagem comportamental.",
+      "optionExplanations": {
+        "A": "A — Fluoxetina é antidepressivo ISRS, mas não é medicamento de primeira linha para cessação do tabagismo.",
+        "B": "B — Dissulfiram é utilizado em situações selecionadas de transtorno por uso de álcool e não trata dependência de nicotina.",
+        "C": "C — Correta: a bupropiona reduz sintomas de abstinência e fissura e integra as opções farmacológicas para cessação do tabagismo.",
+        "D": "D — Diazepam não trata dependência de nicotina e ainda acrescenta risco de sedação, tolerância e dependência."
+      },
+      "keyPoint": "Bupropiona é uma das opções farmacológicas de primeira linha para cessação do tabagismo, sempre integrada ao aconselhamento."
+    },
+    "Q079": {
+      "explanation": "Diagnóstico de Alzheimer não equivale automaticamente a incapacidade civil. A capacidade deve ser avaliada de forma individual, específica para a decisão e com respeito à autonomia. O médico deve conversar com a própria paciente em linguagem compatível com seu nível cognitivo, documentar a avaliação e orientar a família sobre os instrumentos legais adequados, sem produzir declaração secreta de incapacidade apenas a pedido de terceiro.",
+      "optionExplanations": {
+        "A": "A — A demanda tem componente clínico e ético relevante; simplesmente recusá-la e remetê-la ao banco não resolve a necessidade de avaliação de capacidade.",
+        "B": "B — Relatar apenas o diagnóstico não responde adequadamente à questão de capacidade, que exige avaliação funcional e decisional individualizada.",
+        "C": "C — Declarar incapacidade sem avaliar a paciente e ocultar a finalidade do documento viola autonomia, transparência e boa prática documental.",
+        "D": "D — Correta: avaliar capacidade, envolver a paciente, registrar os achados e orientar os caminhos legais preserva autonomia e segurança."
+      },
+      "keyPoint": "Demência não significa incapacidade automática: capacidade é decisão-específica e deve ser avaliada e documentada individualmente."
+    },
+    "Q080": {
+      "explanation": "A recorrência de nódulos profundos, dolorosos, eritematosos e quentes que evoluem com drenagem purulenta caracteriza infecção do folículo piloso com formação de abscesso, isto é, furúnculo. A repetição de múltiplos episódios ao longo de meses corresponde a furunculose de repetição.",
+      "optionExplanations": {
+        "A": "A — Celulite é infecção difusa da derme e do subcutâneo, sem o padrão típico de nódulo folicular que evolui para coleção purulenta.",
+        "B": "B — Impetigo costuma produzir lesões superficiais, frequentemente crostas melicéricas, e não nódulos profundos dolorosos.",
+        "C": "C — Correta: episódios recorrentes de furúnculos, com nódulos dolorosos e drenagem purulenta, definem furunculose de repetição.",
+        "D": "D — Foliculite é mais superficial e costuma apresentar pústulas centradas no folículo, sem o mesmo grau de nodulação e abscesso."
+      },
+      "keyPoint": "Furúnculo é infecção folicular profunda com abscesso; episódios repetidos configuram furunculose recorrente."
+    },
+    "Q081": {
+      "explanation": "Protocolos multimodais como ACERTO e ERAS reduzem jejum pré-operatório desnecessariamente prolongado. Em cirurgia eletiva, líquidos claros podem ser ingeridos até cerca de 2 horas antes da anestesia; soluções com carboidratos fazem parte de estratégias de abreviação do jejum em pacientes selecionados.",
+      "optionExplanations": {
+        "A": "A — Jejum absoluto desde a meia-noite prolonga desnecessariamente o período sem ingestão e contraria os protocolos de recuperação acelerada.",
+        "B": "B — Correta: líquidos claros contendo carboidratos podem ser permitidos até 2 horas antes, conforme os protocolos citados e seleção clínica.",
+        "C": "C — Alimentos sólidos não devem ser mantidos até apenas 3 horas antes da anestesia.",
+        "D": "D — A formulação e o intervalo apresentados não correspondem à recomendação central de líquidos claros até 2 horas antes."
+      },
+      "keyPoint": "ERAS/ACERTO: abreviar o jejum; líquidos claros podem ser permitidos até 2 horas antes da anestesia em pacientes adequadamente selecionados."
+    },
+    "Q082": {
+      "explanation": "A ultrassonografia mostra lesão endometrial focal, ovalada e com pedículo vascular; a histeroscopia e o padrão histológico digitiforme com eixo vascular corroboram pólipo endometrial. É uma causa estrutural de sangramento uterino anormal.",
+      "optionExplanations": {
+        "A": "A — Leiomioma submucoso pode causar sangramento, mas costuma apresentar aspecto sólido miometrial e padrão vascular diferente do pedículo único descrito.",
+        "B": "B — Correta: lesão focal endometrial com pedículo vascular e estroma glandular ao redor de eixo vascular é compatível com pólipo endometrial.",
+        "C": "C — Hiperplasia endometrial tende a produzir espessamento mais difuso do endométrio, não uma pequena lesão pediculada focal.",
+        "D": "D — Carcinoma endometrial pode causar sangramento, mas os achados morfológicos descritos são típicos de pólipo e não de neoplasia invasiva."
+      },
+      "keyPoint": "Pólipo endometrial: lesão focal intracavitária, frequentemente com vaso nutridor/pedículo, associada a sangramento uterino anormal."
+    },
+    "Q083": {
+      "explanation": "A temperatura ambiental influencia a replicação do arbovírus dentro do mosquito. Em condições térmicas favoráveis, o período de incubação extrínseco — tempo entre o mosquito adquirir o vírus e tornar-se capaz de transmiti-lo — pode ser encurtado, aumentando a eficiência da transmissão em regiões antes menos propícias.",
+      "optionExplanations": {
+        "A": "A — Correta: temperaturas mais altas podem encurtar o período de incubação extrínseco e fazer o mosquito tornar-se infectante mais cedo.",
+        "B": "B — O aquecimento não atua principalmente induzindo mutações que transferem a transmissão para outras espécies de mosquito.",
+        "C": "C — A temperatura afeta o ciclo do vetor, mas a explicação epidemiológica mais direta pedida é o encurtamento da incubação extrínseca do vírus.",
+        "D": "D — Redução da densidade vetorial não explicaria aumento de transmissão; além disso, competência vetorial e densidade são conceitos diferentes."
+      },
+      "keyPoint": "Período de incubação extrínseco menor = mosquito infectante mais cedo = maior potencial de transmissão de arboviroses."
+    },
+    "Q084": {
+      "explanation": "Na alta de paciente complexo, a APS exerce coordenação do cuidado e longitudinalidade. Deve revisar o plano hospitalar, reconciliar e acompanhar o tratamento, monitorar precocemente a evolução e articular os demais pontos da Rede de Atenção à Saúde conforme necessidade, em vez de transferir a responsabilidade do seguimento para a especialidade.",
+      "optionExplanations": {
+        "A": "A — Correta: integra transição do cuidado, revisão do plano pós-alta, acompanhamento pela APS e articulação da rede.",
+        "B": "B — Encaminhamento especializado pode ser necessário, mas não deve transformar a APS em mero executor de condutas de outro nível.",
+        "C": "C — A coordenação não deve ficar centrada no ambulatório de especialidades até estabilização; a APS mantém responsabilidade longitudinal desde a alta.",
+        "D": "D — Visita domiciliar não é obrigatoriamente a primeira medida e a complexidade clínica não justifica adiar o seguimento ativo pela APS."
+      },
+      "keyPoint": "Na transição pós-alta, a APS coordena, revisa o plano terapêutico e articula a rede mantendo longitudinalidade."
+    },
+    "Q085": {
+      "explanation": "A paciente apresenta agitação grave, ameaça concreta e agressão física, e as medidas verbais/de-escalada já falharam. Diante de risco imediato para terceiros, a contenção mecânica pode ser necessária pelo menor tempo possível, com monitorização e registro, seguida de intervenção farmacológica para controlar a agitação; entre as opções, haloperidol intramuscular é a alternativa indicada.",
+      "optionExplanations": {
+        "A": "A — Medicação pode ser necessária, mas diante de agressão ativa e risco imediato a segurança física deve ser estabelecida antes da aplicação.",
+        "B": "B — Diazepam intramuscular tem absorção menos previsível e a opção não aborda adequadamente a contenção diante da violência ativa.",
+        "C": "C — Correta: após falha das medidas menos restritivas e diante de risco iminente, contenção mecânica seguida de haloperidol IM é a sequência indicada entre as alternativas.",
+        "D": "D — Apenas conter e observar não trata adequadamente a agitação psicótica intensa e prolonga a necessidade de restrição."
+      },
+      "keyPoint": "Contenção é último recurso: usar somente diante de risco iminente, após falha de medidas menos restritivas, com monitorização e tratamento da causa/agitação."
+    },
+    "Q086": {
+      "explanation": "A idosa apresenta doença cardiovascular e renal crônicas e relata sintomas compatíveis com possível intolerância hemodinâmica ao esquema. O princípio é revisar doses e indicação de cada fármaco, ajustando a terapia à função renal, pressão, frequência cardíaca e sintomas, sem retirar automaticamente medicamentos prognósticos nem adicionar fármacos sem indicação.",
+      "optionExplanations": {
+        "A": "A — Correta: manter a estratégia terapêutica com ajuste posológico individualizado equilibra benefício cardiovascular e tolerabilidade na idosa com DRC.",
+        "B": "B — Digoxina não é indicada apenas para tratar a queixa apresentada e acrescenta risco de toxicidade, especialmente com função renal reduzida.",
+        "C": "C — Sacubitril-valsartana não é automaticamente indicada em paciente com fração de ejeção de 53% apenas por esse quadro.",
+        "D": "D — Suspender o betabloqueador de forma indiscriminada pode retirar benefício cardiovascular; primeiro devem ser avaliadas dose, frequência cardíaca, pressão e sintomas."
+      },
+      "keyPoint": "Em idosos com multimorbidade, revise indicação, função renal e tolerabilidade e prefira ajuste individualizado a mudanças indiscriminadas."
+    },
+    "Q087": {
+      "explanation": "A criança tem pneumonia grave: hipoxemia importante (SatO₂ 88%), esforço respiratório e consolidação radiográfica. Necessita hospitalização, oxigenoterapia e antibiótico parenteral. Conforme o gabarito da prova, a melhor alternativa é ceftriaxona intravenosa com internação em unidade de terapia intensiva.",
+      "optionExplanations": {
+        "A": "A — Hipoxemia e desconforto respiratório tornam inadequados tratamento oral e alta ambulatorial.",
+        "B": "B — Azitromicina isolada não é a escolha empírica adequada para uma criança de 2 anos com pneumonia bacteriana grave e consolidação.",
+        "C": "C — Correta: ceftriaxona IV e internação em ambiente de alta vigilância correspondem à gravidade apresentada entre as opções.",
+        "D": "D — Antibiótico oral é insuficiente diante de SatO₂ 88% e sinais de insuficiência respiratória."
+      },
+      "keyPoint": "Pneumonia pediátrica com hipoxemia e esforço respiratório é grave e exige oxigênio, antibiótico parenteral e internação."
+    },
+    "Q088": {
+      "explanation": "A massa inguinal é redutível e surge aos esforços. O dado discriminador é a manobra de oclusão do anel inguinal profundo impedindo a protrusão: isso indica que o saco herniário passa pelo anel profundo, como ocorre na hérnia inguinal indireta.",
+      "optionExplanations": {
+        "A": "A — A hérnia direta protrui medialmente aos vasos epigástricos e pode reaparecer apesar da oclusão do anel profundo.",
+        "B": "B — Correta: impedir o abaulamento ao ocluir o anel profundo aponta para hérnia inguinal indireta.",
+        "C": "C — Hérnia femoral surge abaixo do ligamento inguinal, não pelo trajeto descrito.",
+        "D": "D — Não há elementos que indiquem componentes direto e indireto simultâneos."
+      },
+      "keyPoint": "Teste de oclusão do anel profundo: ausência de protrusão durante esforço favorece hérnia inguinal indireta."
+    },
+    "Q089": {
+      "explanation": "Dor pélvica intensa em mulher em idade fértil, atraso menstrual e uso de DIU obrigam excluir gestação ectópica. A avaliação inicial combina confirmação bioquímica da gestação com beta-hCG e localização por ultrassonografia transvaginal.",
+      "optionExplanations": {
+        "A": "A — Hemograma pode complementar avaliação de sangramento, mas radiografia abdominal não é exame para diagnosticar gestação ectópica.",
+        "B": "B — Proteína C reativa não localiza gestação e não substitui ultrassonografia.",
+        "C": "C — Ultrassonografia abdominal é menos sensível na gestação inicial e falta o beta-hCG.",
+        "D": "D — Correta: beta-hCG associado à ultrassonografia transvaginal é a combinação inicial para confirmar e localizar uma possível gestação."
+      },
+      "keyPoint": "Suspeita de gestação ectópica: beta-hCG + ultrassonografia transvaginal."
+    },
+    "Q090": {
+      "explanation": "Após avaliação neurovascular, assepsia e anestesia local, uma técnica possível para anzol simples transfixado é avançar/remover a farpa de modo controlado. Conforme a técnica cobrada pelo Caderno de Atenção Básica e o gabarito, corta-se a extremidade com farpa e retira-se o restante do anzol pelo orifício de entrada.",
+      "optionExplanations": {
+        "A": "A — Avaliação de força e sensibilidade é importante, mas isoladamente não responde à técnica de remoção solicitada.",
+        "B": "B — Correta: cortar a extremidade farpada permite retirar o corpo do anzol no sentido inverso sem fazer a farpa rasgar novamente os tecidos.",
+        "C": "C — Incisão ampla com lâmina não é necessária de rotina em anzol simples superficial/transfixado.",
+        "D": "D — Tracionar a farpa com pinça pelo orifício de saída não corresponde à técnica indicada na alternativa correta e pode ampliar trauma."
+      },
+      "keyPoint": "Corpo estranho em forma de anzol exige avaliação neurovascular, anestesia/assepsia e técnica que neutralize a farpa para evitar trauma adicional."
+    },
+    "Q091": {
+      "explanation": "O quadro é clássico de síndrome de Gilbert: episódios intermitentes de hiperbilirrubinemia indireta leve, precipitados por jejum, estresse ou privação de sono, com enzimas hepáticas e marcadores de hemólise normais. É distúrbio benigno de conjugação da bilirrubina e, em apresentação típica, basta orientação e tranquilização.",
+      "optionExplanations": {
+        "A": "A — Teste genético de UGT1A1 geralmente não é necessário quando o quadro clínico-laboratorial é típico.",
+        "B": "B — Fenobarbital pode reduzir bilirrubina, mas não há indicação de tratamento para síndrome benigna e assintomática.",
+        "C": "C — Correta: reconhecer a condição benigna e orientar sobre possíveis gatilhos é a conduta adequada.",
+        "D": "D — Ultrassonografia não é necessária diante de hiperbilirrubinemia indireta isolada sem sinais de doença hepatobiliar."
+      },
+      "keyPoint": "Gilbert = hiperbilirrubinemia indireta leve e intermitente, restante do fígado/hemólise normal, sem necessidade de tratamento."
+    },
+    "Q092": {
+      "explanation": "O lactente tem diarreia aguda sem sinais de desidratação, febre ou vômitos. A conduta é manter alimentação e aleitamento, ampliar oferta de líquidos e solução de reidratação oral, orientar sinais de alarme/desidratação e evitar exposição coletiva enquanto sintomático.",
+      "optionExplanations": {
+        "A": "A — Antibiótico não é indicado de rotina em diarreia aquosa aguda sem sinais de infecção invasiva, e dieta obstipante é desnecessária.",
+        "B": "B — Restrição de lactose e probiótico não são medidas obrigatórias nesse quadro; manter a criança na creche aumenta risco de transmissão.",
+        "C": "C — Criança ativa e hidratada não precisa de internação nem hidratação venosa.",
+        "D": "D — Correta: reforça hidratação e aleitamento, orienta sinais de desidratação e reduz transmissão no ambiente coletivo."
+      },
+      "keyPoint": "Diarreia aguda sem desidratação: SRO, líquidos e alimentação/aleitamento mantidos; antibiótico e hidratação IV não são rotina."
+    },
+    "Q093": {
+      "explanation": "O paciente está no pós-operatório de enterectomia extensa, com jejunostomia, ventilação mecânica e necessidade de drogas vasoativas. Nesse contexto de instabilidade e provável inviabilidade/insuficiência da via enteral imediata, a alternativa apropriada é nutrição parenteral por acesso venoso central.",
+      "optionExplanations": {
+        "A": "A — A jejunostomia não é a melhor via enquanto há instabilidade hemodinâmica relevante e uso de vasopressores.",
+        "B": "B — Tubo nasogástrico não supera a limitação do trato gastrointestinal decorrente de extensa ressecção e instabilidade.",
+        "C": "C — Correta: acesso venoso central permite nutrição parenteral com soluções hiperosmolares quando a via enteral não é apropriada.",
+        "D": "D — Sonda nasoentérica continua sendo via enteral e não é a escolha indicada no cenário descrito."
+      },
+      "keyPoint": "Nutrição parenteral central é opção quando a via enteral é inviável ou inadequada, especialmente em contexto pós-operatório intestinal complexo e instabilidade."
+    },
+    "Q094": {
+      "explanation": "Corrimento abundante amarelo-esverdeado, prurido, colo em 'framboesa'/pontilhado, pH vaginal elevado e teste de aminas negativo apontam para tricomoníase. O tratamento indicado entre as alternativas é metronidazol por via oral.",
+      "optionExplanations": {
+        "A": "A — Correta: metronidazol oral é tratamento da tricomoníase e o esquema apresentado é compatível com a alternativa oficial.",
+        "B": "B — Clindamicina vaginal é opção para vaginose bacteriana, quadro que geralmente não produz colo pontilhado típico.",
+        "C": "C — Fluconazol trata candidíase, que costuma ter corrimento branco grumoso e pH vaginal habitualmente normal.",
+        "D": "D — Miconazol também trata candidíase, não Trichomonas vaginalis."
+      },
+      "keyPoint": "Tricomoníase: corrimento amarelo-esverdeado, pH > 4,5 e colo pontilhado; tratamento com nitroimidazólico sistêmico."
+    },
+    "Q095": {
+      "explanation": "Na reavaliação, o paciente evolui com sinais de alarme/gravidade: vômitos persistentes, dor abdominal, lipotímia, oligúria, hemoconcentração, plaquetopenia e sinais de hipoperfusão periférica. Isso exige acesso venoso, reposição volêmica e monitorização hemodinâmica, com encaminhamento para internação.",
+      "optionExplanations": {
+        "A": "A — Correta: diante de sinais de alarme e comprometimento circulatório, deve-se iniciar hidratação venosa, monitorizar e internar.",
+        "B": "B — Apenas hidratação oral e retorno tardio são inadequados diante de hipoperfusão e sinais de alarme.",
+        "C": "C — A confirmação laboratorial não deve atrasar tratamento; observação curta com possível alta não corresponde à gravidade descrita.",
+        "D": "D — Ultrassonografia pode ser útil em contextos selecionados, mas não deve anteceder a estabilização volêmica e hemodinâmica."
+      },
+      "keyPoint": "Dengue com sinais de alarme/hipoperfusão: prioridade é estabilização com hidratação IV e monitorização, não confirmação diagnóstica adicional."
+    },
+    "Q096": {
+      "explanation": "Monoartrite aguda, quente, muito dolorosa e com derrame em idosa diabética exige excluir artrite séptica e artrite por cristais. O exame decisivo inicial é artrocentese com análise do líquido sinovial para contagem celular, Gram, cultura e pesquisa de cristais.",
+      "optionExplanations": {
+        "A": "A — Antibiótico pode ser necessário se houver forte suspeita de artrite séptica, mas deve-se obter líquido sinovial para diagnóstico sempre que possível antes do tratamento.",
+        "B": "B — Correta: artrocentese diferencia infecção, gota/pseudogota e outras causas de monoartrite aguda.",
+        "C": "C — Ressonância não substitui a análise do líquido sinovial na investigação inicial de artrite séptica/cristalina.",
+        "D": "D — Prescrever AINE sem esclarecer artrite séptica pode atrasar diagnóstico de condição potencialmente destrutiva."
+      },
+      "keyPoint": "Monoartrite aguda com derrame = artrocentese. Nunca atribua automaticamente a osteoartrite ou gota sem excluir infecção."
+    },
+    "Q097": {
+      "explanation": "Lactente de 8 meses com primeiro episódio de sibilância após pródromo de infecção de vias aéreas superiores, retrações e sibilos difusos tem quadro típico de bronquiolite. O vírus sincicial respiratório é o principal agente etiológico nessa faixa etária.",
+      "optionExplanations": {
+        "A": "A — Streptococcus pneumoniae é causa importante de pneumonia bacteriana, não o agente clássico de bronquiolite.",
+        "B": "B — Correta: o vírus sincicial respiratório é a principal causa de bronquiolite em lactentes.",
+        "C": "C — Mycoplasma pneumoniae é mais associado a pneumonia atípica em crianças maiores e adolescentes.",
+        "D": "D — Haemophilus influenzae pode causar infecções bacterianas, mas não é o agente típico desse quadro de bronquiolite."
+      },
+      "keyPoint": "Bronquiolite no lactente: pródromo viral + sibilância/crepitações e esforço respiratório; VSR é o agente mais frequente."
+    },
+    "Q098": {
+      "explanation": "Dor, edema unilateral, calor e empastamento de panturrilha no pós-operatório configuram alta suspeita clínica de trombose venosa profunda. Em paciente com probabilidade clínica elevada, o exame de imagem de escolha é ultrassonografia venosa com Doppler. Conforme as opções e o gabarito, deve-se solicitar o Doppler e conduzir conforme o resultado.",
+      "optionExplanations": {
+        "A": "A — Trombólise sistêmica não é tratamento inicial de uma TVP estável sem ameaça ao membro ou embolia pulmonar maciça.",
+        "B": "B — D-dímero tem baixa utilidade em contexto pós-operatório e com alta probabilidade clínica, pois pode estar elevado por múltiplas causas.",
+        "C": "C — A dose/esquema apresentado não corresponde ao tratamento terapêutico adequado e a confirmação diagnóstica está disponível na alternativa correta.",
+        "D": "D — Correta: Doppler venoso é o exame inicial para confirmar ou afastar TVP em quadro clínico sugestivo."
+      },
+      "keyPoint": "Alta suspeita de TVP no pós-operatório: ultrassonografia venosa/Doppler é o exame de escolha; D-dímero perde especificidade."
+    },
+    "Q099": {
+      "explanation": "Adolescentes devem participar ativamente das decisões sobre sua saúde, com atendimento individualizado, privacidade e confidencialidade dentro dos limites éticos e legais. A idade, por si só, não autoriza a mãe a substituir automaticamente a vontade da gestante sobre via de parto quando ela apresenta capacidade para compreender e decidir.",
+      "optionExplanations": {
+        "A": "A — Menoridade não torna automaticamente inválida toda decisão clínica da adolescente nem constitui indicação obstétrica de cesariana.",
+        "B": "B — Correta: atendimento individual permite avaliar compreensão, respeitar autonomia progressiva e discutir a via de parto com a própria adolescente.",
+        "C": "C — Não se deve suspender ou postergar o pré-natal até consenso familiar; o cuidado deve continuar.",
+        "D": "D — Agendar cesariana apenas por solicitação da responsável ignora indicação obstétrica e autonomia da paciente."
+      },
+      "keyPoint": "Na atenção à adolescente, autonomia progressiva, privacidade e confidencialidade devem ser protegidas; via de parto requer decisão clínica compartilhada, não imposição familiar."
+    },
+    "Q100": {
+      "explanation": "Febre, tosse, coriza, conjuntivite, manchas de Koplik e exantema em criança não vacinada formam quadro típico de sarampo. Além das medidas de notificação, isolamento e suporte, a vitamina A reduz morbimortalidade em crianças com sarampo e é recomendada no manejo.",
+      "optionExplanations": {
+        "A": "A — Tobramicina não trata a causa viral sistêmica; a conjuntivite faz parte do quadro do sarampo.",
+        "B": "B — Antibiótico oral não é indicado para sarampo não complicado e só teria papel diante de infecção bacteriana secundária específica.",
+        "C": "C — Oseltamivir trata influenza, não sarampo.",
+        "D": "D — Correta: vitamina A oral faz parte do tratamento de crianças com sarampo, associada ao suporte e às medidas de vigilância."
+      },
+      "keyPoint": "Sarampo: febre + tosse/coriza/conjuntivite + Koplik + exantema; em crianças, incluir vitamina A no manejo."
+    }
+  }
+}
