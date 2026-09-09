@@ -1,0 +1,27 @@
+{
+  "status": "PASS",
+  "questions": 100,
+  "answers": 100,
+  "errors": [],
+  "warnings": [],
+  "optionSets": [
+    "ABCD"
+  ],
+  "metadata": {
+    "EXAM_ID": "revalida-2024-2",
+    "EXAM": "REVALIDA",
+    "BOARD": "INEP",
+    "YEAR": "2024",
+    "EDITION": "2024/2",
+    "TYPE": "OBJECTIVE",
+    "QUESTION_COUNT": "100",
+    "OPTION_LABELS": "ABCD",
+    "TIME_MINUTES": "300"
+  },
+  "keyMetadata": {
+    "EXAM_ID": "revalida-2024-2",
+    "EDITION": "2024/2",
+    "SOURCE": "INEP",
+    "STATUS": "FINAL"
+  }
+}
