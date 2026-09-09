@@ -21,6 +21,25 @@ struct QuestionOption: Identifiable, Codable, Hashable {
     let text: String
 }
 
+struct QuestionTable: Codable, Hashable {
+    let columns: [String]
+    let rows: [[String]]
+}
+
+struct QuestionMedia: Identifiable, Codable, Hashable {
+    let id: String
+    let kind: String
+    let title: String?
+    let caption: String?
+    let url: String?
+    let table: QuestionTable?
+    let altText: String?
+
+    var resolvedURL: URL? { AppConfig.resolveContentURL(url) }
+    var isImage: Bool { kind.lowercased() == "image" }
+    var isTable: Bool { kind.lowercased() == "table" }
+}
+
 struct Question: Identifiable, Codable, Hashable {
     let id: String
     let examId: String?
@@ -40,6 +59,7 @@ struct Question: Identifiable, Codable, Hashable {
     let keyPoint: String?
     let status: String
     let officialSourceURL: String?
+    let media: [QuestionMedia]?
 }
 
 struct NewsItem: Identifiable, Codable, Hashable {
@@ -138,5 +158,9 @@ extension Question {
             parts.append(String(year))
         }
         return parts.joined(separator: " • ")
+    }
+
+    var hasRichMedia: Bool {
+        !(media ?? []).isEmpty
     }
 }
