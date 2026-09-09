@@ -2,7 +2,7 @@ import SwiftUI
 
 struct HomeView: View {
     @EnvironmentObject var app: AppState
-    @State private var stats = DashboardStats(answeredToday: 0, dailyGoal: AppConfig.dailyGoal, totalAnswered: 0, uniqueAnswered: 0, correctAnswered: 0, pendingReviews: 0, currentStreak: 0)
+    @State private var stats = DashboardStats(answeredToday: 0, dailyGoal: AppConfig.dailyGoal, totalAnswered: 0, scorableAnswered: 0, uniqueAnswered: 0, correctAnswered: 0, pendingReviews: 0, currentStreak: 0)
     @State private var showSettings = false
 
     var body: some View {
@@ -16,7 +16,7 @@ struct HomeView: View {
                 }.padding().background(.thinMaterial, in: RoundedRectangle(cornerRadius: 18))
 
                 LazyVGrid(columns: [GridItem(.flexible()), GridItem(.flexible())], spacing: 12) {
-                    MetricCard(title:"Acerto geral", value:String(format:"%.1f%%", stats.accuracy), subtitle:"todas as respostas", systemImage:"target")
+                    MetricCard(title:"Acerto geral", value:String(format:"%.1f%%", stats.accuracy), subtitle:"\(stats.scorableAnswered) respostas válidas", systemImage:"target")
                     MetricCard(title:"Questões únicas", value:"\(stats.uniqueAnswered)", subtitle:"\(stats.totalAnswered) respostas", systemImage:"square.stack.3d.up")
                     MetricCard(title:"Revisões", value:"\(stats.pendingReviews)", subtitle:"pendentes", systemImage:"arrow.triangle.2.circlepath")
                     MetricCard(title:"Sequência", value:"\(stats.currentStreak)d", subtitle:"dias consecutivos", systemImage:"flame.fill")
@@ -95,53 +95,32 @@ struct SettingsView: View {
     @Environment(\.dismiss) var dismiss
     @State private var goal = AppConfig.dailyGoal
     @State private var safety = AppConfig.safetyTarget
-    @State private var manifest = AppConfig.remoteManifestURL
 
     var body: some View {
         NavigationStack {
             Form {
                 Section("Metas") {
-                    Stepper("Questões por dia: \(goal)", value:$goal, in:1...500)
-                    Stepper("Meta de segurança: \(safety)/100", value:$safety, in:1...100)
+                    Stepper("Questões por dia: \(goal)", value: $goal, in: 1...500)
+                    Stepper("Meta de segurança: \(safety)/100", value: $safety, in: 1...100)
                 }
 
                 Section("Atualização do banco") {
-                    TextField(
-                        "https://.../manifest.json",
-                        text:$manifest
-                    )
-                    .textInputAutocapitalization(.never)
-                    .keyboardType(.URL)
-
-                    LabeledContent(
-                        "Versão local",
-                        value:"v\(app.contentVersion)"
-                    )
-
+                    HStack {
+                        Label("Fonte oficial configurada", systemImage: "lock.shield.fill")
+                        Spacer()
+                        Image(systemName: "checkmark.circle.fill").foregroundStyle(.green)
+                    }
+                    LabeledContent("Versão local", value: "v\(app.contentVersion)")
                     if let remote = app.remoteContentVersion {
-                        LabeledContent(
-                            "Versão remota",
-                            value:"v\(remote)"
-                        )
+                        LabeledContent("Versão remota", value: "v\(remote)")
                     }
 
                     Button {
-                        // Salva a URL que está na tela ANTES da verificação.
-                        AppConfig.remoteManifestURL = manifest
-                        Task {
-                            await app.checkForUpdates(silent:false)
-                        }
+                        Task { await app.checkForUpdates(silent: false) }
                     } label: {
                         HStack {
-                            if app.isCheckingUpdate {
-                                ProgressView()
-                                    .controlSize(.small)
-                            }
-                            Text(
-                                app.isCheckingUpdate
-                                ? "Verificando..."
-                                : "Verificar atualização"
-                            )
+                            if app.isCheckingUpdate { ProgressView().controlSize(.small) }
+                            Text(app.isCheckingUpdate ? "Verificando..." : "Verificar atualização")
                         }
                     }
                     .disabled(app.isCheckingUpdate)
@@ -155,17 +134,16 @@ struct SettingsView: View {
                 }
 
                 Section {
-                    Text("O conteúdo oficial e o código do app são separados. Uma nova prova pode entrar por pack sem reinstalar o IPA.")
+                    Text("O conteúdo oficial é atualizado por um endpoint fixo e validado pelo app. O endereço não pode ser alterado pelas configurações.")
                         .font(.footnote)
                 }
             }
             .navigationTitle("Configurações")
             .toolbar {
-                ToolbarItem(placement:.confirmationAction) {
+                ToolbarItem(placement: .confirmationAction) {
                     Button("Salvar") {
                         AppConfig.dailyGoal = goal
                         AppConfig.safetyTarget = safety
-                        AppConfig.remoteManifestURL = manifest
                         dismiss()
                     }
                 }
