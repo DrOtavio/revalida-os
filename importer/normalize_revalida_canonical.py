@@ -31,9 +31,9 @@ NOISE_PATTERNS = [
 ]
 
 ENCLOSED = {
-    'Ⓐ':'A','Ⓑ':'B','Ⓒ':'C','Ⓓ':'D',
-    'ⓐ':'A','ⓑ':'B','ⓒ':'C','ⓓ':'D',
-    '🅐':'A','🅑':'B','🅒':'C','🅓':'D',
+    'Ⓐ':'A','Ⓑ':'B','Ⓒ':'C','Ⓓ':'D','Ⓔ':'E',
+    'ⓐ':'A','ⓑ':'B','ⓒ':'C','ⓓ':'D','ⓔ':'E',
+    '🅐':'A','🅑':'B','🅒':'C','🅓':'D','🅔':'E',
 }
 
 
@@ -108,10 +108,10 @@ def option_marker(line: str):
     # remove bullets / ornaments before the letter
     s = re.sub(r'^[•◦▪■□◆◇●○►▶▸›»·*+\-–—\s]+', '', s)
     patterns = [
-        r'^\(?\s*([A-D])\s*\)?\s*[\.\-–—:]\s*(.*)$',
-        r'^\[\s*([A-D])\s*\]\s*(.*)$',
-        r'^([A-D])\s{1,}(.*)$',
-        r'^([A-D])\s*$',
+        r'^\(?\s*([A-E])\s*\)?\s*[\.\-–—:]\s*(.*)$',
+        r'^\[\s*([A-E])\s*\]\s*(.*)$',
+        r'^([A-E])\s{1,}(.*)$',
+        r'^([A-E])\s*$',
     ]
     for p in patterns:
         m = re.match(p, s)
@@ -128,7 +128,8 @@ def split_options(chunk: str):
         om=option_marker(line)
         if om:
             markers.append((idx,om[0],om[1]))
-    # choose first plausible sequential A B C D quartet
+    # Escolhe a primeira sequência plausível A-B-C-D e inclui E quando presente.
+    # As edições antigas do Revalida usaram cinco alternativas; as atuais usam quatro.
     for ai,(aidx,alabel,arest) in enumerate(markers):
         if alabel!='A': continue
         seq=[(aidx,'A',arest)]
@@ -140,10 +141,25 @@ def split_options(chunk: str):
                 seq=[]; break
             seq.append(markers[pos]); pos += 1
         if len(seq)!=4: continue
+
+        # E é opcional. Só é anexado quando surge depois de D dentro do bloco da questão.
+        e_marker = None
+        scan = pos
+        while scan < len(markers):
+            if markers[scan][1] == 'E':
+                e_marker = markers[scan]
+                break
+            # um novo A normalmente indica que não há E nesta questão
+            if markers[scan][1] == 'A':
+                break
+            scan += 1
+        if e_marker is not None:
+            seq.append(e_marker)
+
         stem='\n'.join(lines[:seq[0][0]]).strip()
         opts={}
         for j,(idx,label,rest) in enumerate(seq):
-            end=seq[j+1][0] if j<3 else len(lines)
+            end=seq[j+1][0] if j < len(seq)-1 else len(lines)
             body=[]
             if rest: body.append(rest)
             body.extend(lines[idx+1:end])
@@ -152,7 +168,7 @@ def split_options(chunk: str):
             opts[label]=text
         if len(stem)>=10 and all(opts.get(x) for x in 'ABCD'):
             return stem, opts, 'OK'
-    return chunk.strip(), {x:'' for x in 'ABCD'}, 'REVIEW_REQUIRED'
+    return chunk.strip(), {}, 'REVIEW_REQUIRED'
 
 
 def score_candidate(text: str):
