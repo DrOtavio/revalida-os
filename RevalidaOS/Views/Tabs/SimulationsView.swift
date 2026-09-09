@@ -167,6 +167,12 @@ struct SimulationRunnerView: View {
                 VStack(alignment: .leading, spacing: 16) {
                     QuestionMetadataHeader(question: current)
                     Text(current.stem)
+                        .textSelection(.enabled)
+
+                    if let media = current.media, !media.isEmpty {
+                        QuestionRichContentView(media: media)
+                    }
+
                     ForEach(current.options) { opt in
                         let selected = answers[current.id] == opt.label
                         Button { answers[current.id] = opt.label } label: {
@@ -408,6 +414,11 @@ struct SimulationQuestionResultView: View {
             VStack(alignment: .leading, spacing: 14) {
                 QuestionMetadataHeader(question: question)
                 Text(question.stem)
+                    .textSelection(.enabled)
+
+                if let media = question.media, !media.isEmpty {
+                    QuestionRichContentView(media: media)
+                }
 
                 if question.isAnnulled {
                     Label("Questão anulada — não contabilizada como erro", systemImage: "exclamationmark.circle.fill")
@@ -436,13 +447,29 @@ struct SimulationQuestionResultView: View {
                     Text("Comentário").font(.headline)
                     Text(e)
                 }
+
                 if let ex = question.optionExplanations {
                     ForEach(question.options) { opt in
-                        if let t = ex[opt.label] { Text("\(opt.label): \(t)").font(.subheadline).foregroundStyle(.secondary) }
+                        if let t = ex[opt.label] {
+                            VStack(alignment: .leading, spacing: 4) {
+                                Text("\(opt.label) — \(opt.label == question.correctOption ? "correta" : "incorreta")")
+                                    .font(.headline)
+                                Text(t)
+                                    .font(.subheadline)
+                                    .foregroundStyle(.secondary)
+                            }
+                        }
                     }
                 }
+
                 if let k = question.keyPoint {
-                    Text(k).padding().background(Color.accentColor.opacity(0.1), in: RoundedRectangle(cornerRadius: 12))
+                    VStack(alignment: .leading, spacing: 5) {
+                        Label("O que a questão queria testar", systemImage: "scope")
+                            .font(.headline)
+                        Text(k)
+                    }
+                    .padding()
+                    .background(Color.accentColor.opacity(0.1), in: RoundedRectangle(cornerRadius: 12))
                 }
             }
             .padding()
