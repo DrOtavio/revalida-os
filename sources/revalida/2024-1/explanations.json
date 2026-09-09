@@ -1,0 +1,1008 @@
+{
+  "schemaVersion": 1,
+  "edition": "2024/1",
+  "source": "INEP + comentário editorial Revalida OS",
+  "notice": "Comentários são editoriais e educativos; o gabarito definitivo do INEP é preservado. Questões anuladas não recebem alternativa correta.",
+  "questions": {
+    "Q001": {
+      "explanation": "Disúria, polaciúria, urgência e dor hipogástrica sem febre ou sinais sistêmicos caracterizam cistite aguda não complicada; nitrofurantoína é opção apropriada de primeira linha.",
+      "optionExplanations": {
+        "A": "A — Correta: Disúria, polaciúria, urgência e dor hipogástrica sem febre ou sinais sistêmicos caracterizam cistite aguda não complicada; nitrofurantoína é opção apropriada de primeira linha.",
+        "B": "B — Incorreta: “ITU alta não complicada; iniciar norfloxacino.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é cistite aguda não complicada.",
+        "C": "C — Incorreta: “ITU por Staphylococcus aureus; iniciar antibiótico de amplo espectro.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é cistite aguda não complicada.",
+        "D": "D — Incorreta: “Nefrolitíase complicada com ITU; iniciar antibiótico após resultado de urocultura.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é cistite aguda não complicada."
+      },
+      "keyPoint": "Ponto-chave: Cistite aguda não complicada."
+    },
+    "Q002": {
+      "explanation": "Trauma pélvico com hematoma perineal levanta suspeita de lesão uretral; a uretrocistografia retrógrada é o exame indicado antes de instrumentar a uretra.",
+      "optionExplanations": {
+        "A": "A — Correta: Trauma pélvico com hematoma perineal levanta suspeita de lesão uretral; a uretrocistografia retrógrada é o exame indicado antes de instrumentar a uretra.",
+        "B": "B — Incorreta: “Cistostomia suprapúbica aberta.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é lesão uretral no trauma pélvico.",
+        "C": "C — Incorreta: “Tomografia pélvica sem contraste.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é lesão uretral no trauma pélvico.",
+        "D": "D — Incorreta: “Ultrassonografia de abdome e pelve.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é lesão uretral no trauma pélvico."
+      },
+      "keyPoint": "Ponto-chave: Lesão uretral no trauma pélvico."
+    },
+    "Q003": {
+      "explanation": "Movimentos oculares oscilatórios repetitivos em lactente definem nistagmo e exigem investigação oftalmológica e neurológica, especialmente após teste do reflexo vermelho inconclusivo.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Catarata congênita; refazer o teste do olhinho no paciente.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é nistagmo no lactente.",
+        "B": "B — Incorreta: “Estrabismo; tranquilizar a mãe do paciente e agendar retorno precoce.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é nistagmo no lactente.",
+        "C": "C — Correta: Movimentos oculares oscilatórios repetitivos em lactente definem nistagmo e exigem investigação oftalmológica e neurológica, especialmente após teste do reflexo vermelho inconclusivo.",
+        "D": "D — Incorreta: “Xeroftalmia; solicitar dosagem de vitamina A do paciente com urgência.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é nistagmo no lactente."
+      },
+      "keyPoint": "Ponto-chave: Nistagmo no lactente."
+    },
+    "Q004": {
+      "explanation": "Sangramento, dor, colo uterino pérvio e eliminação de material ovular indicam abortamento em evolução; a paciente deve receber informação e opções de esvaziamento uterino ou manejo expectante conforme estabilidade e preferência.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Ameaça de abortamento; solicitar ultrassonografia transvaginal e, se feto com boa vitalidade, recomendar repouso e iniciar pré-natal.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é abortamento em evolução.",
+        "B": "B — Incorreta: “Ameaça de abortamento; prescrever analgésico, recomendar repouso no domicílio e orientar retorno se houver piora do sangramento.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é abortamento em evolução.",
+        "C": "C — Incorreta: “Abortamento em evolução; explicar com linguagem acessível o quadro, internar e realizar ultrassonografia pélvica para confirmar útero vazio.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é abortamento em evolução.",
+        "D": "D — Correta: Sangramento, dor, colo uterino pérvio e eliminação de material ovular indicam abortamento em evolução; a paciente deve receber informação e opções de esvaziamento uterino ou manejo expectante conforme estabilidade e preferência."
+      },
+      "keyPoint": "Ponto-chave: Abortamento em evolução."
+    },
+    "Q005": {
+      "explanation": "Organizar visitas domiciliares por necessidade e vulnerabilidade, oferecendo mais a quem mais precisa, expressa o princípio da equidade.",
+      "optionExplanations": {
+        "A": "A — Correta: Organizar visitas domiciliares por necessidade e vulnerabilidade, oferecendo mais a quem mais precisa, expressa o princípio da equidade.",
+        "B": "B — Incorreta: “Autonomia.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é equidade e priorização de visitas domiciliares.",
+        "C": "C — Incorreta: “Integralidade.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é equidade e priorização de visitas domiciliares.",
+        "D": "D — Incorreta: “Universalidade.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é equidade e priorização de visitas domiciliares."
+      },
+      "keyPoint": "Ponto-chave: Equidade e priorização de visitas domiciliares."
+    },
+    "Q006": {
+      "explanation": "No adulto idoso, a vacina contra herpes-zóster pode ser indicada mesmo após episódio prévio de varicela; as demais doenças relatadas conferem imunidade e não justificam revacinação específica nas opções.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Caxumba.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é vacinação do adulto idoso.",
+        "B": "B — Incorreta: “Hepatite A.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é vacinação do adulto idoso.",
+        "C": "C — Incorreta: “Tríplice viral.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é vacinação do adulto idoso.",
+        "D": "D — Correta: No adulto idoso, a vacina contra herpes-zóster pode ser indicada mesmo após episódio prévio de varicela; as demais doenças relatadas conferem imunidade e não justificam revacinação específica nas opções."
+      },
+      "keyPoint": "Ponto-chave: Vacinação do adulto idoso."
+    },
+    "Q007": {
+      "explanation": "O gabarito definitivo anulou a questão. Febre no quinto dia após cirurgia colorretal exige avaliação de várias fontes possíveis, incluindo complicações intra-abdominais, urinárias, respiratórias e do sítio cirúrgico; os dados fornecidos não permitiram definir de forma inequívoca uma única origem entre as alternativas.",
+      "optionExplanations": {
+        "A": "A — Atelectasia pode ocorrer no pós-operatório, mas não deve ser assumida como causa isolada de febre no quinto dia sem achados respiratórios.",
+        "B": "B — Infecção urinária é possível no pós-operatório, porém o caso não fornece sintomas urinários, sondagem ou exames que a sustentem.",
+        "C": "C — Abscesso subfrênico é complicação possível de cirurgia abdominal, mas faltam sinais localizatórios ou imagem.",
+        "D": "D — Infecção profunda do sítio cirúrgico pode ocorrer, porém ferida externa limpa não confirma nem exclui foco profundo."
+      },
+      "keyPoint": "Questão anulada: febre pós-operatória deve ser investigada de forma sistemática; o dia pós-operatório isoladamente não define a causa."
+    },
+    "Q008": {
+      "explanation": "Crise generalizada única, com duração inferior a 15 minutos, associada à febre e recuperação neurológica completa é convulsão febril simples; a conduta é investigar e tratar a causa da febre sem neuroimagem ou EEG rotineiros.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Convulsão febril simples; realizar, diante do quadro febril, tomografia computadorizada e punção lombar.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é convulsão febril simples.",
+        "B": "B — Incorreta: “Convulsão febril complexa; realizar internação hospitalar e eletroencefalograma para investigar o quadro febril.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é convulsão febril simples.",
+        "C": "C — Correta: Crise generalizada única, com duração inferior a 15 minutos, associada à febre e recuperação neurológica completa é convulsão febril simples; a conduta é investigar e tratar a causa da febre sem neuroimagem ou EEG rotineiros.",
+        "D": "D — Incorreta: “Convulsão febril complexa; realizar internação hospitalar e ressonância magnética para investigar o quadro febril.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é convulsão febril simples."
+      },
+      "keyPoint": "Ponto-chave: Convulsão febril simples."
+    },
+    "Q009": {
+      "explanation": "BI-RADS 4 significa achado suspeito de malignidade e requer confirmação histológica por biópsia, não simples seguimento semestral.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Realização de quadrantectomia.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é bi-rads 4 e investigação histológica.",
+        "B": "B — Correta: BI-RADS 4 significa achado suspeito de malignidade e requer confirmação histológica por biópsia, não simples seguimento semestral.",
+        "C": "C — Incorreta: “Repetição de mamografia em 6 meses.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é bi-rads 4 e investigação histológica.",
+        "D": "D — Incorreta: “Complementação com ultrassonografia.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é bi-rads 4 e investigação histológica."
+      },
+      "keyPoint": "Ponto-chave: BI-RADS 4 e investigação histológica."
+    },
+    "Q010": {
+      "explanation": "Dor torácica, dispneia e alteração do nível de consciência com hipertensão importante configuram emergência cardiovascular; monitorização, AAS quando não contraindicado e transferência imediata são prioritários.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “medicar o paciente com o objetivo de reduzir a pressão arterial no período de 24 a 48 horas e dar seguimento ambulatorial.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é dor torácica de alto risco e encaminhamento imediato.",
+        "B": "B — Incorreta: “administrar anti-hipertensivo oral, encaminhar o paciente para a sala de observação e aguardar a redução dos níveis pressóricos.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é dor torácica de alto risco e encaminhamento imediato.",
+        "C": "C — Incorreta: “avaliar a adesão ao tratamento de HAS e, se necessário, introduzir um novo tratamento medicamentoso ou adequar o tratamento atual.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é dor torácica de alto risco e encaminhamento imediato.",
+        "D": "D — Correta: Dor torácica, dispneia e alteração do nível de consciência com hipertensão importante configuram emergência cardiovascular; monitorização, AAS quando não contraindicado e transferência imediata são prioritários."
+      },
+      "keyPoint": "Ponto-chave: Dor torácica de alto risco e encaminhamento imediato."
+    },
+    "Q011": {
+      "explanation": "Na doença de Graves há hipertireoidismo com aumento difuso da atividade glandular; a captação de iodo radioativo é elevada e difusamente distribuída na cintilografia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “níveis séricos reduzidos de anticorpos contra o receptor de TSH (TRAb) e de anticorpos antitireoperoxidase (anti-TPO).” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é doença de graves.",
+        "B": "B — Incorreta: “aumento do tamanho e da ecogenicidade do parênquima da tireoide e presença de nódulos císticos difusos à ultrassonografia.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é doença de graves.",
+        "C": "C — Incorreta: “elevação dos níveis séricos do hormônio tireoestimulante (TSH) e supressão dos níveis da fração livre de tiroxina (T4 livre) e da tri-iodotironina (T3).” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é doença de graves.",
+        "D": "D — Correta: Na doença de Graves há hipertireoidismo com aumento difuso da atividade glandular; a captação de iodo radioativo é elevada e difusamente distribuída na cintilografia."
+      },
+      "keyPoint": "Ponto-chave: Doença de Graves."
+    },
+    "Q012": {
+      "explanation": "Massa testicular endurecida, não transiluminável e sem variação com Valsalva sugere neoplasia testicular; a abordagem padrão é orquiectomia radical por via inguinal.",
+      "optionExplanations": {
+        "A": "A — Correta: Massa testicular endurecida, não transiluminável e sem variação com Valsalva sugere neoplasia testicular; a abordagem padrão é orquiectomia radical por via inguinal.",
+        "B": "B — Incorreta: “Hidrocele; eversão túnica vaginalis.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é tumor de testículo.",
+        "C": "C — Incorreta: “Hérnia inguinescrotal; herniorrafia inguinal.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é tumor de testículo.",
+        "D": "D — Incorreta: “Orquiepididimite; exploração de bolsa escrotal.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é tumor de testículo."
+      },
+      "keyPoint": "Ponto-chave: Tumor de testículo."
+    },
+    "Q013": {
+      "explanation": "Aganglionose colônica com enterocolite exige estabilização inicial e, após controle do quadro agudo, tratamento definitivo com abaixamento do cólon ganglionado, podendo ser realizado sem colostomia em casos selecionados.",
+      "optionExplanations": {
+        "A": "A — Correta: Aganglionose colônica com enterocolite exige estabilização inicial e, após controle do quadro agudo, tratamento definitivo com abaixamento do cólon ganglionado, podendo ser realizado sem colostomia em casos selecionados.",
+        "B": "B — Incorreta: “abaixamento de cólon abdominoperineal com colostomia.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é doença de hirschsprung e enterocolite.",
+        "C": "C — Incorreta: “colostomia descompressiva na zona de dilatação do cólon.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é doença de hirschsprung e enterocolite.",
+        "D": "D — Incorreta: “sigmoidectomia abdominoperineal com colostomia definitiva.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é doença de hirschsprung e enterocolite."
+      },
+      "keyPoint": "Ponto-chave: Doença de Hirschsprung e enterocolite."
+    },
+    "Q014": {
+      "explanation": "A ultrassonografia morfológica do segundo trimestre deve ser realizada na janela gestacional apropriada; solicitá-la apenas com 26 semanas representa atraso no cronograma do pré-natal.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “o atendimento pré-natal foi adequadamente realizado.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é adequação do pré-natal e ultrassonografia morfológica.",
+        "B": "B — Incorreta: “o diagnóstico de pré-eclâmpsia sem critérios de gravidade pode ser estabelecido.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é adequação do pré-natal e ultrassonografia morfológica.",
+        "C": "C — Incorreta: “o referenciamento da paciente para o pré-natal de alto risco não está indicado.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é adequação do pré-natal e ultrassonografia morfológica.",
+        "D": "D — Correta: A ultrassonografia morfológica do segundo trimestre deve ser realizada na janela gestacional apropriada; solicitá-la apenas com 26 semanas representa atraso no cronograma do pré-natal."
+      },
+      "keyPoint": "Ponto-chave: Adequação do pré-natal e ultrassonografia morfológica."
+    },
+    "Q015": {
+      "explanation": "Pápulas com ponto negro central em criança que anda descalça em área rural são típicas de tungíase; a retirada adequada do parasito e cuidado local são medidas terapêuticas.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Larva migrans; prescrição de tiabendazol tópico.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é tungíase.",
+        "B": "B — Incorreta: “Eczema disidrótico; hidratação dos pés e corticoide tópico de média potência.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é tungíase.",
+        "C": "C — Correta: Pápulas com ponto negro central em criança que anda descalça em área rural são típicas de tungíase; a retirada adequada do parasito e cuidado local são medidas terapêuticas.",
+        "D": "D — Incorreta: “Verruga viral; aplicação de ácido tricloroacético (ATA) 80% ou de nitrogênio líquido na UBS.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é tungíase."
+      },
+      "keyPoint": "Ponto-chave: Tungíase."
+    },
+    "Q016": {
+      "explanation": "Cefaleia hemicraniana pulsátil precedida por escotomas, com foto/fonofobia e duração de horas, caracteriza migrânea com aura; triptano pode ser usado no tratamento agudo quando não há contraindicação.",
+      "optionExplanations": {
+        "A": "A — Correta: Cefaleia hemicraniana pulsátil precedida por escotomas, com foto/fonofobia e duração de horas, caracteriza migrânea com aura; triptano pode ser usado no tratamento agudo quando não há contraindicação.",
+        "B": "B — Incorreta: “Cefaleia tensional; indicar uso de relaxante muscular.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é migrânea com aura.",
+        "C": "C — Incorreta: “Cefaleia em salvas; prescrever uso de oxigênio a 100%.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é migrânea com aura.",
+        "D": "D — Incorreta: “Cefaleia por malformação vascular; encaminhar à neurologia.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é migrânea com aura."
+      },
+      "keyPoint": "Ponto-chave: Migrânea com aura."
+    },
+    "Q017": {
+      "explanation": "O gabarito definitivo anulou a questão. O quadro combina sintomas de infecção viral de vias aéreas, exposição à água e achados otoscópicos discretos, sem critérios claros para otite média bacteriana ou externa; as opções terapêuticas também trazem inconsistências.",
+      "optionExplanations": {
+        "A": "A — Otite média crônica não se apresenta como quadro agudo de poucos dias, e corticoterapia sistêmica não é tratamento padrão.",
+        "B": "B — Otite fúngica costuma envolver canal externo e prurido/debris, não membrana timpânica móvel com quadro descrito; o esquema proposto é inadequado.",
+        "C": "C — Otite externa pode ocorrer após natação, mas a descrição não mostra dor à manipulação do trago ou edema do conduto; ainda assim a alternativa mistura diagnóstico e tratamento discutíveis.",
+        "D": "D — Otite média bacteriana exige achados como abaulamento ou redução de mobilidade da membrana; descongestionantes e anti-histamínicos não são rotina."
+      },
+      "keyPoint": "Questão anulada: diferencie otite externa de otite média aguda pelos achados do conduto e da membrana timpânica."
+    },
+    "Q018": {
+      "explanation": "Recém-nascido prematuro tardio com desconforto respiratório precoce, mas ainda com oxigenação preservável, pode ser manejado com suporte ventilatório não invasivo e investigação radiográfica, reservando intubação para falha do suporte.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “utilizar capuz de oxigênio a 40%, realizar fisioterapia respiratória e colher hemograma e proteína C reativa.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é desconforto respiratório neonatal.",
+        "B": "B — Incorreta: “utilizar cateter de O2 (2 L/min), realizar hidratação venosa, fisioterapia respiratória e solicitar radiografia de tórax.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é desconforto respiratório neonatal.",
+        "C": "C — Incorreta: “realizar intubação endotraqueal, administrar surfactante via endotraqueal e extubar logo após, colocando o neonato sob cateter nasal de O2 (2 L/min).” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é desconforto respiratório neonatal.",
+        "D": "D — Correta: Recém-nascido prematuro tardio com desconforto respiratório precoce, mas ainda com oxigenação preservável, pode ser manejado com suporte ventilatório não invasivo e investigação radiográfica, reservando intubação para falha do suporte."
+      },
+      "keyPoint": "Ponto-chave: Desconforto respiratório neonatal."
+    },
+    "Q019": {
+      "explanation": "Cardiotocografia reativa, sem desacelerações, e líquido amniótico normal indicam bem-estar fetal; a datação por DUM regular é mais confiável que ultrassonografia tardia e permite seguimento até 41 semanas conforme protocolo.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “A paciente deve ser internada para indução, pois a frequência cardíaca fetal evidencia sinais de hipóxia fetal.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é gestação prolongada e avaliação do bem-estar fetal.",
+        "B": "B — Incorreta: “A paciente deve ser submetida a cesariana, pois duas acelerações transitórias evidenciam sinais de hipóxia fetal.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é gestação prolongada e avaliação do bem-estar fetal.",
+        "C": "C — Incorreta: “A paciente deve ser internada para indução, pois, embora os exames mostrem que há bem-estar fetal, o feto está taquicárdico.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é gestação prolongada e avaliação do bem-estar fetal.",
+        "D": "D — Correta: Cardiotocografia reativa, sem desacelerações, e líquido amniótico normal indicam bem-estar fetal; a datação por DUM regular é mais confiável que ultrassonografia tardia e permite seguimento até 41 semanas conforme protocolo."
+      },
+      "keyPoint": "Ponto-chave: Gestação prolongada e avaliação do bem-estar fetal."
+    },
+    "Q020": {
+      "explanation": "Escore-Z de IMC para idade acima de +2 indica excesso de peso, enquanto a estatura está adequada; a intervenção inicial é orientação de alimentação, atividade física e hábitos saudáveis.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “tranquilizar a mãe, pois a criança apresenta peso e estatura adequados para sua idade.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é sobrepeso na infância.",
+        "B": "B — Incorreta: “solicitar radiografia de punho e mão, pois a criança apresenta baixa estatura para sua idade.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é sobrepeso na infância.",
+        "C": "C — Incorreta: “realizar encaminhamento para endocrinopediatra, pois a criança apresenta sobrepeso e baixa estatura.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é sobrepeso na infância.",
+        "D": "D — Correta: Escore-Z de IMC para idade acima de +2 indica excesso de peso, enquanto a estatura está adequada; a intervenção inicial é orientação de alimentação, atividade física e hábitos saudáveis."
+      },
+      "keyPoint": "Ponto-chave: Sobrepeso na infância."
+    },
+    "Q021": {
+      "explanation": "Fraqueza ascendente, arreflexia e dissociação albuminocitológica no LCR são características clássicas da síndrome de Guillain-Barré.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Miastenia Gravis.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é síndrome de guillain-barré.",
+        "B": "B — Correta: Fraqueza ascendente, arreflexia e dissociação albuminocitológica no LCR são características clássicas da síndrome de Guillain-Barré.",
+        "C": "C — Incorreta: “Acidente Vascular Cerebral.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é síndrome de guillain-barré.",
+        "D": "D — Incorreta: “Esclerose Lateral Amiotrófica.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é síndrome de guillain-barré."
+      },
+      "keyPoint": "Ponto-chave: Síndrome de Guillain-Barré."
+    },
+    "Q022": {
+      "explanation": "Úlcera plantar com hiperqueratose e pulsos preservados sugere pé neuropático; curativo adequado e descarga de pressão com adaptação do calçado são fundamentais.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Simpatectomia lombar.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é úlcera neuropática do pé diabético.",
+        "B": "B — Incorreta: “Enxerto de pele autólogo.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é úlcera neuropática do pé diabético.",
+        "C": "C — Incorreta: “Terapia compressiva inelástica.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é úlcera neuropática do pé diabético.",
+        "D": "D — Correta: Úlcera plantar com hiperqueratose e pulsos preservados sugere pé neuropático; curativo adequado e descarga de pressão com adaptação do calçado são fundamentais."
+      },
+      "keyPoint": "Ponto-chave: Úlcera neuropática do pé diabético."
+    },
+    "Q023": {
+      "explanation": "Vômitos em jato não biliosos, massa epigástrica palpável e alcalose metabólica hipoclorêmica sugerem estenose hipertrófica do piloro; primeiro corrige-se desidratação e eletrólitos e depois realiza-se piloromiotomia.",
+      "optionExplanations": {
+        "A": "A — Correta: Vômitos em jato não biliosos, massa epigástrica palpável e alcalose metabólica hipoclorêmica sugerem estenose hipertrófica do piloro; primeiro corrige-se desidratação e eletrólitos e depois realiza-se piloromiotomia.",
+        "B": "B — Incorreta: “O lactente deve ser estabilizado clinicamente e encaminhado para realização de cirurgia de fundoplicatura.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é estenose hipertrófica do piloro.",
+        "C": "C — Incorreta: “O lactente deve ser estabilizado clinicamente e avaliado quanto à possibilidade de erros inatos do metabolismo.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é estenose hipertrófica do piloro.",
+        "D": "D — Incorreta: “O lactente deve ter a alimentação complementada com fórmula de aminoácidos própria para idade e a mãe deve suspender leite e derivados da dieta do filho.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é estenose hipertrófica do piloro."
+      },
+      "keyPoint": "Ponto-chave: Estenose hipertrófica do piloro."
+    },
+    "Q024": {
+      "explanation": "Hipertensão surgida após 20 semanas sugere pré-eclâmpsia; é necessário pesquisar proteinúria e sinais de disfunção de órgão-alvo para confirmar e estratificar gravidade.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Pré-eclâmpsia; internar a paciente para controle pressórico e interromper a gestação se comprovada a maturidade fetal.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é pré-eclâmpsia e investigação de gravidade.",
+        "B": "B — Correta: Hipertensão surgida após 20 semanas sugere pré-eclâmpsia; é necessário pesquisar proteinúria e sinais de disfunção de órgão-alvo para confirmar e estratificar gravidade.",
+        "C": "C — Incorreta: “Hipertensão arterial crônica; aguardar a evolução no puerpério e, se ocorrer a normalização dos níveis pressóricos em até 12 semanas pós-parto, o diagnóstico estará confirmado.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é pré-eclâmpsia e investigação de gravidade.",
+        "D": "D — Incorreta: “Emergência hipertensiva; internar a paciente para prescrição de sulfato de magnésio e anti-hipertensivos de ação rápida e interromper a gestação assim que o quadro clínico for estabilizado” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é pré-eclâmpsia e investigação de gravidade."
+      },
+      "keyPoint": "Ponto-chave: Pré-eclâmpsia e investigação de gravidade."
+    },
+    "Q025": {
+      "explanation": "Diarreia aquosa em contexto epidemiológico compatível com cólera requer reidratação, manutenção da alimentação e notificação imediata com investigação de comunicantes e ações de vigilância.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Reidratação endovenosa, coleta de exames tanto da criança quanto dos comunicantes e investigação de internação do tio, a fim de poder notificar a suspeita.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é cólera e ações de vigilância.",
+        "B": "B — Incorreta: “Realização de quimioprofilaxia dos comunicantes, encaminhamento da criança ao pronto-socorro e isolamento sanitário em torno da residência dos familiares.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é cólera e ações de vigilância.",
+        "C": "C — Correta: Diarreia aquosa em contexto epidemiológico compatível com cólera requer reidratação, manutenção da alimentação e notificação imediata com investigação de comunicantes e ações de vigilância.",
+        "D": "D — Incorreta: “Administração de antibióticos via oral, prescrição de medicamentos para reduzir trânsito intestinal, indicação de dieta adequada, agendamento de retorno para o dia seguinte e notificação, caso a criança não melhore clinicamente.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é cólera e ações de vigilância."
+      },
+      "keyPoint": "Ponto-chave: Cólera e ações de vigilância."
+    },
+    "Q026": {
+      "explanation": "Na parada cardiorrespiratória do adulto, deve-se iniciar compressões imediatamente, com profundidade de pelo menos 5 cm e frequência de 100 a 120/min, minimizando interrupções e seguindo a sequência C-A-B.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “compressões torácicas de forma contínua, realizando concomitantemente uma ventilação a cada 2 ou 3 segundos, caso haja dois socorristas.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é ressuscitação cardiopulmonar no adulto.",
+        "B": "B — Incorreta: “compressões torácicas, após a abertura das vias aéreas e ventilação, mantendo a relação de duas ventilações seguidas por 30 compressões.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é ressuscitação cardiopulmonar no adulto.",
+        "C": "C — Incorreta: “compressões torácicas de forma contínua, interrompendo o procedimento a cada 5 minutos para checar o pulso , revezando com outro socorrista, se possível.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é ressuscitação cardiopulmonar no adulto.",
+        "D": "D — Correta: Na parada cardiorrespiratória do adulto, deve-se iniciar compressões imediatamente, com profundidade de pelo menos 5 cm e frequência de 100 a 120/min, minimizando interrupções e seguindo a sequência C-A-B."
+      },
+      "keyPoint": "Ponto-chave: Ressuscitação cardiopulmonar no adulto."
+    },
+    "Q027": {
+      "explanation": "Choque profundo associado a macicez e ausência de murmúrio vesicular após ferimento torácico sugere hemotórax maciço; instabilidade persistente e provável sangramento volumoso exigem abordagem cirúrgica de emergência.",
+      "optionExplanations": {
+        "A": "A — Correta: Choque profundo associado a macicez e ausência de murmúrio vesicular após ferimento torácico sugere hemotórax maciço; instabilidade persistente e provável sangramento volumoso exigem abordagem cirúrgica de emergência.",
+        "B": "B — Incorreta: “Drenagem de tórax em selo d'água, após estabilização hemodinâmica.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é hemotórax maciço e toracotomia.",
+        "C": "C — Incorreta: “Punção torácica para confirmação de diagnóstico e posterior toracotomia.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é hemotórax maciço e toracotomia.",
+        "D": "D — Incorreta: “Radiografia de tórax para decisão de conduta e estabilização hemodinâmica.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é hemotórax maciço e toracotomia."
+      },
+      "keyPoint": "Ponto-chave: Hemotórax maciço e toracotomia."
+    },
+    "Q028": {
+      "explanation": "Corticoide em dose imunossupressora contraindica vacinas de vírus vivos; vacinas inativadas como hepatite B e componentes bacterianos podem ser administradas conforme necessidade.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “aplicar todas as vacinas indicadas para a idade.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é vacinação em criança imunossuprimida.",
+        "B": "B — Correta: Corticoide em dose imunossupressora contraindica vacinas de vírus vivos; vacinas inativadas como hepatite B e componentes bacterianos podem ser administradas conforme necessidade.",
+        "C": "C — Incorreta: “aplicar as vacinas tetraviral e influenza.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é vacinação em criança imunossuprimida.",
+        "D": "D — Incorreta: “aplicar a vacina BCG e hepatite b.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é vacinação em criança imunossuprimida."
+      },
+      "keyPoint": "Ponto-chave: Vacinação em criança imunossuprimida."
+    },
+    "Q029": {
+      "explanation": "TSH elevado na gestação associa-se a desfechos adversos, incluindo perda gestacional, e o risco é maior na presença de autoimunidade tireoidiana; hipotireoidismo deve ser reconhecido e tratado precocemente.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “A prescrição de metimazol deverá ser iniciada imediatamente, considerando-se a principal hipótese diagnóstica e etiologia dessa situação clínica.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é hipotireoidismo na gestação.",
+        "B": "B — Incorreta: “Os níveis elevados de estrógenos da gestação estimulam, em nível hepático, aumento na produção de TBG, o que pode determinar a elevação do TSH.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é hipotireoidismo na gestação.",
+        "C": "C — Correta: TSH elevado na gestação associa-se a desfechos adversos, incluindo perda gestacional, e o risco é maior na presença de autoimunidade tireoidiana; hipotireoidismo deve ser reconhecido e tratado precocemente.",
+        "D": "D — Incorreta: “A prescrição de levotiroxina somente deverá se iniciar após as 12 semanas de gestação, pois, se administrada antes, a molécula atravessa a barreira placentária e pode inibir o desenvolvimento embriológico da tireoide fetal.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é hipotireoidismo na gestação."
+      },
+      "keyPoint": "Ponto-chave: Hipotireoidismo na gestação."
+    },
+    "Q030": {
+      "explanation": "A APS deve estar preparada para oferecer abordagem estruturada de cessação do tabagismo; capacitar profissionais amplia acesso ao aconselhamento e tratamento de adolescentes que desejam parar.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Orientação e prescrição de medicamentos aos pacientes tabagistas, para auxiliar aqueles que ainda não manifestaram o desejo de cessação.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é cessação do tabagismo em adolescentes.",
+        "B": "B — Correta: A APS deve estar preparada para oferecer abordagem estruturada de cessação do tabagismo; capacitar profissionais amplia acesso ao aconselhamento e tratamento de adolescentes que desejam parar.",
+        "C": "C — Incorreta: “Organização de comitês nos bairros para regulação da venda e do uso de tabaco e promoção de ações em eventos para chamar atenção aos fatores de risco do uso de fumo.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é cessação do tabagismo em adolescentes.",
+        "D": "D — Incorreta: “Encaminhamento dos fumantes para o nível de maior densidade tecnológica, considerando o difícil controle do tabagismo e a necessidade de melhores estratégias para essa ação.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é cessação do tabagismo em adolescentes."
+      },
+      "keyPoint": "Ponto-chave: Cessação do tabagismo em adolescentes."
+    },
+    "Q031": {
+      "explanation": "Anemia microcítica refratária a ferro, alterações neurológicas e trabalho com reciclagem de baterias apontam para intoxicação por chumbo; a dosagem de chumbo sérico confirma exposição.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Mielograma.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é intoxicação por chumbo.",
+        "B": "B — Incorreta: “Haptoglobina.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é intoxicação por chumbo.",
+        "C": "C — Correta: Anemia microcítica refratária a ferro, alterações neurológicas e trabalho com reciclagem de baterias apontam para intoxicação por chumbo; a dosagem de chumbo sérico confirma exposição.",
+        "D": "D — Incorreta: “Teste de Coombs.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é intoxicação por chumbo."
+      },
+      "keyPoint": "Ponto-chave: Intoxicação por chumbo."
+    },
+    "Q032": {
+      "explanation": "Paciente com esquema básico completo e última dose antitetânica há 3 anos não necessita reforço nem imunoglobulina, mesmo diante de queimadura, pois a proteção está atualizada.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Administrar a dose de reforço de vacina antitetânica.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é profilaxia antitetânica em queimadura.",
+        "B": "B — Incorreta: “Administrar o soro antitetânico, com dose de reforço de vacina antitetânica.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é profilaxia antitetânica em queimadura.",
+        "C": "C — Incorreta: “Não administrar dose de reforço de vacina antitetânica e indicar o uso de soro antitetânico.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é profilaxia antitetânica em queimadura.",
+        "D": "D — Correta: Paciente com esquema básico completo e última dose antitetânica há 3 anos não necessita reforço nem imunoglobulina, mesmo diante de queimadura, pois a proteção está atualizada."
+      },
+      "keyPoint": "Ponto-chave: Profilaxia antitetânica em queimadura."
+    },
+    "Q033": {
+      "explanation": "Pápulas eritematosas surgindo entre o 2º e 3º dia de vida em recém-nascido saudável e com bom estado geral são típicas de eritema tóxico neonatal, condição benigna e autolimitada.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “miliária rubra.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é eritema tóxico neonatal.",
+        "B": "B — Correta: Pápulas eritematosas surgindo entre o 2º e 3º dia de vida em recém-nascido saudável e com bom estado geral são típicas de eritema tóxico neonatal, condição benigna e autolimitada.",
+        "C": "C — Incorreta: “melanose pustulosa.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é eritema tóxico neonatal.",
+        "D": "D — Incorreta: “candidíase neonatal.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é eritema tóxico neonatal."
+      },
+      "keyPoint": "Ponto-chave: Eritema tóxico neonatal."
+    },
+    "Q034": {
+      "explanation": "IgM positiva com IgG negativa pode representar infecção muito recente ou falso-positivo; na gestante, inicia-se espiramicina e repete-se a sorologia em curto intervalo para documentar soroconversão de IgG.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “iniciar espiramicina e solicitar teste de avidez para toxoplasmose e, se a avidez for alta, considerar infecção recente.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é toxoplasmose na gestação.",
+        "B": "B — Incorreta: “iniciar espiramicina e solicitar teste de avidez para toxoplasmose e, se a avidez for baixa, considerar infecção recente.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é toxoplasmose na gestação.",
+        "C": "C — Correta: IgM positiva com IgG negativa pode representar infecção muito recente ou falso-positivo; na gestante, inicia-se espiramicina e repete-se a sorologia em curto intervalo para documentar soroconversão de IgG.",
+        "D": "D — Incorreta: “não iniciar tratamento e solicitar nova sorologia (IGG e IGM) em seis a oito semanas e, se IGG positivar, iniciar espiramicina.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é toxoplasmose na gestação."
+      },
+      "keyPoint": "Ponto-chave: Toxoplasmose na gestação."
+    },
+    "Q035": {
+      "explanation": "Contato com água doce em área endêmica, hematêmese/melena e sinais de hipertensão portal sugerem esquistossomose hepatoesplênica; ultrassom, endoscopia e pesquisa de ovos nas fezes avaliam doença e complicações.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Endoscopia digestiva alta; reação intradérmica; e pesquisa de ovos do parasita nas fezes.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é esquistossomose hepatoesplênica.",
+        "B": "B — Correta: Contato com água doce em área endêmica, hematêmese/melena e sinais de hipertensão portal sugerem esquistossomose hepatoesplênica; ultrassom, endoscopia e pesquisa de ovos nas fezes avaliam doença e complicações.",
+        "C": "C — Incorreta: “Ressonância magnética abdominal; biópsia retal; e sorologia por reação de imunofluorescência indireta (IFI).” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é esquistossomose hepatoesplênica.",
+        "D": "D — Incorreta: “Radiografia de tórax; sorologia por ensaio imunoenzimático (Elisa); e PCR no sangue para a detecção do DNA do parasita.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é esquistossomose hepatoesplênica."
+      },
+      "keyPoint": "Ponto-chave: Esquistossomose hepatoesplênica."
+    },
+    "Q036": {
+      "explanation": "Febre em época de chuvas, mialgia intensa, sufusão conjuntival, icterícia, insuficiência renal e alterações urinárias são clássicas de leptospirose grave.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Dengue.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é leptospirose.",
+        "B": "B — Incorreta: “Malária.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é leptospirose.",
+        "C": "C — Incorreta: “Hepatite A.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é leptospirose.",
+        "D": "D — Correta: Febre em época de chuvas, mialgia intensa, sufusão conjuntival, icterícia, insuficiência renal e alterações urinárias são clássicas de leptospirose grave."
+      },
+      "keyPoint": "Ponto-chave: Leptospirose."
+    },
+    "Q037": {
+      "explanation": "No choque traumático pediátrico, a prioridade é obter rapidamente acessos venosos periféricos calibrosos e iniciar solução isotônica aquecida; acessos centrais não devem atrasar a ressuscitação.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “dissecção venosa na fossa antecubital para infusão de solução glicofisiológica.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é acesso vascular e reposição no choque.",
+        "B": "B — Incorreta: “punção percutânea de veia subclávia e infusão endovenosa de solução glicofisiológica.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é acesso vascular e reposição no choque.",
+        "C": "C — Correta: No choque traumático pediátrico, a prioridade é obter rapidamente acessos venosos periféricos calibrosos e iniciar solução isotônica aquecida; acessos centrais não devem atrasar a ressuscitação.",
+        "D": "D — Incorreta: “punção percutânea de veia jugular para infusão endovenosa de solução isotônica aquecida.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é acesso vascular e reposição no choque."
+      },
+      "keyPoint": "Ponto-chave: Acesso vascular e reposição no choque."
+    },
+    "Q038": {
+      "explanation": "Pseudoparalisia dolorosa, hepatoesplenomegalia e alterações ósseas em lactente sem pré-natal sugerem sífilis congênita; deve-se confirmar sorologicamente e iniciar penicilina cristalina.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Hepatite neonatal; solicitar ultrassonografia de abdome total.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é sífilis congênita.",
+        "B": "B — Correta: Pseudoparalisia dolorosa, hepatoesplenomegalia e alterações ósseas em lactente sem pré-natal sugerem sífilis congênita; deve-se confirmar sorologicamente e iniciar penicilina cristalina.",
+        "C": "C — Incorreta: “Síndrome do bebê sacudido; proceder à notificação de violência.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é sífilis congênita.",
+        "D": "D — Incorreta: “Hipotireoidismo com atraso de desenvolvimento; pedir exames de TSH e T4.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é sífilis congênita."
+      },
+      "keyPoint": "Ponto-chave: Sífilis congênita."
+    },
+    "Q039": {
+      "explanation": "Sangramento pós-menopausa com endométrio espessado e irregular exige avaliação da cavidade endometrial; histeroscopia diagnóstica permite visualização e biópsia dirigida.",
+      "optionExplanations": {
+        "A": "A — Correta: Sangramento pós-menopausa com endométrio espessado e irregular exige avaliação da cavidade endometrial; histeroscopia diagnóstica permite visualização e biópsia dirigida.",
+        "B": "B — Incorreta: “iniciar terapia hormonal combinada.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é sangramento pós-menopausa e histeroscopia.",
+        "C": "C — Incorreta: “iniciar ácido tranexâmico oral e controle citológico.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é sangramento pós-menopausa e histeroscopia.",
+        "D": "D — Incorreta: “indicar histerectomia total com anexectomia bilateral.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é sangramento pós-menopausa e histeroscopia."
+      },
+      "keyPoint": "Ponto-chave: Sangramento pós-menopausa e histeroscopia."
+    },
+    "Q040": {
+      "explanation": "O gabarito considera sífilis gestacional de duração desconhecida tratada com três doses semanais de penicilina, controle seriado do VDRL e correção da anemia; a gestante Rh negativa também requer acompanhamento de sensibilização.",
+      "optionExplanations": {
+        "A": "A — Correta: O gabarito considera sífilis gestacional de duração desconhecida tratada com três doses semanais de penicilina, controle seriado do VDRL e correção da anemia; a gestante Rh negativa também requer acompanhamento de sensibilização.",
+        "B": "B — Incorreta: “Prescrever penicilina benzatina 2,4 milhões UI, dose única, e solicitar VDRL de controle trimestralmente; iniciar sulfato ferroso com 4 comprimidos por dia e repetir hemograma no 3º trimestre; solicitar coombs indireto no 2º e 3º trimestres e, se negativo, realizar imunoglobulina anti-D até 72 horas após o parto, se recém-nascido Rh-.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é sífilis, anemia e incompatibilidade rh no pré-natal.",
+        "C": "C — Incorreta: “Prescrever penicilina benzatina 2,4 milhões UI a cada 7 dias, por 3 semanas, e solicitar VDRL de controle trimestralmente; iniciar sulfato ferroso com 1 comprimido por dia profilático; solicitar teste de avidez para toxoplasmose IgG; solicitar coombs indiretono 3º trimestre para realizar imunoglobulina anti-D com 28 semanas de gestação.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é sífilis, anemia e incompatibilidade rh no pré-natal.",
+        "D": "D — Incorreta: “Prescrever penicilina benzatina 2,4 milhões UI a cada 7 dias, por 2 semanas, e solicitar VDRL de controle mensalmente; iniciar sulfato ferroso com 1 comprimido por dia profilático com 20 semanas de gestação; solicitar teste de tolerância à glicose; solicitar coombs indireto mensalmente e, se positivo, realizar imunoglobulina anti-D com 28 semanas de gestação.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é sífilis, anemia e incompatibilidade rh no pré-natal."
+      },
+      "keyPoint": "Ponto-chave: Sífilis, anemia e incompatibilidade Rh no pré-natal."
+    },
+    "Q041": {
+      "explanation": "Dor abdominal crônica recorrente associada a alteração do hábito intestinal, melhora após evacuação e investigação negativa para causas orgânicas é típica de síndrome do intestino irritável.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “doença celíaca.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é síndrome do intestino irritável.",
+        "B": "B — Incorreta: “câncer colorretal.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é síndrome do intestino irritável.",
+        "C": "C — Incorreta: “retocolite ulcerativa.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é síndrome do intestino irritável.",
+        "D": "D — Correta: Dor abdominal crônica recorrente associada a alteração do hábito intestinal, melhora após evacuação e investigação negativa para causas orgânicas é típica de síndrome do intestino irritável."
+      },
+      "keyPoint": "Ponto-chave: Síndrome do intestino irritável."
+    },
+    "Q042": {
+      "explanation": "Úlcera peniana crônica não cicatrizante em tabagista, com balanopostite crônica, deve levantar suspeita de câncer de pênis; biópsia incisional é necessária para diagnóstico histológico.",
+      "optionExplanations": {
+        "A": "A — Correta: Úlcera peniana crônica não cicatrizante em tabagista, com balanopostite crônica, deve levantar suspeita de câncer de pênis; biópsia incisional é necessária para diagnóstico histológico.",
+        "B": "B — Incorreta: “Prescrever ciprofloxacina 500 mg, via oral, 12/12h, por 3 dias.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é lesão peniana suspeita e biópsia.",
+        "C": "C — Incorreta: “Indicar higiene local e banhos com permanganato de potássio.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é lesão peniana suspeita e biópsia.",
+        "D": "D — Incorreta: “Prescrever penicilina benzatina 1.200.000 UI IM em cada glúteo.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é lesão peniana suspeita e biópsia."
+      },
+      "keyPoint": "Ponto-chave: Lesão peniana suspeita e biópsia."
+    },
+    "Q043": {
+      "explanation": "O gabarito definitivo anulou a questão. A criança apresenta sinais de desidratação grave/choque hipovolêmico e necessita expansão intravenosa rápida, mas as alternativas divergem em volumes, soluções e sequência, sem uma opção plenamente compatível com o fluxograma oficial citado.",
+      "optionExplanations": {
+        "A": "A — Reidratação exclusivamente oral é inadequada diante de choque, sonolência, pulso débil e enchimento capilar muito prolongado.",
+        "B": "B — Gastroclise também não é a via inicial adequada em choque hipovolêmico grave.",
+        "C": "C — Propõe reposição intravenosa, mas a combinação de volumes/soluções não corresponde de forma inequívoca ao protocolo oficial para a idade.",
+        "D": "D — Bolus intravenoso é conceitualmente apropriado no choque, porém a formulação repetitiva da alternativa não reproduz exatamente o esquema oficial utilizado para a questão."
+      },
+      "keyPoint": "Questão anulada: desidratação grave com choque exige acesso venoso e expansão rápida com cristalóide, seguida de reavaliação frequente."
+    },
+    "Q044": {
+      "explanation": "Dor pélvica aguda, febre, colo friável e dor intensa à mobilização cervical e anexial configuram doença inflamatória pélvica.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Gravidez ectópica rota.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é doença inflamatória pélvica.",
+        "B": "B — Correta: Dor pélvica aguda, febre, colo friável e dor intensa à mobilização cervical e anexial configuram doença inflamatória pélvica.",
+        "C": "C — Incorreta: “Torção anexial de cisto ovariano.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é doença inflamatória pélvica.",
+        "D": "D — Incorreta: “Rotura de cisto lúteo hemorrágico.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é doença inflamatória pélvica."
+      },
+      "keyPoint": "Ponto-chave: Doença inflamatória pélvica."
+    },
+    "Q045": {
+      "explanation": "Idoso com pneumonia comunitária, estável, sem hipoxemia ou critérios de internação, mas com comorbidades, pode ser tratado ambulatorialmente com esquema que amplie cobertura, como amoxicilina-clavulanato associada a macrolídeo.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Iniciar uso de azitromicina 500 mg/dia, via oral, por 7 dias, em regime ambulatorial.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é pneumonia adquirida na comunidade no idoso.",
+        "B": "B — Incorreta: “Internar o paciente para tratamento com ceftriaxona 1 g de 12 em 12 horas, via intravenosa, por 7 a 10 dias.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é pneumonia adquirida na comunidade no idoso.",
+        "C": "C — Incorreta: “Internar o paciente para tratamento com ampicilina + sulbactan 1,5/3,0 g, via intravenosa, de 8 em 8 horas, por 7 a 10 dias.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é pneumonia adquirida na comunidade no idoso.",
+        "D": "D — Correta: Idoso com pneumonia comunitária, estável, sem hipoxemia ou critérios de internação, mas com comorbidades, pode ser tratado ambulatorialmente com esquema que amplie cobertura, como amoxicilina-clavulanato associada a macrolídeo."
+      },
+      "keyPoint": "Ponto-chave: Pneumonia adquirida na comunidade no idoso."
+    },
+    "Q046": {
+      "explanation": "Cavidade pulmonar persistente com escarro fétido e resposta clínica insuficiente após tratamento prolongado para abscesso pulmonar pode exigir ressecção do segmento acometido quando há falha do tratamento clínico.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “trocar o esquema de tratamento para antibiótico com cobertura para bactéria multirresistente.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é abscesso pulmonar refratário ao tratamento clínico.",
+        "B": "B — Incorreta: “iniciar tratamento empírico para tuberculose pulmonar, considerando-se a alta probabilidade clínica e epidemiológica.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é abscesso pulmonar refratário ao tratamento clínico.",
+        "C": "C — Correta: Cavidade pulmonar persistente com escarro fétido e resposta clínica insuficiente após tratamento prolongado para abscesso pulmonar pode exigir ressecção do segmento acometido quando há falha do tratamento clínico.",
+        "D": "D — Incorreta: “manter o esquema de antibiótico e acompanhar a evolução clínica, considerando-se uma resposta lenta e favorável.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é abscesso pulmonar refratário ao tratamento clínico."
+      },
+      "keyPoint": "Ponto-chave: Abscesso pulmonar refratário ao tratamento clínico."
+    },
+    "Q047": {
+      "explanation": "Apendicite aguda confirmada por tomografia é tratada por apendicectomia; antibiótico pré-operatório deve cobrir flora gram-negativa e anaeróbia, como cefazolina associada a metronidazol no esquema da prova.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “videolaparoscopia exploratória; antibioticoprofilaxia com metronidazol.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é apendicite aguda e antibioticoprofilaxia.",
+        "B": "B — Incorreta: “apendicectomia aberta; antibioticoterapia com cefazolina e gentamicina.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é apendicite aguda e antibioticoprofilaxia.",
+        "C": "C — Incorreta: “laparotomia exploratória; antibioticoterapia por sete dias com ciprofloxacina e metronidazol.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é apendicite aguda e antibioticoprofilaxia.",
+        "D": "D — Correta: Apendicite aguda confirmada por tomografia é tratada por apendicectomia; antibiótico pré-operatório deve cobrir flora gram-negativa e anaeróbia, como cefazolina associada a metronidazol no esquema da prova."
+      },
+      "keyPoint": "Ponto-chave: Apendicite aguda e antibioticoprofilaxia."
+    },
+    "Q048": {
+      "explanation": "Febre prolongada, conjuntivite não purulenta, alterações orais, edema de extremidades e linfadenopatia sugerem doença de Kawasaki, cuja complicação clássica é aneurisma de artérias coronárias.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “orquiepididimite.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é doença de kawasaki.",
+        "B": "B — Incorreta: “trombocitopenia.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é doença de kawasaki.",
+        "C": "C — Incorreta: “faringite exsudativa.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é doença de kawasaki.",
+        "D": "D — Correta: Febre prolongada, conjuntivite não purulenta, alterações orais, edema de extremidades e linfadenopatia sugerem doença de Kawasaki, cuja complicação clássica é aneurisma de artérias coronárias."
+      },
+      "keyPoint": "Ponto-chave: Doença de Kawasaki."
+    },
+    "Q049": {
+      "explanation": "Bacteriúria por Streptococcus agalactiae durante a gestação identifica colonização materna e é indicação de profilaxia intraparto com penicilina G, independentemente de cultura vaginal/retal posterior.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “realizar teste rápido para EGB na gestante e, se positivo, prescrever a profilaxia antibiótica.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é profilaxia intraparto para estreptococo do grupo b.",
+        "B": "B — Incorreta: “adotar conduta expectante, pois não há indicação de profilaxia de sepse neonatal por EGB.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é profilaxia intraparto para estreptococo do grupo b.",
+        "C": "C — Correta: Bacteriúria por Streptococcus agalactiae durante a gestação identifica colonização materna e é indicação de profilaxia intraparto com penicilina G, independentemente de cultura vaginal/retal posterior.",
+        "D": "D — Incorreta: “prescrever ampicilina por via endovenosa para a gestante, se houver ruptura das membranas ovulares durante o trabalho de parto.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é profilaxia intraparto para estreptococo do grupo b."
+      },
+      "keyPoint": "Ponto-chave: Profilaxia intraparto para estreptococo do grupo B."
+    },
+    "Q050": {
+      "explanation": "O gabarito definitivo anulou a questão. Na declaração de óbito, a causa básica é a doença que iniciou a cadeia de eventos que levou à morte, a causa imediata é o evento final e condições contribuintes ficam na parte II. O enunciado não traz confirmação diagnóstica suficiente para estabelecer com segurança essa cadeia.",
+      "optionExplanations": {
+        "A": "A — Síndrome metabólica é fator de risco e condição contribuinte, não necessariamente causa básica do óbito súbito descrito.",
+        "B": "B — Diabetes pode ser condição contribuinte, mas a questão não permite afirmar que esse seja o preenchimento único e completo esperado.",
+        "C": "C — Infarto agudo do miocárdio pode ser a causa imediata/intermediária, mas sem confirmação não é possível definir toda a cadeia causal com segurança.",
+        "D": "D — Doença aterosclerótica coronariana pode ser causa básica, e não necessariamente causa imediata, tornando a alternativa conceitualmente problemática."
+      },
+      "keyPoint": "Questão anulada: na DO, organize a sequência causal do evento final até a doença que iniciou a cadeia; fatores de risco isolados não substituem essa lógica."
+    },
+    "Q051": {
+      "explanation": "Nódulos eritematosos dolorosos, febre, artralgia e vasculite em paciente com sinais de hanseníase são compatíveis com eritema nodoso hansênico, reação hansênica tipo 2.",
+      "optionExplanations": {
+        "A": "A — Correta: Nódulos eritematosos dolorosos, febre, artralgia e vasculite em paciente com sinais de hanseníase são compatíveis com eritema nodoso hansênico, reação hansênica tipo 2.",
+        "B": "B — Incorreta: “Granulomatose de Wegner.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é reação hansênica tipo 2.",
+        "C": "C — Incorreta: “Leishmaniose tegumentar americana.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é reação hansênica tipo 2.",
+        "D": "D — Incorreta: “Manifestação cutânea de retocolite ulcerativa.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é reação hansênica tipo 2."
+      },
+      "keyPoint": "Ponto-chave: Reação hansênica tipo 2."
+    },
+    "Q052": {
+      "explanation": "Hematúria persistente em idoso tabagista e com exposição ocupacional a tintas é altamente suspeita para neoplasia urotelial; cistoscopia com biópsia estabelece o diagnóstico.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “nefrolitíase; ressonância magnética com contraste.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é tumor de bexiga.",
+        "B": "B — Correta: Hematúria persistente em idoso tabagista e com exposição ocupacional a tintas é altamente suspeita para neoplasia urotelial; cistoscopia com biópsia estabelece o diagnóstico.",
+        "C": "C — Incorreta: “adenocarcinoma prostático; ultrassonografia transretal.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é tumor de bexiga.",
+        "D": "D — Incorreta: “cistite hemorrágica; ultrassonografia e urografia excretora.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é tumor de bexiga."
+      },
+      "keyPoint": "Ponto-chave: Tumor de bexiga."
+    },
+    "Q053": {
+      "explanation": "Na trissomia 21, instabilidade do quadril ao exame exige investigação ortopédica com imagem e acompanhamento especializado; os exames cardíacos e tireoidianos já estão adequados no caso.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Repetir o ecocardiograma e realizar consulta com um cardiologista pediátrico.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é trissomia 21 e instabilidade do quadril.",
+        "B": "B — Correta: Na trissomia 21, instabilidade do quadril ao exame exige investigação ortopédica com imagem e acompanhamento especializado; os exames cardíacos e tireoidianos já estão adequados no caso.",
+        "C": "C — Incorreta: “Realizar ultrassonografia da tireoide e fazer acompanhamento com endocrinologista pediátrico.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é trissomia 21 e instabilidade do quadril.",
+        "D": "D — Incorreta: “Coletar hemograma mensalmente e realizar acompanhamento com um hematologista pediátrico.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é trissomia 21 e instabilidade do quadril."
+      },
+      "keyPoint": "Ponto-chave: Trissomia 21 e instabilidade do quadril."
+    },
+    "Q054": {
+      "explanation": "Idade avançada não elimina autonomia nem sigilo quando a paciente tem capacidade decisória; o sangramento pós-menopausa deve ser investigado, inicialmente, com ultrassonografia transvaginal.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “comunicar o quadro clínico à filha da paciente, que deverá se encarregar de explicá-lo à mãe, porque é idosa, e orientar que não serão necessários exames adicionais.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é autonomia, sigilo e sangramento pós-menopausa.",
+        "B": "B — Correta: Idade avançada não elimina autonomia nem sigilo quando a paciente tem capacidade decisória; o sangramento pós-menopausa deve ser investigado, inicialmente, com ultrassonografia transvaginal.",
+        "C": "C — Incorreta: “explicar que é obrigatória a presença de um responsável pela paciente, por ser idosa, para a continuidade do tratamento, e solicitar CA 125 e ultrassonografia transvaginal.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é autonomia, sigilo e sangramento pós-menopausa.",
+        "D": "D — Incorreta: “explicar que a família deve ser comunicada do ocorrido com a paciente e que, devido à idade, o tratamento é expectante, orientando que não serão necessários exames adicionais.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é autonomia, sigilo e sangramento pós-menopausa."
+      },
+      "keyPoint": "Ponto-chave: Autonomia, sigilo e sangramento pós-menopausa."
+    },
+    "Q055": {
+      "explanation": "Os DSEIs são delimitados por critérios epidemiológicos, geográficos e culturais e podem atravessar limites estaduais; equipes ribeirinhas se organizam no território municipal/estadual da rede do SUS.",
+      "optionExplanations": {
+        "A": "A — Correta: Os DSEIs são delimitados por critérios epidemiológicos, geográficos e culturais e podem atravessar limites estaduais; equipes ribeirinhas se organizam no território municipal/estadual da rede do SUS.",
+        "B": "B — Incorreta: “As demarcações de áreas indígenas garantem a proteção contra conflitos e situações de vulnerabilidade, apesar de a distribuição de terras representar um problema a ser enfrentado pelas populações ribeirinhas.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é dsei e organização territorial.",
+        "C": "C — Incorreta: “A desnutrição infantil tem uma alta incidência nas populações indígenas, o que não ocorre frequentemente na população ribeirinha, dada a diversidade de alimentos disponíveis às margens dos percursos fluviais.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é dsei e organização territorial.",
+        "D": "D — Incorreta: “O principal recurso de atenção à saúde da população indígena ainda é o sistema tradicional de saúde; já na população ribeirinha, as práticas tradicionais e os cuidadores locais foram abandonados e substituídos por medicina alopática.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é dsei e organização territorial."
+      },
+      "keyPoint": "Ponto-chave: DSEI e organização territorial."
+    },
+    "Q056": {
+      "explanation": "Restrição alimentar intensa, perda ponderal rápida, baixo IMC, exercício excessivo e amenorreia em adolescente sugerem anorexia nervosa; psicoterapia e abordagem multiprofissional são pilares iniciais.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “bulimia nervosa; bupropiona.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é anorexia nervosa.",
+        "B": "B — Incorreta: “hipertireoidismo; propiltiuracil.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é anorexia nervosa.",
+        "C": "C — Correta: Restrição alimentar intensa, perda ponderal rápida, baixo IMC, exercício excessivo e amenorreia em adolescente sugerem anorexia nervosa; psicoterapia e abordagem multiprofissional são pilares iniciais.",
+        "D": "D — Incorreta: “transtorno de purgação; metoclopramida.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é anorexia nervosa."
+      },
+      "keyPoint": "Ponto-chave: Anorexia nervosa."
+    },
+    "Q057": {
+      "explanation": "Dor óssea, febre, hiperemia e antecedente de cirurgia em osso longo sugerem osteomielite; a ressonância magnética é o exame mais sensível para avaliar extensão e partes moles.",
+      "optionExplanations": {
+        "A": "A — Correta: Dor óssea, febre, hiperemia e antecedente de cirurgia em osso longo sugerem osteomielite; a ressonância magnética é o exame mais sensível para avaliar extensão e partes moles.",
+        "B": "B — Incorreta: “Radiografia simples de articulação coxofemoral; artrite séptica.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é osteomielite.",
+        "C": "C — Incorreta: “Ultrassonografia com punção articular; tuberculose de quadril.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é osteomielite.",
+        "D": "D — Incorreta: “Cintilografia óssea da articulação coxofemoral; osteoartrose.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é osteomielite."
+      },
+      "keyPoint": "Ponto-chave: Osteomielite."
+    },
+    "Q058": {
+      "explanation": "Cetoacidose diabética decorre de deficiência absoluta de insulina; apesar de o potássio sérico poder estar normal ou elevado, o estoque corporal total de potássio está reduzido pelas perdas osmóticas.",
+      "optionExplanations": {
+        "A": "A — Correta: Cetoacidose diabética decorre de deficiência absoluta de insulina; apesar de o potássio sérico poder estar normal ou elevado, o estoque corporal total de potássio está reduzido pelas perdas osmóticas.",
+        "B": "B — Incorreta: “cortisol e potássio total.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é cetoacidose diabética.",
+        "C": "C — Incorreta: “insulina e sódio.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é cetoacidose diabética.",
+        "D": "D — Incorreta: “glucagon e sódio.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é cetoacidose diabética."
+      },
+      "keyPoint": "Ponto-chave: Cetoacidose diabética."
+    },
+    "Q059": {
+      "explanation": "Mulher sintomática no climatério, com útero presente e fatores de risco cardiovascular, pode se beneficiar de estradiol transdérmico associado a progesterona micronizada, reduzindo exposição hepática de primeira passagem e protegendo o endométrio.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Contraindicar terapia hormonal sistêmica e indicar estriol via vaginal.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é terapia hormonal no climatério.",
+        "B": "B — Incorreta: “Sugerir terapia hormonal sistêmica com estradiol oral e noretindrona.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é terapia hormonal no climatério.",
+        "C": "C — Incorreta: “Contraindicar terapia hormonal sistêmica, orientando mudanças no estilo de vida.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é terapia hormonal no climatério.",
+        "D": "D — Correta: Mulher sintomática no climatério, com útero presente e fatores de risco cardiovascular, pode se beneficiar de estradiol transdérmico associado a progesterona micronizada, reduzindo exposição hepática de primeira passagem e protegendo o endométrio."
+      },
+      "keyPoint": "Ponto-chave: Terapia hormonal no climatério."
+    },
+    "Q060": {
+      "explanation": "Com sensibilidade de 80%, especificidade de 80% e prevalência de 10%, o valor preditivo positivo é aproximadamente 31%: 0,08 dividido por 0,08 + 0,18.",
+      "optionExplanations": {
+        "A": "A — Correta: Com sensibilidade de 80%, especificidade de 80% e prevalência de 10%, o valor preditivo positivo é aproximadamente 31%: 0,08 dividido por 0,08 + 0,18.",
+        "B": "B — Incorreta: “97%.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é valor preditivo positivo.",
+        "C": "C — Incorreta: “69%.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é valor preditivo positivo.",
+        "D": "D — Incorreta: “80%.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é valor preditivo positivo."
+      },
+      "keyPoint": "Ponto-chave: Valor preditivo positivo."
+    },
+    "Q061": {
+      "explanation": "Humor deprimido, anedonia e sintomas neurovegetativos por dois meses preenchem quadro depressivo; crises súbitas de medo intenso e sintomas autonômicos correspondem a ataques de pânico associados.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Transtorno de pânico com agorafobia.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é transtorno depressivo com ataques de pânico.",
+        "B": "B — Incorreta: “Transtorno bipolar em fase depressiva.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é transtorno depressivo com ataques de pânico.",
+        "C": "C — Incorreta: “Transtorno de ansiedade generalizada.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é transtorno depressivo com ataques de pânico.",
+        "D": "D — Correta: Humor deprimido, anedonia e sintomas neurovegetativos por dois meses preenchem quadro depressivo; crises súbitas de medo intenso e sintomas autonômicos correspondem a ataques de pânico associados."
+      },
+      "keyPoint": "Ponto-chave: Transtorno depressivo com ataques de pânico."
+    },
+    "Q062": {
+      "explanation": "Nódulo pulmonar regular e calcificado sugere benignidade; na ausência de características suspeitas, o seguimento ambulatorial é mais adequado que procedimentos invasivos imediatos.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Ressecção nodular cirúrgica em cunha.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é nódulo pulmonar calcificado.",
+        "B": "B — Incorreta: “Broncoscopia endoscópica com biópsia.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é nódulo pulmonar calcificado.",
+        "C": "C — Correta: Nódulo pulmonar regular e calcificado sugere benignidade; na ausência de características suspeitas, o seguimento ambulatorial é mais adequado que procedimentos invasivos imediatos.",
+        "D": "D — Incorreta: “Biópsia cirúrgica ou aspiração por agulha fina.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é nódulo pulmonar calcificado."
+      },
+      "keyPoint": "Ponto-chave: Nódulo pulmonar calcificado."
+    },
+    "Q063": {
+      "explanation": "Coriza, sibilância, hiperinsuflação e desconforto respiratório em lactente pequeno são compatíveis com bronquiolite; o tratamento é de suporte com hidratação, higiene nasal e oxigênio se houver hipoxemia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Hidratação, antibioticoterapia e corticoide.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é bronquiolite aguda.",
+        "B": "B — Correta: Coriza, sibilância, hiperinsuflação e desconforto respiratório em lactente pequeno são compatíveis com bronquiolite; o tratamento é de suporte com hidratação, higiene nasal e oxigênio se houver hipoxemia.",
+        "C": "C — Incorreta: “Broncodilatador, corticoide e anti-histamínico.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é bronquiolite aguda.",
+        "D": "D — Incorreta: “Oxigenioterapia, antibioticoterapia e broncodilatador.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é bronquiolite aguda."
+      },
+      "keyPoint": "Ponto-chave: Bronquiolite aguda."
+    },
+    "Q064": {
+      "explanation": "Amenorreia secundária com acne, hirsutismo, gonadotrofinas e prolactina normais favorece anovulação crônica hiperandrogênica, quadro típico de síndrome dos ovários policísticos.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “falência ovariana prematura.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é anovulação crônica hiperandrogênica.",
+        "B": "B — Incorreta: “hipogonadismo hipogonadotrófico.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é anovulação crônica hiperandrogênica.",
+        "C": "C — Incorreta: “uso prolongado do anticoncepcional.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é anovulação crônica hiperandrogênica.",
+        "D": "D — Correta: Amenorreia secundária com acne, hirsutismo, gonadotrofinas e prolactina normais favorece anovulação crônica hiperandrogênica, quadro típico de síndrome dos ovários policísticos."
+      },
+      "keyPoint": "Ponto-chave: Anovulação crônica hiperandrogênica."
+    },
+    "Q065": {
+      "explanation": "Em atenção à saúde indígena, práticas tradicionais que não tragam dano podem ser preservadas; a criança tem sinais de gravidade e deve ser internada, respeitando a decisão familiar e mantendo o emplastro se seguro.",
+      "optionExplanations": {
+        "A": "A — Correta: Em atenção à saúde indígena, práticas tradicionais que não tragam dano podem ser preservadas; a criança tem sinais de gravidade e deve ser internada, respeitando a decisão familiar e mantendo o emplastro se seguro.",
+        "B": "B — Incorreta: “retire os emplastros e inicie medicamento parenteral em regime de internação para a melhora do desconforto da criança.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é interculturalidade e internação pediátrica.",
+        "C": "C — Incorreta: “realize o tratamento em domicilio com ervas tradicionais de seu povo e que retorne em 7 dias.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é interculturalidade e internação pediátrica.",
+        "D": "D — Incorreta: “inicie uso de antibiótico em domicilio, com visitas da equipe médica, e que mantenha o uso do emplastro.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é interculturalidade e internação pediátrica."
+      },
+      "keyPoint": "Ponto-chave: Interculturalidade e internação pediátrica."
+    },
+    "Q066": {
+      "explanation": "Traçado serrilhado com ondas F e resposta ventricular rápida, em paciente hemodinamicamente estável, deve ser manejado inicialmente com controle de frequência, podendo-se usar betabloqueador.",
+      "optionExplanations": {
+        "A": "A — Correta: Traçado serrilhado com ondas F e resposta ventricular rápida, em paciente hemodinamicamente estável, deve ser manejado inicialmente com controle de frequência, podendo-se usar betabloqueador.",
+        "B": "B — Incorreta: “desfibrilação ventricular.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é taquiarritmia supraventricular com onda f.",
+        "C": "C — Incorreta: “massagem de seio carotídeo.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é taquiarritmia supraventricular com onda f.",
+        "D": "D — Incorreta: “administração de lidocaína endovenosa.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é taquiarritmia supraventricular com onda f."
+      },
+      "keyPoint": "Ponto-chave: Taquiarritmia supraventricular com onda F."
+    },
+    "Q067": {
+      "explanation": "Icterícia colestática, cálculo biliar e suspeita de obstrução do colédoco são melhor caracterizados por colangiorressonância, exame não invasivo de alta acurácia entre as opções.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Ultrassonografia.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é coledocolitíase e colangiorressonância.",
+        "B": "B — Incorreta: “Radiografia simples.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é coledocolitíase e colangiorressonância.",
+        "C": "C — Correta: Icterícia colestática, cálculo biliar e suspeita de obstrução do colédoco são melhor caracterizados por colangiorressonância, exame não invasivo de alta acurácia entre as opções.",
+        "D": "D — Incorreta: “Tomografia computadorizada.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é coledocolitíase e colangiorressonância."
+      },
+      "keyPoint": "Ponto-chave: Coledocolitíase e colangiorressonância."
+    },
+    "Q068": {
+      "explanation": "Traço falciforme é heterozigose geralmente assintomática e não corresponde à doença falciforme; em triagem neonatal típica, a orientação inicial é tranquilizar e aconselhar a família.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Solicitar eletroforese de hemoglobina.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é traço falciforme.",
+        "B": "B — Incorreta: “Solicitar o teste de falcização e de solubilidade.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é traço falciforme.",
+        "C": "C — Incorreta: “Refazer o teste de triagem neonatal imediatamente.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é traço falciforme.",
+        "D": "D — Correta: Traço falciforme é heterozigose geralmente assintomática e não corresponde à doença falciforme; em triagem neonatal típica, a orientação inicial é tranquilizar e aconselhar a família."
+      },
+      "keyPoint": "Ponto-chave: Traço falciforme."
+    },
+    "Q069": {
+      "explanation": "Desacelerações que coincidem com as contrações e recuperam junto delas são precoces, relacionadas à compressão cefálica; com linha de base e variabilidade normais, não indicam sofrimento fetal e permitem seguimento do parto.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “A linha de base está entre 100 e 150 bpm, a variabilidade é aumentada, as desacelerações são do tipo precoce, portanto, a conduta deve ser reanimação intrauterina.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é cardiotocografia e desacelerações precoces.",
+        "B": "B — Incorreta: “A linha de base está entre 110 e 160 bpm, a variabilidade é moderada, as desacelerações são do tipo tardio, portanto, a conduta deve ser mudança de decúbito materno e hidratação endovenosa.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é cardiotocografia e desacelerações precoces.",
+        "C": "C — Correta: Desacelerações que coincidem com as contrações e recuperam junto delas são precoces, relacionadas à compressão cefálica; com linha de base e variabilidade normais, não indicam sofrimento fetal e permitem seguimento do parto.",
+        "D": "D — Incorreta: “A linha de base está entre 100 e 150 bpm, a variabilidade é aumentada, as desacelerações são do tipo variável com características desfavoráveis, portanto, a conduta deve ser administração de oxigênio e estímulo sonoro.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é cardiotocografia e desacelerações precoces."
+      },
+      "keyPoint": "Ponto-chave: Cardiotocografia e desacelerações precoces."
+    },
+    "Q070": {
+      "explanation": "O DIU liberador de levonorgestrel é contraceptivo eficaz e também reduz sangramento uterino e dismenorreia, sendo opção terapêutica para sangramento uterino anormal em situações apropriadas.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “O Ministério da Saúde não recomenda a inserção do DIU por enfermeiros.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é diu hormonal.",
+        "B": "B — Incorreta: “A inserção do DIU é contraindicada após o procedimento de aborto devido ao risco de infecção.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é diu hormonal.",
+        "C": "C — Incorreta: “O DIU de cobre pode ser inserido, como um anticoncepcional de emergência, em até 7 dias a partir do coito sem proteção.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é diu hormonal.",
+        "D": "D — Correta: O DIU liberador de levonorgestrel é contraceptivo eficaz e também reduz sangramento uterino e dismenorreia, sendo opção terapêutica para sangramento uterino anormal em situações apropriadas."
+      },
+      "keyPoint": "Ponto-chave: DIU hormonal."
+    },
+    "Q071": {
+      "explanation": "Cefaleia, vômitos, papiledema, bradicardia, hipertensão e rebaixamento de consciência indicam hipertensão intracraniana; tomografia deve preceder punção lombar para excluir efeito de massa.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “punção lombar.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é hipertensão intracraniana em paciente com hiv.",
+        "B": "B — Incorreta: “eletroencefalograma.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é hipertensão intracraniana em paciente com hiv.",
+        "C": "C — Correta: Cefaleia, vômitos, papiledema, bradicardia, hipertensão e rebaixamento de consciência indicam hipertensão intracraniana; tomografia deve preceder punção lombar para excluir efeito de massa.",
+        "D": "D — Incorreta: “contagem de CD4 e carga viral para HIV.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é hipertensão intracraniana em paciente com hiv."
+      },
+      "keyPoint": "Ponto-chave: Hipertensão intracraniana em paciente com HIV."
+    },
+    "Q072": {
+      "explanation": "Em cirurgia limpa com prótese/tela e risco de infecção, cefazolina deve ser administrada antes da incisão, redosada em procedimentos prolongados e suspensa ao término, sem prolongamento desnecessário.",
+      "optionExplanations": {
+        "A": "A — Correta: Em cirurgia limpa com prótese/tela e risco de infecção, cefazolina deve ser administrada antes da incisão, redosada em procedimentos prolongados e suspensa ao término, sem prolongamento desnecessário.",
+        "B": "B — Incorreta: “1g de cefazolina (ev) e 1g de metronidazol (ev) 60 minutos antes da cirurgia; não indicar doses adicionais durante o procedimento nem no pós-operatório.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é antibioticoprofilaxia em herniorrafia.",
+        "C": "C — Incorreta: “1g de cefazolina (ev) 6 0 minutos antes da cirurgia ; 1g d e cefazolina (ev), de 4/4h intraoperatória, após a dose de indução; manter por 72h após fechar a pele.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é antibioticoprofilaxia em herniorrafia.",
+        "D": "D — Incorreta: “2g de cefazolina (ev) e 1g de metronidazol (ev) imediatamente antes da incisão; repetir as doses (ev), de 4/4h, até fechar a pele; descontinuar no pós-operatório.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é antibioticoprofilaxia em herniorrafia."
+      },
+      "keyPoint": "Ponto-chave: Antibioticoprofilaxia em herniorrafia."
+    },
+    "Q073": {
+      "explanation": "Prurido intenso, história familiar de atopia e eczema em face/pescoço e flexuras são típicos de dermatite atópica.",
+      "optionExplanations": {
+        "A": "A — Correta: Prurido intenso, história familiar de atopia e eczema em face/pescoço e flexuras são típicos de dermatite atópica.",
+        "B": "B — Incorreta: “Tinea corporis.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é dermatite atópica.",
+        "C": "C — Incorreta: “Escabiose.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é dermatite atópica.",
+        "D": "D — Incorreta: “Psoríase.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é dermatite atópica."
+      },
+      "keyPoint": "Ponto-chave: Dermatite atópica."
+    },
+    "Q074": {
+      "explanation": "Cabeça baixa em +2, posição conhecida, dilatação completa e bradicardia fetal no período expulsivo configuram cenário favorável à abreviação do parto por fórceps quando a equipe é experiente.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Indicar a realização imediata de parto cesáreo de urgência.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é parto vaginal operatório com fórceps.",
+        "B": "B — Correta: Cabeça baixa em +2, posição conhecida, dilatação completa e bradicardia fetal no período expulsivo configuram cenário favorável à abreviação do parto por fórceps quando a equipe é experiente.",
+        "C": "C — Incorreta: “Administrar nova dose de ocitocina, para estimulação da contração uterina.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é parto vaginal operatório com fórceps.",
+        "D": "D — Incorreta: “Aguardar até se completarem três horas de evolução, por se tratar de primípara.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é parto vaginal operatório com fórceps."
+      },
+      "keyPoint": "Ponto-chave: Parto vaginal operatório com fórceps."
+    },
+    "Q075": {
+      "explanation": "A Pesquisa Nacional de Saúde mede exposições e desfechos em uma amostra populacional em determinado período, caracterizando estudo transversal.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “coorte.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é estudo transversal.",
+        "B": "B — Correta: A Pesquisa Nacional de Saúde mede exposições e desfechos em uma amostra populacional em determinado período, caracterizando estudo transversal.",
+        "C": "C — Incorreta: “experimental.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é estudo transversal.",
+        "D": "D — Incorreta: “caso-controle.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é estudo transversal."
+      },
+      "keyPoint": "Ponto-chave: Estudo transversal."
+    },
+    "Q076": {
+      "explanation": "Exantema papuloeritematoso surgido após início de naproxeno, sem instabilidade ou comprometimento respiratório, é farmacodermia; deve-se suspender o fármaco e tratar o prurido com anti-histamínico.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Doença do soro; manter uso de naproxeno e administrar hidrocortisona IV.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é farmacodermia por anti-inflamatório.",
+        "B": "B — Incorreta: “Anafilaxia; colocar o paciente em posição supina e administrar adrenalina IM.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é farmacodermia por anti-inflamatório.",
+        "C": "C — Correta: Exantema papuloeritematoso surgido após início de naproxeno, sem instabilidade ou comprometimento respiratório, é farmacodermia; deve-se suspender o fármaco e tratar o prurido com anti-histamínico.",
+        "D": "D — Incorreta: “Dermatite atópica; suspender uso de naproxeno e administrar anti-histamínico IV.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é farmacodermia por anti-inflamatório."
+      },
+      "keyPoint": "Ponto-chave: Farmacodermia por anti-inflamatório."
+    },
+    "Q077": {
+      "explanation": "Dor crônica pós-prandial, perda ponderal, esteatorreia e etilismo/tabagismo de longa data sugerem pancreatite crônica; manejo inclui abstinência, analgesia, orientação dietética e reposição enzimática conforme necessidade.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Pancreatite aguda; hidratação, analgesia e jejum.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é pancreatite crônica.",
+        "B": "B — Correta: Dor crônica pós-prandial, perda ponderal, esteatorreia e etilismo/tabagismo de longa data sugerem pancreatite crônica; manejo inclui abstinência, analgesia, orientação dietética e reposição enzimática conforme necessidade.",
+        "C": "C — Incorreta: “Hepatite alcoólica; corticosteroides e orientação dietética.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é pancreatite crônica.",
+        "D": "D — Incorreta: “Cirrose hepática; biópsia hepática e tratamento do etilismo.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é pancreatite crônica."
+      },
+      "keyPoint": "Ponto-chave: Pancreatite crônica."
+    },
+    "Q078": {
+      "explanation": "Púrpura palpável em membros inferiores/glúteos, artralgia, dor abdominal e plaquetas normais após infecção respiratória são clássicas de vasculite por IgA.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “poliarterite nodosa.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é vasculite por imunoglobulina a.",
+        "B": "B — Incorreta: “arterite de Takayasu.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é vasculite por imunoglobulina a.",
+        "C": "C — Incorreta: “doença de Kawasaki.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é vasculite por imunoglobulina a.",
+        "D": "D — Correta: Púrpura palpável em membros inferiores/glúteos, artralgia, dor abdominal e plaquetas normais após infecção respiratória são clássicas de vasculite por IgA."
+      },
+      "keyPoint": "Ponto-chave: Vasculite por imunoglobulina A."
+    },
+    "Q079": {
+      "explanation": "Dor, calor, hiperemia localizada e fissura mamilar no puerpério, sem flutuação, indicam mastite; deve-se manter esvaziamento/amamentação, oferecer analgesia e antibiótico oral.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “galactocele; massagem mamária e manutenção da amamentação.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é mastite puerperal.",
+        "B": "B — Correta: Dor, calor, hiperemia localizada e fissura mamilar no puerpério, sem flutuação, indicam mastite; deve-se manter esvaziamento/amamentação, oferecer analgesia e antibiótico oral.",
+        "C": "C — Incorreta: “abscesso mamário; antibioticoterapia intravenosa e drenagem da mama direita com sedação.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é mastite puerperal.",
+        "D": "D — Incorreta: “ingurgitamento mamário; aplicação de compressas frias, interrupção da amamentação e manutenção das mamas bem suspensas.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é mastite puerperal."
+      },
+      "keyPoint": "Ponto-chave: Mastite puerperal."
+    },
+    "Q080": {
+      "explanation": "No calendário considerado pela prova, a criança de 9 meses deve ter duas doses de meningocócica C, a de 4 anos duas doses mais reforço, e o adolescente recebe uma dose de meningocócica ACWY.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “uma dose da vacina meningocócica C conjugada; uma dose e um reforço da vacina meningocócica C conjugada; e uma dose da vacina meningocócica ACWY conjugada.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é vacinação meningocócica.",
+        "B": "B — Correta: No calendário considerado pela prova, a criança de 9 meses deve ter duas doses de meningocócica C, a de 4 anos duas doses mais reforço, e o adolescente recebe uma dose de meningocócica ACWY.",
+        "C": "C — Incorreta: “duas doses e um reforço da vacina meningocócica C conjugada; três doses e um reforço da vacina meningocócica C conjugada; e duas doses da vacina meningocócica ACWY conjugada.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é vacinação meningocócica.",
+        "D": "D — Incorreta: “uma dose e um reforço da vacina meningocócica C conjugada; duas doses e um reforço da vacina meningocócica C conjugada; e uma dose e um reforço da vacina meningocócica ACWY conjugada.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é vacinação meningocócica."
+      },
+      "keyPoint": "Ponto-chave: Vacinação meningocócica."
+    },
+    "Q081": {
+      "explanation": "Desdobramento fixo de B2 é achado clássico de comunicação interatrial; o shunt pode permitir embolia paradoxal e evento embólico sistêmico quando há inversão transitória do gradiente.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Estenose pulmonar; embolia pulmonar.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é comunicação interatrial e embolia paradoxal.",
+        "B": "B — Incorreta: “Estenose de valva mitral; embolia sistêmica.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é comunicação interatrial e embolia paradoxal.",
+        "C": "C — Correta: Desdobramento fixo de B2 é achado clássico de comunicação interatrial; o shunt pode permitir embolia paradoxal e evento embólico sistêmico quando há inversão transitória do gradiente.",
+        "D": "D — Incorreta: “Prolapso de valva mitral; embolia pulmonar.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é comunicação interatrial e embolia paradoxal."
+      },
+      "keyPoint": "Ponto-chave: Comunicação interatrial e embolia paradoxal."
+    },
+    "Q082": {
+      "explanation": "Após exposição química ocular, irrigação imediata é a primeira medida; persistência de dor e visão turva exige avaliação oftalmológica urgente em pronto-socorro.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Aplicação de colírio lubrificante e repouso domiciliar.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é exposição química ocular.",
+        "B": "B — Correta: Após exposição química ocular, irrigação imediata é a primeira medida; persistência de dor e visão turva exige avaliação oftalmológica urgente em pronto-socorro.",
+        "C": "C — Incorreta: “Oclusão prolongada de ambos os olhos com gaze úmida.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é exposição química ocular.",
+        "D": "D — Incorreta: “Avaliação e acompanhamento pelo médico na unidade básica de saúde.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é exposição química ocular."
+      },
+      "keyPoint": "Ponto-chave: Exposição química ocular."
+    },
+    "Q083": {
+      "explanation": "O gabarito definitivo anulou a questão. Secreção purulenta abundante de início precoce, edema palpebral e mãe com cervicite purulenta sugerem oftalmia gonocócica, uma emergência que exige tratamento sistêmico imediato; as alternativas misturam necessidade de colírio e esquema sistêmico de forma discutível.",
+      "optionExplanations": {
+        "A": "A — Aguardar o swab é inadequado em suspeita de gonococo, pois há risco de ulceração corneana e perda visual.",
+        "B": "B — Conjuntivite bacteriana comum não explica tão bem a secreção copiosa e o contexto materno de IST.",
+        "C": "C — Também é inadequado adiar tratamento em recém-nascido com suspeita de infecção gonocócica grave.",
+        "D": "D — Tratamento sistêmico imediato com ceftriaxona é conceitualmente correto, porém o uso de colírio antibiótico como componente necessário tornou a redação controversa."
+      },
+      "keyPoint": "Questão anulada: oftalmia gonocócica neonatal é emergência; trate sistemicamente de imediato e não espere cultura para iniciar terapia."
+    },
+    "Q084": {
+      "explanation": "Lesão vulvar persistente em idosa, refratária a tratamentos e associada a líquen escleroso, deve ser biopsiada para excluir neoplasia intraepitelial ou invasiva.",
+      "optionExplanations": {
+        "A": "A — Correta: Lesão vulvar persistente em idosa, refratária a tratamentos e associada a líquen escleroso, deve ser biopsiada para excluir neoplasia intraepitelial ou invasiva.",
+        "B": "B — Incorreta: “testes alérgicos e iniciar clobetasol tópico.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é lesão vulvar persistente e biópsia.",
+        "C": "C — Incorreta: “cultura de fungos e tratar com cetoconazol tópico.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é lesão vulvar persistente e biópsia.",
+        "D": "D — Incorreta: “teste de azul de toluidina e indicar vulvectomia simples.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é lesão vulvar persistente e biópsia."
+      },
+      "keyPoint": "Ponto-chave: Lesão vulvar persistente e biópsia."
+    },
+    "Q085": {
+      "explanation": "Pessoa em situação de rua com sintomas clássicos de tuberculose deve ter investigação bacteriológica ampliada com cultura e teste de sensibilidade, além de testagem para HIV e outras infecções relevantes.",
+      "optionExplanations": {
+        "A": "A — Correta: Pessoa em situação de rua com sintomas clássicos de tuberculose deve ter investigação bacteriológica ampliada com cultura e teste de sensibilidade, além de testagem para HIV e outras infecções relevantes.",
+        "B": "B — Incorreta: “Solicitar radiografia de tórax e, em caso de alteração, prescrever medicamento (rifampicina / isoniazida / pirazinamida / etambutol) via tratamento diretamente observado.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é tuberculose em pessoa em situação de rua.",
+        "C": "C — Incorreta: “Solicitar exame bacteriológico de escarro e, em caso positivo, encaminhar o paciente para serviço de referência em pneumologia para tratamento de tuberculose multirresistente.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é tuberculose em pessoa em situação de rua.",
+        "D": "D — Incorreta: “Solicitar exame bacteriológico de escarro, testagem para HIV, para hepatites virais e para sífilis e, caso seja confirmada a presença de tuberculose, instituir tratamento diretamente observado.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é tuberculose em pessoa em situação de rua."
+      },
+      "keyPoint": "Ponto-chave: Tuberculose em pessoa em situação de rua."
+    },
+    "Q086": {
+      "explanation": "Pressão arterial muito elevada acompanhada de desorientação e papiledema caracteriza encefalopatia hipertensiva, uma emergência hipertensiva com lesão de órgão-alvo cerebral.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Hipertensão Maligna; coriorretinite.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é encefalopatia hipertensiva.",
+        "B": "B — Correta: Pressão arterial muito elevada acompanhada de desorientação e papiledema caracteriza encefalopatia hipertensiva, uma emergência hipertensiva com lesão de órgão-alvo cerebral.",
+        "C": "C — Incorreta: “Ataque Isquêmico Transitório; fibras nervosas meduladas.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é encefalopatia hipertensiva.",
+        "D": "D — Incorreta: “Acidente Vascular Encefálico Hemorrágico; pulso venoso espontâneo.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é encefalopatia hipertensiva."
+      },
+      "keyPoint": "Ponto-chave: Encefalopatia hipertensiva."
+    },
+    "Q087": {
+      "explanation": "Diarreia crônica com sangue e muco, urgência, tenesmo e perda ponderal favorece retocolite ulcerativa, especialmente em paciente jovem.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Tumor colorretal.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é retocolite ulcerativa.",
+        "B": "B — Incorreta: “Doença de Crohn.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é retocolite ulcerativa.",
+        "C": "C — Correta: Diarreia crônica com sangue e muco, urgência, tenesmo e perda ponderal favorece retocolite ulcerativa, especialmente em paciente jovem.",
+        "D": "D — Incorreta: “Doença hemorroidária.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é retocolite ulcerativa."
+      },
+      "keyPoint": "Ponto-chave: Retocolite ulcerativa."
+    },
+    "Q088": {
+      "explanation": "Estridor em repouso, tosse e rouquidão com desconforto respiratório caracterizam crupe moderado a grave; corticoide sistêmico e adrenalina nebulizada são indicados, com observação/internação.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “corticoide oral e nebulização com agonistas beta-2 e realizar internação hospitalar do paciente.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é crupe viral.",
+        "B": "B — Correta: Estridor em repouso, tosse e rouquidão com desconforto respiratório caracterizam crupe moderado a grave; corticoide sistêmico e adrenalina nebulizada são indicados, com observação/internação.",
+        "C": "C — Incorreta: “corticoide parenteral, realizar intubação orotraqueal no paciente e proceder à internação hospitalar.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é crupe viral.",
+        "D": "D — Incorreta: “corticoide inalatório, dar alta ao paciente e orientar seu retorno caso não melhore em 48 horas ou piore.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é crupe viral."
+      },
+      "keyPoint": "Ponto-chave: Crupe viral."
+    },
+    "Q089": {
+      "explanation": "LSIL em mulher jovem, segundo o protocolo utilizado pela prova, deve ser acompanhada com repetição da citologia em 6 meses antes de procedimentos invasivos.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “fazer pesquisa de DNA-HPV.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é lsil na citologia cervical.",
+        "B": "B — Correta: LSIL em mulher jovem, segundo o protocolo utilizado pela prova, deve ser acompanhada com repetição da citologia em 6 meses antes de procedimentos invasivos.",
+        "C": "C — Incorreta: “indicar biópsia do colo uterino.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é lsil na citologia cervical.",
+        "D": "D — Incorreta: “solicitar colposcopia e \"ver e tratar\".” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é lsil na citologia cervical."
+      },
+      "keyPoint": "Ponto-chave: LSIL na citologia cervical."
+    },
+    "Q090": {
+      "explanation": "Na investigação de sangramento uterino anormal, devem-se excluir gravidez e lesões de vagina/colo por exame físico, antes de atribuir o sangramento apenas à transição menopausal.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “O SUA é uma condição rara que afeta poucas mulheres no mundo, principalmente aquelas na pré-menopausa, seguidas por aquelas na perimenopausa e na pós-menopausa.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é sangramento uterino anormal.",
+        "B": "B — Incorreta: “O SUA é uma afecção frequente que pode comprometer a qualidade da vida da mulher em vários aspectos, sendo recomendado, como terapêutica de primeira linha, a histerectomia.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é sangramento uterino anormal.",
+        "C": "C — Correta: Na investigação de sangramento uterino anormal, devem-se excluir gravidez e lesões de vagina/colo por exame físico, antes de atribuir o sangramento apenas à transição menopausal.",
+        "D": "D — Incorreta: “O exame complementar que fornece mais dados para a condução dos casos de SUA é a ultrassonografia da região pélvica, com baixa sensibilidade, porém alta especificidade para lesões endometriais em geral.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é sangramento uterino anormal."
+      },
+      "keyPoint": "Ponto-chave: Sangramento uterino anormal."
+    },
+    "Q091": {
+      "explanation": "Hipotensão, turgência jugular, bulhas hipofonéticas, pulso paradoxal e baixa voltagem no ECG sugerem tamponamento cardíaco; ecocardiografia confirma e pericardiocentese é tratamento de urgência.",
+      "optionExplanations": {
+        "A": "A — Correta: Hipotensão, turgência jugular, bulhas hipofonéticas, pulso paradoxal e baixa voltagem no ECG sugerem tamponamento cardíaco; ecocardiografia confirma e pericardiocentese é tratamento de urgência.",
+        "B": "B — Incorreta: “Verificar enzimas cardíacas e indicar uso de trombolítico.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é tamponamento cardíaco.",
+        "C": "C — Incorreta: “Indicar uso de vasopressores e de antibióticos endovenosos.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é tamponamento cardíaco.",
+        "D": "D — Incorreta: “Realizar angiotomografia de tórax e exame de anticoagulação.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é tamponamento cardíaco."
+      },
+      "keyPoint": "Ponto-chave: Tamponamento cardíaco."
+    },
+    "Q092": {
+      "explanation": "Dor em fossa ilíaca esquerda, febre baixa e plastrão em paciente com doença diverticular sugerem diverticulite complicada com abscesso; tomografia contrastada confirma e estagia.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Diverticulite aguda com abscesso pélvico; colonoscopia.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é diverticulite com abscesso pélvico.",
+        "B": "B — Incorreta: “Peritonite fecal por diverticulite aguda; radiografia abdominal.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é diverticulite com abscesso pélvico.",
+        "C": "C — Incorreta: “Peritonite fecal por diverticulite aguda; tomografia com contraste.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é diverticulite com abscesso pélvico.",
+        "D": "D — Correta: Dor em fossa ilíaca esquerda, febre baixa e plastrão em paciente com doença diverticular sugerem diverticulite complicada com abscesso; tomografia contrastada confirma e estagia."
+      },
+      "keyPoint": "Ponto-chave: Diverticulite com abscesso pélvico."
+    },
+    "Q093": {
+      "explanation": "Dificuldade persistente e específica de aprendizagem, após exclusão de déficits sensoriais, neurológicos e ambientais evidentes, deve ser avaliada inicialmente por equipe psicopedagógica.",
+      "optionExplanations": {
+        "A": "A — Correta: Dificuldade persistente e específica de aprendizagem, após exclusão de déficits sensoriais, neurológicos e ambientais evidentes, deve ser avaliada inicialmente por equipe psicopedagógica.",
+        "B": "B — Incorreta: “reavaliação junto à escola, já que não há parâmetros para avaliar transtorno de aprendizagem aos 6 anos de idade.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é transtorno específico da aprendizagem.",
+        "C": "C — Incorreta: “consulta com um neuropediatra, com o objetivo de identificar doenças que possam gerar transtornos de aprendizagem.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é transtorno específico da aprendizagem.",
+        "D": "D — Incorreta: “equipe de reforço pedagógico, a fim de realizar acompanhamento, uma vez que a criança não apresenta problemas aparentes.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é transtorno específico da aprendizagem."
+      },
+      "keyPoint": "Ponto-chave: Transtorno específico da aprendizagem."
+    },
+    "Q094": {
+      "explanation": "Segundo a política de rastreamento utilizada pela prova, mulher de risco habitual deve realizar exame clínico periódico e mamografia bienal a partir dos 50 anos; história em tia idosa não a coloca em alto risco familiar.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “ressonância magnética das mamas anualmente.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é rastreamento do câncer de mama.",
+        "B": "B — Incorreta: “ultrassonografia mamária bienal após os 40 anos” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é rastreamento do câncer de mama.",
+        "C": "C — Incorreta: “exame clínico das mamas e mamografia anualmente.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é rastreamento do câncer de mama.",
+        "D": "D — Correta: Segundo a política de rastreamento utilizada pela prova, mulher de risco habitual deve realizar exame clínico periódico e mamografia bienal a partir dos 50 anos; história em tia idosa não a coloca em alto risco familiar."
+      },
+      "keyPoint": "Ponto-chave: Rastreamento do câncer de mama."
+    },
+    "Q095": {
+      "explanation": "Criança com quadro compatível com dengue e sem sinais de choque pode ser manejada com hidratação oral, prova do laço, avaliação de foco otológico e orientação de retorno no período crítico da defervescência.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “Realizar prova do laço; e prescrever amoxicilina ou clavulanato de potássio à paciente, orientando o retorno após 3 dias.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é dengue na criança.",
+        "B": "B — Incorreta: “Realizar otoscopia; solicitar hemograma; e prescrever amoxicilina ou clavulanato de potássio à paciente, orientando o retorno após 3 dias.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é dengue na criança.",
+        "C": "C — Correta: Criança com quadro compatível com dengue e sem sinais de choque pode ser manejada com hidratação oral, prova do laço, avaliação de foco otológico e orientação de retorno no período crítico da defervescência.",
+        "D": "D — Incorreta: “Realizar prova do laço; solicitar hemograma; e prescrever hidratação parenteral com SF 0,9% à paciente, mantendo-a em observação por, pelo menos, 24 horas.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é dengue na criança."
+      },
+      "keyPoint": "Ponto-chave: Dengue na criança."
+    },
+    "Q096": {
+      "explanation": "Diarreia sanguinolenta crônica com tenesmo, artrite periférica e eritema nodoso sugere doença inflamatória intestinal, especialmente retocolite; confirmação exige colonoscopia com biópsias.",
+      "optionExplanations": {
+        "A": "A — Correta: Diarreia sanguinolenta crônica com tenesmo, artrite periférica e eritema nodoso sugere doença inflamatória intestinal, especialmente retocolite; confirmação exige colonoscopia com biópsias.",
+        "B": "B — Incorreta: “sorologia anti-HIV e pesquisa de Isospora belli e Cryptosporidium parvum nas fezes.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é retocolite ulcerativa com manifestações extraintestinais.",
+        "C": "C — Incorreta: “pesquisa de toxinas AeBe detecção de ácidos nucleicos de Clostridium difficile nas fezes.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é retocolite ulcerativa com manifestações extraintestinais.",
+        "D": "D — Incorreta: “pesquisa de antígenos ou exame direto para trofozoítas de Entamoeba hystolitica nas fezes.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é retocolite ulcerativa com manifestações extraintestinais."
+      },
+      "keyPoint": "Ponto-chave: Retocolite ulcerativa com manifestações extraintestinais."
+    },
+    "Q097": {
+      "explanation": "O dermátomo do umbigo corresponde aproximadamente a T10; perda sensitiva a partir desse nível e paraplegia são compatíveis com lesão medular torácica em T10.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “L2.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é lesão medular no nível t10.",
+        "B": "B — Incorreta: “T4.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é lesão medular no nível t10.",
+        "C": "C — Correta: O dermátomo do umbigo corresponde aproximadamente a T10; perda sensitiva a partir desse nível e paraplegia são compatíveis com lesão medular torácica em T10.",
+        "D": "D — Incorreta: “T12.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é lesão medular no nível t10."
+      },
+      "keyPoint": "Ponto-chave: Lesão medular no nível T10."
+    },
+    "Q098": {
+      "explanation": "Ausência de contato visual e de gestos sociais aos 9 meses são sinais de alerta do desenvolvimento; a conduta é iniciar estimulação precoce e reavaliar em curto intervalo, sem esperar diagnóstico formal tardio.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “encaminhar o paciente para a neuropediatria e para um geneticista.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é sinais precoces de transtorno do espectro autista.",
+        "B": "B — Correta: Ausência de contato visual e de gestos sociais aos 9 meses são sinais de alerta do desenvolvimento; a conduta é iniciar estimulação precoce e reavaliar em curto intervalo, sem esperar diagnóstico formal tardio.",
+        "C": "C — Incorreta: “tranquilizar a mãe e manter o bebê em consultas de rotina de puericultura.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é sinais precoces de transtorno do espectro autista.",
+        "D": "D — Incorreta: “iniciar uso de risperidona e encaminhar o paciente para uma equipe multiprofissional.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é sinais precoces de transtorno do espectro autista."
+      },
+      "keyPoint": "Ponto-chave: Sinais precoces de transtorno do espectro autista."
+    },
+    "Q099": {
+      "explanation": "Projeção papilar dentro de cisto ovariano é característica morfológica de complexidade e aumenta suspeita de neoplasia, justificando investigação cirúrgica independentemente do tamanho isolado.",
+      "optionExplanations": {
+        "A": "A — Incorreta: “o tamanho do cisto.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é cisto ovariano complexo com projeção papilar.",
+        "B": "B — Incorreta: “a idade da paciente.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é cisto ovariano complexo com projeção papilar.",
+        "C": "C — Correta: Projeção papilar dentro de cisto ovariano é característica morfológica de complexidade e aumenta suspeita de neoplasia, justificando investigação cirúrgica independentemente do tamanho isolado.",
+        "D": "D — Incorreta: “a irregularidade menstrual.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é cisto ovariano complexo com projeção papilar."
+      },
+      "keyPoint": "Ponto-chave: Cisto ovariano complexo com projeção papilar."
+    },
+    "Q100": {
+      "explanation": "Episódios recorrentes de consumo excessivo de álcool com prejuízo ocupacional e emocional, sem sinais de dependência física ou abstinência, caracterizam uso nocivo de álcool.",
+      "optionExplanations": {
+        "A": "A — Correta: Episódios recorrentes de consumo excessivo de álcool com prejuízo ocupacional e emocional, sem sinais de dependência física ou abstinência, caracterizam uso nocivo de álcool.",
+        "B": "B — Incorreta: “dependência de álcool.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é uso nocivo de álcool.",
+        "C": "C — Incorreta: “episódio depressivo moderado.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é uso nocivo de álcool.",
+        "D": "D — Incorreta: “síndrome de abstinência do álcool.” não é a alternativa que melhor integra os achados e a conduta/diagnóstico exigidos. O ponto decisivo é uso nocivo de álcool."
+      },
+      "keyPoint": "Ponto-chave: Uso nocivo de álcool."
+    }
+  }
+}

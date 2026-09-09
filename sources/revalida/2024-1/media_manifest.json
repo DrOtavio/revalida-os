@@ -1,0 +1,439 @@
+{
+  "schemaVersion": 1,
+  "edition": "2024/1",
+  "source": "INEP",
+  "questions": {
+    "Q013": [
+      {
+        "kind": "image",
+        "title": "Enema contrastado",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q013_enema_contrastado.png",
+        "altText": "Estudo contrastado do cólon apresentado na questão 13."
+      }
+    ],
+    "Q014": [
+      {
+        "kind": "table",
+        "title": "Dados do pré-natal",
+        "caption": "Registros da carteirinha apresentados no enunciado oficial.",
+        "columns": [
+          "Data",
+          "IG",
+          "PA",
+          "AU",
+          "BCF/MF",
+          "Observações"
+        ],
+        "rows": [
+          [
+            "15/09",
+            "7 sem.",
+            "100/70",
+            "-",
+            "-/-",
+            "Náuseas leves, dor em cólicas discretas. Tabagista 10 cigarros/dia. Pedidos exames de rotina."
+          ],
+          [
+            "12/10",
+            "11 sem.",
+            "94/62",
+            "6 cm",
+            "-/-",
+            "Piora nas náuseas, medicada com metoclopramida. Solicitada ultrassonografia morfológica."
+          ],
+          [
+            "12/11",
+            "15 sem.",
+            "100/64",
+            "12 cm",
+            "+/-",
+            "Melhora nas náuseas, refere corrimento amarelado. Não conseguiu fazer o USG."
+          ],
+          [
+            "09/12",
+            "19 sem.",
+            "110/72",
+            "17 cm",
+            "+/+",
+            "Já percebe MF, sente dor em hipogástrio."
+          ],
+          [
+            "07/01",
+            "21 sem.",
+            "104/68",
+            "20 cm",
+            "+/+",
+            "Sem queixas."
+          ],
+          [
+            "11/02",
+            "26 sem.",
+            "130/98",
+            "24 cm",
+            "+/+",
+            "Solicitado USG morfológica do segundo trimestre."
+          ],
+          [
+            "15/03",
+            "31 sem.",
+            "140/82",
+            "26 cm",
+            "+/+",
+            "Aguarda USG morfológica. Teve sinusiorragia e sangramento ao esforço evacuatório."
+          ],
+          [
+            "12/04",
+            "35 sem.",
+            "142/88",
+            "29 cm",
+            "+/+",
+            "Encaminhada para avaliação no setor de gravidez de alto risco."
+          ]
+        ],
+        "fallbackImage": "q014_table_01.png",
+        "altText": "Tabela oficial com evolução do pré-natal da questão 14."
+      }
+    ],
+    "Q020": [
+      {
+        "kind": "table",
+        "title": "Avaliação antropométrica",
+        "caption": "Indicadores apresentados no enunciado oficial.",
+        "columns": [
+          "Indicador",
+          "Escore-Z"
+        ],
+        "rows": [
+          [
+            "Estatura para idade",
+            "-0,7"
+          ],
+          [
+            "Peso para idade",
+            "+2,6"
+          ],
+          [
+            "Índice de Massa Corporal para idade",
+            "+2,8"
+          ]
+        ],
+        "fallbackImage": "q020_table_01.png",
+        "altText": "Tabela de escores-Z de estatura, peso e IMC da questão 20."
+      }
+    ],
+    "Q021": [
+      {
+        "kind": "table",
+        "title": "Líquido cefalorraquidiano",
+        "caption": "Resultados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Referência convencional",
+          "Referência SI"
+        ],
+        "rows": [
+          [
+            "Contagem de células",
+            "0 a 2/mm³",
+            "0 a 5 linfócitos/mcL",
+            "0 a 5 × 10⁶ linfócitos/L"
+          ],
+          [
+            "Glicose",
+            "74 mg/dL",
+            "40 a 80 mg/dL (<40% do nível plasmático se este estiver anormal)",
+            "2,2 a 4,4 mmol/L (<40% do nível plasmático se este estiver alterado)"
+          ],
+          [
+            "Proteína total",
+            "103 mg/dL",
+            "15 a 60 mg/dL",
+            "150 a 600 mg/L"
+          ]
+        ],
+        "fallbackImage": "q021_table_01.png",
+        "altText": "Tabela oficial do líquido cefalorraquidiano da questão 21."
+      }
+    ],
+    "Q036": [
+      {
+        "kind": "table",
+        "title": "Exames laboratoriais",
+        "caption": "Hemograma, bioquímica e urina apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hematócrito",
+            "28%",
+            "39,2 a 49,0%"
+          ],
+          [
+            "Hemoglobina",
+            "10 g/dL",
+            "13,3 a 16,5 g/dL"
+          ],
+          [
+            "Plaquetas",
+            "20.000/mm³",
+            "151.000 a 304.000/mm³"
+          ],
+          [
+            "Bilirrubina total",
+            "13 mg/dL",
+            "0,2 a 1,2 mg/dL"
+          ],
+          [
+            "Bilirrubina indireta",
+            "10 mg/dL",
+            "≤ 0,5 mg/dL"
+          ],
+          [
+            "Creatinina",
+            "2,9 mg/dL",
+            "0,7 a 1,3 mg/dL"
+          ],
+          [
+            "Ureia",
+            "70 mg/dL",
+            "10 a 45 mg/dL"
+          ],
+          [
+            "Sódio",
+            "137 mEq/L",
+            "135 a 145 mEq/L"
+          ],
+          [
+            "Potássio",
+            "2,0 mEq/L",
+            "3,5 a 5,1 mEq/L"
+          ],
+          [
+            "TGO",
+            "90 UI/L",
+            "5 a 40 UI/L"
+          ],
+          [
+            "TGP",
+            "80 UI/L",
+            "7 a 56 UI/L"
+          ],
+          [
+            "CPK",
+            "1.800 UI/L",
+            "30 a 200 UI/L"
+          ],
+          [
+            "Urina - leucócitos",
+            "> 30 por campo",
+            "< 5"
+          ],
+          [
+            "Urina - hemácias",
+            "> 100 por campo",
+            "< 5"
+          ],
+          [
+            "Urina - urobilinogênio",
+            "Presente",
+            "Ausente"
+          ],
+          [
+            "Urina - cilindros granulosos",
+            "Presentes",
+            "Ausente"
+          ]
+        ],
+        "fallbackImage": "q036_table_01.png",
+        "altText": "Tabela oficial de exames laboratoriais da questão 36."
+      }
+    ],
+    "Q038": [
+      {
+        "kind": "image",
+        "title": "Radiografia dos membros inferiores",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q038_rx_membros_inferiores.png",
+        "altText": "Radiografia dos membros inferiores do lactente na questão 38."
+      }
+    ],
+    "Q046": [
+      {
+        "kind": "image",
+        "title": "Radiografia de tórax",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q046_rx_torax.png",
+        "altText": "Radiografia de tórax com lesão cavitária apresentada na questão 46."
+      }
+    ],
+    "Q069": [
+      {
+        "kind": "image",
+        "title": "Cardiotocografia",
+        "caption": "Traçado oficial apresentado no caderno do INEP.",
+        "file": "q069_cardiotocografia.png",
+        "altText": "Traçado cardiotocográfico da questão 69."
+      }
+    ],
+    "Q077": [
+      {
+        "kind": "table",
+        "title": "Exames laboratoriais",
+        "caption": "Resultados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Valor",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hemoglobina",
+            "10,5 g/dL",
+            "13 a 17 g/dL"
+          ],
+          [
+            "Hematócrito",
+            "35%",
+            "40 a 50%"
+          ],
+          [
+            "Leucócitos",
+            "8.000/mm³",
+            "4.000 a 10.000/mm³"
+          ],
+          [
+            "Glicemia de jejum",
+            "155 mg/dL",
+            "< 100 mg/dL"
+          ],
+          [
+            "AST",
+            "39 U/L",
+            "< 38 U/L"
+          ],
+          [
+            "ALT",
+            "33 U/L",
+            "< 41 U/L"
+          ],
+          [
+            "Bilirrubina total",
+            "1,1 mg/dL",
+            "0,2 a 1,20 mg/dL"
+          ],
+          [
+            "Amilase",
+            "130 U/L",
+            "25 a 125 U/L"
+          ],
+          [
+            "Lipase",
+            "83 U/L",
+            "< 60 U/L"
+          ],
+          [
+            "Ureia",
+            "42 mg/dL",
+            "< 45 mg/dL"
+          ],
+          [
+            "Creatinina",
+            "1,3 mg/dL",
+            "0,6 a 1,2 mg/dL"
+          ],
+          [
+            "Cálcio sérico",
+            "10,4 mg/dL",
+            "8,6 a 10 mg/dL"
+          ]
+        ],
+        "fallbackImage": "q077_table_01.png",
+        "altText": "Tabela oficial de exames laboratoriais da questão 77."
+      }
+    ],
+    "Q091": [
+      {
+        "kind": "table",
+        "title": "Exames laboratoriais",
+        "caption": "Resultados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Valor",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hematócrito",
+            "28%",
+            "40 a 50%"
+          ],
+          [
+            "Hemoglobina",
+            "7,3 g/dL",
+            "13 a 17 g/dL"
+          ],
+          [
+            "Leucócitos",
+            "5.500/mm³",
+            "4.000 a 10.000/mm³"
+          ],
+          [
+            "Neutrófilos",
+            "70%",
+            "40 a 80%"
+          ],
+          [
+            "Plaquetas",
+            "62.000/mm³",
+            "151.000 a 304.000/mm³"
+          ],
+          [
+            "Protrombina",
+            "2,2",
+            "0,8 a 1,2"
+          ],
+          [
+            "Ácido úrico",
+            "6,9 mg/dL",
+            "2,4 a 5,7 mg/dL"
+          ],
+          [
+            "Glicemia de jejum",
+            "155 mg/dL",
+            "< 100 mg/dL"
+          ],
+          [
+            "Creatinina",
+            "0,6 mg/dL",
+            "0,6 a 1,2 mg/dL"
+          ],
+          [
+            "Bilirrubina total",
+            "0,9 mg/dL",
+            "0,2 a 1,20 mg/dL"
+          ],
+          [
+            "Lactato",
+            "1,5 mmol/L",
+            "0,5 a 1,6 mmol/L"
+          ]
+        ],
+        "fallbackImage": "q091_table_01.png",
+        "altText": "Tabela oficial de exames laboratoriais da questão 91."
+      }
+    ]
+  },
+  "stemOverrides": {
+    "Q014": "Os dados da carteirinha de uma gestante com 28 anos, primigesta, sem intercorrências clínicas prévias à gestação e atendida em uma unidade básica de saúde, são apresentados na tabela abaixo. Com base nesses dados, é correto afirmar que:",
+    "Q020": "Uma criança com 2 anos é levada por sua mãe à unidade básica de saúde para verificar se peso e altura estão adequados para a idade. Os indicadores antropométricos são apresentados na tabela abaixo. A partir desses dados, qual é a conduta médica correta para dar prosseguimento ao cuidado?",
+    "Q021": "Um homem de 38 anos apresentou quadro viral autolimitado e, cerca de 10 dias depois, evoluiu com parestesias ascendentes, fraqueza progressiva em membros inferiores, arreflexia patelar e aquileu e alterações sensitivas em bota e luva. O líquido cefalorraquidiano é apresentado na tabela abaixo. Diante do quadro clínico e do LCR, qual é a principal suspeita diagnóstica?",
+    "Q036": "Um homem de 18 anos, residente em área urbana sujeita a inundações durante período de chuvas, apresenta febre, mialgia intensa, colúria, icterícia e sufusão hemorrágica conjuntival. Ao exame há dor muscular em membros inferiores e hepatomegalia. Os exames laboratoriais e de urina são apresentados na tabela abaixo. Qual é a hipótese diagnóstica mais provável?",
+    "Q077": "Um homem de 57 anos apresenta dor abdominal crônica pós-prandial, emagrecimento, diarreia com gotículas de gordura e história de tabagismo e etilismo há 30 anos. Os exames laboratoriais são apresentados na tabela abaixo. Com base no quadro, quais são, respectivamente, o diagnóstico e a conduta?",
+    "Q091": "Um paciente de 34 anos, em quimioterapia para linfoma, apresenta dispneia, desconforto torácico, ortopneia, hipotensão, pulso paradoxal, grande distensão jugular, bulhas hipofonéticas e baixa voltagem no ECG. Os exames laboratoriais são apresentados na tabela abaixo. Considerando a hipótese diagnóstica mais provável, quais medidas devem ser adotadas?"
+  }
+}

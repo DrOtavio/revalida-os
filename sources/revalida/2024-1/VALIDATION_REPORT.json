@@ -1,0 +1,19 @@
+{
+  "edition": "2024/1",
+  "examId": "revalida-2024-1",
+  "questionCount": 100,
+  "answerCount": 100,
+  "annulled": [
+    7,
+    17,
+    43,
+    50,
+    83
+  ],
+  "metadata": 100,
+  "explanations": 100,
+  "mediaQuestions": 10,
+  "mediaItems": 10,
+  "stemOverrides": 6,
+  "status": "OK"
+}
