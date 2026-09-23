@@ -1,0 +1,3426 @@
+EXAM_ID: revalida-2026-2
+EXAM: REVALIDA
+BOARD: INEP
+YEAR: 2026
+EDITION: 2026/2
+TYPE: OBJECTIVE
+QUESTION_COUNT: 100
+TIME_MINUTES: 300
+
+=== QUESTION 001 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 75 anos, residente em instituição de longa
+permanência, com histórico de declínio cognitivo leve, é
+levado a uma Unidade Básica de Saúde devido a quadro de
+confusão mental progressiva iniciado há 7 dias, associado
+a astenia, tosse e agitação psicomotora. No segundo dia
+de sintomas, foi iniciada ciprofloxacina empiricamente,
+sem melhora. O paciente apresenta hipertensão arterial e
+dislipidemia bem controladas. O exame físico revela: paciente
+confuso no tempo e no espaço; temperatura axilar 36,1 °C;
+PA 110 x 60 mmHg; FC 98 bpm; FR 21 irpm; SatO2 94% em
+ar ambiente. Ausculta respiratória com estertores finos em
+bases bilateralmente.
+Qual é a conduta inicial para esse paciente?
+
+OPTION_A:
+Associar claritromicina.
+
+OPTION_B:
+Encaminhar para Unidade de Pronto Atendimento.
+
+OPTION_C:
+Solicitar tomografia de tórax.
+
+OPTION_D:
+Administrar furosemida.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 002 ===
+PARSE_STATUS:
+OK
+TEXT:
+Criança de 4 anos, previamente saudável, é levada a
+uma Unidade de Pronto Atendimento após início súbito
+de dificuldade respiratória, estridor inspiratório intenso,
+sialorreia, postura sentada em tripé, aspecto tóxico e
+rebaixamento de nível de consciência. A mãe relata que a
+criança estava bem até poucas horas antes do episódio. Ao
+exame: FC 160 bpm; FR 50 irpm; SatO2 86% em ar ambiente;
+temperatura axilar 40 °C. A criança apresenta piora da
+dispneia à manipulação.
+Qual é a principal hipótese diagnóstica nesse caso?
+
+OPTION_A:
+Laringite aguda.
+
+OPTION_B:
+Obstrução por corpo estranho.
+
+OPTION_C:
+Epiglotite aguda.
+
+OPTION_D:
+Pneumonia bacteriana.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 003 ===
+PARSE_STATUS:
+OK
+TEXT:
+Gestante de 32 semanas é socorrida por equipe de
+atendimento
+pré-hospitalar
+após
+sofrer
+acidente
+automobilístico. A paciente está conversando. Apresenta:
+escala de Glasgow 12; FC 108 bpm; PA 90 x 60 mmHg. É
+imobilizada em prancha rígida com colar cervical.
+Qual é a conduta indicada para otimizar o retorno venoso
+materno, durante o transporte, sem risco de comprometer a
+estabilização da coluna vertebral da paciente?
+
+OPTION_A:
+Colocá-la em posição de Trendelemburg.
+
+OPTION_B:
+Imobilizá-la na prancha em decúbito lateral esquerdo.
+
+OPTION_C:
+Realizar o deslocamento manual do útero para a esquerda.
+
+OPTION_D:
+Elevar os membros inferiores.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 004 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher de 35 anos, nuligesta, comparece à consulta em
+Unidade Básica de Saúde com queixa de dismenorreia
+progressiva e de hematoquezia quando está menstruada.
+Relata que as cólicas menstruais pioraram há 5 anos e que
+precisou procurar o pronto-socorro em duas ocasiões por
+dor pélvica forte e necessidade de medicação intravenosa.
+Afirma não fazer uso de contracepção hormonal por não ter
+atividade sexual há 10 anos. Nega doenças crônicas ou uso
+de medicações. Refere constipação, com piora nos últimos
+6 meses, e distensão abdominal. Ao exame físico, observa-
+se abdome indolor à palpação; exame especular sem lesões
+visíveis; toque vaginal com dor à mobilização do colo uterino;
+útero pouco móvel; palpação de nódulos endurecidos e
+doloridos em fórnice vaginal posterior.
+Considerando-se a provável hipótese diagnóstica, qual é o
+exame de referência para investigação inicial nesse caso?
+
+OPTION_A:
+Tomografia computadorizada do abdome.
+
+OPTION_B:
+Laparoscopia diagnóstica.
+
+OPTION_C:
+Histerossonossalpingografia.
+
+OPTION_D:
+Ultrassonografia endovaginal.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 005 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 27 anos procura Unidade Básica de Saúde
+referindo febre, mialgia, artralgia, cefaleia e dor retro-
+orbitária, iniciadas há 7 dias. Relatou vômitos frequentes
+há 2 dias. Nega ter viajado nas últimas 2 semanas. O exame
+físico mostra: temperatura axilar 39 °C; desidratado (2+/4+);
+PA 80 x 50 mmHg; FC 120 bpm; FR 22 irpm; abdome com dor
+difusa à palpação profunda; exantema maculopapular em
+tronco e membros superiores.
+A confirmação do diagnóstico provável nesse caso será
+determinada por
+
+OPTION_A:
+pesquisa de proteína NS1.
+
+OPTION_B:
+avaliação da contagem de plaquetas.
+
+OPTION_C:
+realização de isolamento viral.
+
+OPTION_D:
+detecção de Anticorpos IgM por ELISA.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 006 ===
+PARSE_STATUS:
+OK
+TEXT:
+Em uma reunião de equipe, a enfermeira da Unidade Básica
+de Saúde (UBS) informa que, apesar de estar conseguindo
+manter os atendimentos de rotina, no último mês percebeu
+aumento de atendimentos por desidratação leve, exaustão
+pelo calor e descompensação de doenças crônicas, e que
+suspeita estarem relacionadas à onda de calor que está
+ocorrendo no município.
+O plano de intervenção para a população do território adstrito
+dessa UBS consiste em
+
+OPTION_A:
+separar o fluxo de atendimento da UBS para agilizar o atendimento da população atingida.
+
+OPTION_B:
+implementar hospital de campanha para atender a população por demanda espontânea.
+
+OPTION_C:
+encaminhar as pessoas afetadas para hidratação parenteral a fim de evitar descompensação clínica.
+
+OPTION_D:
+orientar hidratação, adaptação do domicílio, sinais de alerta, e monitoramento ativo dos susceptíveis.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 007 ===
+PARSE_STATUS:
+OK
+TEXT:
+Estudante de 17 anos comparece espontaneamente a
+uma Unidade Básica de Saúde com relato de tristeza e
+dificuldade de relacionamento com os pais. Refere que já
+pensou em “sumir” depois da última briga em casa, mas
+nega intenção ou planejamento suicida, afirmando que não
+quer morrer, “só queria que esse sentimento ruim passasse”.
+Segundo seu relato, perdeu interesse nas atividades do dia
+a dia e, nos últimos meses, passou a maior parte do tempo
+em seu quarto, mas tem mantido sono regular, apetite
+inalterado, bom desempenho escolar, além de funcionalidade
+preservada. Afirma não usar substâncias psicoativas e nega
+comportamentos autolesivos ou tentativas de suicídio
+anteriores.
+Considerando o quadro apresentado e o manejo na atenção
+primária, a conduta inicial para esse paciente é
+
+OPTION_A:
+convocar seus responsáveis e encaminhá-lo ao Centro de Atenção Psicossocial infantojuvenil do território de referência.
+
+OPTION_B:
+prescrever inibidor de recaptação de serotonina e encaminhá-lo para acompanhamento em ambulatório de saúde mental.
+
+OPTION_C:
+propor o envolvimento da família no cuidado e iniciar acompanhamento multidisciplinar na Unidade Básica de Saúde.
+
+OPTION_D:
+explicar-lhe que a distimia faz parte da adolescência, orientá-lo a aguardar e sugerir que busque o serviço de emergência em caso de piora.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 008 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher de 56 anos, hipertensa mal controlada, com
+obesidade grau 3, tabagista ativa de 60 maços/ano, procura
+uma Unidade de Pronto Atendimento por dor torácica,
+iniciada há 2 horas e 30 minutos. A dor é do tipo queimação,
+retroesternal, que piora com esforço e melhora com repouso.
+O eletrocardiograma demonstrou infradesnivelamento do
+segmento ST > 0,5 mm em V1, V2, V3 e V4. Foi realizada
+dosagem de troponina de alta sensibilidade à admissão, com
+resultado de 6 ng/L (VR: até 9 ng/L). Após administração
+de nitrato e morfina, a paciente está hemodinamicamente
+estável e sem dor.
+Qual é a próxima conduta no manejo dessa paciente?
+
+OPTION_A:
+Iniciar terapia trombolítica em até 30 minutos.
+
+OPTION_B:
+Encaminhar para cateterismo coronariano de urgência.
+
+OPTION_C:
+Realizar nova dosagem de troponina em 1 hora.
+
+OPTION_D:
+Repetir eletrocardiograma em 2 horas.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 009 ===
+PARSE_STATUS:
+OK
+TEXT:
+Escolar de 8 anos, asmático prévio sem tratamento intercrises
+e com uso frequente de salbutamol de resgate (4 vezes
+nos últimos 6 meses), deu entrada em uma Unidade de
+Pronto Atendimento em crise aguda de asma. Na admissão,
+apresentava fala entrecortada, FR 40 irpm, SatO2 90% em ar
+ambiente, FC 112 bpm, murmúrio vesicular abafado e retração
+de fúrcula. Foi monitorizado, prescrito corticoide via oral e
+3 ciclos de salbutamol e ipratrópio por via inalatória. Após
+o tratamento inicial, o paciente mantém fala entrecortada,
+FR 42 irpm, SatO2 92% em ar ambiente, FC 128 bpm, sibilos
+difusos, retração de fúrcula, uso de musculatura abdominal e
+tempo expiratório prolongado.
+A conduta medicamentosa após o tratamento inicial é
+administrar
+
+OPTION_A:
+sulfato de magnésio.
+
+OPTION_B:
+corticoide.
+
+OPTION_C:
+anti-histamínico.
+
+OPTION_D:
+terbutalina.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 010 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 45 anos, sem comorbidades, realizou hernioplastia
+inguinal aberta com tela há 7 dias, e retorna ao ambulatório
+com dor no local da cirurgia. Nega febre ou calafrios. Ao exame
+físico, apresenta, no terço médio da ferida operatória: área de
+tumefação; rubor e calor. Não há evidências de acometimento
+de fáscia ou plano muscular.
+Diante do quadro apresentado, qual é a conduta nesse
+momento?
+
+OPTION_A:
+Prescrever antibioticoterapia oral.
+
+OPTION_B:
+Remover a tela.
+
+OPTION_C:
+Explorar localmente a ferida.
+
+OPTION_D:
+Solicitar ultrassonografia de partes moles.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 011 ===
+PARSE_STATUS:
+OK
+TEXT:
+Gestante de 38 anos, G3PC1A1, com 38 semanas de gestação,
+comparece a um pronto atendimento referindo sangramento
+vaginal, iniciado há 1 hora. Ela descreve o sangramento
+como moderado, de cor vermelho vivo, e afirma que iniciou
+após um episódio de forte dor abdominal. Relata que, desde
+então, o útero permanece “muito duro” e que percebeu
+redução dos movimentos fetais. Nega perda de líquido.
+A paciente possui histórico de hipertensão gestacional
+na gravidez atual. Ao exame físico, mostra-se pálida, com
+PA 150 x 95 mmHg e FC 105 bpm. O abdome está doloroso
+à palpação, com hipertonia uterina. Identifica-se batimento
+cardíaco fetal variando de 100 a 110 bpm de forma sustentada.
+A inspeção especular revela moderada quantidade de sangue
+vermelho vivo no fundo vaginal.
+Qual é a conduta imediata nessa situação?
+
+OPTION_A:
+Interromper a gestação pela via de parto mais rápida.
+
+OPTION_B:
+Confirmar a localização placentária por ultrassonografia obstétrica.
+
+OPTION_C:
+Realizar perfil biofísico fetal com monitorização dos sinais vitais maternos.
+
+OPTION_D:
+Iniciar a indução do trabalho de parto.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 012 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 42 anos, em situação de rua, comparece a uma
+Unidade Básica de Saúde (UBS) em atendimento de demanda
+espontânea, apresentando adinamia, tosse persistente, febre
+vespertina e perda de peso. Relata diagnóstico de tuberculose
+pulmonar há 6 meses e início de tratamento em outra UBS,
+interrompido após cerca de 3 semanas por dificuldades
+relacionadas à instabilidade de moradia e ao acesso a serviços.
+No momento do atendimento, não apresenta documentação
+pessoal e refere receio em retomar o tratamento, relatando
+experiências anteriores de discriminação nos serviços de
+saúde.
+Como parte do plano terapêutico singular, onde deve ser
+reiniciado o tratamento para esse paciente?
+
+OPTION_A:
+Na UBS atual, na qual compareceu para atendimento.
+
+OPTION_B:
+Na UBS de origem, na qual o tratamento foi iniciado.
+
+OPTION_C:
+No Consultório na Rua responsável pela região.
+
+OPTION_D:
+Em unidade hospitalar, com médico pneumologista.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 013 ===
+PARSE_STATUS:
+OK
+TEXT:
+Uma equipe de saúde da família observa um aumento de
+crises hipertensivas entre pacientes diagnosticados com
+hipertensão arterial sistêmica acompanhados pela equipe
+nos últimos 3 meses. A revisão dos dados revela redução da
+adesão aos grupos educativos sobre hipertensão, diminuição
+nos registros de pressão arterial e menor comparecimento às
+consultas programadas. As visitas domiciliares estão aquém
+do necessário, devido à redução do número de agentes
+comunitários no território.
+Qual é a medida prioritária a ser adotada pela equipe de
+saúde para solucionar essa situação na atenção primária?
+
+OPTION_A:
+Desenvolver ações educativas para o controle de condições de risco.
+
+OPTION_B:
+Identificar as falhas no cuidado e no fluxo de informação.
+
+OPTION_C:
+Analisar o número de visitas domiciliares como indicador.
+
+OPTION_D:
+Encaminhar para acompanhamento ambulatorial especializado.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 014 ===
+PARSE_STATUS:
+OK
+TEXT:
+Adolescente de 14 anos foi levada a uma Unidade Básica de
+Saúde pelos pais por apresentar “medo intenso de engordar”.
+Refere preocupação excessiva com ganho de peso há 1 ano,
+razão pela qual tem feito restrição alimentar progressiva
+durante o dia. Relata, porém, episódios de compulsão
+alimentar quase todas as noites da semana, nos últimos
+4 meses, quando não consegue controlar a quantidade e a
+qualidade do que come. Menciona compensar os episódios
+de compulsão alimentar com jejuns prolongados e exercícios
+físicos excessivos. Nega histórico de vômitos autoinduzidos
+ou uso de laxantes. Não há comorbidades clínicas prévias. O
+exame físico revela: paciente consciente e orientada; sinais
+vitais estáveis; IMC 23 kg/m2; pele levemente ressecada e
+ausência de sinais de desnutrição ou outras alterações.
+Qual é a principal hipótese diagnóstica nesse caso?
+
+OPTION_A:
+Anorexia nervosa.
+
+OPTION_B:
+Transtorno alimentar não especificado.
+
+OPTION_C:
+Bulimia nervosa.
+
+OPTION_D:
+Transtorno de compulsão alimentar.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 015 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 64 anos, agricultor, residente em zona rural,
+está em investigação em uma Unidade Básica de Saúde por
+insuficiência cardíaca com fração de ejeção reduzida. De
+antecedentes relevantes, informa 2 episódios de malária há
+10 anos e hipertensão arterial controlada. A mãe faleceu de
+arritmia aos 48 anos. Exames laboratoriais descartam diabetes
+mellitus e dislipidemia. Eletrocardiograma apresenta bloqueio
+de ramo direito. Ecocardiograma mostra dilatação ventricular
+excêntrica bilateral.
+Considerando-se a principal hipótese clínica e a fase
+da doença, qual método laboratorial é indicado para a
+confirmação diagnóstica nesse caso?
+
+OPTION_A:
+Exame parasitológico direto por gota espessa.
+
+OPTION_B:
+Intradermo reação de Montenegro.
+
+OPTION_C:
+Sorologia por IgG em dois métodos distintos.
+
+OPTION_D:
+Reação em cadeia da polimerase.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 016 ===
+PARSE_STATUS:
+OK
+TEXT:
+Criança de 1 ano e 9 meses, previamente hígida, é levada
+a uma Unidade Básica de Saúde devido a quadro de rash
+cutâneo iniciado há 12 horas. Nos últimos três dias, vinha
+apresentando febre, irritabilidade e inapetência, sem outras
+manifestações. A febre cessou quando o rash cutâneo surgiu,
+de maneira repentina, inicialmente no tórax, seguido pelos
+braços. O exame físico revela paciente em estado geral
+preservado, ativo, brincando durante avaliação e afebril.
+Constata-se presença de exantema maculopapular de
+coloração rosada em face, tronco e extremidades. Palpado
+linfonodo em região cervical anterior direita, indolor, móvel,
+fibroelástico, de aproximadamente 0,5 cm. Não há outros
+achados.
+Qual é o agente etiológico do caso relatado?
+
+OPTION_A:
+Vírus Epstein-Barr.
+
+OPTION_B:
+Parvovírus humano B19.
+
+OPTION_C:
+Vírus Coxsackie A1.
+
+OPTION_D:
+Herpes-vírus humano 6.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 017 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher de 54 anos, com obesidade moderada, procura
+a emergência clínica de um hospital terciário, relatando
+dor contínua em hipocôndrio direito, há 72 horas, que se
+intensificou nas últimas 6 horas, acompanhada de náuseas
+e febre baixa. Durante a palpação profunda do hipocôndrio
+direito,
+apresenta
+interrupção
+súbita
+da
+inspiração
+profunda. O hemograma mostra contagem de leucócitos de
+12.000 células/mm3 (VR: 4.450 a 10.950 células/mm3), e a
+ultrassonografia revela vesícula biliar com paredes de 0,8 cm
+de espessura, múltiplas imagens arredondadas com sombra
+acústica posterior e colédoco com 0,4 cm de diâmetro.
+Com base na principal hipótese diagnóstica, qual é a conduta
+indicada nesse caso?
+
+OPTION_A:
+Encaminhar para colecistectomia de urgência.
+
+OPTION_B:
+Indicar descompressão endoscópica das vias biliares.
+
+OPTION_C:
+Solicitar ressonância magnética de abdome superior.
+
+OPTION_D:
+Tratar clinicamente com antibióticos e analgésicos.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 018 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher de 23 anos, G2P0A1, com última menstruação há 8
+semanas, é atendida em uma emergência com dor pélvica
+leve e sangramento vaginal em pequena quantidade.
+PA 120 x 70 mmHg e FC 82 bpm. Ao exame físico, apresenta-
+se lúcida e orientada, sem dor à palpação de abdômen e
+pelve. Tem beta-HCG quantitativo de 1920 mUI/mL na
+primeira dosagem e 700 mUI/mL na segunda dosagem. Na
+ultrassonografia transvaginal: ausência de saco gestacional
+na cavidade uterina; presença de massa anexial esquerda de
+2,0 cm com sinal de anel tubário e ausência de batimento
+cardíaco fetal ou de líquido livre na cavidade pélvica.
+Qual é a estratégia de manejo indicada nesse caso?
+
+OPTION_A:
+Orientar beta-HCG quantitativo seriado.
+
+OPTION_B:
+Indicar procedimento cirúrgico.
+
+OPTION_C:
+Prescrever o uso de metotrexate.
+
+OPTION_D:
+Indicar aspiração intrauterina.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 019 ===
+PARSE_STATUS:
+OK
+TEXT:
+Uma equipe de Saúde da Família, durante planejamento
+semestral, identificou um aumento significativo na incidência
+de obesidade e hipertensão arterial sistêmica na população
+adscrita. O nutricionista propôs uma ação educativa
+baseada nas recomendações do Guia alimentar para a
+população brasileira. O objetivo era impactar positivamente
+os determinantes sociais da saúde e a redução de doenças
+crônicas não transmissíveis.
+Assinale a alternativa que contém a estratégia educativa a ser
+priorizada pela equipe para enfrentar o problema identificado.
+
+OPTION_A:
+Estimular a redução do aporte calórico diário, com o uso de produtos diet e light.
+
+OPTION_B:
+Ensinar a contagem sistemática de calorias, com cálculo de macronutrientes para controle da ingestão energética.
+
+OPTION_C:
+Promover habilidades culinárias, com o resgate de hábitos regionais, e incentivar o consumo de alimentos in natura.
+
+OPTION_D:
+Recomendar a exclusão de alimentos processados, como queijos e pães artesanais, e conservar vegetais da dieta regular.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 020 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 58 anos, que era residente em território adscrito a
+uma Unidade de Saúde da Família, vinha sendo acompanhado,
+há alguns meses, por queixa de dor abdominal recorrente,
+constipação
+crônica,
+anemia
+normocítica
+persistente,
+parestesias e alterações da memória. Era casado, sem filhos,
+e trabalhava há mais de 20 anos em sua própria oficina de
+reciclagem de bateria automotiva. Em determinada ocasião,
+procurou atendimento em uma Unidade Básica de Saúde
+devido à exacerbação dos sintomas, com forte dor abdominal.
+O exame físico feito no momento revelou confusão mental
+e dor difusa à palpação do abdome. O paciente foi, então,
+encaminhado para o pronto-socorro; porém, nas primeiras
+24 horas da internação, evoluiu com insuficiência renal,
+convulsão, coma e óbito, devido a uma provável intoxicação
+por chumbo.
+Qual é o papel da atenção primária em saúde com relação à
+vigilância do caso?
+
+OPTION_A:
+Registrar no Sistema de Informação de Agravos de Notificação e comunicar à Vigilância em Saúde do Trabalhador.
+
+OPTION_B:
+Registrar no Sistema de Informação de Mortalidade e comunicar à Vigilância em Saúde do Trabalhador.
+
+OPTION_C:
+Registrar no Sistema de Informação de Agravos de Notificação e no Sistema de Informação de Mortalidade.
+
+OPTION_D:
+Registrar no Sistema de Informação de Agravos de Notificação e acionar a Vigilância Sanitária.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 021 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher de 30 anos chega ao Centro de Atenção Psicossocial
+animada, inquieta e falante, andando de um lado para outro,
+cumprimentando todas as pessoas com sorrisos exagerados
+e fazendo comentários animados a respeito de coisas
+aleatórias, emendando os assuntos. O médico que costuma
+atendê-la percebe que ela está diferente, mais “elétrica” que
+seu habitual, sendo impossível interrompê-la.
+As alterações psicopatológicas apresentadas por essa paciente
+incluem
+
+OPTION_A:
+humor disfórico, esterotipias vocais e agitação psicomotora.
+
+OPTION_B:
+humor hipotímico, apragmatismo e afrouxamento de associações.
+
+OPTION_C:
+humor eutímico, fuga de ideias e avolia.
+
+OPTION_D:
+humor hipertímico, taquipsiquismo e taquilalia.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 022 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 49 anos, com diabetes mellitus tipo 2, em uso
+irregular de metformina e dapaglifozina, procura uma Unidade
+de Pronto Atendimento com queixa de poliúria, polidipsia,
+fadiga e visão turva há 3 dias. Ao exame físico, apresenta-se
+hemodinamicamente estável, discretamente desidratado,
+sem sinais de infecção, sem dor abdominal e sem náuseas
+ou vômitos. Glicemia capilar: 420 mg/dL. Glicemia plasmática
+confirmatória: 460 mg/dL. Foram realizados exames para
+avaliação do quadro clínico do paciente, cujos resultados são
+apresentados na seguinte tabela.
+Exame
+Resultado
+Valor de
+referência
+pH (gasometria arterial)
+7,36
+7,35 a 7,45
+Bicarbonato sérico (HC03
+– )
+22 mEq/L
+22 a 26 mEq/L
+Osmolaridade plasmática
+292 mOsm/kg
+285 a 295 mOsm/kg
+Cetonemia
+Ausente
+Ausente
+Cetonúria
+Ausente
+Ausente
+Sódio
+147 mEq/L
+136 a 145 mEq/L
+Potássio
+3,6 mEq/L
+3,5 a 5,1 mEq/L
+Qual é o provável diagnóstico desse paciente?
+
+OPTION_A:
+Cetoacidose diabética.
+
+OPTION_B:
+Estado hiperosmolar hiperglicêmico.
+
+OPTION_C:
+Hiperglicemia não crítica de emergência metabólica.
+
+OPTION_D:
+Acidose metabólica induzida por medicação.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 023 ===
+PARSE_STATUS:
+OK
+TEXT:
+Menino de 2 anos e 3 meses é levado pela mãe a uma
+Unidade Básica de Saúde para consulta de rotina. Ela refere
+palidez progressiva e redução do apetite nos últimos dois
+meses. O exame físico mostra palidez cutaneomucosa, sem
+outros achados relevantes. O hemograma mostra os seguintes
+resultados.
+Exame
+Resultado
+Valor de referência
+Hemoglobina
+9,4 g/dL
+10,5 a 14,2 g/dL
+Volume corpuscular médio
+68 fL
+75 a 87 fL
+Índice de anisocitose
+Aumentado
+–
+A conduta para essa criança é prescrever
+
+OPTION_A:
+ferro oral em dose terapêutica e orientar adequação alimentar.
+
+OPTION_B:
+polivitamínico com ferro em dose profilática e manter dieta atual.
+
+OPTION_C:
+ferro oral em dose profilática e orientar uso de ácido fólico.
+
+OPTION_D:
+ferro endovenoso e suplementar com vitamina B12.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 024 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 58 anos, no 2º dia de pós-operatório de
+hemicolectomia esquerda por neoplasia de cólon, apresenta
+distensão abdominal progressiva, náuseas e vômitos
+ocasionais. Refere não ter eliminado flatos ou fezes desde o
+procedimento. Exame físico: paciente em bom estado geral,
+lúcido, afebril; PA 120 x 80 mmHg; FC 78 bpm. Abdome:
+globoso, com timpanismo difuso, indolor à palpação, sem
+massas ou sinais de peritonite; ruídos hidroaéreos diminuídos.
+A radiografia simples de abdome em pé e deitado mostra
+distensão difusa de alças de delgado e cólon, sem níveis
+hidroaéreos.
+Diante do quadro clínico apresentado, a conduta recomendada
+nesse momento é
+
+OPTION_A:
+indicar reintervenção cirúrgica e confecção de colostomia em alça.
+
+OPTION_B:
+estimular deambulação precoce e considerar progressão de dieta conforme aceitação.
+
+OPTION_C:
+realizar descompressão colonoscópica e administrar neostigmina sob monitorização cardíaca.
+
+OPTION_D:
+iniciar nutrição parenteral total e antibioticoterapia de amplo espectro.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 025 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher de 20 anos procura Unidade de Pronto Atendimento
+devido a queixa de corrimento vaginal há 7 dias, associado
+a odor fétido e prurido leve. Refere início recente de dor
+pélvica hipogástrica, febre não aferida e dispareunia. O exame
+ginecológico mostra corrimento acinzentado, colo uterino
+doloroso à mobilização e dor à palpação anexial bilateral.
+Qual
+é
+o
+tratamento
+medicamentoso
+nesse
+caso,
+considerando-se o diagnóstico provável?
+
+OPTION_A:
+Metronidazol, ceftriaxona e doxiciclina.
+
+OPTION_B:
+Fluconazol, azitromicina e clidamicina.
+
+OPTION_C:
+Doxiciclina, ceftriaxona e gentamicina.
+
+OPTION_D:
+Miconazol, metronidazol e azitromicina.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 026 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher cisgênero de 26 anos, profissional do sexo, comparece
+a uma Unidade Básica de Saúde para consulta agendada. Relata
+uso inconsistente de preservativos e manifesta preocupação
+com o risco de infecção pelo HIV. Nega comorbidades ou uso
+contínuo de medicações. Realizou teste rápido para HIV há
+2 meses em uma ação social, com resultado não reagente,
+e exames laboratoriais recentes, que mostram função renal
+preservada. Durante a consulta, a médica de família oferta
+novos testes rápidos para HIV, sífilis, hepatites B e C, todos não
+reagentes, e exclui, por anamnese e exame físico, a presença
+de sinais e sintomas de infecção aguda pelo HIV ou outras
+infecções sexualmente transmissíveis ativas no momento.
+Considerando-se o início da prevenção, o manejo da profilaxia
+pré-exposição (PrEP) para esse caso é prescrevê-la na
+modalidade
+
+OPTION_A:
+sob demanda e agendar retorno mensal para teste rápido.
+
+OPTION_B:
+de uso diário consecutivo e orientar que a proteção ocorrerá em 20 dias.
+
+OPTION_C:
+sob demanda e aguardar confirmação da sorologia com resultado não reagente.
+
+OPTION_D:
+de uso diário consecutivo e agendar retorno trimestral para teste rápido.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 027 ===
+PARSE_STATUS:
+OK
+TEXT:
+Em uma Unidade Básica de Saúde, foi avaliado o desempenho
+de um teste rápido de triagem para diabetes mellitus tipo
+2 em homens e mulheres, assintomáticos, de 40 a 69 anos,
+atendidos no território adscrito. A incidência estimada de
+diabetes nessa população era de 10%, com base em dados
+locais. O teste rápido foi comparado ao padrão de referência
+(glicemia de jejum ≥ 126 mg/dL). Os resultados percentuais
+obtidos estão apresentados na seguinte tabela.
+Resultado do
+teste rápido
+Diabetes
+presente
+Diabetes ausente
+Total
+Teste positivo
+Teste negativo
+Total
+Com base na tabela, quais são, respectivamente, o valor e a
+interpretação clínica para a razão de verossimilhança positiva
+do teste rápido avaliado?
+
+OPTION_A:
+0,02 — indica redução na probabilidade de o paciente ter a doença.
+
+OPTION_B:
+1,12 — demonstra uma alteração mínima e irrelevante na probabilidade de o paciente ter a doença.
+
+OPTION_C:
+8,00 — apresenta aumento moderado na probabilidade pós-teste de o paciente ter a doença.
+
+OPTION_D:
+9,00 — confirma o diagnóstico definitivo do diabetes, independentemente da probabilidade do teste.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 028 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 29 anos comparece a uma Unidade Básica de Saúde queixando-se de “sofrimento emocional constante” e “problemas
+nos relacionamentos”. Relata episódios frequentes de explosões de raiva, sensação de abandono quando os outros não
+respondem como ele espera e histórico de relações interpessoais intensas e instáveis, com ocorrências de lesões autoprovocadas
+leves (arranhões em face interna de braços) quando se sente frustrado ou rejeitado. O prontuário revela que o paciente passou
+por diversos serviços de saúde e abandona os acompanhamentos com frequência. Na consulta, demonstra desconfiança inicial
+e uma busca intensa por atenção e aprovação da médica. Não há evidências de sintomas psicóticos nem quadro compatível com
+transtorno de humor.
+Qual é o transtorno de personalidade identificado nesse caso?
+
+OPTION_A:
+Paranoide.
+
+OPTION_B:
+Borderline.
+
+OPTION_C:
+Dependente.
+
+OPTION_D:
+Antissocial.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 029 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher de 67 anos procura unidade de emergência com queixa de fadiga, fraqueza e palpitação, com início há 3 dias. Encontra-se
+hemodinamicamente estável. Seu eletrocardiograma é apresentado na imagem a seguir.
+Qual é a conduta imediata para esse caso?
+
+OPTION_A:
+Realizar cardioversão elétrica.
+
+OPTION_B:
+Iniciar amiodarona em bolus.
+
+OPTION_C:
+Indicar anticoagulação.
+
+OPTION_D:
+Implantar marca-passo temporário.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 030 ===
+PARSE_STATUS:
+OK
+TEXT:
+Adolescente de 13 anos compareceu a uma Unidade Básica
+de Saúde para avaliação anual de saúde. Encontra-se
+assintomática. Ao exame físico, apresenta-se em bom estado
+geral, com PA e FC normais para a idade. A ausculta cardíaca
+mostra sopro sistólico de baixa intensidade (grau 1+/4+),
+audível no foco pulmonar, sem irradiação, com timbre suave,
+que diminui de intensidade quando em posição ortostática.
+Não há frêmito, nem outros ruídos cardíacos anormais.
+Quanto a antecedentes pessoais, não relata história de
+dispneia, dor torácica, síncope ou intolerância aos esforços.
+Não há antecedentes familiares de cardiopatia ou morte
+súbita.
+Considerando-se os dados da paciente, o que sugere o
+diagnóstico de sopro cardíaco inocente?
+
+OPTION_A:
+Sopro sistólico de baixa intensidade, sem irradiação e com diminuição em posição ortostática.
+
+OPTION_B:
+Sopro localizado em foco pulmonar sem irradiação, associado à ausência de sintomas respiratórios.
+
+OPTION_C:
+Ausência de antecedentes familiares de cardiopatia congênita ou de morte súbita.
+
+OPTION_D:
+Presença de PA e FC dentro da normalidade para a idade.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 031 ===
+PARSE_STATUS:
+OK
+TEXT:
+Menino de 12 anos é levado por seus pais a um pronto-
+socorro porque se machucou, há 5 dias, com galho de árvore.
+Os pais relatam que demoraram a buscar atendimento para
+o filho por morarem em região de difícil acesso. Exame físico:
+ferimento corto-contuso na face lateral da perna direita,
+com aproximadamente 12 cm, irregular, com presença de
+contaminação grosseira da ferida. Os pais afirmam que o
+paciente tem histórico de atopias e que tomou as vacinas
+da infância até os 5 anos. O médico indica desbridamento
+cirúrgico, sob anestesia local infiltrativa, com 20 mL de
+lidocaína a 2% sem vasoconstritor. Durante o procedimento,
+o paciente começa a relatar formigamento nos lábios, gosto
+metálico na boca e zumbido. Em seguida, apresenta crise
+convulsiva tônico-clônica generalizada.
+Qual é o diagnóstico provável do quadro apresentado no
+momento da cirurgia?
+
+OPTION_A:
+Reação anafilática grave.
+
+OPTION_B:
+Toxicidade pelo anestésico.
+
+OPTION_C:
+Paroxismo tetânico.
+
+OPTION_D:
+Sepse por infecção da ferida.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 032 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher de 21 anos, G1P0, com 27 semanas e 1 dia de
+gestação, procura Unidade Básica de Saúde para mostrar
+o resultado do exame de curva glicêmica (teste oral de
+tolerância à glicose 75 g), conforme descrito na seguinte
+tabela.
+Exame
+Resultado
+Valor de referência
+Glicemia de jejum
+89 mg/dL
+< 92 mg/dL
+1 hora após ingestão
+182 mg/dL
+< 180 mg/dL
+2 horas após ingestão
+152 mg/dL
+< 153 mg/dL
+Além de orientação de dieta pobre em carboidrato e atividade
+física regular, qual a medida imediata deve ser adotada no
+seguimento do tratamento dessa paciente?
+
+OPTION_A:
+Solicitar dosagem de insulina.
+
+OPTION_B:
+Repetir curva glicêmica.
+
+OPTION_C:
+Solicitar dosagem de HbA1c.
+
+OPTION_D:
+Monitorar a glicemia capilar.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 033 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mãe leva filha de 6 anos para consulta de puericultura em
+Unidade Básica de Saúde. A criança tem histórico familiar
+de hipercolesterolemia (pai e mãe), mas não apresenta
+comorbidades nem faz uso de medicações. Durante o exame
+físico, identifica-se IMC na faixa de sobrepeso.
+Considerando-se as diretrizes brasileiras de dislipidemia e
+prevenção de aterosclerose, além das orientações sobre
+mudança de estilo de vida, qual é a conduta indicada nesse
+caso?
+
+OPTION_A:
+Solicitar dosagem de lipoproteína A e, se normal, repetir entre 12 e 16 anos de idade.
+
+OPTION_B:
+Solicitar dosagem de triglicerídeos, colesterol total, HDL-c e LDL-c e, se normais, repetir entre 12 e 16 anos de idade.
+
+OPTION_C:
+Rastrear a partir dos 9 anos, caso a criança mantenha IMC compatível com sobrepeso ou obesidade.
+
+OPTION_D:
+Solicitar dosagem de LDL-c e, se alterado, ampliar para perfil lipídico completo e prescrever estatina.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 034 ===
+PARSE_STATUS:
+OK
+TEXT:
+A Coordenação de IST/AIDS de um município brasileiro
+analisou a série histórica de indicadores epidemiológicos
+relativos à infecção pelo HIV no período de 2019 a 2023. Nesse
+intervalo, houve ampla expansão da oferta de diagnóstico e
+implementação de novos protocolos, com medicamentos
+de maior eficácia e menor toxicidade. A população do
+município permaneceu estável em aproximadamente 100 mil
+habitantes. A tabela a seguir apresenta os dados consolidados
+do período.
+Ano
+Casos novos
+de HIV
+diagnosticados
+no ano
+Total de pessoas
+vivendo com HIV
+(PVHA) em 31 de
+dezembro
+Óbitos
+relacionados
+à AIDS no ano
+1.005
+Considerando-se a relação entre as medidas de frequência e a
+dinâmica demográfica, a elevação da prevalência da infecção
+no período analisado é consequência
+
+OPTION_A:
+da crescente virulência das cepas virais circulantes, indicada pela estabilidade da taxa de incidência.
+
+OPTION_B:
+do aumento da duração média da doença, resultante da redução da letalidade observada na série.
+
+OPTION_C:
+da ineficácia das estratégias de prevenção primária, demonstrada pelo acúmulo de casos ativos.
+
+OPTION_D:
+da variação de exposição de risco da infecção, o que gera diagnósticos superiores à capacidade de resolução do sistema.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 035 ===
+PARSE_STATUS:
+OK
+TEXT:
+Uma equipe da atenção primária à saúde acolhe uma
+mulher de 42 anos cuja casa foi destruída há 3 dias, após
+um desastre natural. Ela afirma estar bastante angustiada
+e desesperançosa, com sono entrecortado e pesadelos.
+Refere, ainda, choro recorrente, inapetência e dificuldade de
+concentração. Relata que, apesar de tudo isso, os filhos lhe
+dão “força para seguir adiante” e nega pensamentos de morte
+ou ideação suicida.
+Além de abrigo, alimentação e abastecimento de água, que
+ações, no âmbito da saúde, devem ser inicialmente oferecidas
+a essa paciente?
+
+OPTION_A:
+Realizar escuta ativa, identificando as suas necessidades de saúde, e manter o seguimento na atenção primária à saúde.
+
+OPTION_B:
+Solicitar relato dos eventos traumáticos, oferecendo visão de futuro otimista, e orientar busca por serviço de urgência se houver piora.
+
+OPTION_C:
+Prescrever inibidores seletivos da recaptação de serotonina ou benzodiazepínicos e encaminhar a ambulatório especializado.
+
+OPTION_D:
+Indicar acompanhamento psicológico regular e encaminhar a um centro de atenção psicossocial.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 036 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher de 23 anos, com diagnóstico de anemia falciforme,
+procura Unidade de Pronto Atendimento devido à dor em
+membros inferiores (escala visual analógica = 9), iniciada há
+12 horas. Relata crises similares anteriores e nega outros
+sintomas. Ao ser avaliada, está afebril, hidratada, sem sinais
+de infecção. Exame físico: PA 112 x 70 mmHg; FC 92 bpm;
+FR 18 irpm e SatO2 97% em ar ambiente.
+Qual é a conduta medicamentosa imediata para essa
+paciente?
+
+OPTION_A:
+Codeína e paracetamol via oral.
+
+OPTION_B:
+Dipirona intravenosa.
+
+OPTION_C:
+Tenoxicam intramuscular.
+
+OPTION_D:
+Morfina intravenosa.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 037 ===
+PARSE_STATUS:
+OK
+TEXT:
+Escolar de 5 anos, pesando 20 kg, apresenta queimaduras de 2º e 3º graus que atingem os membros inferiores (ambos integralmente), o tórax e o abdome anteriores.
+Abaixo o diagrama de Lund-Browder para cálculo da superfície corporal queimada:
+Diagrama de Lund-Browder
+Tabela de referência para áreas variáveis (A, B e C)
+Área 5 anos
+A 6,5%
+B 4,0%
+C 2,75%
+No caso apresentado, qual a forma correta de administração de Ringer lactato?
+
+OPTION_A:
+2.820 mL, administrado em 16 horas.
+
+OPTION_B:
+3.760 mL, administrado em 8 horas.
+
+OPTION_C:
+1.500 mL, administrado em 2 horas.
+
+OPTION_D:
+1.000 mL, administrado em 15 a 20 minutos.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 038 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 28 anos é levado pelo SAMU para um hospital
+de trauma, após ferimento por arma de fogo no hemitórax
+direito. Apresenta dispneia, dor torácica, pulsos filiformes,
+FC 128 bpm, FR 32 irpm, PA 90 x 55 mmHg e SpO2 89% em
+ar ambiente. Há assimetria da expansão torácica, macicez
+à percussão e redução do murmúrio vesicular à direita. A
+radiografia de tórax evidencia velamento à direita.
+Diante do quadro, qual é a conduta adequada para o paciente
+nesse momento?
+
+OPTION_A:
+Drenagem torácica.
+
+OPTION_B:
+Toracotomia na sala de emergência.
+
+OPTION_C:
+Punção torácica de alívio.
+
+OPTION_D:
+Videotoracoscopia.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 039 ===
+PARSE_STATUS:
+OK
+TEXT:
+Gestante de 24 anos, G1P0, com 12 semanas de gestação,
+procura atendimento médico para mostrar o resultado de
+teste rápido para HIV realizado na primeira consulta do pré-
+natal, o qual consta como reagente. Demonstra ansiedade
+e afirma nunca ter imaginado essa possibilidade. Refere
+medo de ser julgada e receio de que sua família descubra o
+diagnóstico.
+Em atenção aos princípios da comunicação em saúde, da ética
+médica e do cuidado humanizado, qual é a conduta inicial
+nesse caso?
+
+OPTION_A:
+Solicitar a presença de um familiar da paciente e encaminhá-la para o pré-natal de alto risco.
+
+OPTION_B:
+Acolher a paciente com escuta ativa e fornecer esclarecimentos quanto ao resultado do teste rápido.
+
+OPTION_C:
+Explicar à paciente o risco de transmissão da doença ao feto e solicitar sorologia para confirmar o diagnóstico.
+
+OPTION_D:
+Tranquilizar a paciente e iniciar terapia antirretroviral.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 040 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher de 66 anos, hipertensa, diabética e tabagista, é levada
+a uma Unidade Básica de Saúde (UBS) por quadro de síncope
+há 40 minutos, após discussão familiar. Apresenta-se ansiosa,
+com mal-estar intenso, tontura, náuseas e sudorese, e tem um
+episódio de vômito na UBS. Relata sensação de desconforto
+moderado em andar superior do abdome. Nega alergias,
+etilismo ou uso de drogas ilícitas. Ao exame físico, apresenta-
+se eupneica, com PA 86 x 53 mmHg, FC 49 bpm e SpO2 95%
+em ar ambiente. O desconforto abdominal não é reproduzível
+à palpação. Não há outras alterações ao exame físico. A UBS
+não dispõe de eletrocardiograma ou monitor cardíaco.
+Além de se acionar o SAMU, a conduta de suporte nesse caso
+deve incluir
+
+OPTION_A:
+AAS via oral mastigado.
+
+OPTION_B:
+isossorbida sublingual.
+
+OPTION_C:
+omeprazol via oral.
+
+OPTION_D:
+diazepam via oral.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 041 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 68 anos, com quadro de perda de consciência
+após picada de abelha, é levado a uma Unidade de Pronto
+Atendimento ainda confuso e com falta de ar. Vem realizando
+acompanhamento por hipertensão arterial, insuficiência
+cardíaca de fração de ejeção reduzida e glaucoma. Faz
+uso de propranolol, enalapril e espironolactona. O exame
+físico revela: paciente sonolento e confuso (escala de
+coma de Glasgow 13); presença de estridor inspiratório;
+PA 76 x 42 mmHg; FC 54 bpm; FR 28 irpm; temperatura axilar
+35,9 °C e glicemia capilar 102 mg/dL. Após administração de
+0,5 mg de adrenalina intramuscular, o paciente mantém o
+quadro descrito.
+Qual é a próxima conduta medicamentosa para o caso?
+
+OPTION_A:
+Glucagon.
+
+OPTION_B:
+Atropina.
+
+OPTION_C:
+Adrenalina.
+
+OPTION_D:
+Dopamina.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 042 ===
+PARSE_STATUS:
+OK
+TEXT:
+Lactente de 5 meses, prematuro de 32 semanas, com
+antecedente de displasia broncopulmonar, é levado pela mãe
+a uma Unidade de Pronto Atendimento, com relato de que, há
+3 dias, iniciou quadro de coriza e tosse, com piora progressiva
+do estado geral e dificuldade para mamar nas últimas 24
+horas. O exame físico mostra: FR 65 irpm; tiragem subcostal,
+sibilos e roncos à ausculta; SpO2 90% em ar ambiente.
+A conduta inicial nesse caso consiste em
+
+OPTION_A:
+oxigenoterapia e amoxicilina oral.
+
+OPTION_B:
+hidratação endovenosa e suporte ventilatório.
+
+OPTION_C:
+salbutamol inalatório e corticoide sistêmico.
+
+OPTION_D:
+fisioterapia respiratória e dexametasona intramuscular.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 043 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 50 anos, pedreiro, foi atendido em ambulatório
+de especialidade, há 4 meses, com queixa de lombociatalgia
+e dificuldade de exercer atividades laborais. Realizou
+ressonância magnética da coluna lombar, que evidenciou
+hérnia discal no nível L4-L5. Antes da data do retorno para
+mostrar os resultados dos exames, apresentou perda de
+sensibilidade no períneo, anestesia em sela e incontinência
+urinária. Devido a esses novos sintomas, procurou uma
+Unidade de Pronto Atendimento.
+Considerando-se o quadro clínico descrito, qual é a conduta
+adequada para esse paciente?
+
+OPTION_A:
+Antecipar retorno ao ambulatório de especialidade.
+
+OPTION_B:
+Indicar tratamento com corticoide epidural.
+
+OPTION_C:
+Internar com prescrição de analgésicos associado a relaxantes musculares.
+
+OPTION_D:
+Encaminhar ao serviço de emergência para avaliar indicação cirúrgica.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 044 ===
+PARSE_STATUS:
+OK
+TEXT:
+Gestante de 24 anos, com 11 semanas de gestação, comparece
+à Unidade Básica de Saúde para consulta de pré-natal,
+trazendo os resultados de exames solicitados em consulta
+anterior. Está sem queixas no momento. Entre os exames
+apresentados, observa-se sorologia para toxoplasmose com
+IgG reagente e IgM não reagente.
+O resultado desse exame sorológico de toxoplasmose indica
+
+OPTION_A:
+susceptibilidade.
+
+OPTION_B:
+infecção aguda.
+
+OPTION_C:
+imunidade.
+
+OPTION_D:
+soroconversão recente.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 045 ===
+PARSE_STATUS:
+OK
+TEXT:
+Menino de 1 ano é levado pelos pais para consulta de
+puericultura em Unidade Básica de Saúde. Eles referem
+preocupação com a vacina tríplice viral e informam que a
+criança apresentou reações leves após receber aplicações de
+outras vacinas. Relatam também que, pesquisando sobre o
+tema em redes sociais, assistiram a vídeos que associavam
+a vacina tríplice viral ao desenvolvimento do transtorno do
+espectro autista (TEA). Receosos, hesitam em imunizar o filho.
+Qual é a abordagem a ser realizada com esses pais?
+
+OPTION_A:
+Explicar que há baixa ocorrência de TEA em crianças vacinadas e encaminhar paciente para a atualização vacinal.
+
+OPTION_B:
+Orientar sobre a importância das vacinas e reforçar a superioridade de seus benefícios em relação à possibilidade de TEA.
+
+OPTION_C:
+Pesquisar sintomas preditores de TEA na criança e, em caso de resultado negativo, continuar o protocolo de vacinação segura.
+
+OPTION_D:
+Acolher a preocupação dos familiares e fornecer informações sobre a ausência de associação entre TEA e vacinas.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 046 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 71 anos, tabagista, hipertenso, em uso de
+bloqueador de canal de cálcio, dá entrada em emergência
+com quadro de dor retroesternal em queimação, com início
+há 1 hora, após ter feito uma refeição farta. Exame físico:
+paciente hemodinamicamente estável; PA 160 x 90 mmHg;
+FC 72 bpm.
+Qual é a conduta imediata para esse paciente?
+
+OPTION_A:
+Indicar ecocardiograma transesofágico.
+
+OPTION_B:
+Solicitar eletrocardiograma e marcadores de necrose miocárdica.
+
+OPTION_C:
+Dosar D-dímero e realizar angiotomografia de tórax.
+
+OPTION_D:
+Realizar endoscopia digestiva alta.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 047 ===
+PARSE_STATUS:
+OK
+TEXT:
+Menina de 10 anos é encaminhada para avaliação
+especializada por perda de peso progressiva nos últimos
+10 meses. A mãe relata que a criança, após engasgar com
+carne, passou a recusar alimentos sólidos e a apresentar
+episódios de refeições prolongadas com vômitos, quando
+há insistência para alimentar-se, além de medo de “passar
+mal” em ambiente escolar ou em eventos sociais. Aceita
+alimentos pastosos. Nega dor abdominal, diarreia, febre ou
+infecções. Sono e desempenho escolar estão preservados. O
+desenvolvimento neuropsicomotor é adequado para a idade.
+O exame físico mostra: escore Z igual a peso –3; estatura entre
+–1 e –2; IMC entre –2 e –3. Foram excluídas causas orgânicas.
+A principal hipótese diagnóstica nesse caso é
+
+OPTION_A:
+transtorno dismórfico corporal.
+
+OPTION_B:
+anorexia nervosa.
+
+OPTION_C:
+transtorno alimentar restritivo evitativo.
+
+OPTION_D:
+seletividade alimentar típica.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 048 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 32 anos, vítima de acidente motociclístico
+envolvendo colisão contra poste, com uso de capacete, é
+atendido no local do acidente por equipe avançada do SAMU.
+Está consciente e conversando, com sinais vitais estáveis.
+Apresenta escoriações no braço e no ombro esquerdos,
+ferimento corto-contuso de 3 cm em região clavicular
+esquerda, com exposição de fragmento ósseo pela ferida. Há
+ausência de flexão do punho e dos dedos da mão esquerda,
+com anestesia em região medial do antebraço. Pulsos
+palpáveis. É realizada a limpeza do ferimento clavicular.
+Nessa situação, qual outra conduta deve ser realizada no local
+do acidente?
+
+OPTION_A:
+Imobilizar com curativo.
+
+OPTION_B:
+Reduzir fratura da clavícula.
+
+OPTION_C:
+Realizar tração do membro superior.
+
+OPTION_D:
+Alinhar com tala moldável.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 049 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher de 23 anos, G3P3, sem comorbidades, procura
+atendimento em Unidade Básica de Saúde, manifestando
+forte desejo de ser submetida à laqueadura tubária.
+De acordo com a lei de planejamento familiar, qual é a conduta
+inicial do profissional de saúde nesse caso?
+
+OPTION_A:
+Informar que a situação da paciente está em desacordo com os critérios legais pertinentes.
+
+OPTION_B:
+Orientar que é necessária a autorização do cônjuge para a realização do procedimento.
+
+OPTION_C:
+Oferecer à paciente informações a respeito de outros métodos anticoncepcionais.
+
+OPTION_D:
+Encaminhar a paciente para a realização do procedimento em questão.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 050 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 34 anos, tabagista, sedentário, com IMC
+43 kg/m² e assintomático, comparece a uma consulta
+em Unidade Básica de Saúde relatando que seu pai foi
+diagnosticado com câncer de cólon aos 53 anos. O
+paciente demonstra preocupação com a doença.
+Considerando-se o rastreamento do câncer colorretal
+desse paciente pelo SUS, a conduta nesse caso é solicitar
+colonoscopia
+
+OPTION_A:
+na consulta atual.
+
+OPTION_B:
+a partir dos 43 anos.
+
+OPTION_C:
+a partir dos 50 anos.
+
+OPTION_D:
+se a pesquisa de sangue oculto tiver resultado positivo.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 051 ===
+PARSE_STATUS:
+OK
+TEXT:
+Um homem de 42 anos foi admitido em uma Unidade de
+Terapia Intensiva (UTI) com história de provável intoxicação
+exógena. Ele havia sido encontrado desacordado em sua
+residência, com sialorreia intensa e broncoespasmo. Exame
+físico: FC 38 bpm; PA 116 x 64 mmHg; SatO2 83% em ar
+ambiente; escala de coma de Glasgow 3 e glicemia capilar
+70 mg/dL. Optou-se por intubação orotraqueal e instalação de
+ventilação mecânica invasiva. Na UTI, o paciente apresentava:
+pupilas puntiformes; roncos e sibilos inspiratórios e
+expiratórios à ausculta pulmonar; secreção clara e abundante
+à aspiração de vias aéreas; grande quantidade de resíduo
+gástrico à sondagem gástrica; boa diurese por sonda vesical
+de demora e ausência de febre. Foi realizada lavagem gástrica,
+utilizando-se carvão ativado por 24 horas, e iniciou-se suporte
+com atropina intravenosa, em bomba de infusão contínua.
+Qual foi o provável agente da intoxicação desse paciente?
+
+OPTION_A:
+Organofosforado.
+
+OPTION_B:
+Benzodiazepínico.
+
+OPTION_C:
+Sulfonilureia.
+
+OPTION_D:
+Antidepressivo tricíclico.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 052 ===
+PARSE_STATUS:
+OK
+TEXT:
+Menina de 4 anos é levada a uma Unidade Básica de Saúde
+pela mãe, que relata o aparecimento de lesões avermelhadas
+e com crostas amareladas na região periorbital, labial e
+nasal da criança há cerca de 5 dias. A mãe refere que as
+lesões começaram como pequenas bolhas que se romperam
+facilmente, liberando um líquido amarelado, com prurido
+associado. Nega febre, prostração ou demais queixas. Exame
+físico: sem alterações, exceto a pele da face, conforme a
+seguinte imagem.
+O diagnóstico provável para o caso é
+
+OPTION_A:
+celulite.
+
+OPTION_B:
+impetigo.
+
+OPTION_C:
+ectima.
+
+OPTION_D:
+herpes.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 053 ===
+PARSE_STATUS:
+OK
+TEXT:
+Recém-nascido a termo, masculino, Apgar 9/9, peso,
+comprimento e perímetro cefálico adequados para idade
+gestacional. Ultrassom morfológico com polidrâminio.
+Logo após o nascimento, evoluiu com salivação excessiva.
+Realizada aspiração da secreção com melhora da saturação,
+sem necessidade de oxigenioterapia. Ausência de sinais
+de desconforto respiratório; murmúrio vesicular presente
+bilateralmente com roncos de transmissão difusos; abdome
+escavado e extremidades bem perfundidas. Realizada
+passagem de sonda orogástrica com dificuldade na progressão
+após a introdução de 10 cm. Solicitada radiografia com
+contraste iodado (imagem a seguir).
+Com base no quadro clínico, trata-se de qual tipo de atresia?
+
+OPTION_A:
+Esofágica.
+
+OPTION_B:
+Gástrica.
+
+OPTION_C:
+Duodenal.
+
+OPTION_D:
+Intestinal.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 054 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher, G2P1, assintomática, com história prévia de
+prematuridade, comparece a uma consulta de pré-natal para
+mostrar os seguintes resultados de ultrassonografia de 22
+semanas: feto vivo, com exame morfológico normal e colo
+uterino medindo 20 mm.
+Diante desses resultados, qual é o manejo para o caso?
+
+OPTION_A:
+Indicar o uso de indometacina até 32 semanas de gestação.
+
+OPTION_B:
+Prescrever nifedipina e manter até 30 semanas de gestação.
+
+OPTION_C:
+Prescrever betametasona e repetir o exame com 30 semanas de gestação.
+
+OPTION_D:
+Indicar progesterona natural e manter até 36 semanas de gestação.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 055 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 74 anos comparece a uma Unidade Básica de Saúde
+para consulta. Mora sozinho e tem como renda o Benefício de
+Prestação Continuada. Relata que, há 6 meses, sente dor e
+queimação em ambos os pés, de moderada intensidade, com
+predomínio noturno, associada a parestesias em “bota”, sem
+alívio com analgésicos simples. Tem diagnóstico de diabetes
+mellitus tipo 2 há 18 anos, em uso de metformina e insulina
+NPH em esquema basal. Não há evidência de cardiopatia
+associada. A hemoglobina glicada se mantém estável em
+6,5% e a taxa de filtração glomerular é 75 mL/min/1,73m2.
+O eletrocardiograma é normal. Ao exame físico, deambula
+sem dificuldade e evidencia-se hipoestesia tátil e vibratória
+em padrão distal simétrico, em “bota”, com pulsos distais
+palpáveis. Não há lesões cutâneas nos membros inferiores.
+Qual é a medicação de primeira linha para o manejo da dor
+nesse paciente?
+
+OPTION_A:
+Carbamazepina.
+
+OPTION_B:
+Ibuprofeno.
+
+OPTION_C:
+Amitriptilina.
+
+OPTION_D:
+Tramadol e paracetamol.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 056 ===
+PARSE_STATUS:
+OK
+TEXT:
+Em uma Unidade Básica de Saúde (UBS), a equipe local,
+preocupada com a alta prevalência de hipertensão arterial
+sistêmica (HAS) entre os pacientes, decidiu realizar um
+estudo epidemiológico para investigar possíveis fatores de
+risco associados à doença. Os pesquisadores selecionaram
+cerca de 50 pacientes com diagnóstico recente de HAS e
+80 pacientes sem a doença, pareados por idade e sexo, que
+frequentavam a mesma UBS. Com base em entrevistas e em
+revisão de prontuários, foram coletadas informações sobre
+histórico familiar de HAS, nível de atividade física e padrão
+alimentar desses pacientes nos últimos 5 anos.
+Qual foi o tipo de estudo realizado nesse caso?
+
+OPTION_A:
+Caso-controle.
+
+OPTION_B:
+Coorte.
+
+OPTION_C:
+Ecológico.
+
+OPTION_D:
+Série temporal.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 057 ===
+PARSE_STATUS:
+OK
+TEXT:
+Estudante de Psicologia de 22 anos, de origem Guarani
+Kaiowá, cometeu suicídio. Pessoas de sua aldeia atribuíram o
+fato a um suposto enfeitiçamento, justificando que isso teria
+feito com que ela perdesse o discernimento. Uma equipe de
+saúde foi acionada para lidar com essa situação.
+Nesse caso, qual é a abordagem adequada a ser realizada pela
+equipe de saúde?
+
+OPTION_A:
+Participar ativamente dos rituais religiosos e de luto próprios da comunidade, para atuar com prontidão caso algum membro da comunidade apresente intenso sofrimento.
+
+OPTION_B:
+Compreender a crença de enfeitiçamento, mas sem estimulá-la, acolhendo os membros da etnia e orientando sobre sinais de risco a serem observados.
+
+OPTION_C:
+Acolher as famílias enlutadas, respeitando seus rituais funerários e evitando falar sobre suicídio, visto que a menção a esse tema poderia suscitar novas tentativas.
+
+OPTION_D:
+Explicar, de maneira objetiva, o que são transtornos mentais e o que é transtorno depressivo maior, para evitar interpretações místicas e ritualísticas do adoecimento.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 058 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 40 anos, etilista crônico, procura a unidade de
+emergência queixando-se de distensão abdominal há 2 dias
+e náuseas eventualmente acompanhadas de vômitos. Ao
+exame físico: temperatura axilar aferida de 38,2 °C; mucosas
+levemente descoradas e anictéricas; aranhas vasculares no
+tronco; abdome distendido com circulação colateral; sinal de
+piparote positivo e baço palpável a 3 cm do rebordo costal
+esquerdo.
+Qual é a conduta imediata para esse quadro clínico?
+
+OPTION_A:
+Solicitar hemocultura.
+
+OPTION_B:
+Realizar paracentese.
+
+OPTION_C:
+Prescrever antibioticoterapia empírica.
+
+OPTION_D:
+Iniciar diurético poupador de potássio.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 059 ===
+PARSE_STATUS:
+OK
+TEXT:
+Menino de 8 anos é levado a um ambulatório de pediatria com
+queixa de febre persistente há 3 semanas, associada a palidez
+progressiva, emagrecimento e aparecimento de petéquias
+nos membros inferiores. A mãe relata que a criança tem se
+queixado de dores em membros inferiores e astenia. O exame
+físico mostra: palidez cutâneo-mucosa; petéquias difusas e
+hepatoesplenomegalia. O hemograma revela os resultados
+apresentados na tabela a seguir.
+Exame
+Resultado
+Valor de referência
+Leucócitos
+2.500/mm3
+4.500 a 13.500/mm³
+Hemoglobina
+8,0 g/dL
+11,7 a 15,3 g/dL
+Plaquetas
+30.000/mm3
+150.000 a 450.000/mm³
+Neutrófilos
+500/mm3
+1.500 a 8.500/mm³
+Linfócitos
+1.800/mm3
+1.000 a 4.800/mm³
+Blastos
+5%
+0%
+Nesse caso, a principal hipótese diagnóstica é
+
+OPTION_A:
+anemia aplásica.
+
+OPTION_B:
+leucemia linfoblástica aguda.
+
+OPTION_C:
+púrpura trombocitopênica imunológica.
+
+OPTION_D:
+calazar.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 060 ===
+PARSE_STATUS:
+OK
+TEXT:
+Criança de 5 anos é levada a um pronto-socorro após sofrer
+acidente automobilístico grave, com rebaixamento do nível de
+consciência, respiração irregular e sinais de comprometimento
+respiratório, sem sinais de sangramento ativo externo. É
+indicada obtenção de via aérea eficaz e definitiva.
+Nesse caso, a particularidade anatômica a ser considerada para
+a realização de procedimento seguro é o fato de que crianças
+dessa idade, em comparação com adultos, apresentam
+
+OPTION_A:
+língua proporcionalmente menor.
+
+OPTION_B:
+anel cricofaríngeo relativamente mais largo.
+
+OPTION_C:
+laringe mais baixa e anterior.
+
+OPTION_D:
+epiglote mais anteriorizada e rígida.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 061 ===
+PARSE_STATUS:
+OK
+TEXT:
+Uma paciente de 46 anos, sem comorbidades e assintomática,
+procura Unidade Básica de Saúde para mostrar resultado de
+exame realizado para prevenção do câncer de colo uterino:
+teste de DNA-HPV oncogênico positivo para HPV 51. Informa
+ter realizado citologia oncótica há 1 ano, sem alterações.
+Qual é a conduta inicial indicada nesse caso?
+
+OPTION_A:
+Repetir o teste de DNA-HPV oncogênico.
+
+OPTION_B:
+Solicitar citologia reflexa.
+
+OPTION_C:
+Encaminhar para colposcopia.
+
+OPTION_D:
+Indicar vacina contra o HPV.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 062 ===
+PARSE_STATUS:
+OK
+TEXT:
+O Ministério da Saúde lançou, em 2025, os novos indicadores
+do componente de qualidade do cofinanciamento federal da
+atenção primária à saúde no SUS.
+Considerando-se os novos indicadores de cuidado na gestação
+e puerpério, é necessário garantir a realização
+
+OPTION_A:
+de pelo menos um exame de ultrassonografia obstétrica durante a gestação.
+
+OPTION_B:
+dos testes para sífilis, HIV e hepatites B e C no 1º trimestre da gestação.
+
+OPTION_C:
+da primeira consulta de pré-natal antes da 20ª semana da gestação.
+
+OPTION_D:
+de pelo menos quatro consultas médicas de pré-natal.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 063 ===
+PARSE_STATUS:
+OK
+TEXT:
+Uma equipe técnica do Ministério da Saúde está avaliando
+os efeitos da redução do ponto de corte da medida de PA
+sistólica de 130 mmHg para 120 mmHg para o diagnóstico de
+hipertensão arterial (HA).
+Considerando-se as mudanças nos valores de referência, o
+que se espera em relação ao diagnóstico de HA?
+
+OPTION_A:
+Aumento na detecção da HA e redução na frequência de falsos positivos.
+
+OPTION_B:
+Aumento na detecção da HA e aumento na frequência de falsos positivos.
+
+OPTION_C:
+Redução na detecção da HA e redução na frequência de falsos positivos.
+
+OPTION_D:
+Redução na detecção da HA e aumento na frequência de falsos positivos.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 064 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 60 anos, sem emprego formal, está em
+acompanhamento em um Centro de Atenção Psicossocial
+(CAPS) por esquizofrenia. Nos últimos meses, retomou uso de
+álcool, isolou-se mais e foi visto pelos vizinhos diversas vezes
+embriagado, em casa, falando sozinho. Apresenta dificuldades
+de pagar o aluguel, de comprar alimentos e medicamentos da
+mãe de 80 anos, com quem habita.
+Considerando-se a composição da rede de atenção
+psicossocial, quais pontos de atenção, além do CAPS, são
+apropriados para a articulação do cuidado desse paciente?
+
+OPTION_A:
+Unidade de Pronto Atendimento; atenção primária à saúde; e centros de convivência e cultura.
+
+OPTION_B:
+Serviço móvel de urgência; serviços residenciais terapêuticos; e centro de orientação e aconselhamento.
+
+OPTION_C:
+Unidade de acolhimento; centro de referência em assistência social; e unidades ambulatoriais especializadas.
+
+OPTION_D:
+Equipe de consultório na rua; núcleos de apoio à saúde da família; e serviço de atenção domiciliar.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 065 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 30 anos, sem comorbidades prévias, procura
+Unidade Básica de Saúde devido à lesão pruriginosa em região
+da panturrilha direita, com 3 semanas de evolução. O exame
+físico mostra lesão anular de cerca de 3 cm de diâmetro,
+com bordas eritematosas, elevadas e descamativas, com
+clareamento central.
+Qual medicamento deve ser prescrito para o tratamento
+dessa lesão?
+
+OPTION_A:
+Cefalexina oral.
+
+OPTION_B:
+Clotrimazol tópico.
+
+OPTION_C:
+Hidrocortisona tópica.
+
+OPTION_D:
+Ivermectina oral.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 066 ===
+PARSE_STATUS:
+OK
+TEXT:
+Menina de 2 anos apresenta tosse, coriza e obstrução nasal
+há 24 horas. Há 1 hora, apresentou quadro convulsivo tônico-
+clônico generalizado, com duração de 2 minutos, e foi levada
+ao pronto atendimento. Não há relato de convulsão anterior,
+mas a mãe refere histórico de crise convulsiva febril em
+irmão mais velho. Os exames mostram: temperatura axilar
+38,7 °C; exame neurológico sem alterações e ausência de
+sinais meníngeos.
+A conduta adequada para esse caso, após medicar com
+antitérmico, é
+
+OPTION_A:
+internar a paciente e coletar líquido cefalorraquidiano.
+
+OPTION_B:
+solicitar tomografia de crânio e indicar acompanhamento especializado.
+
+OPTION_C:
+orientar a família e indicar acompanhamento ambulatorial.
+
+OPTION_D:
+internar a paciente e realizar eletroencefalograma.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 067 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 22 anos, vítima de atropelamento, foi levado pelo
+suporte avançado do SAMU a uma emergência terciária de
+trauma, onde chegou em prancha rígida, com colar cervical
+e com queixa de dor em andar inferior de abdome. Avaliação
+inicial: paciente consciente; contactante; descorado 2+/4+;
+FC 120 bpm; FR 24 irpm; PA 80 x 60 mmHg; abdome plano,
+normotenso, doloroso à palpação profunda em andar inferior;
+descompressão brusca negativa; bacia instável e hematoma
+em região escrotal. Foram realizadas: medidas de estabilização
+na sala de emergência; ultrassonografia FAST, cujo resultado
+foi negativo para líquido livre abdominal; e radiografia da
+pelve, conforme a seguinte figura. Após, foi aplicada cinta
+pélvica, o que resultou em estabilização mecânica do anel
+pélvico, com fechamento do quadril.
+Radiografia simples da pelve na admissão
+Nesse caso, mantendo-se um quadro de hipotensão, qual é a
+próxima conduta a ser realizada?
+
+OPTION_A:
+Angiografia com embolização.
+
+OPTION_B:
+Laparotomia exploradora.
+
+OPTION_C:
+Estabilização cirúrgica do quadril.
+
+OPTION_D:
+Tomografia de abdome e pelve.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 068 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher de 72 anos procura atendimento em Unidade Básica
+de Saúde com queixas de dores na coluna lombar e histórico
+de fratura de fêmur após ter sofrido queda da própria altura
+há 2 anos. É hipertensa, faz uso de hidroclorotiazida e teve
+menopausa há 22 anos. Não usa nenhum outro medicamento
+nem fez uso de terapia hormonal. Realizou densitometria
+óssea recentemente, que indicou um alto risco para fraturas.
+A paciente não possui história de doenças secundárias
+associadas à osteoporose nem doenças crônicas, além
+da hipertensão arterial sistêmica. Não apresenta queixas
+relacionadas à intolerância gastrointestinal ou à dificuldade
+de deglutição. Iniciou uso de vitamina D e cálcio via oral.
+Com base no protocolo clínico nacional para osteoporose,
+qual é a opção inicial de tratamento medicamentoso?
+
+OPTION_A:
+Bisfosfonato.
+
+OPTION_B:
+Estrogênio conjugado.
+
+OPTION_C:
+Teriparatida.
+
+OPTION_D:
+Romosozumabe.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 069 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher de 34 anos, em consulta, relata ao médico de família
+tristeza, insônia e medo constante. Revela estar, há anos, em
+relacionamento abusivo que envolve agressões psicológicas,
+manipulação financeira e episódios recentes de violência
+física cometida pelo parceiro. Afirma não desejar romper
+imediatamente o relacionamento por preocupação quanto
+à sua segurança e à possibilidade de agravamento de sua
+situação financeira.
+Considerando-se o planejamento de ações e intervenções
+centradas na singularidade da pessoa assistida, são condutas
+adequadas nessa situação
+
+OPTION_A:
+iniciar tratamento farmacológico, encaminhar paciente para acompanhamento especializado em saúde da mulher e denunciar parceiro à delegacia de proteção à mulher.
+
+OPTION_B:
+elaborar plano terapêutico com avaliação de risco junto à equipe multiprofissional, fortalecer a rede de apoio e notificar caso à vigilância epidemiológica.
+
+OPTION_C:
+elaborar plano terapêutico farmacológico, encaminhar paciente para centro de apoio psicossocial e solicitar medida protetiva junto à defensoria pública.
+
+OPTION_D:
+indicar o acolhimento em casa abrigo como intervenção protetiva, ofertar sorologias para rastreio de IST e notificar caso à rede de atenção psicossocial do município.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 070 ===
+PARSE_STATUS:
+OK
+TEXT:
+Em reunião de equipe de saúde da família, discute-se o caso de
+uma idosa diabética, com locomoção reduzida, que apresenta
+episódios de hipoglicemia por dificuldade de compreensão do
+esquema de uso da insulina. A paciente tem 8 filhos, porém
+reside com apenas uma filha, que trabalha fora o dia todo.
+Qual ação inicial a equipe deve desenvolver nesse caso?
+
+OPTION_A:
+Realizar aplicação diária da insulina, na unidade de saúde.
+
+OPTION_B:
+Solicitar vaga em instituição de longa permanência.
+
+OPTION_C:
+Realizar a articulação do cuidado com a comunidade.
+
+OPTION_D:
+Substituir a insulina por hipoglicemiante oral.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 071 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 30 anos procurou uma Unidade Básica de Saúde
+pela primeira vez com o objetivo de reduzir o consumo de
+crack. Nega uso diário, mas afirma que há momentos em
+que “engata” 3 dias de uso. Após, consegue ficar semanas
+sem utilizar, mas recai na sequência. Depois do último uso
+continuado por 3 dias, não retornou para casa e decidiu
+buscar ajuda.
+Considerando-se as recomendações atuais dos Ministérios da
+Saúde e da Justiça, qual é a conduta inicial para esse paciente?
+
+OPTION_A:
+Internação hospitalar com abstinência total, com vistas a cessar os efeitos nocivos do consumo.
+
+OPTION_B:
+Encaminhamento a uma comunidade terapêutica, para acolhimento, devido ao padrão de uso apresentado.
+
+OPTION_C:
+Realização de ações voltadas à redução de danos, para minimizar problemas secundários ao consumo.
+
+OPTION_D:
+Prescrição de psicofármaco, uma vez que há medicamentos padronizados para o tratamento.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 072 ===
+PARSE_STATUS:
+OK
+TEXT:
+Adolescente de 15 anos comparece à Unidade de Pronto
+Atendimento com queixa de mialgia, mal-estar e cansaço,
+iniciados há 1 semana, quadro que evoluiu, há 3 dias, com
+febre, dor de garganta e odinofagia. Exame físico: amígdalas
+hiperemiadas, com exsudato bilateral e linfoadenomegalia
+dolorosa em região cervical posterior bilateral de até 2 cm de
+diâmetro. É indicado o uso de sintomáticos, além de repouso
+e observação. Após 24 horas, não tem mais febre, porém
+apresenta erupção exantemática macular na face, no abdome
+e na região torácica.
+Qual é o diagnóstico provável para esse caso clínico?
+
+OPTION_A:
+Amigdalite bacteriana.
+
+OPTION_B:
+Infecção pelo vírus Epstein-Barr.
+
+OPTION_C:
+Reação alérgica ao antitérmico.
+
+OPTION_D:
+Rinofaringite.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 073 ===
+PARSE_STATUS:
+OK
+TEXT:
+Lactente de 1 ano e 4 meses, com calendário vacinal
+atualizado até os 12 meses, é levada a uma Unidade Básica
+de Saúde para atualização vacinal. A mãe relata que a criança
+está em acompanhamento com a nefrologia pediátrica devido
+à síndrome nefrótica corticossensível. A paciente faz uso de
+prednisolona em dose imunossupressora há 5 semanas e, no
+momento, encontra-se assintomática.
+Considerando-se o calendário vacinal recomendado pelo
+Ministério da Saúde e a condição clínica da criança, a
+orientação adequada a ser fornecida pelo médico é
+
+OPTION_A:
+adiar a vacinação até a suspensão do corticoide.
+
+OPTION_B:
+adiar a aplicação da vacina tetraviral e aplicar as demais.
+
+OPTION_C:
+aplicar a vacina contra hepatite A e adiar as demais.
+
+OPTION_D:
+aplicar todas as vacinas indicadas para a faixa etária.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 074 ===
+PARSE_STATUS:
+OK
+TEXT:
+Paciente de 65 anos, em acompanhamento em Unidade
+Básica de Saúde, retorna para sua consulta anual e relata
+piora de sintomas do trato urinário inferior, como jato urinário
+fraco, disúria e noctúria. O exame de toque evidencia próstata
+aumentada, de consistência elástica e superfície lisa. O PSA
+total (antígeno prostático específico), realizado há 2 semanas,
+revela o valor de 6,5 ng/mL (VR: até 4,0 ng/mL).
+Qual exame deve ser solicitado para comprovar a
+especificidade diagnóstica nesse caso?
+
+OPTION_A:
+PSA fração total e livre.
+
+OPTION_B:
+Ultrassonografia transretal.
+
+OPTION_C:
+Tomografia contrastada de pelve.
+
+OPTION_D:
+Biópsia transretal de próstata.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 075 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher de 28 anos, com ciclos menstruais regulares,
+comparece a uma Unidade de Pronto Atendimento
+apresentando dor pélvica iniciada há 2 dias e localizada na
+fossa ilíaca direita. Nega febre, corrimento vaginal ou outros
+sintomas associados. Refere data da última menstruação há
+16 dias e uso regular de preservativo masculino nas relações
+sexuais. O exame físico mostra dor à palpação superficial na
+fossa ilíaca direita, sem sinais de irritação peritoneal e sem
+outras alterações. Foi realizada ultrassonografia transvaginal,
+que revelou imagem medindo 2,5 cm no ovário direito, com
+componente cístico central, parede espessada e regular, ecos
+internos avasculares e vascularização periférica, conforme a
+imagem a seguir.
+Ovário direito (ultrassonografia transvaginal)
+Com base nos achados da ultrassonografia e no contexto
+clínico descrito, a hipótese diagnóstica mais provável é cisto
+
+OPTION_A:
+paraovariano.
+
+OPTION_B:
+folicular.
+
+OPTION_C:
+hemorrágico.
+
+OPTION_D:
+lúteo.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 076 ===
+PARSE_STATUS:
+OK
+TEXT:
+Menino de 9 anos é levado a uma Unidade Básica de Saúde
+para continuidade do acompanhamento de transtorno de
+déficit de atenção e hiperatividade (TDAH). Há prejuízos
+acadêmicos e sociais significativos refratários às intervenções
+pedagógicas e comportamentais isoladas. A criança é ativa,
+joga futebol sem cansaço desproporcional e nega síncope,
+dor no peito ou palpitações. O pai é hipertenso e a avó
+materna faleceu de infarto aos 68 anos. Não há relato de
+morte súbita em familiares jovens, arritmias hereditárias ou
+surdez congênita. Exame físico sem alterações.
+Nesse caso, a conduta inicial é
+
+OPTION_A:
+investigar condições cardiológicas com exames complementares.
+
+OPTION_B:
+prescrever metilfenidato e monitorar sinais vitais.
+
+OPTION_C:
+reaplicar escalas de avaliação neuropsicológica.
+
+OPTION_D:
+instituir atomoxetina e orientar sobre eventos adversos.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 077 ===
+PARSE_STATUS:
+OK
+TEXT:
+Em maio de 2024, aconteceram inundações devastadoras no
+Rio Grande do Sul (RS), que afetaram 478 municípios e mais
+de 2 milhões de pessoas, segundo dados de 2025 do Boletim
+da Defesa Civil do RS. Várias famílias ficaram desalojadas.
+Além disso, houve contaminação hídrica e desabastecimento
+da rede assistencial.
+Diante do quadro apresentado, assinale a alternativa que
+apresenta, respectivamente, a etapa e as ações a serem
+adotadas pela Vigilância Epidemiológica em casos como esse.
+
+OPTION_A:
+Manejo do desastre; decidir sobre as ações de controle de doenças e agravos à saúde.
+
+OPTION_B:
+Mitigação; monitorar e controlar prioritariamente as doenças transmissíveis.
+
+OPTION_C:
+Recuperação; intensificar as ações para detecção de doenças-sentinela e de surtos e efetuar a notificação.
+
+OPTION_D:
+Redução de risco; identificar e mapear a morbimortalidade e apontar as medidas para a redução do risco.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 078 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 74 anos, com diagnóstico de transtorno depressivo
+maior e hipertensão arterial, comparece a uma consulta em
+Unidade Básica de Saúde referindo episódios de tontura ao
+se levantar, letargia e confusão mental leve, há 3 semanas. O
+paciente faz uso de enalapril 10 mg/dia, há 1 ano, e iniciou o
+uso de paroxetina 40 mg/dia, há 1 mês. O exame físico revela:
+paciente hidratado, eupneico e orientado; PA 130 x 80 mmHg
+(sentado) e 115 x 75 mmHg (em pé).
+Considerando-se esse caso clínico, o exame laboratorial
+prioritário para a confirmação diagnóstica é a dosagem de
+
+OPTION_A:
+sódio.
+
+OPTION_B:
+potássio.
+
+OPTION_C:
+transaminases.
+
+OPTION_D:
+creatinina.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 079 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 63 anos retorna a determinada Unidade Básica
+de Saúde com os resultados de exames solicitados para
+investigação de perda de peso e tosse produtiva, iniciadas
+há cerca de 6 meses. Nega comorbidades, uso contínuo de
+medicações ou tratamento para qualquer patologia respiratória
+prévia. A radiografia de tórax apresenta consolidação em lobo
+superior direito, sem evidências de cavitação. Teste rápido
+molecular para tuberculose positivo; resistência à rifampicina
+não detectada; sorologia para HIV negativa.
+Após a prescrição do tratamento pertinente, com que
+frequência esse paciente deve ser monitorado?
+
+OPTION_A:
+Mensalmente até o término do tratamento.
+
+OPTION_B:
+Quando houver sintomas respiratórios.
+
+OPTION_C:
+No início e ao término do tratamento.
+
+OPTION_D:
+Após 3 e 6 meses do início do tratamento.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 080 ===
+PARSE_STATUS:
+OK
+TEXT:
+Determinado médico de uma Unidade Básica de Saúde,
+durante reunião com equipe interprofissional, discute a
+ocorrência de cinco casos de hepatite A em crianças de
+uma ocupação habitacional sem rede de esgoto formal. O
+Conselho Local de Saúde e a Associação de Moradores relatam
+insegurança quanto à qualidade da água e dificuldade de
+adesão às medidas de higiene por falta de insumos. A análise
+epidemiológica indica que há um grande número de crianças
+na comunidade que não completaram o esquema vacinal e
+que a transmissão está ativa no território.
+Além da vacinação, qual é a próxima ação adequada para essa
+comunidade?
+
+OPTION_A:
+Instituir o isolamento das crianças acometidas e de seus familiares.
+
+OPTION_B:
+Organizar mutirões de limpeza coordenados pela equipe de saúde.
+
+OPTION_C:
+Acionar a Vigilância Sanitária com vistas à melhoria do tratamento da água.
+
+OPTION_D:
+Prescrever profilaxia medicamentosa com antivirais para todas as crianças.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 081 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 62 anos, diabético, foi submetido a colecistectomia,
+seguida de colangiopancreatografia retrógrada endoscópica
+com retirada de cálculo em colédoco, há 3 semanas. Após
+alta, retorna à emergência hospitalar com queixa de febre,
+prostração e dor em hipocôndrio direito. Exames revelam:
+paciente febril; dor à palpação em hipocôndrio direito;
+hepatimetria de 4 cm do rebordo costal; ausência de dor à
+descompressão brusca. Os resultados do hemograma são
+apresentados a seguir.
+Exame
+Resultado
+Valor de referência
+Leucócitos
+18.000/mm3
+4.450 a 10.950 /mm³
+Bastonetes
+12%
+0,5 a 6,0 %
+Neutrófilos
+50%
+42,10 a 73,60 %
+Linfócitos
+20%
+19,50 a 47,30 %
+Basófilos
+3%
+0,20 a 1,20%
+É indicada internação hospitalar, além de antibioticoterapia
+venosa. Realizada tomografia de abdome, apresentada na
+seguinte figura.
+Tomografia de abdome superior
+
+Considerando-se a principal hipótese diagnóstica e a evolução
+clínica descrita, qual é o manejo para esse paciente?
+
+OPTION_A:
+Manter tratamento clínico, ampliando o esquema de antibioticoterapia.
+
+OPTION_B:
+Solicitar sorologia para amebíase e associar antibiótico específico.
+
+OPTION_C:
+Propor reabordagem cirúrgica e exploração de vias biliares.
+
+OPTION_D:
+Encaminhar para drenagem percutânea guiada por imagem.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 082 ===
+PARSE_STATUS:
+OK
+TEXT:
+Gestante de 34 anos, na 24ª semana de gestação, é
+acompanhada em pré-natal de alto risco por história de
+anemia crônica e cirurgia bariátrica com bypass gástrico em
+Y de Roux, realizada há 5 anos. Queixa-se de astenia, mas
+não há sinais de instabilidade hemodinâmica. Está em uso de
+200 mg/dia de ferro elementar. Os exames laboratoriais
+mostram os seguintes resultados.
+Exame
+Resultado
+Valor de referência
+Hemoglobina
+6,9 g/dL
+12,0 a 15,1 g/dL
+Volume corpuscular médio
+67 fL
+80 a 100 fL
+Ferritina
+5 ng/mL
+20 a 200 ng/mL
+Qual é a conduta terapêutica para essa gestante?
+
+OPTION_A:
+Manter o ferro elementar e acrescentar ácido fólico.
+
+OPTION_B:
+Aumentar a dose do ferro elementar e adicionar vitamina B12.
+
+OPTION_C:
+Prescrever ferro parenteral.
+
+OPTION_D:
+Transfundir concentrado de hemácias.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 083 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher de 48 anos procurou uma Unidade Básica de Saúde
+(UBS) devido a dor crônica generalizada persistente. Relata
+que, em consulta com outro médico, recebeu o diagnóstico
+de fibromialgia e que, desde então, tem feito diversos
+tratamentos, mas sem resultados. Diante disso, a paciente
+solicita a prescrição de Cannabis medicinal.
+Qual é o papel do médico da UBS em relação ao uso da
+Cannabis medicinal nesse caso?
+
+OPTION_A:
+Prescrevê-la, visto que ela consta na relação nacional de medicamentos excepcionais do SUS.
+
+OPTION_B:
+Solicitar autorização do Conselho Regional de Medicina para sua prescrição no SUS.
+
+OPTION_C:
+Informar que faltam evidências que sustentem seu uso e sua prescrição no SUS.
+
+OPTION_D:
+Comunicar que seu uso e sua prescrição no SUS devem ocorrer mediante autorização judicial.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 084 ===
+PARSE_STATUS:
+OK
+TEXT:
+Adolescente de 16 anos, assintomática, procura atendimento
+em uma Unidade de Saúde da Família, sozinha. Em consulta,
+informa que iniciou atividade sexual consentida com um
+colega da escola, de mesma idade, razão pela qual pede ao
+médico que coloque nela um implante contraceptivo de longa
+duração. Refere que seus pais têm ciência do namoro, mas
+não sabem que ela iniciou sua vida sexual.
+Qual é a conduta adequada do médico nesse caso?
+
+OPTION_A:
+Encaminhar a paciente para o serviço ginecológico.
+
+OPTION_B:
+Acionar o Conselho Tutelar da Criança e do Adolescente.
+
+OPTION_C:
+Comunicar aos pais da paciente o desejo de anticoncepção.
+
+OPTION_D:
+Atender ao pedido feito pela paciente quanto à anticoncepção.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 085 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 44 anos, com histórico de esquizofrenia, conhecido
+da equipe de uma Unidade Básica de Saúde, foi encontrado
+por uma agente comunitária de saúde em situação de rua
+e estava sem uso de medicamentos há vários meses. Tem
+histórico de múltiplas internações psiquiátricas e de má
+adesão aos tratamentos no Centro de Atenção Psicossocial.
+Após o acolhimento, quais ações são indicadas para esse
+caso?
+
+OPTION_A:
+Administrar antipsicótico de longa duração e encaminhar à assistência social.
+
+OPTION_B:
+Iniciar processo de curatela e recomendar a internação compulsória.
+
+OPTION_C:
+Acionar a rede de atenção psicossocial e articular o cuidado intersetorial.
+
+OPTION_D:
+Resgatar vínculo familiar e promover institucionalização.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 086 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 42 anos está sob investigação em Unidade
+Básica de Saúde, devido a aumento progressivo do volume
+abdominal e astenia. O paciente é natural e residente de uma
+cidade no interior da Bahia, nunca tendo viajado para fora
+do seu estado. Nega etilismo. O exame físico revela ascite
+moderada e circulação colateral na parede abdominal. A
+ultrassonografia mostra: fígado de dimensões preservadas,
+bordas rombas e sem nodulações; presença de fibrose
+periportal; esplenomegalia e aumento do calibre da veia
+porta e líquido ascítico na cavidade peritoneal. A endoscopia
+digestiva alta indica varizes esofágicas.
+Qual o exame indicado para confirmação da principal hipótese
+diagnóstica?
+
+OPTION_A:
+Doppler de sistema portal.
+
+OPTION_B:
+Paracentese diagnóstica.
+
+OPTION_C:
+Sorologia de hepatites virais.
+
+OPTION_D:
+Exame parasitológico.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 087 ===
+PARSE_STATUS:
+OK
+TEXT:
+Adolescente de 15 anos, acompanhada pelos pais, é atendida
+em Unidade Básica de Saúde. A mãe relata que a paciente
+passa quase todo o tempo no quarto e não conversa com os
+familiares, preferindo usar o celular. Durante exame físico,
+a sós com a médica, a paciente refere estar apaixonada por
+uma colega de classe e afirma que tem medo de que os pais
+descubram. Reforça que “gosta de garotas” e se reconhece
+como mulher. Refere, ainda, que, devido à angústia
+relacionada ao preconceito da família, vem fazendo cortes em
+face interna de coxas, para “diminuir o sofrimento”. Ao final,
+pede à médica que não conte nada disso aos pais.
+Considerando-se o caso descrito, qual é a conduta adequada
+a ser adotada pela médica?
+
+OPTION_A:
+Preservar sigilo sobre a orientação sexual e revelar aos pais os comportamentos autolesivos.
+
+OPTION_B:
+Guardar sigilo tanto sobre a orientação sexual quanto sobre os comportamentos autolesivos.
+
+OPTION_C:
+Revelar aos pais as informações referentes à orientação sexual e aos comportamentos autolesivos.
+
+OPTION_D:
+Manter sigilo sobre os comportamentos autolesivos e revelar aos pais a orientação sexual.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 088 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 32 anos estava internado para tratamento de
+criptococose encefálica. Durante a internação, relatou ao seu
+médico ser pessoa vivendo com HIV (PVHIV) e portador de
+tuberculose, sem tratamentos, e entregou-lhe documento
+em que solicitava que sua condição de saúde não fosse
+revelada a nenhum familiar, inclusive para sua mãe e seu
+companheiro. Ainda durante a internação, devido a derrame
+pleural tuberculoso volumoso, necessitou ser submetido
+à drenagem pleural. No sétimo dia após o procedimento,
+apresentou sangramento intenso pelo dreno de tórax, sendo
+submetido à toracotomia de urgência. Foi identificada lesão
+aórtica com sangramento ativo e impossível de ser contido.
+Apesar de todos os esforços da equipe médica, o paciente
+evoluiu a óbito intraoperatório.
+Assinale a alternativa que apresenta o correto preenchimento
+da declaração de óbito nessa situação, na ordem da causa
+terminal para a básica.
+
+OPTION_A:
+Hemorragia torácica, choque hipovolêmico, rotura aórtica, tuberculose.
+
+OPTION_B:
+Choque hipovolêmico, rotura aórtica, tuberculose, PVHIV.
+
+OPTION_C:
+Tuberculose, PVHIV, criptococose encefálica, choque hipovolêmico.
+
+OPTION_D:
+Rotura aórtica, choque hipovolêmico, PVHIV, criptococose encefálica.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 089 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher de 72 anos, diabética, procura atendimento devido
+a uma lesão pruriginosa em vulva, há 8 meses. Fez uso de
+corticosteroides tópicos e aciclovir por 6 semanas, sem
+melhora dos sintomas ou redução da lesão. O exame físico
+revela: lesão no lábio externo, arredondada, circunscrita,
+ulcerada, com 3 cm de diâmetro, bordas discretamente
+elevadas e pouco definidas, fundo hiperemiado e granulado,
+com depósitos esbranquiçados na região central.
+Considerando-se o caso clínico, qual é o exame indicado para
+confirmar a hipótese diagnóstica?
+
+OPTION_A:
+Esfregaço da lesão para coloração de Gram.
+
+OPTION_B:
+Genotipagem de HPV.
+
+OPTION_C:
+Biópsia da lesão.
+
+OPTION_D:
+Vulvoscopia com ácido acético.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 090 ===
+PARSE_STATUS:
+OK
+TEXT:
+Agricultor de 65 anos chega a uma Unidade Básica de Saúde
+com história de febre não aferida há 5 dias, tosse com
+expectoração purulenta, fraqueza e cansaço aos esforços. É
+tabagista e etilista. O exame físico mostra: paciente consciente
+e colaborativo; PA 100 x 70 mmHG; FC 84 bpm; FR 16 irpm;
+SpO2 96% em ar ambiente; sem esforço respiratório; ausculta
+pulmonar com estertores em base direita e sem outras
+alterações.
+Qual é o manejo adequado para esse paciente?
+
+OPTION_A:
+Indicar internação para antibioticoterapia parenteral.
+
+OPTION_B:
+Encaminhar ao pronto atendimento para radiografia de tórax prévia.
+
+OPTION_C:
+Prescrever antibioticoterapia oral com reavaliação em 48 horas.
+
+OPTION_D:
+Solicitar exames laboratoriais para diagnóstico etiológico.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 091 ===
+PARSE_STATUS:
+OK
+TEXT:
+Adolescente de 15 anos, com quadro de transtorno do
+espectro autista, é levado pela mãe a uma Unidade de Pronto
+Atendimento após ter apresentado, na escola, episódio de
+agitação progressiva, vocalizações intensas e repetitivas,
+movimentos amplos dos membros superiores, chegando
+a cair ao chão. Durante todo o episódio, manteve os olhos
+abertos e reagia aos estímulos do ambiente. Não houve
+liberação esfincteriana, confusão mental ou sonolência após
+o episódio.
+O quadro em questão é compatível com o diagnóstico de crise
+
+OPTION_A:
+epiléptica.
+
+OPTION_B:
+de ansiedade aguda.
+
+OPTION_C:
+conversiva.
+
+OPTION_D:
+de desregulação comportamental.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 092 ===
+PARSE_STATUS:
+OK
+TEXT:
+Lactente de 3 meses é levado a uma Unidade Básica de Saúde
+por apresentar crises de tosse intensa há 15 dias, acentuando-
+se há 10 dias em crises sucessivas, com associação de vômitos.
+Durante as crises, apresenta cianose, hemorragia conjuntival,
+petéquias e rubor facial. Foi realizada imunização somente ao
+nascimento.
+Qual exame deve ser realizado para confirmação da hipótese
+diagnóstica nesse caso?
+
+OPTION_A:
+Bacterioscopia pelo Gram em amostra de swab de nasofaringe.
+
+OPTION_B:
+Hemograma com contagem de plaquetas.
+
+OPTION_C:
+Reação em cadeia da polimerase em amostra de swab de nasofaringe.
+
+OPTION_D:
+Sorologia para toxina em amostra de sangue.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 093 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 45 anos foi submetido a colecistectomia
+laparoscópica eletiva, devido a litíase não complicada. No dia
+seguinte à cirurgia, apresentou temperatura axilar de 37,5 °C,
+dor abdominal difusa e FC 110 bpm. O médico assistente deu
+alta ao paciente, atribuindo as queixas ao processo normal
+de recuperação. O paciente retornou para reavaliação no
+4º dia de pós-operatório, com piora do quadro clínico. A
+ultrassonografia abdominal identificou grande quantidade de
+líquido livre abdominal, e a reabordagem cirúrgica mostrou
+fístula biliar. Após a recuperação, a família do paciente decidiu
+buscar orientação jurídica.
+A situação descrita configura
+
+OPTION_A:
+negligência.
+
+OPTION_B:
+imprudência.
+
+OPTION_C:
+diligência.
+
+OPTION_D:
+omissão de socorro.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 094 ===
+PARSE_STATUS:
+OK
+TEXT:
+Adolescente de 16 anos comparece à consulta em ambulatório
+de ginecologia referindo ainda não ter menstruado, a despeito
+de ter apresentado telarca aos 10 anos e pubarca logo em
+seguida. Ela não tem outras queixas. Tem 1,68 m de estatura
+e pesa 65 kg. A paciente tem pilificação axilar habitual, acne
+grau II em face, tórax e região dorsal. O exame ginecológico
+mostra: mamas com configuração normal; distribuição de
+pelos pubianos adequada para o sexo feminino; órgãos
+genitais externos sem alterações evidentes; hímen íntegro,
+com orifício orbicular permeável. No exame, não se procedeu
+ao toque vaginal.
+Considerando-se o caso descrito, qual é a hipótese diagnóstica
+a ser investigada?
+
+OPTION_A:
+Síndrome de Turner.
+
+OPTION_B:
+Insensibilidade androgênica.
+
+OPTION_C:
+Amenorreia hipotalâmica primária.
+
+OPTION_D:
+Anomalia Mülleriana.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 095 ===
+PARSE_STATUS:
+OK
+TEXT:
+Homem de 53 anos, em consulta a uma Unidade Básica de
+Saúde (UBS), vigilante, viúvo, relata que perdeu a esposa
+e um filho de 17 anos em uma tentativa de assalto, há 2
+anos. Refere aumento progressivo do consumo de álcool e
+isolamento social desde o ocorrido. Informa que, durante a
+semana, ingere cerca de 2 latas de cerveja após o trabalho e,
+aos finais de semana, consome uma caixa de cerveja ao dia.
+Afirma também que, ultimamente, tem recebido reclamações
+do chefe, pois tem chegado atrasado ao trabalho. Nega
+episódios de “apagões”, agressões ou acidentes. Ao exame
+psíquico, apresenta humor deprimido e sono fragmentado.
+Nega plano suicida no momento. Não há sinais de abstinência
+aguda nem alterações ao exame físico.
+Qual deve ser a abordagem inicial nesse caso?
+
+OPTION_A:
+Diagnosticar o abuso de álcool utilizando o questionário CAGE e prescrever antidepressivo tricíclico.
+
+OPTION_B:
+Utilizar a abordagem de redução de danos no manejo do consumo de álcool e prescrever dissulfiran.
+
+OPTION_C:
+Realizar intervenção breve e terapia multiprofissional na UBS para abordagem do consumo de álcool.
+
+OPTION_D:
+Encaminhar paciente para internação hospitalar de curta duração e envolver os familiares no plano de cuidado.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 096 ===
+PARSE_STATUS:
+OK
+TEXT:
+Mulher de 38 anos é atendida em Unidade Básica de
+Saúde para investigação de quadro de emagrecimento e
+palpitações. Relata que o emagrecimento não é intencional
+e que seu apetite está preservado. Além disso, refere
+incomodar-se muito com a sensação de palpitações
+esporádicas, sentidas geralmente durante o esforço, mas
+também, por vezes, mesmo em repouso. O exame físico
+revela: PA 160 x 80 mmHg; FC 132 bpm em repouso;
+exoftalmia; pele quente e úmida e alopecia generalizada.
+Exames laboratoriais mostram os seguintes resultados:
+Exame
+Resultado
+Valor de referência
+TSH
+0,01 mUI/L
+0,60 a 4,48 mUI/L
+T4 livre
+4,2 ng/dL
+0,92 a 1,68 ng/dL
+Qual esquema terapêutico deve ser instituído nesse caso?
+
+OPTION_A:
+Metimazol e propranolol.
+
+OPTION_B:
+Propiltiouracil e amiodarona.
+
+OPTION_C:
+Carbonato de lítio e propafenona.
+
+OPTION_D:
+Iodo radioativo e procainamida.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 097 ===
+PARSE_STATUS:
+OK
+TEXT:
+Criança de 3 anos é levada para consulta de rotina. Apresenta-
+se irritada, com relato materno de febre intermitente e
+perda ponderal de 2 kg nos últimos 2 meses. O exame físico
+mostra que a PA está no percentil 95 para a idade e altura.
+Nota-se presença de equimoses periorbitárias bilaterais e de
+massa firme em flanco direito que ultrapassa a linha média
+abdominal.
+Qual é o diagnóstico mais provável nessa situação?
+
+OPTION_A:
+Tumor de Wilms.
+
+OPTION_B:
+Neuroblastoma.
+
+OPTION_C:
+Rabdomiossarcoma.
+
+OPTION_D:
+Linfoma de Burkitt.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 098 ===
+PARSE_STATUS:
+OK
+TEXT:
+Menina de 1 ano é levada a uma Unidade de Pronto
+Atendimento com história de abaulamento em região inguinal
+até o lábio maior esquerdo, há cerca de 6 meses. O exame
+físico revela abaulamento inguinal esquerdo, com conteúdo
+fibroelástico, pequeno e redutível.
+Qual é a conduta adequada nesse caso?
+
+OPTION_A:
+Indicar cirurgia eletiva.
+
+OPTION_B:
+Encaminhar para cirurgia de urgência.
+
+OPTION_C:
+Manter conduta expectante.
+
+OPTION_D:
+Prescrever gonadotrofina coriônica.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 099 ===
+PARSE_STATUS:
+OK
+TEXT:
+Paciente, G3P1A1, com gestação de 13 semanas, datada
+pela ecografia de 8 semanas, procura pronto atendimento
+devido à queixa de sangramento vaginal iniciado há 3 dias,
+em pequena quantidade. A tipagem sanguínea anotada no
+cartão de pré-natal é A negativo. Ela desconhece a tipagem
+sanguínea de seu parceiro. O exame ginecológico mostra
+sangue escurecido em moderada quantidade na vagina e colo
+uterino fechado. É solicitado teste de coombs indireto, cujo
+resultado é positivo.
+Qual a conduta nesse momento?
+
+OPTION_A:
+Alertar paciente sobre a inviabilidade da gestação.
+
+OPTION_B:
+Realizar imunoglobulina anti-RH.
+
+OPTION_C:
+Solicitar tipagem sanguínea do parceiro.
+
+OPTION_D:
+Encaminhar paciente ao pré-natal de alto risco.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===
+
+=== QUESTION 100 ===
+PARSE_STATUS:
+OK
+TEXT:
+Após a ocorrência de grandes ondas de calor em determinada
+região, idosa de 72 anos procura atendimento em Unidade
+Básica de Saúde por apresentar tontura, fraqueza, cefaleia
+pulsátil e redução do volume urinário. Ela refere ser hipertensa
+e morar em uma casa pequena com pouca ventilação. Nega
+outras comorbidades ou sintomas adicionais. O exame físico
+mostra PA 100 x 60 mmHg, FC 110 bpm, mucosas secas e
+temperatura axilar de 38 °C. A equipe de saúde observa que
+outros moradores da área estão nas mesmas condições dessa
+paciente.
+Nessa situação, quais são as estratégias adequadas a
+serem adotadas, nas abordagens individual e coletiva,
+respectivamente?
+
+OPTION_A:
+Prescrever antitérmicos, antieméticos e resfriamento corporal; mobilizar os agentes comunitários na orientação das famílias quanto às medidas para amenizar os efeitos do calor.
+
+OPTION_B:
+Iniciar reposição hidroeletrolítica e encaminhar paciente ao pronto-socorro; notificar caso à Secretaria de Saúde para intervenções nesse território.
+
+OPTION_C:
+Orientar o aumento da ingestão hídrica em domicílio; realizar reunião de equipe para organizar o fluxo assistencial desses atendimentos.
+
+OPTION_D:
+Indicar reposição hídrica, resfriamento corporal e monitorização; realizar a vigilância ativa de idosos vulneráveis com ações intersetoriais.
+
+IMAGE:
+NONE
+
+=== END QUESTION ===

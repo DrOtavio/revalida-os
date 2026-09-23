@@ -1,0 +1,1008 @@
+{
+  "schemaVersion": 1,
+  "edition": "2026/2",
+  "source": "Editorial Revalida OS baseado no gabarito preliminar oficial do INEP",
+  "notice": "Comentários editoriais para estudo. Questões e gabarito preliminar são oficiais do INEP; explicações não são texto oficial do INEP e o gabarito poderá ser alterado após recursos.",
+  "questions": {
+    "Q001": {
+      "explanation": "Idoso institucionalizado com delirium agudo, sintomas respiratórios e falha de antibiótico empírico precisa de avaliação em serviço de urgência para investigação e suporte, em vez de apenas ampliar tratamento na APS.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Associar claritromicina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Idoso institucionalizado com delirium agudo, sintomas respiratórios e falha de antibiótico empírico precisa de avaliação em serviço de urgência para investigação e suporte, em vez de apenas ampliar tratamento na APS.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Solicitar tomografia de tórax.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Administrar furosemida.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Delirium em idoso com possível infecção e sinais de gravidade exige avaliação de maior complexidade."
+    },
+    "Q002": {
+      "explanation": "Estridor intenso, sialorreia, posição em tripé, febre alta, aspecto tóxico e piora à manipulação formam quadro clássico de epiglotite aguda.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Laringite aguda.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Obstrução por corpo estranho.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Estridor intenso, sialorreia, posição em tripé, febre alta, aspecto tóxico e piora à manipulação formam quadro clássico de epiglotite aguda.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Pneumonia bacteriana.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Epiglotite: sialorreia + tripé + toxicidade + estridor; evitar manipulação desnecessária da via aérea."
+    },
+    "Q003": {
+      "explanation": "Após 20 semanas, o útero gravídico pode comprimir a veia cava; em paciente imobilizada por trauma, o deslocamento manual do útero para a esquerda melhora retorno venoso sem desfazer a proteção da coluna.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Colocá-la em posição de Trendelemburg.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Imobilizá-la na prancha em decúbito lateral esquerdo.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Após 20 semanas, o útero gravídico pode comprimir a veia cava; em paciente imobilizada por trauma, o deslocamento manual do útero para a esquerda melhora retorno venoso sem desfazer a proteção da coluna.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Elevar os membros inferiores.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Trauma em gestante imobilizada: deslocar manualmente o útero para a esquerda para aliviar compressão aortocava."
+    },
+    "Q004": {
+      "explanation": "Dismenorreia progressiva, sintomas intestinais cíclicos e nódulos dolorosos em fórnice posterior sugerem endometriose profunda; a ultrassonografia transvaginal dirigida é exame inicial de referência.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Tomografia computadorizada do abdome.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Laparoscopia diagnóstica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Histerossonossalpingografia.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: Dismenorreia progressiva, sintomas intestinais cíclicos e nódulos dolorosos em fórnice posterior sugerem endometriose profunda; a ultrassonografia transvaginal dirigida é exame inicial de referência."
+      },
+      "keyPoint": "Endometriose profunda: ultrassonografia transvaginal especializada é exame inicial de escolha."
+    },
+    "Q005": {
+      "explanation": "No sétimo dia de doença, a detecção de IgM por ELISA é a estratégia sorológica apropriada para confirmação de dengue, enquanto NS1 tem maior rendimento nos primeiros dias.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘pesquisa de proteína NS1.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘avaliação da contagem de plaquetas.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘realização de isolamento viral.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: No sétimo dia de doença, a detecção de IgM por ELISA é a estratégia sorológica apropriada para confirmação de dengue, enquanto NS1 tem maior rendimento nos primeiros dias."
+      },
+      "keyPoint": "Dengue: após cerca do 5º dia, a sorologia IgM ganha utilidade diagnóstica."
+    },
+    "Q006": {
+      "explanation": "Na onda de calor, a APS deve priorizar prevenção: hidratação, adaptação do domicílio, educação sobre sinais de alerta e vigilância ativa dos grupos vulneráveis.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘separar o fluxo de atendimento da UBS para agilizar o atendimento da população atingida.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘implementar hospital de campanha para atender a população por demanda espontânea.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘encaminhar as pessoas afetadas para hidratação parenteral a fim de evitar descompensação clínica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: Na onda de calor, a APS deve priorizar prevenção: hidratação, adaptação do domicílio, educação sobre sinais de alerta e vigilância ativa dos grupos vulneráveis."
+      },
+      "keyPoint": "Eventos de calor extremo exigem prevenção e busca ativa dos vulneráveis no território."
+    },
+    "Q007": {
+      "explanation": "Sem plano suicida, tentativa prévia ou perda funcional grave, o manejo inicial pode ocorrer na APS com acompanhamento longitudinal, equipe multiprofissional e envolvimento familiar de modo cuidadoso.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘convocar seus responsáveis e encaminhá-lo ao Centro de Atenção Psicossocial infantojuvenil do território de referência.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘prescrever inibidor de recaptação de serotonina e encaminhá-lo para acompanhamento em ambulatório de saúde mental.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Sem plano suicida, tentativa prévia ou perda funcional grave, o manejo inicial pode ocorrer na APS com acompanhamento longitudinal, equipe multiprofissional e envolvimento familiar de modo cuidadoso.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘explicar-lhe que a distimia faz parte da adolescência, orientá-lo a aguardar e sugerir que busque o serviço de emergência em caso de piora.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Na ausência de risco suicida iminente, a APS pode coordenar cuidado longitudinal e multiprofissional."
+    },
+    "Q008": {
+      "explanation": "Dor típica com infradesnivelamento de ST e troponina inicial normal exige estratégia seriada com troponina de alta sensibilidade em curto intervalo; uma medida isolada não exclui síndrome coronariana aguda.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Iniciar terapia trombolítica em até 30 minutos.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Encaminhar para cateterismo coronariano de urgência.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Dor típica com infradesnivelamento de ST e troponina inicial normal exige estratégia seriada com troponina de alta sensibilidade em curto intervalo; uma medida isolada não exclui síndrome coronariana aguda.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Repetir eletrocardiograma em 2 horas.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "SCA sem supra: troponina inicial normal não exclui infarto; repetir conforme algoritmo de alta sensibilidade."
+    },
+    "Q009": {
+      "explanation": "Persistência de sinais de crise grave após beta-2 agonista, ipratrópio e corticoide indica terapia adjuvante com sulfato de magnésio.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Persistência de sinais de crise grave após beta-2 agonista, ipratrópio e corticoide indica terapia adjuvante com sulfato de magnésio.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘corticoide.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘anti-histamínico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘terbutalina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Asma grave sem resposta inicial: considerar sulfato de magnésio como terapia adjuvante."
+    },
+    "Q010": {
+      "explanation": "Rubor, calor e tumefação local no pós-operatório, sem acometimento profundo, sugerem infecção incisional superficial; a conduta é explorar/abrir localmente a ferida para drenagem e avaliação.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Prescrever antibioticoterapia oral.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Remover a tela.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Rubor, calor e tumefação local no pós-operatório, sem acometimento profundo, sugerem infecção incisional superficial; a conduta é explorar/abrir localmente a ferida para drenagem e avaliação.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Solicitar ultrassonografia de partes moles.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Infecção superficial de ferida cirúrgica costuma exigir abertura e drenagem local, não retirada imediata de tela."
+    },
+    "Q011": {
+      "explanation": "Dor intensa, hipertonia uterina, sangramento e bradicardia fetal sustentada sugerem descolamento prematuro de placenta com comprometimento fetal, impondo interrupção imediata pela via mais rápida.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Dor intensa, hipertonia uterina, sangramento e bradicardia fetal sustentada sugerem descolamento prematuro de placenta com comprometimento fetal, impondo interrupção imediata pela via mais rápida.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Confirmar a localização placentária por ultrassonografia obstétrica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Realizar perfil biofísico fetal com monitorização dos sinais vitais maternos.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Iniciar a indução do trabalho de parto.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "DPP com sofrimento fetal é emergência obstétrica: interromper a gestação sem atrasos diagnósticos."
+    },
+    "Q012": {
+      "explanation": "O tratamento deve ser reiniciado no serviço que acolheu o paciente, garantindo acesso, vínculo e continuidade, sem exigir retorno à unidade anterior ou documentação como barreira.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: O tratamento deve ser reiniciado no serviço que acolheu o paciente, garantindo acesso, vínculo e continuidade, sem exigir retorno à unidade anterior ou documentação como barreira.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Na UBS de origem, na qual o tratamento foi iniciado.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘No Consultório na Rua responsável pela região.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Em unidade hospitalar, com médico pneumologista.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Tuberculose: acolhimento e continuidade do cuidado devem prevalecer sobre barreiras administrativas."
+    },
+    "Q013": {
+      "explanation": "Antes de propor novas ações, a equipe deve identificar onde estão as falhas do cuidado e do fluxo de informação que levaram à piora dos indicadores e às crises hipertensivas.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Desenvolver ações educativas para o controle de condições de risco.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Antes de propor novas ações, a equipe deve identificar onde estão as falhas do cuidado e do fluxo de informação que levaram à piora dos indicadores e às crises hipertensivas.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Analisar o número de visitas domiciliares como indicador.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Encaminhar para acompanhamento ambulatorial especializado.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Melhoria de qualidade começa pelo diagnóstico do processo e dos gargalos assistenciais."
+    },
+    "Q014": {
+      "explanation": "Compulsões recorrentes associadas a comportamentos compensatórios e IMC normal são compatíveis com bulimia nervosa, mesmo sem vômitos autoinduzidos.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Anorexia nervosa.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Transtorno alimentar não especificado.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Compulsões recorrentes associadas a comportamentos compensatórios e IMC normal são compatíveis com bulimia nervosa, mesmo sem vômitos autoinduzidos.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Transtorno de compulsão alimentar.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Bulimia nervosa pode ocorrer com peso normal e compensação por jejum ou exercício."
+    },
+    "Q015": {
+      "explanation": "Cardiomiopatia dilatada com bloqueio de ramo em morador de área endêmica sugere doença de Chagas crônica; nessa fase, a confirmação é sorológica com IgG por métodos distintos.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Exame parasitológico direto por gota espessa.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Intradermo reação de Montenegro.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Cardiomiopatia dilatada com bloqueio de ramo em morador de área endêmica sugere doença de Chagas crônica; nessa fase, a confirmação é sorológica com IgG por métodos distintos.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Reação em cadeia da polimerase.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Chagas crônica: diagnóstico etiológico é sorológico; parasitemia direta tem menor sensibilidade."
+    },
+    "Q016": {
+      "explanation": "Febre alta por alguns dias seguida de defervescência e aparecimento súbito de exantema rosado é padrão clássico de exantema súbito por herpes-vírus humano 6.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Vírus Epstein-Barr.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Parvovírus humano B19.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Vírus Coxsackie A1.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: Febre alta por alguns dias seguida de defervescência e aparecimento súbito de exantema rosado é padrão clássico de exantema súbito por herpes-vírus humano 6."
+      },
+      "keyPoint": "Exantema súbito: febre cede e então surge o rash, típico de HHV-6."
+    },
+    "Q017": {
+      "explanation": "Dor contínua em hipocôndrio direito, Murphy positivo, leucocitose e espessamento da parede vesicular com cálculos definem colecistite aguda; o tratamento definitivo é colecistectomia precoce.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Dor contínua em hipocôndrio direito, Murphy positivo, leucocitose e espessamento da parede vesicular com cálculos definem colecistite aguda; o tratamento definitivo é colecistectomia precoce.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Indicar descompressão endoscópica das vias biliares.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Solicitar ressonância magnética de abdome superior.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Tratar clinicamente com antibióticos e analgésicos.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Colecistite aguda calculosa: colecistectomia precoce é o tratamento definitivo."
+    },
+    "Q018": {
+      "explanation": "Paciente estável, massa pequena, sem BCF, sem líquido livre e beta-hCG em queda importante pode ser manejada expectantemente com beta-hCG seriado e vigilância.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Paciente estável, massa pequena, sem BCF, sem líquido livre e beta-hCG em queda importante pode ser manejada expectantemente com beta-hCG seriado e vigilância.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Indicar procedimento cirúrgico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Prescrever o uso de metotrexate.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Indicar aspiração intrauterina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Gestação ectópica estável com hCG em queda pode permitir manejo expectante selecionado."
+    },
+    "Q019": {
+      "explanation": "O Guia Alimentar prioriza alimentos in natura ou minimamente processados, cultura alimentar e desenvolvimento de habilidades culinárias, não contagem de calorias ou produtos diet/light.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Estimular a redução do aporte calórico diário, com o uso de produtos diet e light.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Ensinar a contagem sistemática de calorias, com cálculo de macronutrientes para controle da ingestão energética.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: O Guia Alimentar prioriza alimentos in natura ou minimamente processados, cultura alimentar e desenvolvimento de habilidades culinárias, não contagem de calorias ou produtos diet/light.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Recomendar a exclusão de alimentos processados, como queijos e pães artesanais, e conservar vegetais da dieta regular.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Promoção alimentar no SUS: comida de verdade, cultura local e habilidades culinárias."
+    },
+    "Q020": {
+      "explanation": "Intoxicação por chumbo relacionada ao trabalho é agravo de notificação e deve ser comunicada à Vigilância em Saúde do Trabalhador para investigação e intervenção no ambiente laboral.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Intoxicação por chumbo relacionada ao trabalho é agravo de notificação e deve ser comunicada à Vigilância em Saúde do Trabalhador para investigação e intervenção no ambiente laboral.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Registrar no Sistema de Informação de Mortalidade e comunicar à Vigilância em Saúde do Trabalhador.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Registrar no Sistema de Informação de Agravos de Notificação e no Sistema de Informação de Mortalidade.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Registrar no Sistema de Informação de Agravos de Notificação e acionar a Vigilância Sanitária.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Agravo relacionado ao trabalho: notificar no SINAN e acionar a vigilância do trabalhador."
+    },
+    "Q021": {
+      "explanation": "Expansividade, aceleração do pensamento e fala aumentada correspondem a humor hipertímico, taquipsiquismo e taquilalia.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘humor disfórico, esterotipias vocais e agitação psicomotora.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘humor hipotímico, apragmatismo e afrouxamento de associações.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘humor eutímico, fuga de ideias e avolia.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: Expansividade, aceleração do pensamento e fala aumentada correspondem a humor hipertímico, taquipsiquismo e taquilalia."
+      },
+      "keyPoint": "Mania: humor hipertímico + aceleração do pensamento + fala aumentada."
+    },
+    "Q022": {
+      "explanation": "Apesar da hiperglicemia importante, pH, bicarbonato, osmolaridade e cetonas não preenchem critérios de CAD ou EHH; trata-se de hiperglicemia sem emergência metabólica crítica.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Cetoacidose diabética.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Estado hiperosmolar hiperglicêmico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Apesar da hiperglicemia importante, pH, bicarbonato, osmolaridade e cetonas não preenchem critérios de CAD ou EHH; trata-se de hiperglicemia sem emergência metabólica crítica.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Acidose metabólica induzida por medicação.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Hiperglicemia isolada não é CAD/EHH sem acidose, cetose ou hiperosmolaridade significativa."
+    },
+    "Q023": {
+      "explanation": "Anemia microcítica com anisocitose em criança pequena é compatível com deficiência de ferro; o tratamento é ferro oral em dose terapêutica associado à correção alimentar.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Anemia microcítica com anisocitose em criança pequena é compatível com deficiência de ferro; o tratamento é ferro oral em dose terapêutica associado à correção alimentar.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘polivitamínico com ferro em dose profilática e manter dieta atual.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘ferro oral em dose profilática e orientar uso de ácido fólico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘ferro endovenoso e suplementar com vitamina B12.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Anemia ferropriva estabelecida exige dose terapêutica de ferro, não apenas profilaxia."
+    },
+    "Q024": {
+      "explanation": "Distensão difusa, ruídos diminuídos e ausência de níveis hidroaéreos no segundo pós-operatório são compatíveis com íleo fisiológico; deambulação e progressão cuidadosa da dieta são medidas apropriadas.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘indicar reintervenção cirúrgica e confecção de colostomia em alça.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Distensão difusa, ruídos diminuídos e ausência de níveis hidroaéreos no segundo pós-operatório são compatíveis com íleo fisiológico; deambulação e progressão cuidadosa da dieta são medidas apropriadas.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘realizar descompressão colonoscópica e administrar neostigmina sob monitorização cardíaca.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘iniciar nutrição parenteral total e antibioticoterapia de amplo espectro.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Íleo pós-operatório precoce costuma ser manejado conservadoramente."
+    },
+    "Q025": {
+      "explanation": "Dor pélvica, dor à mobilização do colo e anexial configuram DIP; o esquema ambulatorial deve cobrir gonococo, clamídia e anaeróbios com ceftriaxona, doxiciclina e metronidazol.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Dor pélvica, dor à mobilização do colo e anexial configuram DIP; o esquema ambulatorial deve cobrir gonococo, clamídia e anaeróbios com ceftriaxona, doxiciclina e metronidazol.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Fluconazol, azitromicina e clidamicina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Doxiciclina, ceftriaxona e gentamicina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Miconazol, metronidazol e azitromicina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "DIP ambulatorial: ceftriaxona + doxiciclina + metronidazol."
+    },
+    "Q026": {
+      "explanation": "Com testes não reagentes, função renal preservada e risco sexual contínuo, a PrEP pode ser iniciada em esquema diário; o gabarito preliminar adota orientação de proteção após uso consecutivo.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘sob demanda e agendar retorno mensal para teste rápido.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Com testes não reagentes, função renal preservada e risco sexual contínuo, a PrEP pode ser iniciada em esquema diário; o gabarito preliminar adota orientação de proteção após uso consecutivo.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘sob demanda e aguardar confirmação da sorologia com resultado não reagente.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘de uso diário consecutivo e agendar retorno trimestral para teste rápido.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "PrEP em mulher cis: esquema diário, após exclusão de HIV e avaliação clínica/laboratorial."
+    },
+    "Q027": {
+      "explanation": "Sensibilidade de 80% e especificidade de 90% resultam em RV+ = 0,8/0,1 = 8, valor que aumenta moderadamente a probabilidade pós-teste.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘0,02 — indica redução na probabilidade de o paciente ter a doença.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘1,12 — demonstra uma alteração mínima e irrelevante na probabilidade de o paciente ter a doença.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Sensibilidade de 80% e especificidade de 90% resultam em RV+ = 0,8/0,1 = 8, valor que aumenta moderadamente a probabilidade pós-teste.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘9,00 — confirma o diagnóstico definitivo do diabetes, independentemente da probabilidade do teste.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "RV+ = sensibilidade/(1-especificidade); quanto maior, mais o teste positivo aumenta a probabilidade."
+    },
+    "Q028": {
+      "explanation": "Instabilidade afetiva e relacional, medo de abandono, explosões de raiva e autolesão reativa são características de transtorno de personalidade borderline.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Paranoide.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Instabilidade afetiva e relacional, medo de abandono, explosões de raiva e autolesão reativa são características de transtorno de personalidade borderline.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Dependente.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Antissocial.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Borderline: instabilidade interpessoal, medo de abandono, impulsividade e autolesão."
+    },
+    "Q029": {
+      "explanation": "O eletrocardiograma e o quadro estável apontam para arritmia supraventricular com indicação de avaliar e instituir anticoagulação conforme risco tromboembólico, sem necessidade de cardioversão elétrica imediata.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Realizar cardioversão elétrica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Iniciar amiodarona em bolus.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: O eletrocardiograma e o quadro estável apontam para arritmia supraventricular com indicação de avaliar e instituir anticoagulação conforme risco tromboembólico, sem necessidade de cardioversão elétrica imediata.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Implantar marca-passo temporário.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Arritmia estável: a estratégia depende de risco tromboembólico e duração; anticoagulação pode ser prioridade."
+    },
+    "Q030": {
+      "explanation": "Sopro sistólico suave, de baixa intensidade, sem irradiação e que diminui em ortostatismo tem características típicas de sopro inocente.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Sopro sistólico suave, de baixa intensidade, sem irradiação e que diminui em ortostatismo tem características típicas de sopro inocente.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Sopro localizado em foco pulmonar sem irradiação, associado à ausência de sintomas respiratórios.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Ausência de antecedentes familiares de cardiopatia congênita ou de morte súbita.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Presença de PA e FC dentro da normalidade para a idade.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Sopro inocente tende a ser sistólico, suave, sem irradiação e variável com posição."
+    },
+    "Q031": {
+      "explanation": "Dose elevada de lidocaína seguida de parestesias periorais, gosto metálico, zumbido e convulsão caracteriza toxicidade sistêmica por anestésico local.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Reação anafilática grave.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Dose elevada de lidocaína seguida de parestesias periorais, gosto metálico, zumbido e convulsão caracteriza toxicidade sistêmica por anestésico local.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Paroxismo tetânico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Sepse por infecção da ferida.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "LAST: sintomas neurológicos precoces podem preceder convulsões e colapso cardiovascular."
+    },
+    "Q032": {
+      "explanation": "Um valor alterado no TOTG de 75 g confirma diabetes gestacional; após medidas não farmacológicas, o acompanhamento imediato inclui monitorização da glicemia capilar.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Solicitar dosagem de insulina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Repetir curva glicêmica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Solicitar dosagem de HbA1c.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: Um valor alterado no TOTG de 75 g confirma diabetes gestacional; após medidas não farmacológicas, o acompanhamento imediato inclui monitorização da glicemia capilar."
+      },
+      "keyPoint": "DM gestacional diagnosticado no TOTG requer automonitorização para guiar o tratamento."
+    },
+    "Q033": {
+      "explanation": "História familiar de hipercolesterolemia e sobrepeso justificam perfil lipídico completo já na infância, com repetição posterior se normal.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Solicitar dosagem de lipoproteína A e, se normal, repetir entre 12 e 16 anos de idade.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: História familiar de hipercolesterolemia e sobrepeso justificam perfil lipídico completo já na infância, com repetição posterior se normal.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Rastrear a partir dos 9 anos, caso a criança mantenha IMC compatível com sobrepeso ou obesidade.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Solicitar dosagem de LDL-c e, se alterado, ampliar para perfil lipídico completo e prescrever estatina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Crianças com fatores de risco podem necessitar rastreamento lipídico seletivo antes da faixa universal."
+    },
+    "Q034": {
+      "explanation": "Com incidência aproximadamente estável e forte queda dos óbitos, as pessoas vivem mais tempo com HIV; o aumento da duração média da doença eleva a prevalência.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘da crescente virulência das cepas virais circulantes, indicada pela estabilidade da taxa de incidência.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Com incidência aproximadamente estável e forte queda dos óbitos, as pessoas vivem mais tempo com HIV; o aumento da duração média da doença eleva a prevalência.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘da ineficácia das estratégias de prevenção primária, demonstrada pelo acúmulo de casos ativos.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘da variação de exposição de risco da infecção, o que gera diagnósticos superiores à capacidade de resolução do sistema.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Prevalência aumenta quando a duração da doença cresce, mesmo com incidência estável."
+    },
+    "Q035": {
+      "explanation": "Nos primeiros dias após desastre, com sofrimento esperado e sem risco suicida, a abordagem inicial é escuta ativa, identificação de necessidades e seguimento na APS, evitando medicalização automática.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Nos primeiros dias após desastre, com sofrimento esperado e sem risco suicida, a abordagem inicial é escuta ativa, identificação de necessidades e seguimento na APS, evitando medicalização automática.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Solicitar relato dos eventos traumáticos, oferecendo visão de futuro otimista, e orientar busca por serviço de urgência se houver piora.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Prescrever inibidores seletivos da recaptação de serotonina ou benzodiazepínicos e encaminhar a ambulatório especializado.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Indicar acompanhamento psicológico regular e encaminhar a um centro de atenção psicossocial.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Pós-desastre: apoio, escuta e seguimento antes de patologizar reações agudas esperadas."
+    },
+    "Q036": {
+      "explanation": "Dor intensa 9/10 em crise falciforme exige analgesia opioide potente e rápida; morfina intravenosa é apropriada nesse cenário.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Codeína e paracetamol via oral.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Dipirona intravenosa.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Tenoxicam intramuscular.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: Dor intensa 9/10 em crise falciforme exige analgesia opioide potente e rápida; morfina intravenosa é apropriada nesse cenário."
+      },
+      "keyPoint": "Crise vaso-oclusiva com dor intensa deve receber analgesia opioide efetiva sem atraso."
+    },
+    "Q037": {
+      "explanation": "Pelo diagrama de Lund-Browder, a superfície corporal queimada e o peso determinam a reposição com Ringer lactato; o gabarito preliminar indica 2.820 mL na fase subsequente descrita.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Pelo diagrama de Lund-Browder, a superfície corporal queimada e o peso determinam a reposição com Ringer lactato; o gabarito preliminar indica 2.820 mL na fase subsequente descrita.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘3.760 mL, administrado em 8 horas.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘1.500 mL, administrado em 2 horas.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘1.000 mL, administrado em 15 a 20 minutos.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Queimaduras extensas em crianças exigem cálculo pela superfície corporal e reposição volêmica protocolada."
+    },
+    "Q038": {
+      "explanation": "Trauma penetrante, macicez, redução do murmúrio e velamento radiográfico sugerem hemotórax; a conduta inicial é drenagem torácica.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Trauma penetrante, macicez, redução do murmúrio e velamento radiográfico sugerem hemotórax; a conduta inicial é drenagem torácica.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Toracotomia na sala de emergência.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Punção torácica de alívio.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Videotoracoscopia.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Hemotórax traumático: drenagem torácica é a primeira intervenção na maioria dos casos."
+    },
+    "Q039": {
+      "explanation": "Diante de teste reagente e intensa ansiedade, a primeira atitude é acolher com escuta ativa, preservar confidencialidade e esclarecer o significado e os próximos passos.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Solicitar a presença de um familiar da paciente e encaminhá-la para o pré-natal de alto risco.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Diante de teste reagente e intensa ansiedade, a primeira atitude é acolher com escuta ativa, preservar confidencialidade e esclarecer o significado e os próximos passos.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Explicar à paciente o risco de transmissão da doença ao feto e solicitar sorologia para confirmar o diagnóstico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Tranquilizar a paciente e iniciar terapia antirretroviral.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Comunicação de resultado reagente deve começar por acolhimento, informação clara e respeito à autonomia."
+    },
+    "Q040": {
+      "explanation": "Idosa diabética e tabagista com síncope, sintomas vegetativos, hipotensão e bradicardia pode ter SCA atípica; além de acionar o SAMU, AAS mastigável é medida inicial se não houver contraindicação.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Idosa diabética e tabagista com síncope, sintomas vegetativos, hipotensão e bradicardia pode ter SCA atípica; além de acionar o SAMU, AAS mastigável é medida inicial se não houver contraindicação.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘isossorbida sublingual.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘omeprazol via oral.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘diazepam via oral.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "SCA pode ser atípica em idosos e diabéticos; AAS precoce reduz eventos quando indicado."
+    },
+    "Q041": {
+      "explanation": "Anafilaxia persistente após adrenalina em paciente que usa propranolol pode responder a glucagon, que aumenta AMPc por via independente do receptor beta.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Anafilaxia persistente após adrenalina em paciente que usa propranolol pode responder a glucagon, que aumenta AMPc por via independente do receptor beta.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Atropina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Adrenalina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Dopamina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Anafilaxia refratária em uso de beta-bloqueador: glucagon é terapia de resgate clássica."
+    },
+    "Q042": {
+      "explanation": "Lactente prematuro com displasia broncopulmonar, hipoxemia e dificuldade alimentar tem bronquiolite com critérios de suporte hospitalar, incluindo hidratação e suporte respiratório.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘oxigenoterapia e amoxicilina oral.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Lactente prematuro com displasia broncopulmonar, hipoxemia e dificuldade alimentar tem bronquiolite com critérios de suporte hospitalar, incluindo hidratação e suporte respiratório.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘salbutamol inalatório e corticoide sistêmico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘fisioterapia respiratória e dexametasona intramuscular.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Bronquiolite: tratamento é predominantemente de suporte; gravidade define necessidade de oxigênio/ventilação e hidratação."
+    },
+    "Q043": {
+      "explanation": "Anestesia em sela e incontinência urinária em paciente com hérnia discal são sinais de cauda equina e exigem encaminhamento emergencial para avaliação descompressiva cirúrgica.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Antecipar retorno ao ambulatório de especialidade.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Indicar tratamento com corticoide epidural.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Internar com prescrição de analgésicos associado a relaxantes musculares.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: Anestesia em sela e incontinência urinária em paciente com hérnia discal são sinais de cauda equina e exigem encaminhamento emergencial para avaliação descompressiva cirúrgica."
+      },
+      "keyPoint": "Cauda equina é emergência: déficit esfincteriano e anestesia em sela não podem aguardar consulta eletiva."
+    },
+    "Q044": {
+      "explanation": "IgG reagente com IgM não reagente indica infecção passada e imunidade, sem evidência sorológica de infecção aguda.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘susceptibilidade.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘infecção aguda.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: IgG reagente com IgM não reagente indica infecção passada e imunidade, sem evidência sorológica de infecção aguda.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘soroconversão recente.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Toxoplasmose: IgG positivo/IgM negativo sugere contato prévio e imunidade."
+    },
+    "Q045": {
+      "explanation": "A abordagem deve acolher a preocupação e explicar com evidências que não há associação causal entre vacina tríplice viral e autismo, sem reforçar falsa equivalência de risco.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Explicar que há baixa ocorrência de TEA em crianças vacinadas e encaminhar paciente para a atualização vacinal.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Orientar sobre a importância das vacinas e reforçar a superioridade de seus benefícios em relação à possibilidade de TEA.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Pesquisar sintomas preditores de TEA na criança e, em caso de resultado negativo, continuar o protocolo de vacinação segura.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: A abordagem deve acolher a preocupação e explicar com evidências que não há associação causal entre vacina tríplice viral e autismo, sem reforçar falsa equivalência de risco."
+      },
+      "keyPoint": "Hesitação vacinal: escuta respeitosa + informação baseada em evidências melhora confiança."
+    },
+    "Q046": {
+      "explanation": "Em idoso tabagista com dor retroesternal, mesmo após refeição, deve-se primeiro excluir SCA com eletrocardiograma e marcadores de necrose miocárdica.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Indicar ecocardiograma transesofágico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Em idoso tabagista com dor retroesternal, mesmo após refeição, deve-se primeiro excluir SCA com eletrocardiograma e marcadores de necrose miocárdica.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Dosar D-dímero e realizar angiotomografia de tórax.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Realizar endoscopia digestiva alta.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Dor torácica em paciente de risco: primeiro exclua SCA antes de atribuir a causa gastrointestinal."
+    },
+    "Q047": {
+      "explanation": "Restrição alimentar iniciada após engasgo, medo de consequências aversivas, perda ponderal e ausência de preocupação com imagem corporal caracterizam ARFID.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘transtorno dismórfico corporal.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘anorexia nervosa.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Restrição alimentar iniciada após engasgo, medo de consequências aversivas, perda ponderal e ausência de preocupação com imagem corporal caracterizam ARFID.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘seletividade alimentar típica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "ARFID envolve restrição por medo/sensibilidade/baixo interesse, sem distorção de imagem corporal."
+    },
+    "Q048": {
+      "explanation": "Em fratura exposta com déficit neurológico, o atendimento pré-hospitalar deve proteger a ferida e imobilizar, evitando manobras de redução ou tração no local.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Em fratura exposta com déficit neurológico, o atendimento pré-hospitalar deve proteger a ferida e imobilizar, evitando manobras de redução ou tração no local.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Reduzir fratura da clavícula.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Realizar tração do membro superior.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Alinhar com tala moldável.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Fratura exposta no pré-hospitalar: cobrir e imobilizar; não realizar redução agressiva no cenário."
+    },
+    "Q049": {
+      "explanation": "Mesmo diante de desejo firme por laqueadura, o cuidado inicial inclui aconselhamento informado sobre alternativas, reversibilidade, riscos e caráter definitivo, respeitando os critérios legais atuais.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Informar que a situação da paciente está em desacordo com os critérios legais pertinentes.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Orientar que é necessária a autorização do cônjuge para a realização do procedimento.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Mesmo diante de desejo firme por laqueadura, o cuidado inicial inclui aconselhamento informado sobre alternativas, reversibilidade, riscos e caráter definitivo, respeitando os critérios legais atuais.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Encaminhar a paciente para a realização do procedimento em questão.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Esterilização deve ser decisão informada, livre e precedida de aconselhamento contraceptivo."
+    },
+    "Q050": {
+      "explanation": "Com parente de primeiro grau diagnosticado aos 53 anos, o rastreamento por colonoscopia começa 10 anos antes da idade do diagnóstico do familiar, aos 43 anos.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘na consulta atual.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Com parente de primeiro grau diagnosticado aos 53 anos, o rastreamento por colonoscopia começa 10 anos antes da idade do diagnóstico do familiar, aos 43 anos.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘a partir dos 50 anos.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘se a pesquisa de sangue oculto tiver resultado positivo.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "História familiar de CCR precoce antecipa colonoscopia para 10 anos antes do caso índice."
+    },
+    "Q051": {
+      "explanation": "Miose, bradicardia, sialorreia, broncorreia/broncoespasmo e resposta à atropina caracterizam intoxicação por organofosforados.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Miose, bradicardia, sialorreia, broncorreia/broncoespasmo e resposta à atropina caracterizam intoxicação por organofosforados.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Benzodiazepínico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Sulfonilureia.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Antidepressivo tricíclico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Organofosforados causam síndrome colinérgica muscarínica e nicotínica; atropina trata efeitos muscarínicos."
+    },
+    "Q052": {
+      "explanation": "Lesões superficiais que começam como bolhas frágeis e evoluem com crostas melicéricas na face são típicas de impetigo.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘celulite.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Lesões superficiais que começam como bolhas frágeis e evoluem com crostas melicéricas na face são típicas de impetigo.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘ectima.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘herpes.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Impetigo: crostas amareladas/melicéricas e lesões superficiais em face são achados clássicos."
+    },
+    "Q053": {
+      "explanation": "Polidrâmnio, sialorreia neonatal e impossibilidade de progressão da sonda orogástrica apontam para atresia esofágica.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Polidrâmnio, sialorreia neonatal e impossibilidade de progressão da sonda orogástrica apontam para atresia esofágica.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Gástrica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Duodenal.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Intestinal.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Atresia esofágica: sonda não progride e há sialorreia logo após o nascimento."
+    },
+    "Q054": {
+      "explanation": "Gestante assintomática com colo curto ao ultrassom no segundo trimestre tem indicação de progesterona vaginal até cerca de 36 semanas, conforme cenário de risco.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Indicar o uso de indometacina até 32 semanas de gestação.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Prescrever nifedipina e manter até 30 semanas de gestação.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Prescrever betametasona e repetir o exame com 30 semanas de gestação.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: Gestante assintomática com colo curto ao ultrassom no segundo trimestre tem indicação de progesterona vaginal até cerca de 36 semanas, conforme cenário de risco."
+      },
+      "keyPoint": "Colo curto no segundo trimestre é indicação clássica de progesterona para reduzir prematuridade."
+    },
+    "Q055": {
+      "explanation": "Dor neuropática distal simétrica em paciente diabético, com função renal e ECG adequados, pode ser tratada inicialmente com amitriptilina.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Carbamazepina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Ibuprofeno.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Dor neuropática distal simétrica em paciente diabético, com função renal e ECG adequados, pode ser tratada inicialmente com amitriptilina.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Tramadol e paracetamol.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Neuropatia diabética dolorosa responde a fármacos para dor neuropática, não a analgésicos simples isolados."
+    },
+    "Q056": {
+      "explanation": "A seleção começou por doentes e não doentes e retrospectivamente comparou exposições anteriores, configuração típica de estudo caso-controle.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: A seleção começou por doentes e não doentes e retrospectivamente comparou exposições anteriores, configuração típica de estudo caso-controle.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Coorte.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Ecológico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Série temporal.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Caso-controle parte do desfecho e busca exposições passadas."
+    },
+    "Q057": {
+      "explanation": "A equipe deve compreender e respeitar a interpretação cultural sem reforçar causalidade de enfeitiçamento, acolhendo a comunidade e orientando sinais de risco e formas de cuidado.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Participar ativamente dos rituais religiosos e de luto próprios da comunidade, para atuar com prontidão caso algum membro da comunidade apresente intenso sofrimento.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: A equipe deve compreender e respeitar a interpretação cultural sem reforçar causalidade de enfeitiçamento, acolhendo a comunidade e orientando sinais de risco e formas de cuidado.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Acolher as famílias enlutadas, respeitando seus rituais funerários e evitando falar sobre suicídio, visto que a menção a esse tema poderia suscitar novas tentativas.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Explicar, de maneira objetiva, o que são transtornos mentais e o que é transtorno depressivo maior, para evitar interpretações místicas e ritualísticas do adoecimento.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Cuidado intercultural respeita crenças sem validar explicações potencialmente prejudiciais e mantém prevenção do suicídio."
+    },
+    "Q058": {
+      "explanation": "Cirrótico com ascite e febre deve realizar paracentese diagnóstica imediatamente para excluir peritonite bacteriana espontânea antes de definir o tratamento.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Solicitar hemocultura.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Cirrótico com ascite e febre deve realizar paracentese diagnóstica imediatamente para excluir peritonite bacteriana espontânea antes de definir o tratamento.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Prescrever antibioticoterapia empírica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Iniciar diurético poupador de potássio.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Ascite nova ou com febre/deterioração em cirrose: paracentese diagnóstica é prioridade."
+    },
+    "Q059": {
+      "explanation": "Febre prolongada, palidez, petéquias, dor óssea, hepatoesplenomegalia, pancitopenia e blastos sugerem leucemia linfoblástica aguda.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘anemia aplásica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Febre prolongada, palidez, petéquias, dor óssea, hepatoesplenomegalia, pancitopenia e blastos sugerem leucemia linfoblástica aguda.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘púrpura trombocitopênica imunológica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘calazar.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "LLA em criança pode apresentar pancitopenia, dor óssea, visceromegalias e blastos."
+    },
+    "Q060": {
+      "explanation": "A via aérea pediátrica tem epiglote relativamente mais longa/alta e anteriorizada, característica que modifica a técnica de laringoscopia e intubação.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘língua proporcionalmente menor.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘anel cricofaríngeo relativamente mais largo.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘laringe mais baixa e anterior.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: A via aérea pediátrica tem epiglote relativamente mais longa/alta e anteriorizada, característica que modifica a técnica de laringoscopia e intubação."
+      },
+      "keyPoint": "Via aérea infantil é mais anterior e possui epiglote proporcionalmente mais proeminente."
+    },
+    "Q061": {
+      "explanation": "Teste primário de HPV oncogênico positivo para tipo não 16/18 requer triagem complementar com citologia reflexa para definir necessidade de colposcopia.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Repetir o teste de DNA-HPV oncogênico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Teste primário de HPV oncogênico positivo para tipo não 16/18 requer triagem complementar com citologia reflexa para definir necessidade de colposcopia.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Encaminhar para colposcopia.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Indicar vacina contra o HPV.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "No rastreamento primário por HPV, a citologia reflexa estratifica positivos não 16/18."
+    },
+    "Q062": {
+      "explanation": "Os indicadores recentes de qualidade do cuidado gestacional valorizam testagem oportuna para sífilis, HIV e hepatites no primeiro trimestre.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘de pelo menos um exame de ultrassonografia obstétrica durante a gestação.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Os indicadores recentes de qualidade do cuidado gestacional valorizam testagem oportuna para sífilis, HIV e hepatites no primeiro trimestre.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘da primeira consulta de pré-natal antes da 20ª semana da gestação.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘de pelo menos quatro consultas médicas de pré-natal.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Qualidade do pré-natal inclui rastreio infeccioso precoce e oportuno."
+    },
+    "Q063": {
+      "explanation": "Reduzir o ponto de corte faz mais pessoas testarem positivo: aumenta a sensibilidade/detecção, mas também aumenta falsos positivos e reduz especificidade.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Aumento na detecção da HA e redução na frequência de falsos positivos.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Reduzir o ponto de corte faz mais pessoas testarem positivo: aumenta a sensibilidade/detecção, mas também aumenta falsos positivos e reduz especificidade.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Redução na detecção da HA e redução na frequência de falsos positivos.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Redução na detecção da HA e aumento na frequência de falsos positivos.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Ponto de corte menor tende a aumentar sensibilidade e reduzir especificidade."
+    },
+    "Q064": {
+      "explanation": "Paciente com esquizofrenia, uso de álcool e vulnerabilidade social precisa de articulação entre CAPS, APS, urgência e espaços comunitários, conforme necessidades clínicas e sociais.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Paciente com esquizofrenia, uso de álcool e vulnerabilidade social precisa de articulação entre CAPS, APS, urgência e espaços comunitários, conforme necessidades clínicas e sociais.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Serviço móvel de urgência; serviços residenciais terapêuticos; e centro de orientação e aconselhamento.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Unidade de acolhimento; centro de referência em assistência social; e unidades ambulatoriais especializadas.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Equipe de consultório na rua; núcleos de apoio à saúde da família; e serviço de atenção domiciliar.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "RAPS é uma rede territorial; cuidado não se restringe ao CAPS."
+    },
+    "Q065": {
+      "explanation": "Lesão anular pruriginosa com borda eritematosa descamativa e clareamento central é típica de tinea corporis; clotrimazol tópico é tratamento apropriado para lesão localizada.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Cefalexina oral.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Lesão anular pruriginosa com borda eritematosa descamativa e clareamento central é típica de tinea corporis; clotrimazol tópico é tratamento apropriado para lesão localizada.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Hidrocortisona tópica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Ivermectina oral.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Tinea corporis localizada: antifúngico tópico é tratamento de primeira linha."
+    },
+    "Q066": {
+      "explanation": "Crise única, generalizada, breve, em criança de 2 anos com febre e exame neurológico normal é convulsão febril simples; após recuperação, orientar a família e acompanhar ambulatorialmente.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘internar a paciente e coletar líquido cefalorraquidiano.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘solicitar tomografia de crânio e indicar acompanhamento especializado.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Crise única, generalizada, breve, em criança de 2 anos com febre e exame neurológico normal é convulsão febril simples; após recuperação, orientar a família e acompanhar ambulatorialmente.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘internar a paciente e realizar eletroencefalograma.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Convulsão febril simples não exige TC, EEG ou punção lombar de rotina em criança bem avaliada."
+    },
+    "Q067": {
+      "explanation": "Choque persistente com FAST negativo e fratura pélvica instável, apesar de cinta, exige controle mecânico definitivo/temporário do anel pélvico; o gabarito aponta estabilização cirúrgica do quadril.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Angiografia com embolização.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Laparotomia exploradora.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Choque persistente com FAST negativo e fratura pélvica instável, apesar de cinta, exige controle mecânico definitivo/temporário do anel pélvico; o gabarito aponta estabilização cirúrgica do quadril.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Tomografia de abdome e pelve.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Trauma pélvico instável com choque exige controle rápido da hemorragia e estabilização do anel pélvico."
+    },
+    "Q068": {
+      "explanation": "Em mulher pós-menopausa com fratura por fragilidade e sem contraindicação gastrointestinal, bisfosfonato é opção inicial de tratamento anti-reabsortivo.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Em mulher pós-menopausa com fratura por fragilidade e sem contraindicação gastrointestinal, bisfosfonato é opção inicial de tratamento anti-reabsortivo.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Estrogênio conjugado.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Teriparatida.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Romosozumabe.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Bisfosfonatos são primeira linha frequente na osteoporose pós-menopausa de alto risco."
+    },
+    "Q069": {
+      "explanation": "Em violência por parceiro íntimo, deve-se construir plano terapêutico e de segurança com equipe multiprofissional, fortalecer rede de apoio e realizar notificação compulsória, respeitando autonomia e risco.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘iniciar tratamento farmacológico, encaminhar paciente para acompanhamento especializado em saúde da mulher e denunciar parceiro à delegacia de proteção à mulher.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Em violência por parceiro íntimo, deve-se construir plano terapêutico e de segurança com equipe multiprofissional, fortalecer rede de apoio e realizar notificação compulsória, respeitando autonomia e risco.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘elaborar plano terapêutico farmacológico, encaminhar paciente para centro de apoio psicossocial e solicitar medida protetiva junto à defensoria pública.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘indicar o acolhimento em casa abrigo como intervenção protetiva, ofertar sorologias para rastreio de IST e notificar caso à rede de atenção psicossocial do município.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Violência contra a mulher: avaliar risco, fortalecer rede e notificar; denúncia policial não é automaticamente compulsória em todo caso."
+    },
+    "Q070": {
+      "explanation": "Antes de institucionalizar ou trocar tratamento, a equipe deve mobilizar família, comunidade e rede territorial para garantir administração segura e suporte cotidiano.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Realizar aplicação diária da insulina, na unidade de saúde.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Solicitar vaga em instituição de longa permanência.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Antes de institucionalizar ou trocar tratamento, a equipe deve mobilizar família, comunidade e rede territorial para garantir administração segura e suporte cotidiano.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Substituir a insulina por hipoglicemiante oral.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Coordenação do cuidado usa recursos familiares e comunitários para sustentar autonomia com segurança."
+    },
+    "Q071": {
+      "explanation": "Para pessoa que busca reduzir consumo sem quadro que imponha internação, a abordagem inicial é redução de danos, construção de metas e vínculo, sem exigir abstinência total como pré-condição.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Internação hospitalar com abstinência total, com vistas a cessar os efeitos nocivos do consumo.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Encaminhamento a uma comunidade terapêutica, para acolhimento, devido ao padrão de uso apresentado.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Para pessoa que busca reduzir consumo sem quadro que imponha internação, a abordagem inicial é redução de danos, construção de metas e vínculo, sem exigir abstinência total como pré-condição.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Prescrição de psicofármaco, uma vez que há medicamentos padronizados para o tratamento.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Redução de danos é estratégia legítima e centrada na pessoa para uso problemático de drogas."
+    },
+    "Q072": {
+      "explanation": "Faringite exsudativa com linfonodos cervicais posteriores e exantema no curso da doença é compatível com infecção pelo vírus Epstein-Barr.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Amigdalite bacteriana.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Faringite exsudativa com linfonodos cervicais posteriores e exantema no curso da doença é compatível com infecção pelo vírus Epstein-Barr.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Reação alérgica ao antitérmico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Rinofaringite.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Mononucleose por EBV: faringite exsudativa + linfonodomegalia cervical posterior são pistas fortes."
+    },
+    "Q073": {
+      "explanation": "Criança em dose imunossupressora de corticoide não deve receber vacina viva como tetraviral naquele momento; vacinas inativadas podem ser administradas conforme calendário.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘adiar a vacinação até a suspensão do corticoide.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Criança em dose imunossupressora de corticoide não deve receber vacina viva como tetraviral naquele momento; vacinas inativadas podem ser administradas conforme calendário.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘aplicar a vacina contra hepatite A e adiar as demais.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘aplicar todas as vacinas indicadas para a faixa etária.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Imunossupressão por corticoide contraindica temporariamente vacinas vivas, não todas as vacinas."
+    },
+    "Q074": {
+      "explanation": "Em próstata aumentada, lisa e PSA moderadamente elevado, a fração livre e a relação PSA livre/total ajudam a aumentar a especificidade antes de decidir por investigação invasiva.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Em próstata aumentada, lisa e PSA moderadamente elevado, a fração livre e a relação PSA livre/total ajudam a aumentar a especificidade antes de decidir por investigação invasiva.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Ultrassonografia transretal.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Tomografia contrastada de pelve.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Biópsia transretal de próstata.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "PSA livre/total auxilia na estratificação de PSA total intermediário."
+    },
+    "Q075": {
+      "explanation": "Lesão ovariana na fase periovulatória com parede espessada regular e vascularização periférica é compatível com cisto de corpo lúteo.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘paraovariano.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘folicular.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘hemorrágico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: Lesão ovariana na fase periovulatória com parede espessada regular e vascularização periférica é compatível com cisto de corpo lúteo."
+      },
+      "keyPoint": "Corpo lúteo costuma mostrar parede espessada e vascularização periférica ao Doppler."
+    },
+    "Q076": {
+      "explanation": "Sem sintomas cardíacos, exame anormal ou história familiar de morte súbita precoce, não há indicação de exames cardiológicos rotineiros antes do estimulante; pode-se iniciar metilfenidato monitorando sinais vitais.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘investigar condições cardiológicas com exames complementares.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Sem sintomas cardíacos, exame anormal ou história familiar de morte súbita precoce, não há indicação de exames cardiológicos rotineiros antes do estimulante; pode-se iniciar metilfenidato monitorando sinais vitais.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘reaplicar escalas de avaliação neuropsicológica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘instituir atomoxetina e orientar sobre eventos adversos.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Antes de estimulante, história e exame cardiovascular guiam necessidade de exames adicionais."
+    },
+    "Q077": {
+      "explanation": "Mapear morbimortalidade e vulnerabilidades e apontar medidas preventivas corresponde à etapa de redução de risco antes/de modo transversal ao desastre.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Manejo do desastre; decidir sobre as ações de controle de doenças e agravos à saúde.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Mitigação; monitorar e controlar prioritariamente as doenças transmissíveis.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Recuperação; intensificar as ações para detecção de doenças-sentinela e de surtos e efetuar a notificação.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: Mapear morbimortalidade e vulnerabilidades e apontar medidas preventivas corresponde à etapa de redução de risco antes/de modo transversal ao desastre."
+      },
+      "keyPoint": "Gestão de desastres inclui redução de risco baseada em mapeamento de vulnerabilidades e agravos."
+    },
+    "Q078": {
+      "explanation": "Paroxetina em idoso pode causar SIADH e hiponatremia, que se manifesta com letargia, tontura e confusão; a dosagem prioritária é sódio sérico.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Paroxetina em idoso pode causar SIADH e hiponatremia, que se manifesta com letargia, tontura e confusão; a dosagem prioritária é sódio sérico.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘potássio.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘transaminases.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘creatinina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "ISRS podem induzir SIADH, especialmente em idosos; sintomas neurológicos pedem avaliação de sódio."
+    },
+    "Q079": {
+      "explanation": "Após iniciar esquema para tuberculose pulmonar sensível, o seguimento clínico e de adesão deve ser mensal até o término do tratamento.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Após iniciar esquema para tuberculose pulmonar sensível, o seguimento clínico e de adesão deve ser mensal até o término do tratamento.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Quando houver sintomas respiratórios.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘No início e ao término do tratamento.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Após 3 e 6 meses do início do tratamento.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Tratamento de TB exige acompanhamento regular, em geral mensal, para adesão, eventos adversos e resposta."
+    },
+    "Q080": {
+      "explanation": "Com transmissão ativa e suspeita de água insegura, além de vacinação, é necessário acionar a Vigilância Sanitária para medidas sobre abastecimento e tratamento da água.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Instituir o isolamento das crianças acometidas e de seus familiares.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Organizar mutirões de limpeza coordenados pela equipe de saúde.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Com transmissão ativa e suspeita de água insegura, além de vacinação, é necessário acionar a Vigilância Sanitária para medidas sobre abastecimento e tratamento da água.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Prescrever profilaxia medicamentosa com antivirais para todas as crianças.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Hepatite A em território vulnerável exige ação sobre água, saneamento e vacinação."
+    },
+    "Q081": {
+      "explanation": "Febre, leucocitose e imagem compatível com coleção hepática após intervenção biliar sugerem abscesso; em coleção drenável, o manejo indicado é drenagem percutânea guiada por imagem associada a antibiótico.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Manter tratamento clínico, ampliando o esquema de antibioticoterapia.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Solicitar sorologia para amebíase e associar antibiótico específico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Propor reabordagem cirúrgica e exploração de vias biliares.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: Febre, leucocitose e imagem compatível com coleção hepática após intervenção biliar sugerem abscesso; em coleção drenável, o manejo indicado é drenagem percutânea guiada por imagem associada a antibiótico."
+      },
+      "keyPoint": "Abscesso hepático significativo costuma exigir antibiótico + drenagem percutânea quando acessível."
+    },
+    "Q082": {
+      "explanation": "Gestante com anemia ferropriva grave, ferritina baixa e má absorção esperada após bypass, apesar de ferro oral, deve receber ferro parenteral se estável e sem indicação imediata de transfusão.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Manter o ferro elementar e acrescentar ácido fólico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Aumentar a dose do ferro elementar e adicionar vitamina B12.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Gestante com anemia ferropriva grave, ferritina baixa e má absorção esperada após bypass, apesar de ferro oral, deve receber ferro parenteral se estável e sem indicação imediata de transfusão.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Transfundir concentrado de hemácias.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Pós-bypass com falha de ferro oral: ferro intravenoso é estratégia preferencial na gestação estável."
+    },
+    "Q083": {
+      "explanation": "No contexto apresentado, o médico deve informar que as evidências são insuficientes para sustentar uso rotineiro e incorporação/prescrição pelo SUS para fibromialgia.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Prescrevê-la, visto que ela consta na relação nacional de medicamentos excepcionais do SUS.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Solicitar autorização do Conselho Regional de Medicina para sua prescrição no SUS.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: No contexto apresentado, o médico deve informar que as evidências são insuficientes para sustentar uso rotineiro e incorporação/prescrição pelo SUS para fibromialgia.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Comunicar que seu uso e sua prescrição no SUS devem ocorrer mediante autorização judicial.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Prescrição deve seguir evidência, regulamentação e políticas de incorporação; fibromialgia não tem indicação rotineira consolidada de Cannabis no SUS."
+    },
+    "Q084": {
+      "explanation": "Adolescente capaz, em relação consentida e sem situação de violência, pode receber orientação e método contraceptivo preservando confidencialidade, sem necessidade automática de autorização parental.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Encaminhar a paciente para o serviço ginecológico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Acionar o Conselho Tutelar da Criança e do Adolescente.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Comunicar aos pais da paciente o desejo de anticoncepção.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: Adolescente capaz, em relação consentida e sem situação de violência, pode receber orientação e método contraceptivo preservando confidencialidade, sem necessidade automática de autorização parental."
+      },
+      "keyPoint": "Saúde sexual do adolescente combina autonomia progressiva, sigilo e proteção contra situações de risco."
+    },
+    "Q085": {
+      "explanation": "Esquizofrenia descompensada em situação de rua requer reativação da RAPS e articulação intersetorial com assistência social e outros recursos, em vez de institucionalização como resposta padrão.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Administrar antipsicótico de longa duração e encaminhar à assistência social.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Iniciar processo de curatela e recomendar a internação compulsória.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Esquizofrenia descompensada em situação de rua requer reativação da RAPS e articulação intersetorial com assistência social e outros recursos, em vez de institucionalização como resposta padrão.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Resgatar vínculo familiar e promover institucionalização.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Casos complexos de saúde mental pedem cuidado territorial em rede e intersetorial."
+    },
+    "Q086": {
+      "explanation": "Fibrose periportal, hipertensão portal e esplenomegalia em área endêmica sugerem esquistossomose hepatoesplênica; a confirmação etiológica pode ser feita por exame parasitológico para ovos de Schistosoma.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Doppler de sistema portal.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Paracentese diagnóstica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Sorologia de hepatites virais.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: Fibrose periportal, hipertensão portal e esplenomegalia em área endêmica sugerem esquistossomose hepatoesplênica; a confirmação etiológica pode ser feita por exame parasitológico para ovos de Schistosoma."
+      },
+      "keyPoint": "Esquistossomose hepatoesplênica: fibrose periportal e hipertensão portal são achados típicos."
+    },
+    "Q087": {
+      "explanation": "A orientação sexual deve permanecer sob sigilo; já a autolesão representa risco relevante e justifica compartilhamento protetivo com responsáveis, de forma mínima e cuidadosa.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: A orientação sexual deve permanecer sob sigilo; já a autolesão representa risco relevante e justifica compartilhamento protetivo com responsáveis, de forma mínima e cuidadosa.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Guardar sigilo tanto sobre a orientação sexual quanto sobre os comportamentos autolesivos.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Revelar aos pais as informações referentes à orientação sexual e aos comportamentos autolesivos.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Manter sigilo sobre os comportamentos autolesivos e revelar aos pais a orientação sexual.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Sigilo do adolescente pode ser limitado quando há risco à integridade, mantendo confidenciais informações não necessárias à proteção."
+    },
+    "Q088": {
+      "explanation": "A declaração deve registrar a sequência causal do evento terminal até a causa básica; o gabarito organiza choque hipovolêmico por rotura aórtica em contexto de tuberculose/PVHIV, preservando o encadeamento causal.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Hemorragia torácica, choque hipovolêmico, rotura aórtica, tuberculose.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: A declaração deve registrar a sequência causal do evento terminal até a causa básica; o gabarito organiza choque hipovolêmico por rotura aórtica em contexto de tuberculose/PVHIV, preservando o encadeamento causal.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Tuberculose, PVHIV, criptococose encefálica, choque hipovolêmico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Rotura aórtica, choque hipovolêmico, PVHIV, criptococose encefálica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Declaração de óbito: ordenar causa imediata, intermediárias e causa básica em sequência causal plausível."
+    },
+    "Q089": {
+      "explanation": "Lesão vulvar ulcerada persistente em idosa, sem resposta a tratamentos empíricos, é suspeita para neoplasia; a confirmação diagnóstica requer biópsia.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Esfregaço da lesão para coloração de Gram.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Genotipagem de HPV.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Lesão vulvar ulcerada persistente em idosa, sem resposta a tratamentos empíricos, é suspeita para neoplasia; a confirmação diagnóstica requer biópsia.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Vulvoscopia com ácido acético.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Lesão vulvar crônica suspeita: diagnóstico é histológico por biópsia."
+    },
+    "Q090": {
+      "explanation": "Paciente estável, saturando bem e sem sinais de gravidade pode ser tratado ambulatorialmente com antibiótico oral e reavaliação precoce.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Indicar internação para antibioticoterapia parenteral.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Encaminhar ao pronto atendimento para radiografia de tórax prévia.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Paciente estável, saturando bem e sem sinais de gravidade pode ser tratado ambulatorialmente com antibiótico oral e reavaliação precoce.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Solicitar exames laboratoriais para diagnóstico etiológico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "PAC sem critérios de gravidade pode ser manejada ambulatorialmente com seguimento próximo."
+    },
+    "Q091": {
+      "explanation": "Agitação com movimentos repetitivos, preservação de responsividade e ausência de período pós-ictal em adolescente com TEA é mais compatível com crise de desregulação comportamental do que epilepsia.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘epiléptica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘de ansiedade aguda.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘conversiva.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: Agitação com movimentos repetitivos, preservação de responsividade e ausência de período pós-ictal em adolescente com TEA é mais compatível com crise de desregulação comportamental do que epilepsia."
+      },
+      "keyPoint": "No TEA, episódios de desregulação podem simular crise, mas mantêm responsividade e não têm pós-ictal típico."
+    },
+    "Q092": {
+      "explanation": "Tosse paroxística prolongada com cianose, vômitos e vacinação incompleta sugere coqueluche; PCR de swab de nasofaringe é método confirmatório útil na fase adequada.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Bacterioscopia pelo Gram em amostra de swab de nasofaringe.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Hemograma com contagem de plaquetas.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Tosse paroxística prolongada com cianose, vômitos e vacinação incompleta sugere coqueluche; PCR de swab de nasofaringe é método confirmatório útil na fase adequada.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Sorologia para toxina em amostra de sangue.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Coqueluche: PCR de amostra nasofaríngea é exame confirmatório de escolha em muitos cenários iniciais."
+    },
+    "Q093": {
+      "explanation": "Dar alta apesar de sinais de possível complicação pós-operatória e sem investigação adequada caracteriza omissão de cuidado devido, compatível com negligência.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Dar alta apesar de sinais de possível complicação pós-operatória e sem investigação adequada caracteriza omissão de cuidado devido, compatível com negligência.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘imprudência.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘diligência.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘omissão de socorro.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Negligência é deixar de adotar cuidado ou diligência que eram devidos."
+    },
+    "Q094": {
+      "explanation": "Desenvolvimento sexual secundário feminino normal com amenorreia primária e genitália externa normal sugere investigar ausência/obstrução de estruturas müllerianas, como agenesia uterovaginal.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Síndrome de Turner.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Insensibilidade androgênica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Amenorreia hipotalâmica primária.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: Desenvolvimento sexual secundário feminino normal com amenorreia primária e genitália externa normal sugere investigar ausência/obstrução de estruturas müllerianas, como agenesia uterovaginal."
+      },
+      "keyPoint": "Amenorreia primária com caracteres sexuais secundários normais exige avaliar anatomia mülleriana."
+    },
+    "Q095": {
+      "explanation": "Há consumo de risco com repercussão funcional, sem abstinência grave ou indicação imediata de internação; intervenção breve e cuidado multiprofissional na UBS são apropriados inicialmente.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Diagnosticar o abuso de álcool utilizando o questionário CAGE e prescrever antidepressivo tricíclico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Utilizar a abordagem de redução de danos no manejo do consumo de álcool e prescrever dissulfiran.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Correta conforme o gabarito preliminar: Há consumo de risco com repercussão funcional, sem abstinência grave ou indicação imediata de internação; intervenção breve e cuidado multiprofissional na UBS são apropriados inicialmente.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Encaminhar paciente para internação hospitalar de curta duração e envolver os familiares no plano de cuidado.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Uso nocivo de álcool na APS: intervenção breve, metas pactuadas e seguimento longitudinal."
+    },
+    "Q096": {
+      "explanation": "TSH suprimido, T4 livre elevado, taquicardia e exoftalmia indicam Graves; metimazol controla síntese hormonal e propranolol reduz sintomas adrenérgicos.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: TSH suprimido, T4 livre elevado, taquicardia e exoftalmia indicam Graves; metimazol controla síntese hormonal e propranolol reduz sintomas adrenérgicos.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Propiltiouracil e amiodarona.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Carbonato de lítio e propafenona.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Iodo radioativo e procainamida.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Graves sintomático: tionamida + beta-bloqueador é combinação inicial clássica quando não contraindicada."
+    },
+    "Q097": {
+      "explanation": "Massa abdominal que cruza a linha média, hipertensão, perda de peso e equimoses periorbitárias são achados típicos de neuroblastoma metastático.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Tumor de Wilms.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Correta conforme o gabarito preliminar: Massa abdominal que cruza a linha média, hipertensão, perda de peso e equimoses periorbitárias são achados típicos de neuroblastoma metastático.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Rabdomiossarcoma.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Linfoma de Burkitt.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Neuroblastoma pode cruzar a linha média e causar equimoses periorbitárias por metástases."
+    },
+    "Q098": {
+      "explanation": "Hérnia inguinal redutível em lactente tem risco de encarceramento e deve ser corrigida cirurgicamente de forma eletiva, sem esperar fechamento espontâneo.",
+      "optionExplanations": {
+        "A": "A — Correta conforme o gabarito preliminar: Hérnia inguinal redutível em lactente tem risco de encarceramento e deve ser corrigida cirurgicamente de forma eletiva, sem esperar fechamento espontâneo.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Encaminhar para cirurgia de urgência.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Manter conduta expectante.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Incorreta neste cenário. A alternativa ‘Prescrever gonadotrofina coriônica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
+      },
+      "keyPoint": "Hérnia inguinal pediátrica não fecha espontaneamente; indicar correção eletiva se redutível."
+    },
+    "Q099": {
+      "explanation": "Coombs indireto positivo indica sensibilização materna já existente; imunoglobulina anti-D não reverte aloimunização, e a gestante deve ser acompanhada em pré-natal de alto risco.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Alertar paciente sobre a inviabilidade da gestação.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Realizar imunoglobulina anti-RH.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Solicitar tipagem sanguínea do parceiro.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: Coombs indireto positivo indica sensibilização materna já existente; imunoglobulina anti-D não reverte aloimunização, e a gestante deve ser acompanhada em pré-natal de alto risco."
+      },
+      "keyPoint": "Rh negativa já sensibilizada: anti-D profilática não é terapêutica; encaminhar para vigilância especializada."
+    },
+    "Q100": {
+      "explanation": "A idosa apresenta desidratação/doença relacionada ao calor; individualmente necessita reposição hídrica, resfriamento e monitorização, enquanto coletivamente a equipe deve fazer vigilância ativa de idosos vulneráveis e articular medidas intersetoriais.",
+      "optionExplanations": {
+        "A": "A — Incorreta neste cenário. A alternativa ‘Prescrever antitérmicos, antieméticos e resfriamento corporal; mobilizar os agentes comunitários na orientação das famílias quanto às medidas para amenizar os efeitos do calor.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "B": "B — Incorreta neste cenário. A alternativa ‘Iniciar reposição hidroeletrolítica e encaminhar paciente ao pronto-socorro; notificar caso à Secretaria de Saúde para intervenções nesse território.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "C": "C — Incorreta neste cenário. A alternativa ‘Orientar o aumento da ingestão hídrica em domicílio; realizar reunião de equipe para organizar o fluxo assistencial desses atendimentos.’ não corresponde à resposta indicada pelo gabarito preliminar oficial.",
+        "D": "D — Correta conforme o gabarito preliminar: A idosa apresenta desidratação/doença relacionada ao calor; individualmente necessita reposição hídrica, resfriamento e monitorização, enquanto coletivamente a equipe deve fazer vigilância ativa de idosos vulneráveis e articular medidas intersetoriais."
+      },
+      "keyPoint": "Calor extremo exige manejo clínico imediato e estratégia territorial focada nos grupos vulneráveis."
+    }
+  }
+}

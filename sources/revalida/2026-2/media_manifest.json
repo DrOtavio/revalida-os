@@ -1,0 +1,453 @@
+{
+  "schemaVersion": 1,
+  "edition": "2026/2",
+  "source": "INEP",
+  "questions": {
+    "Q022": [
+      {
+        "kind": "table",
+        "title": "Exames laboratoriais",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "pH (gasometria arterial)",
+            "7,36",
+            "7,35 a 7,45"
+          ],
+          [
+            "Bicarbonato sérico (HCO3−)",
+            "22 mEq/L",
+            "22 a 26 mEq/L"
+          ],
+          [
+            "Osmolaridade plasmática",
+            "292 mOsm/kg",
+            "285 a 295 mOsm/kg"
+          ],
+          [
+            "Cetonemia",
+            "Ausente",
+            "Ausente"
+          ],
+          [
+            "Cetonúria",
+            "Ausente",
+            "Ausente"
+          ],
+          [
+            "Sódio",
+            "147 mEq/L",
+            "136 a 145 mEq/L"
+          ],
+          [
+            "Potássio",
+            "3,6 mEq/L",
+            "3,5 a 5,1 mEq/L"
+          ]
+        ],
+        "fallbackImage": "q022_table_01.png",
+        "altText": "Tabela oficial dos exames metabólicos da questão 22."
+      }
+    ],
+    "Q023": [
+      {
+        "kind": "table",
+        "title": "Hemograma",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hemoglobina",
+            "9,4 g/dL",
+            "10,5 a 14,2 g/dL"
+          ],
+          [
+            "Volume corpuscular médio",
+            "68 fL",
+            "75 a 87 fL"
+          ],
+          [
+            "Índice de anisocitose",
+            "Aumentado",
+            "—"
+          ]
+        ],
+        "fallbackImage": "q023_table_01.png",
+        "altText": "Tabela oficial do hemograma da questão 23."
+      }
+    ],
+    "Q027": [
+      {
+        "kind": "table",
+        "title": "Desempenho do teste rápido",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Resultado do teste rápido",
+          "Diabetes presente",
+          "Diabetes ausente",
+          "Total"
+        ],
+        "rows": [
+          [
+            "Teste positivo",
+            "80",
+            "20",
+            "100"
+          ],
+          [
+            "Teste negativo",
+            "20",
+            "180",
+            "200"
+          ],
+          [
+            "Total",
+            "100",
+            "200",
+            "300"
+          ]
+        ],
+        "fallbackImage": "q027_table_01.png",
+        "altText": "Tabela 2x2 oficial usada para calcular a razão de verossimilhança na questão 27."
+      }
+    ],
+    "Q032": [
+      {
+        "kind": "table",
+        "title": "Teste oral de tolerância à glicose 75 g",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Glicemia de jejum",
+            "89 mg/dL",
+            "< 92 mg/dL"
+          ],
+          [
+            "1 hora após ingestão",
+            "182 mg/dL",
+            "< 180 mg/dL"
+          ],
+          [
+            "2 horas após ingestão",
+            "152 mg/dL",
+            "< 153 mg/dL"
+          ]
+        ],
+        "fallbackImage": "q032_table_01.png",
+        "altText": "Tabela oficial da curva glicêmica da questão 32."
+      }
+    ],
+    "Q034": [
+      {
+        "kind": "table",
+        "title": "Indicadores epidemiológicos de HIV, 2019-2023",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Ano",
+          "Casos novos de HIV diagnosticados no ano",
+          "Total de pessoas vivendo com HIV (PVHA) em 31 de dezembro",
+          "Óbitos relacionados à AIDS no ano"
+        ],
+        "rows": [
+          [
+            "2019",
+            "120",
+            "600",
+            "50"
+          ],
+          [
+            "2020",
+            "125",
+            "670",
+            "35"
+          ],
+          [
+            "2021",
+            "118",
+            "780",
+            "15"
+          ],
+          [
+            "2022",
+            "122",
+            "890",
+            "5"
+          ],
+          [
+            "2023",
+            "120",
+            "1.005",
+            "4"
+          ]
+        ],
+        "fallbackImage": "q034_table_01.png",
+        "altText": "Tabela oficial com casos novos, prevalência e óbitos relacionados à AIDS da questão 34."
+      }
+    ],
+    "Q037": [
+      {
+        "kind": "image",
+        "title": "Diagrama de Lund-Browder",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q037_lund_browder.jpeg",
+        "altText": "Diagrama oficial de Lund-Browder apresentado na questão 37 para estimar a superfície corporal queimada em uma criança de 5 anos."
+      },
+      {
+        "kind": "table",
+        "title": "Áreas variáveis no diagrama de Lund-Browder",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Área",
+          "5 anos"
+        ],
+        "rows": [
+          [
+            "A",
+            "6,5%"
+          ],
+          [
+            "B",
+            "4,0%"
+          ],
+          [
+            "C",
+            "2,75%"
+          ]
+        ],
+        "fallbackImage": "q037_table_01.png",
+        "altText": "Tabela oficial de referência das áreas A, B e C do diagrama de Lund-Browder na questão 37."
+      }
+    ],
+    "Q029": [
+      {
+        "kind": "image",
+        "title": "Eletrocardiograma",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q029_ecg.jpeg",
+        "altText": "Eletrocardiograma oficial apresentado na questão 29."
+      }
+    ],
+    "Q052": [
+      {
+        "kind": "image",
+        "title": "Lesões cutâneas da face",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q052_impetigo.jpeg",
+        "altText": "Imagem clínica oficial apresentada na questão 52."
+      }
+    ],
+    "Q053": [
+      {
+        "kind": "image",
+        "title": "Radiografia contrastada",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q053_atresia_esofagica.jpeg",
+        "altText": "Radiografia oficial com contraste apresentada na questão 53."
+      }
+    ],
+    "Q059": [
+      {
+        "kind": "table",
+        "title": "Hemograma",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Leucócitos",
+            "2.500/mm³",
+            "4.500 a 13.500/mm³"
+          ],
+          [
+            "Hemoglobina",
+            "8,0 g/dL",
+            "11,7 a 15,3 g/dL"
+          ],
+          [
+            "Plaquetas",
+            "30.000/mm³",
+            "150.000 a 450.000/mm³"
+          ],
+          [
+            "Neutrófilos",
+            "500/mm³",
+            "1.500 a 8.500/mm³"
+          ],
+          [
+            "Linfócitos",
+            "1.800/mm³",
+            "1.000 a 4.800/mm³"
+          ],
+          [
+            "Blastos",
+            "5%",
+            "0%"
+          ]
+        ],
+        "fallbackImage": "q059_table_01.png",
+        "altText": "Tabela oficial do hemograma da questão 59."
+      }
+    ],
+    "Q067": [
+      {
+        "kind": "image",
+        "title": "Radiografia simples da pelve",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q067_rx_pelve.jpeg",
+        "altText": "Radiografia oficial da pelve apresentada na questão 67."
+      }
+    ],
+    "Q075": [
+      {
+        "kind": "image",
+        "title": "Ultrassonografia transvaginal do ovário direito",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q075_us_ovario.jpeg",
+        "altText": "Imagem ultrassonográfica oficial apresentada na questão 75."
+      }
+    ],
+    "Q081": [
+      {
+        "kind": "table",
+        "title": "Hemograma",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Leucócitos",
+            "18.000/mm³",
+            "4.450 a 10.950/mm³"
+          ],
+          [
+            "Bastonetes",
+            "12%",
+            "0,5 a 6,0%"
+          ],
+          [
+            "Neutrófilos",
+            "50%",
+            "42,10 a 73,60%"
+          ],
+          [
+            "Linfócitos",
+            "20%",
+            "19,50 a 47,30%"
+          ],
+          [
+            "Basófilos",
+            "3%",
+            "0,20 a 1,20%"
+          ]
+        ],
+        "fallbackImage": "q081_table_01.png",
+        "altText": "Tabela oficial do hemograma da questão 81."
+      },
+      {
+        "kind": "image",
+        "title": "Tomografia de abdome superior",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q081_tc_abdome.jpeg",
+        "altText": "Tomografia oficial de abdome superior apresentada na questão 81."
+      }
+    ],
+    "Q082": [
+      {
+        "kind": "table",
+        "title": "Exames laboratoriais",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "Hemoglobina",
+            "6,9 g/dL",
+            "12,0 a 15,1 g/dL"
+          ],
+          [
+            "Volume corpuscular médio",
+            "67 fL",
+            "80 a 100 fL"
+          ],
+          [
+            "Ferritina",
+            "5 ng/mL",
+            "20 a 200 ng/mL"
+          ]
+        ],
+        "fallbackImage": "q082_table_01.png",
+        "altText": "Tabela oficial de exames da questão 82."
+      }
+    ],
+    "Q089": [
+      {
+        "kind": "image",
+        "title": "Lesão vulvar",
+        "caption": "Imagem oficial apresentada no caderno do INEP.",
+        "file": "q089_lesao_vulvar.jpeg",
+        "altText": "Imagem clínica oficial da lesão vulvar apresentada na questão 89."
+      }
+    ],
+    "Q096": [
+      {
+        "kind": "table",
+        "title": "Função tireoidiana",
+        "caption": "Dados apresentados no enunciado oficial.",
+        "columns": [
+          "Exame",
+          "Resultado",
+          "Valor de referência"
+        ],
+        "rows": [
+          [
+            "TSH",
+            "0,01 mUI/L",
+            "0,60 a 4,48 mUI/L"
+          ],
+          [
+            "T4 livre",
+            "4,2 ng/dL",
+            "0,92 a 1,68 ng/dL"
+          ]
+        ],
+        "fallbackImage": "q096_table_01.png",
+        "altText": "Tabela oficial de função tireoidiana da questão 96."
+      }
+    ]
+  },
+  "stemOverrides": {
+    "Q022": "Homem de 49 anos, com diabetes mellitus tipo 2, em uso irregular de metformina e dapagliflozina, procura uma Unidade de Pronto Atendimento com queixa de poliúria, polidipsia, fadiga e visão turva há 3 dias. Ao exame físico, apresenta-se hemodinamicamente estável, discretamente desidratado, sem sinais de infecção, sem dor abdominal e sem náuseas ou vômitos. Glicemia capilar: 420 mg/dL. Glicemia plasmática confirmatória: 460 mg/dL. Foram realizados exames para avaliação do quadro clínico do paciente, cujos resultados são apresentados na tabela.\n\nQual é o provável diagnóstico desse paciente?",
+    "Q023": "Menino de 2 anos e 3 meses é levado pela mãe a uma Unidade Básica de Saúde para consulta de rotina. Ela refere palidez progressiva e redução do apetite nos últimos dois meses. O exame físico mostra palidez cutaneomucosa, sem outros achados relevantes. O hemograma é apresentado na tabela.\n\nA conduta para essa criança é prescrever",
+    "Q027": "Em uma Unidade Básica de Saúde, foi avaliado o desempenho de um teste rápido de triagem para diabetes mellitus tipo 2 em homens e mulheres assintomáticos, de 40 a 69 anos. A incidência estimada de diabetes nessa população era de 10%. O teste rápido foi comparado ao padrão de referência (glicemia de jejum ≥ 126 mg/dL), com resultados apresentados na tabela.\n\nCom base na tabela, quais são, respectivamente, o valor e a interpretação clínica para a razão de verossimilhança positiva do teste rápido avaliado?",
+    "Q032": "Mulher de 21 anos, G1P0, com 27 semanas e 1 dia de gestação, procura Unidade Básica de Saúde para mostrar o resultado do teste oral de tolerância à glicose 75 g, apresentado na tabela.\n\nAlém de orientação de dieta pobre em carboidrato e atividade física regular, qual medida imediata deve ser adotada no seguimento do tratamento dessa paciente?",
+    "Q034": "A Coordenação de IST/AIDS de um município brasileiro analisou a série histórica de indicadores epidemiológicos relativos à infecção pelo HIV no período de 2019 a 2023. Houve ampla expansão da oferta de diagnóstico e implementação de novos protocolos, com medicamentos de maior eficácia e menor toxicidade. A população permaneceu estável em aproximadamente 100 mil habitantes. Os dados consolidados são apresentados na tabela.\n\nConsiderando-se a relação entre as medidas de frequência e a dinâmica demográfica, a elevação da prevalência da infecção no período analisado é consequência",
+    "Q037": "Escolar de 5 anos, pesando 20 kg, apresenta queimaduras de 2º e 3º graus que atingem os membros inferiores (ambos integralmente), o tórax e o abdome anteriores. O diagrama de Lund-Browder e a tabela de referência para áreas variáveis são apresentados a seguir.\n\nNo caso apresentado, qual a forma correta de administração de Ringer lactato?",
+    "Q059": "Menino de 8 anos é levado a um ambulatório de pediatria com queixa de febre persistente há 3 semanas, associada a palidez progressiva, emagrecimento e aparecimento de petéquias nos membros inferiores. A mãe relata dores em membros inferiores e astenia. Ao exame: palidez cutâneo-mucosa, petéquias difusas e hepatoesplenomegalia. O hemograma é apresentado na tabela.\n\nNesse caso, a principal hipótese diagnóstica é",
+    "Q081": "Homem de 62 anos, diabético, foi submetido a colecistectomia seguida de colangiopancreatografia retrógrada endoscópica com retirada de cálculo em colédoco há 3 semanas. Após alta, retorna à emergência com febre, prostração e dor em hipocôndrio direito. Ao exame, está febril e com dor à palpação em hipocôndrio direito. O hemograma é apresentado na tabela. É indicada internação e antibioticoterapia venosa. A tomografia de abdome superior é apresentada na figura.\n\nConsiderando-se a principal hipótese diagnóstica e a evolução clínica descrita, qual é o manejo para esse paciente?",
+    "Q082": "Gestante de 34 anos, na 24ª semana, é acompanhada em pré-natal de alto risco por anemia crônica e cirurgia bariátrica com bypass gástrico em Y de Roux há 5 anos. Queixa-se de astenia, sem instabilidade hemodinâmica, e usa 200 mg/dia de ferro elementar. Os exames laboratoriais são apresentados na tabela.\n\nQual é a conduta terapêutica para essa gestante?",
+    "Q096": "Mulher de 38 anos é atendida em Unidade Básica de Saúde para investigação de emagrecimento não intencional e palpitações. Ao exame: PA 160 x 80 mmHg, FC 132 bpm em repouso, exoftalmia, pele quente e úmida e alopecia generalizada. Os exames laboratoriais são apresentados na tabela.\n\nQual esquema terapêutico deve ser instituído nesse caso?"
+  }
+}
