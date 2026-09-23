@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "scope": "Provas objetivas oficiais publicadas pelo INEP até 2026/1",
+  "scope": "Provas objetivas oficiais publicadas pelo INEP até 2026/2",
   "publicationRule": "Uma edição só entra no pack quando questions, answer_key, metadata e explanations estiverem completos e validados.",
   "editions": [
     {
@@ -254,6 +254,20 @@
       ],
       "source": "INEP",
       "yearPage": "https://www.gov.br/inep/pt-br/areas-de-atuacao/avaliacao-e-exames-educacionais/revalida/provas-e-gabaritos/2026"
+    },
+    {
+      "edition": "2026/2",
+      "examId": "revalida-2026-2",
+      "folder": "2026-2",
+      "status": "ready",
+      "requiredFiles": [
+        "questions.txt",
+        "answer_key.txt",
+        "metadata.json",
+        "explanations.json"
+      ],
+      "source": "INEP",
+      "yearPage": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/legislacao/revalida/2026"
     }
   ]
 }
