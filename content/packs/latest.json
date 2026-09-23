@@ -1,6 +1,6 @@
 {
-  "version": 20,
-  "generatedAt": "2026-09-22T23:07:54.601654+00:00",
+  "version": 21,
+  "generatedAt": "2026-09-23T00:21:32.411182+00:00",
   "exams": [
     {
       "id": "revalida-2026-1",
@@ -27,8 +27,8 @@
       "discursiveQuestions": 0,
       "durationMinutes": 300,
       "officialCutoff": null,
-      "examDate": "2026-09-13",
-      "sourceURL": "https://www.gov.br/inep/pt-br/centrais-de-conteudo/legislacao/revalida/2026"
+      "examDate": null,
+      "sourceURL": null
     },
     {
       "id": "revalida-2025-1",
@@ -46685,7 +46685,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Administrar furosemida.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Delirium em idoso com possível infecção e sinais de gravidade exige avaliação de maior complexidade.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -46733,7 +46733,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Pneumonia bacteriana.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Epiglotite: sialorreia + tripé + toxicidade + estridor; evitar manipulação desnecessária da via aérea.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -46781,7 +46781,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Elevar os membros inferiores.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Trauma em gestante imobilizada: deslocar manualmente o útero para a esquerda para aliviar compressão aortocava.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -46829,7 +46829,7 @@
         "D": "D — Correta conforme o gabarito preliminar: Dismenorreia progressiva, sintomas intestinais cíclicos e nódulos dolorosos em fórnice posterior sugerem endometriose profunda; a ultrassonografia transvaginal dirigida é exame inicial de referência."
       },
       "keyPoint": "Endometriose profunda: ultrassonografia transvaginal especializada é exame inicial de escolha.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -46877,7 +46877,7 @@
         "D": "D — Correta conforme o gabarito preliminar: No sétimo dia de doença, a detecção de IgM por ELISA é a estratégia sorológica apropriada para confirmação de dengue, enquanto NS1 tem maior rendimento nos primeiros dias."
       },
       "keyPoint": "Dengue: após cerca do 5º dia, a sorologia IgM ganha utilidade diagnóstica.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -46925,7 +46925,7 @@
         "D": "D — Correta conforme o gabarito preliminar: Na onda de calor, a APS deve priorizar prevenção: hidratação, adaptação do domicílio, educação sobre sinais de alerta e vigilância ativa dos grupos vulneráveis."
       },
       "keyPoint": "Eventos de calor extremo exigem prevenção e busca ativa dos vulneráveis no território.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -46973,7 +46973,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘explicar-lhe que a distimia faz parte da adolescência, orientá-lo a aguardar e sugerir que busque o serviço de emergência em caso de piora.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Na ausência de risco suicida iminente, a APS pode coordenar cuidado longitudinal e multiprofissional.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -47021,7 +47021,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Repetir eletrocardiograma em 2 horas.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "SCA sem supra: troponina inicial normal não exclui infarto; repetir conforme algoritmo de alta sensibilidade.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -47069,7 +47069,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘terbutalina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Asma grave sem resposta inicial: considerar sulfato de magnésio como terapia adjuvante.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -47117,7 +47117,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Solicitar ultrassonografia de partes moles.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Infecção superficial de ferida cirúrgica costuma exigir abertura e drenagem local, não retirada imediata de tela.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -47165,7 +47165,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Iniciar a indução do trabalho de parto.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "DPP com sofrimento fetal é emergência obstétrica: interromper a gestação sem atrasos diagnósticos.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -47213,7 +47213,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Em unidade hospitalar, com médico pneumologista.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Tuberculose: acolhimento e continuidade do cuidado devem prevalecer sobre barreiras administrativas.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -47261,7 +47261,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Encaminhar para acompanhamento ambulatorial especializado.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Melhoria de qualidade começa pelo diagnóstico do processo e dos gargalos assistenciais.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -47309,7 +47309,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Transtorno de compulsão alimentar.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Bulimia nervosa pode ocorrer com peso normal e compensação por jejum ou exercício.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -47357,7 +47357,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Reação em cadeia da polimerase.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Chagas crônica: diagnóstico etiológico é sorológico; parasitemia direta tem menor sensibilidade.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -47405,7 +47405,7 @@
         "D": "D — Correta conforme o gabarito preliminar: Febre alta por alguns dias seguida de defervescência e aparecimento súbito de exantema rosado é padrão clássico de exantema súbito por herpes-vírus humano 6."
       },
       "keyPoint": "Exantema súbito: febre cede e então surge o rash, típico de HHV-6.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -47453,7 +47453,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Tratar clinicamente com antibióticos e analgésicos.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Colecistite aguda calculosa: colecistectomia precoce é o tratamento definitivo.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -47501,7 +47501,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Indicar aspiração intrauterina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Gestação ectópica estável com hCG em queda pode permitir manejo expectante selecionado.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -47549,7 +47549,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Recomendar a exclusão de alimentos processados, como queijos e pães artesanais, e conservar vegetais da dieta regular.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Promoção alimentar no SUS: comida de verdade, cultura local e habilidades culinárias.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -47597,7 +47597,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Registrar no Sistema de Informação de Agravos de Notificação e acionar a Vigilância Sanitária.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Agravo relacionado ao trabalho: notificar no SINAN e acionar a vigilância do trabalhador.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -47645,7 +47645,7 @@
         "D": "D — Correta conforme o gabarito preliminar: Expansividade, aceleração do pensamento e fala aumentada correspondem a humor hipertímico, taquipsiquismo e taquilalia."
       },
       "keyPoint": "Mania: humor hipertímico + aceleração do pensamento + fala aumentada.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -47693,7 +47693,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Acidose metabólica induzida por medicação.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Hiperglicemia isolada não é CAD/EHH sem acidose, cetose ou hiperosmolaridade significativa.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "ready",
       "media": [
@@ -47794,7 +47794,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘ferro endovenoso e suplementar com vitamina B12.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Anemia ferropriva estabelecida exige dose terapêutica de ferro, não apenas profilaxia.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "ready",
       "media": [
@@ -47875,7 +47875,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘iniciar nutrição parenteral total e antibioticoterapia de amplo espectro.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Íleo pós-operatório precoce costuma ser manejado conservadoramente.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -47923,7 +47923,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Miconazol, metronidazol e azitromicina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "DIP ambulatorial: ceftriaxona + doxiciclina + metronidazol.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -47971,7 +47971,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘de uso diário consecutivo e agendar retorno trimestral para teste rápido.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "PrEP em mulher cis: esquema diário, após exclusão de HIV e avaliação clínica/laboratorial.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -48019,7 +48019,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘9,00 — confirma o diagnóstico definitivo do diabetes, independentemente da probabilidade do teste.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "RV+ = sensibilidade/(1-especificidade); quanto maior, mais o teste positivo aumenta a probabilidade.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "ready",
       "media": [
@@ -48104,7 +48104,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Antissocial.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Borderline: instabilidade interpessoal, medo de abandono, impulsividade e autolesão.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -48152,7 +48152,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Implantar marca-passo temporário.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Arritmia estável: a estratégia depende de risco tromboembólico e duração; anticoagulação pode ser prioridade.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "ready",
       "media": [
@@ -48210,7 +48210,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Presença de PA e FC dentro da normalidade para a idade.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Sopro inocente tende a ser sistólico, suave, sem irradiação e variável com posição.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -48258,7 +48258,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Sepse por infecção da ferida.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "LAST: sintomas neurológicos precoces podem preceder convulsões e colapso cardiovascular.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -48306,7 +48306,7 @@
         "D": "D — Correta conforme o gabarito preliminar: Um valor alterado no TOTG de 75 g confirma diabetes gestacional; após medidas não farmacológicas, o acompanhamento imediato inclui monitorização da glicemia capilar."
       },
       "keyPoint": "DM gestacional diagnosticado no TOTG requer automonitorização para guiar o tratamento.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "ready",
       "media": [
@@ -48387,7 +48387,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Solicitar dosagem de LDL-c e, se alterado, ampliar para perfil lipídico completo e prescrever estatina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Crianças com fatores de risco podem necessitar rastreamento lipídico seletivo antes da faixa universal.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -48435,7 +48435,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘da variação de exposição de risco da infecção, o que gera diagnósticos superiores à capacidade de resolução do sistema.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Prevalência aumenta quando a duração da doença cresce, mesmo com incidência estável.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "ready",
       "media": [
@@ -48532,7 +48532,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Indicar acompanhamento psicológico regular e encaminhar a um centro de atenção psicossocial.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Pós-desastre: apoio, escuta e seguimento antes de patologizar reações agudas esperadas.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -48580,7 +48580,7 @@
         "D": "D — Correta conforme o gabarito preliminar: Dor intensa 9/10 em crise falciforme exige analgesia opioide potente e rápida; morfina intravenosa é apropriada nesse cenário."
       },
       "keyPoint": "Crise vaso-oclusiva com dor intensa deve receber analgesia opioide efetiva sem atraso.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -48628,7 +48628,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘1.000 mL, administrado em 15 a 20 minutos.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Queimaduras extensas em crianças exigem cálculo pela superfície corporal e reposição volêmica protocolada.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "ready",
       "media": [
@@ -48714,7 +48714,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Videotoracoscopia.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Hemotórax traumático: drenagem torácica é a primeira intervenção na maioria dos casos.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -48762,7 +48762,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Tranquilizar a paciente e iniciar terapia antirretroviral.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Comunicação de resultado reagente deve começar por acolhimento, informação clara e respeito à autonomia.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -48810,7 +48810,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘diazepam via oral.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "SCA pode ser atípica em idosos e diabéticos; AAS precoce reduz eventos quando indicado.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -48858,7 +48858,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Dopamina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Anafilaxia refratária em uso de beta-bloqueador: glucagon é terapia de resgate clássica.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -48906,7 +48906,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘fisioterapia respiratória e dexametasona intramuscular.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Bronquiolite: tratamento é predominantemente de suporte; gravidade define necessidade de oxigênio/ventilação e hidratação.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -48954,7 +48954,7 @@
         "D": "D — Correta conforme o gabarito preliminar: Anestesia em sela e incontinência urinária em paciente com hérnia discal são sinais de cauda equina e exigem encaminhamento emergencial para avaliação descompressiva cirúrgica."
       },
       "keyPoint": "Cauda equina é emergência: déficit esfincteriano e anestesia em sela não podem aguardar consulta eletiva.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -49002,7 +49002,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘soroconversão recente.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Toxoplasmose: IgG positivo/IgM negativo sugere contato prévio e imunidade.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -49050,7 +49050,7 @@
         "D": "D — Correta conforme o gabarito preliminar: A abordagem deve acolher a preocupação e explicar com evidências que não há associação causal entre vacina tríplice viral e autismo, sem reforçar falsa equivalência de risco."
       },
       "keyPoint": "Hesitação vacinal: escuta respeitosa + informação baseada em evidências melhora confiança.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -49098,7 +49098,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Realizar endoscopia digestiva alta.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Dor torácica em paciente de risco: primeiro exclua SCA antes de atribuir a causa gastrointestinal.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -49146,7 +49146,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘seletividade alimentar típica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "ARFID envolve restrição por medo/sensibilidade/baixo interesse, sem distorção de imagem corporal.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -49194,7 +49194,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Alinhar com tala moldável.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Fratura exposta no pré-hospitalar: cobrir e imobilizar; não realizar redução agressiva no cenário.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -49242,7 +49242,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Encaminhar a paciente para a realização do procedimento em questão.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Esterilização deve ser decisão informada, livre e precedida de aconselhamento contraceptivo.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -49290,7 +49290,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘se a pesquisa de sangue oculto tiver resultado positivo.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "História familiar de CCR precoce antecipa colonoscopia para 10 anos antes do caso índice.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -49338,7 +49338,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Antidepressivo tricíclico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Organofosforados causam síndrome colinérgica muscarínica e nicotínica; atropina trata efeitos muscarínicos.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -49386,7 +49386,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘herpes.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Impetigo: crostas amareladas/melicéricas e lesões superficiais em face são achados clássicos.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "ready",
       "media": [
@@ -49444,7 +49444,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Intestinal.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Atresia esofágica: sonda não progride e há sialorreia logo após o nascimento.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "ready",
       "media": [
@@ -49502,7 +49502,7 @@
         "D": "D — Correta conforme o gabarito preliminar: Gestante assintomática com colo curto ao ultrassom no segundo trimestre tem indicação de progesterona vaginal até cerca de 36 semanas, conforme cenário de risco."
       },
       "keyPoint": "Colo curto no segundo trimestre é indicação clássica de progesterona para reduzir prematuridade.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -49550,7 +49550,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Tramadol e paracetamol.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Neuropatia diabética dolorosa responde a fármacos para dor neuropática, não a analgésicos simples isolados.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -49598,7 +49598,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Série temporal.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Caso-controle parte do desfecho e busca exposições passadas.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -49646,7 +49646,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Explicar, de maneira objetiva, o que são transtornos mentais e o que é transtorno depressivo maior, para evitar interpretações místicas e ritualísticas do adoecimento.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Cuidado intercultural respeita crenças sem validar explicações potencialmente prejudiciais e mantém prevenção do suicídio.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -49694,7 +49694,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Iniciar diurético poupador de potássio.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Ascite nova ou com febre/deterioração em cirrose: paracentese diagnóstica é prioridade.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -49742,7 +49742,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘calazar.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "LLA em criança pode apresentar pancitopenia, dor óssea, visceromegalias e blastos.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "ready",
       "media": [
@@ -49838,7 +49838,7 @@
         "D": "D — Correta conforme o gabarito preliminar: A via aérea pediátrica tem epiglote relativamente mais longa/alta e anteriorizada, característica que modifica a técnica de laringoscopia e intubação."
       },
       "keyPoint": "Via aérea infantil é mais anterior e possui epiglote proporcionalmente mais proeminente.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -49886,7 +49886,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Indicar vacina contra o HPV.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "No rastreamento primário por HPV, a citologia reflexa estratifica positivos não 16/18.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -49934,7 +49934,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘de pelo menos quatro consultas médicas de pré-natal.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Qualidade do pré-natal inclui rastreio infeccioso precoce e oportuno.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -49982,7 +49982,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Redução na detecção da HA e aumento na frequência de falsos positivos.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Ponto de corte menor tende a aumentar sensibilidade e reduzir especificidade.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -50030,7 +50030,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Equipe de consultório na rua; núcleos de apoio à saúde da família; e serviço de atenção domiciliar.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "RAPS é uma rede territorial; cuidado não se restringe ao CAPS.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -50078,7 +50078,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Ivermectina oral.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Tinea corporis localizada: antifúngico tópico é tratamento de primeira linha.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -50126,7 +50126,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘internar a paciente e realizar eletroencefalograma.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Convulsão febril simples não exige TC, EEG ou punção lombar de rotina em criança bem avaliada.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -50174,7 +50174,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Tomografia de abdome e pelve.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Trauma pélvico instável com choque exige controle rápido da hemorragia e estabilização do anel pélvico.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "ready",
       "media": [
@@ -50232,7 +50232,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Romosozumabe.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Bisfosfonatos são primeira linha frequente na osteoporose pós-menopausa de alto risco.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -50280,7 +50280,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘indicar o acolhimento em casa abrigo como intervenção protetiva, ofertar sorologias para rastreio de IST e notificar caso à rede de atenção psicossocial do município.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Violência contra a mulher: avaliar risco, fortalecer rede e notificar; denúncia policial não é automaticamente compulsória em todo caso.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -50328,7 +50328,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Substituir a insulina por hipoglicemiante oral.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Coordenação do cuidado usa recursos familiares e comunitários para sustentar autonomia com segurança.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -50376,7 +50376,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Prescrição de psicofármaco, uma vez que há medicamentos padronizados para o tratamento.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Redução de danos é estratégia legítima e centrada na pessoa para uso problemático de drogas.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -50424,7 +50424,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Rinofaringite.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Mononucleose por EBV: faringite exsudativa + linfonodomegalia cervical posterior são pistas fortes.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -50472,7 +50472,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘aplicar todas as vacinas indicadas para a faixa etária.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Imunossupressão por corticoide contraindica temporariamente vacinas vivas, não todas as vacinas.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -50520,7 +50520,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Biópsia transretal de próstata.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "PSA livre/total auxilia na estratificação de PSA total intermediário.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -50568,7 +50568,7 @@
         "D": "D — Correta conforme o gabarito preliminar: Lesão ovariana na fase periovulatória com parede espessada regular e vascularização periférica é compatível com cisto de corpo lúteo."
       },
       "keyPoint": "Corpo lúteo costuma mostrar parede espessada e vascularização periférica ao Doppler.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "ready",
       "media": [
@@ -50626,7 +50626,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘instituir atomoxetina e orientar sobre eventos adversos.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Antes de estimulante, história e exame cardiovascular guiam necessidade de exames adicionais.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -50674,7 +50674,7 @@
         "D": "D — Correta conforme o gabarito preliminar: Mapear morbimortalidade e vulnerabilidades e apontar medidas preventivas corresponde à etapa de redução de risco antes/de modo transversal ao desastre."
       },
       "keyPoint": "Gestão de desastres inclui redução de risco baseada em mapeamento de vulnerabilidades e agravos.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -50722,7 +50722,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘creatinina.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "ISRS podem induzir SIADH, especialmente em idosos; sintomas neurológicos pedem avaliação de sódio.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -50770,7 +50770,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Após 3 e 6 meses do início do tratamento.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Tratamento de TB exige acompanhamento regular, em geral mensal, para adesão, eventos adversos e resposta.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -50818,7 +50818,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Prescrever profilaxia medicamentosa com antivirais para todas as crianças.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Hepatite A em território vulnerável exige ação sobre água, saneamento e vacinação.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -50866,7 +50866,7 @@
         "D": "D — Correta conforme o gabarito preliminar: Febre, leucocitose e imagem compatível com coleção hepática após intervenção biliar sugerem abscesso; em coleção drenável, o manejo indicado é drenagem percutânea guiada por imagem associada a antibiótico."
       },
       "keyPoint": "Abscesso hepático significativo costuma exigir antibiótico + drenagem percutânea quando acessível.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "ready",
       "media": [
@@ -50966,7 +50966,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Transfundir concentrado de hemácias.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Pós-bypass com falha de ferro oral: ferro intravenoso é estratégia preferencial na gestação estável.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "ready",
       "media": [
@@ -51047,7 +51047,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Comunicar que seu uso e sua prescrição no SUS devem ocorrer mediante autorização judicial.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Prescrição deve seguir evidência, regulamentação e políticas de incorporação; fibromialgia não tem indicação rotineira consolidada de Cannabis no SUS.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -51095,7 +51095,7 @@
         "D": "D — Correta conforme o gabarito preliminar: Adolescente capaz, em relação consentida e sem situação de violência, pode receber orientação e método contraceptivo preservando confidencialidade, sem necessidade automática de autorização parental."
       },
       "keyPoint": "Saúde sexual do adolescente combina autonomia progressiva, sigilo e proteção contra situações de risco.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -51143,7 +51143,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Resgatar vínculo familiar e promover institucionalização.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Casos complexos de saúde mental pedem cuidado territorial em rede e intersetorial.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -51191,7 +51191,7 @@
         "D": "D — Correta conforme o gabarito preliminar: Fibrose periportal, hipertensão portal e esplenomegalia em área endêmica sugerem esquistossomose hepatoesplênica; a confirmação etiológica pode ser feita por exame parasitológico para ovos de Schistosoma."
       },
       "keyPoint": "Esquistossomose hepatoesplênica: fibrose periportal e hipertensão portal são achados típicos.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -51239,7 +51239,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Manter sigilo sobre os comportamentos autolesivos e revelar aos pais a orientação sexual.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Sigilo do adolescente pode ser limitado quando há risco à integridade, mantendo confidenciais informações não necessárias à proteção.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -51287,7 +51287,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Rotura aórtica, choque hipovolêmico, PVHIV, criptococose encefálica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Declaração de óbito: ordenar causa imediata, intermediárias e causa básica em sequência causal plausível.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -51335,7 +51335,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Vulvoscopia com ácido acético.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Lesão vulvar crônica suspeita: diagnóstico é histológico por biópsia.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "ready",
       "media": [
@@ -51393,7 +51393,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Solicitar exames laboratoriais para diagnóstico etiológico.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "PAC sem critérios de gravidade pode ser manejada ambulatorialmente com seguimento próximo.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -51441,7 +51441,7 @@
         "D": "D — Correta conforme o gabarito preliminar: Agitação com movimentos repetitivos, preservação de responsividade e ausência de período pós-ictal em adolescente com TEA é mais compatível com crise de desregulação comportamental do que epilepsia."
       },
       "keyPoint": "No TEA, episódios de desregulação podem simular crise, mas mantêm responsividade e não têm pós-ictal típico.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -51489,7 +51489,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Sorologia para toxina em amostra de sangue.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Coqueluche: PCR de amostra nasofaríngea é exame confirmatório de escolha em muitos cenários iniciais.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -51537,7 +51537,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘omissão de socorro.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Negligência é deixar de adotar cuidado ou diligência que eram devidos.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -51585,7 +51585,7 @@
         "D": "D — Correta conforme o gabarito preliminar: Desenvolvimento sexual secundário feminino normal com amenorreia primária e genitália externa normal sugere investigar ausência/obstrução de estruturas müllerianas, como agenesia uterovaginal."
       },
       "keyPoint": "Amenorreia primária com caracteres sexuais secundários normais exige avaliar anatomia mülleriana.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -51633,7 +51633,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Encaminhar paciente para internação hospitalar de curta duração e envolver os familiares no plano de cuidado.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Uso nocivo de álcool na APS: intervenção breve, metas pactuadas e seguimento longitudinal.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -51681,7 +51681,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Iodo radioativo e procainamida.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Graves sintomático: tionamida + beta-bloqueador é combinação inicial clássica quando não contraindicada.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "ready",
       "media": [
@@ -51757,7 +51757,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Linfoma de Burkitt.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Neuroblastoma pode cruzar a linha média e causar equimoses periorbitárias por metástases.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -51805,7 +51805,7 @@
         "D": "D — Incorreta neste cenário. A alternativa ‘Prescrever gonadotrofina coriônica.’ não corresponde à resposta indicada pelo gabarito preliminar oficial."
       },
       "keyPoint": "Hérnia inguinal pediátrica não fecha espontaneamente; indicar correção eletiva se redutível.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -51853,7 +51853,7 @@
         "D": "D — Correta conforme o gabarito preliminar: Coombs indireto positivo indica sensibilização materna já existente; imunoglobulina anti-D não reverte aloimunização, e a gestante deve ser acompanhada em pré-natal de alto risco."
       },
       "keyPoint": "Rh negativa já sensibilizada: anti-D profilática não é terapêutica; encaminhar para vigilância especializada.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
@@ -51901,7 +51901,7 @@
         "D": "D — Correta conforme o gabarito preliminar: A idosa apresenta desidratação/doença relacionada ao calor; individualmente necessita reposição hídrica, resfriamento e monitorização, enquanto coletivamente a equipe deve fazer vigilância ativa de idosos vulneráveis e articular medidas intersetoriais."
       },
       "keyPoint": "Calor extremo exige manejo clínico imediato e estratégia territorial focada nos grupos vulneráveis.",
-      "status": "preliminary",
+      "status": "final",
       "officialSourceURL": null,
       "mediaStatus": "none",
       "media": []
